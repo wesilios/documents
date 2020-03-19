@@ -8122,7 +8122,960 @@
         "MA": "D10-D36",
         "MA_TRONG_CHUONG": "",
         "TEN": "U lành tính",
-        "TEN_EN": "Benign neoplasms"
+        "TEN_EN": "Benign neoplasms",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D10",
+            "TEN": "U lành của miệng và hầu",
+            "TEN_EN": "Benign neoplasm of mouth and pharynx",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D10.0",
+                "TEN": "U lành của môi",
+                "TEN_EN": "Benign neoplasm: Lip"
+              },
+              {
+                "MA": "D10.1",
+                "TEN": "U lành của lưỡi",
+                "TEN_EN": "Benign neoplasm: Tongue"
+              },
+              {
+                "MA": "D10.2",
+                "TEN": "U lành của sàn miệng",
+                "TEN_EN": "Benign neoplasm: Floor of mouth"
+              },
+              {
+                "MA": "D10.3",
+                "TEN": "U lành của phần khác và không xác định của miệng",
+                "TEN_EN": "Benign neoplasm: Other and unspecified parts of mouth"
+              },
+              {
+                "MA": "D10.4",
+                "TEN": "U lành của amiđan",
+                "TEN_EN": "Benign neoplasm: Tonsil"
+              },
+              {
+                "MA": "D10.5",
+                "TEN": "U lành của phần khác của hầu - khẩu",
+                "TEN_EN": "Benign neoplasm: Other parts of oropharynx"
+              },
+              {
+                "MA": "D10.6",
+                "TEN": "U lành của hầu - mũi",
+                "TEN_EN": "Benign neoplasm: Nasopharynx"
+              },
+              {
+                "MA": "D10.7",
+                "TEN": "U lành của hạ hầu",
+                "TEN_EN": "Benign neoplasm: Hypopharynx"
+              },
+              {
+                "MA": "D10.9",
+                "TEN": "U lành của hầu, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Pharynx, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D11",
+            "TEN": "U lành của các tuyến nước bọt chính",
+            "TEN_EN": "Benign neoplasm of major salivary glands",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D11.0",
+                "TEN": "U lành của tuyến mang tai",
+                "TEN_EN": "Benign neoplasm: Parotid gland"
+              },
+              {
+                "MA": "D11.7",
+                "TEN": "U lành của tuyến nước bọt chính khác",
+                "TEN_EN": "Benign neoplasm: Other major salivary glands"
+              },
+              {
+                "MA": "D11.9",
+                "TEN": "U lành của tuyến nước bọt chính không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Major salivary gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D12",
+            "TEN": "U lành của đại tràng, trực tràng, hậu môn và ống hậu môn",
+            "TEN_EN": "Benign neoplasm of colon, rectum, anus and anal canal",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D12.0",
+                "TEN": "U lành của manh tràng",
+                "TEN_EN": "Benign neoplasm: Caecum"
+              },
+              {
+                "MA": "D12.1",
+                "TEN": "U lành của ruột thừa",
+                "TEN_EN": "Benign neoplasm: Appendix"
+              },
+              {
+                "MA": "D12.2",
+                "TEN": "U lành của đại tràng lên",
+                "TEN_EN": "Benign neoplasm: Ascending colon"
+              },
+              {
+                "MA": "D12.3",
+                "TEN": "U lành của đại tràng ngang",
+                "TEN_EN": "Benign neoplasm: Transverse colon"
+              },
+              {
+                "MA": "D12.4",
+                "TEN": "U lành của đại tràng xuống",
+                "TEN_EN": "Benign neoplasm: Descending colon"
+              },
+              {
+                "MA": "D12.5",
+                "TEN": "U lành của đại tràng sigma",
+                "TEN_EN": "Benign neoplasm: Sigmoid colon"
+              },
+              {
+                "MA": "D12.6",
+                "TEN": "U lành của Đại tràng không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Colon, unspecified"
+              },
+              {
+                "MA": "D12.7",
+                "TEN": "U lành của nơi nối trực tràng sigma - trực tràng",
+                "TEN_EN": "Benign neoplasm: Rectosigmoid junction"
+              },
+              {
+                "MA": "D12.8",
+                "TEN": "U lành của trực tràng",
+                "TEN_EN": "Benign neoplasm: Rectum"
+              },
+              {
+                "MA": "D12.9",
+                "TEN": "U lành của hậu môn và ống hậu môn",
+                "TEN_EN": "Benign neoplasm: Anus and anal canal"
+              }
+            ]
+          },
+          {
+            "MA": "D13",
+            "TEN": "U lành của phần khác và không rõ ràng của hệ tiêu hóa",
+            "TEN_EN": "Benign neoplasm of other and ill-defined parts of digestive system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D13.0",
+                "TEN": "U lành của thực quản",
+                "TEN_EN": "Benign neoplasm: Oesophagus"
+              },
+              {
+                "MA": "D13.1",
+                "TEN": "U lành của dạ dày",
+                "TEN_EN": "Benign neoplasm: Stomach"
+              },
+              {
+                "MA": "D13.2",
+                "TEN": "U lành của tá tràng",
+                "TEN_EN": "Benign neoplasm: Duodenum"
+              },
+              {
+                "MA": "D13.3",
+                "TEN": "U lành của phần khác và không xác định của ruột non",
+                "TEN_EN": "Benign neoplasm: Other and unspecified parts of small intestine"
+              },
+              {
+                "MA": "D13.4",
+                "TEN": "U lành của gan",
+                "TEN_EN": "Benign neoplasm: Liver"
+              },
+              {
+                "MA": "D13.5",
+                "TEN": "U lành của đường mật ngoài gan",
+                "TEN_EN": "Benign neoplasm: Extrahepatic bile ducts"
+              },
+              {
+                "MA": "D13.6",
+                "TEN": "U lành của tụy",
+                "TEN_EN": "Benign neoplasm: Pancreas"
+              },
+              {
+                "MA": "D13.7",
+                "TEN": "U lành của tụy nội tiết",
+                "TEN_EN": "Benign neoplasm: Endocrine pancreas"
+              },
+              {
+                "MA": "D13.9",
+                "TEN": "U lành của vị trí không rõ ràng trong hệ tiêu hóa",
+                "TEN_EN": "Benign neoplasm: Ill-defined sites within the digestive system"
+              }
+            ]
+          },
+          {
+            "MA": "D14",
+            "TEN": "U lành tai giữa và hệ hô hấp",
+            "TEN_EN": "Benign neoplasm of middle ear and respiratory system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D14.0",
+                "TEN": "U lành của tai giữa, hốc mũi và các xoang phụ",
+                "TEN_EN": "Benign neoplasm: Middle ear, nasal cavity and accessory sinuses"
+              },
+              {
+                "MA": "D14.1",
+                "TEN": "U lành của thanh quản",
+                "TEN_EN": "Benign neoplasm: Larynx"
+              },
+              {
+                "MA": "D14.2",
+                "TEN": "U lành của khí quản",
+                "TEN_EN": "Benign neoplasm: Trachea"
+              },
+              {
+                "MA": "D14.3",
+                "TEN": "U lành của phế quản và phổi",
+                "TEN_EN": "Benign neoplasm: Bronchus and lung"
+              },
+              {
+                "MA": "D14.4",
+                "TEN": "U lành của hệ hô hấp, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Respiratory system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D15",
+            "TEN": "U lành của cơ quan khác và không xác định trong lồng ngực",
+            "TEN_EN": "Benign neoplasm of other and unspecified intrathoracic organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D15.0",
+                "TEN": "U lành của tuyến ức",
+                "TEN_EN": "Benign neoplasm: Thymus"
+              },
+              {
+                "MA": "D15.1",
+                "TEN": "U lành của tim",
+                "TEN_EN": "Benign neoplasm: Heart"
+              },
+              {
+                "MA": "D15.2",
+                "TEN": "U lành của trung thất",
+                "TEN_EN": "Benign neoplasm: Mediastinum"
+              },
+              {
+                "MA": "D15.7",
+                "TEN": "U lành của cơ quan trong lồng ngực xác định khác",
+                "TEN_EN": "Benign neoplasm: Other specified intrathoracic organs"
+              },
+              {
+                "MA": "D15.9",
+                "TEN": "U lành của cơ quan trong lồng ngực không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Intrathoracic organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D16",
+            "TEN": "U lành của xương và sụn khớp",
+            "TEN_EN": "Benign neoplasm of bone and articular cartilage",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D16.0",
+                "TEN": "U lành của xương bả vai và xương dài của chi trên",
+                "TEN_EN": "Benign neoplasm: Scapula and long bones of upper limb"
+              },
+              {
+                "MA": "D16.1",
+                "TEN": "U lành của xương ngắn của chi trên",
+                "TEN_EN": "Benign neoplasm: Short bones of upper limb"
+              },
+              {
+                "MA": "D16.2",
+                "TEN": "U lành của xương dài của chi dưới",
+                "TEN_EN": "Benign neoplasm: Long bones of lower limb"
+              },
+              {
+                "MA": "D16.3",
+                "TEN": "U lành của xương ngắn của chi dưới",
+                "TEN_EN": "Benign neoplasm: Short bones of lower limb"
+              },
+              {
+                "MA": "D16.4",
+                "TEN": "U lành của xương sọ và mặt",
+                "TEN_EN": "Benign neoplasm: Bones of skull and face"
+              },
+              {
+                "MA": "D16.5",
+                "TEN": "U lành của xương hàm dưới",
+                "TEN_EN": "Benign neoplasm: Lower jaw bone"
+              },
+              {
+                "MA": "D16.6",
+                "TEN": "Cột sống",
+                "TEN_EN": "Benign neoplasm: Vertebral column"
+              },
+              {
+                "MA": "D16.7",
+                "TEN": "U lành của xương sườn, xương ức và xương đòn",
+                "TEN_EN": "Benign neoplasm: Ribs, sternum and clavicle"
+              },
+              {
+                "MA": "D16.8",
+                "TEN": "U lành của xương chậu, xương thiêng và xương cụt",
+                "TEN_EN": "Benign neoplasm: Pelvic bones, sacrum and coccyx"
+              },
+              {
+                "MA": "D16.9",
+                "TEN": "U lành của xương và sụn khớp không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Bone and articular cartilage, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D17",
+            "TEN": "U mỡ",
+            "TEN_EN": "Benign lipomatous neoplasm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D17.0",
+                "TEN": "U mỡ lành tính của da và mô dưới da ở đầu, mặt và cổ",
+                "TEN_EN": "Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck"
+              },
+              {
+                "MA": "D17.1",
+                "TEN": "U mỡ lành tính của da và mô dưới da ở thân hình",
+                "TEN_EN": "Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk"
+              },
+              {
+                "MA": "D17.2",
+                "TEN": "U mỡ lành tính của da và mô dưới da ở các chi",
+                "TEN_EN": "Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs"
+              },
+              {
+                "MA": "D17.3",
+                "TEN": "U mỡ lành tính của da và mô dưới da ở vị trí khác và không đặc hiệu",
+                "TEN_EN": "Benign lipomatous neoplasm of skin and subcutaneous tissue of other and unspecified sites"
+              },
+              {
+                "MA": "D17.4",
+                "TEN": "U mỡ lành tính của cơ quan trong lồng ngực",
+                "TEN_EN": "Benign lipomatous neoplasm of intrathoracic organs"
+              },
+              {
+                "MA": "D17.5",
+                "TEN": "U mỡ lành tính của cơ quan trong ổ bụng",
+                "TEN_EN": "Benign lipomatous neoplasm of intra-abdominal organs"
+              },
+              {
+                "MA": "D17.6",
+                "TEN": "U mỡ lành tính của thừng tinh",
+                "TEN_EN": "Benign lipomatous neoplasm of spermatic cord"
+              },
+              {
+                "MA": "D17.7",
+                "TEN": "U mỡ lành tính của vị trí khác",
+                "TEN_EN": "Benign lipomatous neoplasm of other sites"
+              },
+              {
+                "MA": "D17.9",
+                "TEN": "U mỡ lành tính không đặc hiệu",
+                "TEN_EN": "Benign lipomatous neoplasm, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D18",
+            "TEN": "U mạch máu và u hạch bạch huyết, vị trí bất kỳ",
+            "TEN_EN": "Haemangioma and lymphangioma, any site",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D18.0",
+                "TEN": "U mạch máu, vị trí bất kỳ",
+                "TEN_EN": "Haemangioma, any site"
+              },
+              {
+                "MA": "D18.1",
+                "TEN": "U mạch bạch huyết, vị trí bất kỳ",
+                "TEN_EN": "Lymphangioma, any site"
+              }
+            ]
+          },
+          {
+            "MA": "D19",
+            "TEN": "U lành của trung mô",
+            "TEN_EN": "Benign neoplasm of mesothelial tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D19.0",
+                "TEN": "U lành trung mô của màng phổi",
+                "TEN_EN": "Benign neoplasm: Mesothelial tissue of pleura"
+              },
+              {
+                "MA": "D19.1",
+                "TEN": "U lành trung mô của phúc mạc",
+                "TEN_EN": "Benign neoplasm: Mesothelial tissue of peritoneum"
+              },
+              {
+                "MA": "D19.7",
+                "TEN": "U lành trung mô của các vị trí khác",
+                "TEN_EN": "Benign neoplasm: Mesothelial tissue of other sites"
+              },
+              {
+                "MA": "D19.9",
+                "TEN": "U lành trung mô không xác định",
+                "TEN_EN": "Benign neoplasm: Mesothelial tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D20",
+            "TEN": "U lành mô mềm sau phúc mạc và phúc mạc",
+            "TEN_EN": "Benign neoplasm of soft tissue of retroperitoneum and peritoneum",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D20.0",
+                "TEN": "U lành mô mềm sau phúc mạc",
+                "TEN_EN": "Benign neoplasm: Retroperitoneum"
+              },
+              {
+                "MA": "D20.1",
+                "TEN": "U lành mô mềm phúc mạc",
+                "TEN_EN": "Benign neoplasm: Peritoneum"
+              }
+            ]
+          },
+          {
+            "MA": "D21",
+            "TEN": "U lành khác của mô liên kết và mô mềm khác",
+            "TEN_EN": "Other benign neoplasms of connective and other soft tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D21.0",
+                "TEN": "U lành mô liên kết và mô mềm khác của đầu, mặt và cổ",
+                "TEN_EN": "Benign neoplasm: Connective and other soft tissue of head, face and neck"
+              },
+              {
+                "MA": "D21.1",
+                "TEN": "U lành mô liên kết và mô mềm khác của chi trên bao gồm vai",
+                "TEN_EN": "Benign neoplasm: Connective and other soft tissue of upper limb, including shoulder"
+              },
+              {
+                "MA": "D21.2",
+                "TEN": "U lành mô liên kết và mô mềm khác của chi dưới, bào gồm háng",
+                "TEN_EN": "Benign neoplasm: Connective and other soft tissue of lower limb, including hip"
+              },
+              {
+                "MA": "D21.3",
+                "TEN": "U lành mô liên kết và mô mềm khác của lồng ngực",
+                "TEN_EN": "Benign neoplasm: Connective and other soft tissue of thorax"
+              },
+              {
+                "MA": "D21.4",
+                "TEN": "U lành mô liên kết và mô mềm khác của bụng",
+                "TEN_EN": "Benign neoplasm: Connective and other soft tissue of abdomen"
+              },
+              {
+                "MA": "D21.5",
+                "TEN": "U lành mô liên kết và mô mềm khác của chậu",
+                "TEN_EN": "Benign neoplasm: Connective and other soft tissue of pelvis"
+              },
+              {
+                "MA": "D21.6",
+                "TEN": "U lành mô liên kết và mô mềm khác của thân mình, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Connective and other soft tissue of trunk, unspecified"
+              },
+              {
+                "MA": "D21.9",
+                "TEN": "U lành mô liên kết và mô mềm khác, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Connective and other soft tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D22",
+            "TEN": "Nốt ruồi",
+            "TEN_EN": "Melanocytic naevi",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D22.0",
+                "TEN": "Nốt ruồi của môi",
+                "TEN_EN": "Melanocytic naevi of lip"
+              },
+              {
+                "MA": "D22.1",
+                "TEN": "Nốt ruồi của khóe mắt bao gồm mí mắt",
+                "TEN_EN": "Melanocytic naevi of eyelid, including canthus"
+              },
+              {
+                "MA": "D22.2",
+                "TEN": "Nốt ruồi của tai và ống tai ngoài",
+                "TEN_EN": "Melanocytic naevi of ear and external auricular canal"
+              },
+              {
+                "MA": "D22.3",
+                "TEN": "Nốt ruồi của phần khác và phần không xác định của mặt",
+                "TEN_EN": "Melanocytic naevi of other and unspecified parts of face"
+              },
+              {
+                "MA": "D22.4",
+                "TEN": "Nốt ruồi của da đầu và cổ",
+                "TEN_EN": "Melanocytic naevi of scalp and neck"
+              },
+              {
+                "MA": "D22.5",
+                "TEN": "Nốt ruồi của thân mình",
+                "TEN_EN": "Melanocytic naevi of trunk"
+              },
+              {
+                "MA": "D22.6",
+                "TEN": "Nốt ruồi của chi trên bao gồm vai",
+                "TEN_EN": "Melanocytic naevi of upper limb, including shoulder"
+              },
+              {
+                "MA": "D22.7",
+                "TEN": "Nốt ruồi của chi dưới bao gồm háng",
+                "TEN_EN": "Melanocytic naevi of lower limb, including hip"
+              },
+              {
+                "MA": "D22.9",
+                "TEN": "Nốt ruồi không có gì đặc hiệu",
+                "TEN_EN": "Melanocytic naevi, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D23",
+            "TEN": "U lành khác của da",
+            "TEN_EN": "Other benign neoplasms of skin",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D23.0",
+                "TEN": "U lành da của môi",
+                "TEN_EN": "Benign neoplasm: Skin of lip"
+              },
+              {
+                "MA": "D23.1",
+                "TEN": "U lành da của mi mắt kể cả góc mắt",
+                "TEN_EN": "Benign neoplasm: Skin of eyelid, including canthus"
+              },
+              {
+                "MA": "D23.2",
+                "TEN": "U lành da tai và ống tai ngoài",
+                "TEN_EN": "Benign neoplasm: Skin of ear and external auricular canal"
+              },
+              {
+                "MA": "D23.3",
+                "TEN": "U lành da các phần khác và những phần không đặc trưng",
+                "TEN_EN": "Benign neoplasm: Skin of other and unspecified parts of face"
+              },
+              {
+                "MA": "D23.4",
+                "TEN": "U lành da đầu và cổ",
+                "TEN_EN": "Benign neoplasm: Skin of scalp and neck"
+              },
+              {
+                "MA": "D23.5",
+                "TEN": "U lành da thân mình",
+                "TEN_EN": "Benign neoplasm: Skin of trunk"
+              },
+              {
+                "MA": "D23.6",
+                "TEN": "U lành da chi trên, bao gồm vai",
+                "TEN_EN": "Benign neoplasm: Skin of upper limb, including shoulder"
+              },
+              {
+                "MA": "D23.7",
+                "TEN": "U lành da chi dưới bao gồm háng",
+                "TEN_EN": "Benign neoplasm: Skin of lower limb, including hip"
+              },
+              {
+                "MA": "D23.9",
+                "TEN": "U lành của da, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Skin, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D24",
+            "TEN": "U lành vú",
+            "TEN_EN": "Benign neoplasm of breast",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D25",
+            "TEN": "U cơ trơn tử cung",
+            "TEN_EN": "Leiomyoma of uterus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D25.0",
+                "TEN": "U cơ trơn dưới niêm mạc tử cung",
+                "TEN_EN": "Submucous leiomyoma of uterus"
+              },
+              {
+                "MA": "D25.1",
+                "TEN": "U cơ trơn trong vách tử cung",
+                "TEN_EN": "Intramural leiomyoma of uterus"
+              },
+              {
+                "MA": "D25.2",
+                "TEN": "U cơ trơn dưới thanh mạc tử cung",
+                "TEN_EN": "Subserosal leiomyoma of uterus"
+              },
+              {
+                "MA": "D25.9",
+                "TEN": "U cơ trơn tử cung, không đặc hiệu",
+                "TEN_EN": "Leiomyoma of uterus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D26",
+            "TEN": "U lành khác của tử cung",
+            "TEN_EN": "Other benign neoplasms of uterus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D26.0",
+                "TEN": "U lành cổ tử cung",
+                "TEN_EN": "Other benign neoplasm: Cervix uteri"
+              },
+              {
+                "MA": "D26.1",
+                "TEN": "U lành thân tử cung",
+                "TEN_EN": "Other benign neoplasm: Corpus uteri"
+              },
+              {
+                "MA": "D26.7",
+                "TEN": "U lành phần khác của tử cung",
+                "TEN_EN": "Other benign neoplasm: Other parts of uterus"
+              },
+              {
+                "MA": "D26.9",
+                "TEN": "U lành tử cung, không đặc hiệu",
+                "TEN_EN": "Other benign neoplasm: Uterus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D27",
+            "TEN": "U lành buồng trứng ",
+            "TEN_EN": "Benign neoplasm of ovary",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D28",
+            "TEN": "U lành của cơ quan sinh dục khác và không xác định",
+            "TEN_EN": "Benign neoplasm of other and unspecified female genital organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D28.0",
+                "TEN": "U lành âm hộ",
+                "TEN_EN": "Benign neoplasm: Vulva"
+              },
+              {
+                "MA": "D28.1",
+                "TEN": "U lành âm đạo",
+                "TEN_EN": "Benign neoplasm: Vagina"
+              },
+              {
+                "MA": "D28.2",
+                "TEN": "U lành vòi tử cung và dây chằng",
+                "TEN_EN": "Benign neoplasm: Uterine tubes and ligaments"
+              },
+              {
+                "MA": "D28.7",
+                "TEN": "U lành cơ quan sinh dục nữ xác định khác",
+                "TEN_EN": "Benign neoplasm: Other specified female genital organs"
+              },
+              {
+                "MA": "D28.9",
+                "TEN": "U lành cơ quan sinh dục nữ, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Female genital organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D29",
+            "TEN": "U lành của cơ quan sinh dục nam",
+            "TEN_EN": "Benign neoplasm of male genital organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D29.0",
+                "TEN": "U lành của Dương vật",
+                "TEN_EN": "Benign neoplasm: Penis"
+              },
+              {
+                "MA": "D29.1",
+                "TEN": "U lành của Tuyến tiền liệt",
+                "TEN_EN": "Benign neoplasm: Prostate"
+              },
+              {
+                "MA": "D29.2",
+                "TEN": "U lành của Tinh hoàn",
+                "TEN_EN": "Benign neoplasm: Testis"
+              },
+              {
+                "MA": "D29.3",
+                "TEN": "U lành của Mào tinh hoàn",
+                "TEN_EN": "Benign neoplasm: Epididymis"
+              },
+              {
+                "MA": "D29.4",
+                "TEN": "Bìu",
+                "TEN_EN": "Benign neoplasm: Scrotum"
+              },
+              {
+                "MA": "D29.7",
+                "TEN": "Cơ quan sinh dục nam khác",
+                "TEN_EN": "Benign neoplasm: Other male genital organs"
+              },
+              {
+                "MA": "D29.9",
+                "TEN": "Cơ quan sinh dục nam, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Male genital organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D30",
+            "TEN": "U lành của cơ quan tiết niệu",
+            "TEN_EN": "Benign neoplasm of urinary organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D30.0",
+                "TEN": "U lành của Thận",
+                "TEN_EN": "Benign neoplasm: Kidney"
+              },
+              {
+                "MA": "D30.1",
+                "TEN": "U lành của Bồn thận",
+                "TEN_EN": "Benign neoplasm: Renal pelvis"
+              },
+              {
+                "MA": "D30.2",
+                "TEN": "U lành của Niệu quản",
+                "TEN_EN": "Benign neoplasm: Ureter"
+              },
+              {
+                "MA": "D30.3",
+                "TEN": "U lành của Bàng quang",
+                "TEN_EN": "Benign neoplasm: Bladder"
+              },
+              {
+                "MA": "D30.4",
+                "TEN": "U lành của Niệu đạo",
+                "TEN_EN": "Benign neoplasm: Urethra"
+              },
+              {
+                "MA": "D30.7",
+                "TEN": "Cơ quan tiết niệu khác",
+                "TEN_EN": "Benign neoplasm: Other urinary organs"
+              },
+              {
+                "MA": "D30.9",
+                "TEN": "Cơ quan tiết niệu không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Urinary organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D31",
+            "TEN": "U lành của mắt và phần phụ",
+            "TEN_EN": "Benign neoplasm of eye and adnexa",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D31.0",
+                "TEN": "U lành kết mạc",
+                "TEN_EN": "Benign neoplasm: Conjunctiva"
+              },
+              {
+                "MA": "D31.1",
+                "TEN": "U lành giác mạc",
+                "TEN_EN": "Benign neoplasm: Cornea"
+              },
+              {
+                "MA": "D31.2",
+                "TEN": "U lành võng mạc",
+                "TEN_EN": "Benign neoplasm: Retina"
+              },
+              {
+                "MA": "D31.3",
+                "TEN": "U lành màng mạch mắt",
+                "TEN_EN": "Benign neoplasm: Choroid"
+              },
+              {
+                "MA": "D31.4",
+                "TEN": "U lành thể mi",
+                "TEN_EN": "Benign neoplasm: Ciliary body"
+              },
+              {
+                "MA": "D31.5",
+                "TEN": "U lành tuyến và ống lệ",
+                "TEN_EN": "Benign neoplasm: Lacrimal gland and duct"
+              },
+              {
+                "MA": "D31.6",
+                "TEN": "U lành hốc mắt không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Orbit, unspecified"
+              },
+              {
+                "MA": "D31.9",
+                "TEN": "U lành của mắt, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Eye, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D32",
+            "TEN": "U lành của màng não",
+            "TEN_EN": "Benign neoplasm of meninges",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D32.0",
+                "TEN": "U lành màng não",
+                "TEN_EN": "Benign neoplasm: Cerebral meninges"
+              },
+              {
+                "MA": "D32.1",
+                "TEN": "U lành màng não tủy sống",
+                "TEN_EN": "Benign neoplasm: Spinal meninges"
+              },
+              {
+                "MA": "D32.9",
+                "TEN": "U lành màng não, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Meninges, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D33",
+            "TEN": "U lành của não và các phần khác của hệ thần kinh trung ương",
+            "TEN_EN": "Benign neoplasm of brain and other parts of central nervous system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D33.0",
+                "TEN": "U lành của não trên lều",
+                "TEN_EN": "Benign neoplasm: Brain, supratentorial"
+              },
+              {
+                "MA": "D33.1",
+                "TEN": "U lành của não, lều dưới",
+                "TEN_EN": "Benign neoplasm: Brain, infratentorial"
+              },
+              {
+                "MA": "D33.2",
+                "TEN": "U lành của não, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Brain, unspecified"
+              },
+              {
+                "MA": "D33.3",
+                "TEN": "U lành thần kinh sọ não",
+                "TEN_EN": "Benign neoplasm: Cranial nerves"
+              },
+              {
+                "MA": "D33.4",
+                "TEN": "U lành của tủy sống",
+                "TEN_EN": "Benign neoplasm: Spinal cord"
+              },
+              {
+                "MA": "D33.7",
+                "TEN": "U lành của phần xác định khác của hệ thần kinh trung ương",
+                "TEN_EN": "Benign neoplasm: Other specified parts of central nervous system"
+              },
+              {
+                "MA": "D33.9",
+                "TEN": "U lành của hệ thần kinh trung ương, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Central nervous system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D34",
+            "TEN": "U lành của tuyến giáp",
+            "TEN_EN": "Benign neoplasm of thyroid gland",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D35",
+            "TEN": "U lành của tuyến nội tiết và không xác định",
+            "TEN_EN": "Benign neoplasm of other and unspecified endocrine glands",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D35.0",
+                "TEN": "U lành tuyến thượng thận",
+                "TEN_EN": "Benign neoplasm: Adrenal gland"
+              },
+              {
+                "MA": "D35.1",
+                "TEN": "U lành tuyến cận giáp",
+                "TEN_EN": "Benign neoplasm: Parathyroid gland"
+              },
+              {
+                "MA": "D35.2",
+                "TEN": "U lành tuyến yên",
+                "TEN_EN": "Benign neoplasm: Pituitary gland"
+              },
+              {
+                "MA": "D35.3",
+                "TEN": "U lành ống sọ hầu",
+                "TEN_EN": "Benign neoplasm: Craniopharyngeal duct"
+              },
+              {
+                "MA": "D35.4",
+                "TEN": "U lành tuyến tùng",
+                "TEN_EN": "Benign neoplasm: Pineal gland"
+              },
+              {
+                "MA": "D35.5",
+                "TEN": "U lành thể cảnh",
+                "TEN_EN": "Benign neoplasm: Carotid body"
+              },
+              {
+                "MA": "D35.6",
+                "TEN": "U lành thể động mạch chủ và thể cận hạch khác",
+                "TEN_EN": "Benign neoplasm: Aortic body and other paraganglia"
+              },
+              {
+                "MA": "D35.7",
+                "TEN": "U lành tuyến nội tiết xác định khác",
+                "TEN_EN": "Benign neoplasm: Other specified endocrine glands"
+              },
+              {
+                "MA": "D35.8",
+                "TEN": "U lành liên quan nhiều tuyến nội tiết",
+                "TEN_EN": "Benign neoplasm: Pluriglandular involvement"
+              },
+              {
+                "MA": "D35.9",
+                "TEN": "U lành của tuyến nội tiết, không đặc hiệu",
+                "TEN_EN": "Benign neoplasm: Endocrine gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D36",
+            "TEN": "U lành có vị trí khác và không xác định",
+            "TEN_EN": "Benign neoplasm of other and unspecified sites",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D36.0",
+                "TEN": "U lành hạch lympho",
+                "TEN_EN": "Benign neoplasm: Lymph nodes"
+              },
+              {
+                "MA": "D36.1",
+                "TEN": "U lành thần kinh ngoại biên và hệ thần kinh tự động",
+                "TEN_EN": "Benign neoplasm: Peripheral nerves and autonomic nervous system"
+              },
+              {
+                "MA": "D36.7",
+                "TEN": "U lành vị trí xác định khác",
+                "TEN_EN": "Benign neoplasm: Other specified sites"
+              },
+              {
+                "MA": "D36.9",
+                "TEN": "U lành của vị trí không xác định",
+                "TEN_EN": "Benign neoplasm: Benign neoplasm of unspecified site"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "D37-D48",

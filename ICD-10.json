@@ -6766,10 +6766,1344 @@
                             "TEN": "U ác của rau thai (nhau thai)",
                             "TEN_EN": "Malignant neoplasm of placenta",
                             "DANH_SACH_BENH": []
+                          },
+                          {
+                            "MA": "C60-C63",
+                            "TEN": "U ác của cơ quan sinh dục nam",
+                            "TEN_EN": "Malignant neoplasms of male genital organs",
+                            "DANH_SACH_BENH": [
+                              {
+                                "MA": "C60",
+                                "TEN": "U ác của dương vật",
+                                "TEN_EN": "Malignant neoplasm of penis",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C60.0",
+                                    "TEN": "U da ác tính bao quy đầu",
+                                    "TEN_EN": "Malignant neoplasm: Prepuce"
+                                  },
+                                  {
+                                    "MA": "C60.1",
+                                    "TEN": "U da ác của quy đầu dương vật",
+                                    "TEN_EN": "Malignant neoplasm: Glans penis"
+                                  },
+                                  {
+                                    "MA": "C60.2",
+                                    "TEN": "U ác của thân dương vật",
+                                    "TEN_EN": "Malignant neoplasm: Body of penis"
+                                  },
+                                  {
+                                    "MA": "C60.8",
+                                    "TEN": "U ác với tổn thương chồng lấn của dương vật",
+                                    "TEN_EN": "Malignant neoplasm: Overlapping lesion of penis"
+                                  },
+                                  {
+                                    "MA": "C60.9",
+                                    "TEN": "U ác của dương vật không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Penis, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C61",
+                                "TEN": "U ác của tuyến tiền liệt",
+                                "TEN_EN": "Malignant neoplasm of prostate",
+                                "DANH_SACH_BENH": []
+                              },
+                              {
+                                "MA": "C62",
+                                "TEN": "U ác của tinh hoàn",
+                                "TEN_EN": "Malignant neoplasm of testis",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C62.0",
+                                    "TEN": "U ác của tinh hoàn không xuống",
+                                    "TEN_EN": "Malignant neoplasm: Undescended testis"
+                                  },
+                                  {
+                                    "MA": "C62.1",
+                                    "TEN": "U ác của tinh hoàn đã xuống",
+                                    "TEN_EN": "Malignant neoplasm: Descended testis"
+                                  },
+                                  {
+                                    "MA": "C62.9",
+                                    "TEN": "U ác của tinh hoàn không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Testis, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C63",
+                                "TEN": "U ác của cơ quan sinh dục nam khác và không xác định",
+                                "TEN_EN": "Malignant neoplasm of other and unspecified male genital organs",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C63.0",
+                                    "TEN": "U ác của mào tinh",
+                                    "TEN_EN": "Malignant neoplasm: Epididymis"
+                                  },
+                                  {
+                                    "MA": "C63.1",
+                                    "TEN": "U ác của thừng tinh",
+                                    "TEN_EN": "Malignant neoplasm: Spermatic cord"
+                                  },
+                                  {
+                                    "MA": "C63.2",
+                                    "TEN": "U ác của bìu (Dái)",
+                                    "TEN_EN": "Malignant neoplasm: Scrotum"
+                                  },
+                                  {
+                                    "MA": "C63.7",
+                                    "TEN": "U ác của cơ quan sinh dục nam xác định khác",
+                                    "TEN_EN": "Malignant neoplasm: Other specified male genital organs"
+                                  },
+                                  {
+                                    "MA": "C63.8",
+                                    "TEN": "U ác với tổn thương chồng lấn của cơ quan sinh dục nam",
+                                    "TEN_EN": "Malignant neoplasm: Overlapping lesion of male genital organs"
+                                  },
+                                  {
+                                    "MA": "C63.9",
+                                    "TEN": "U ác của cơ quan sinh dục nam không xác định",
+                                    "TEN_EN": "Malignant neoplasm: Male genital organ, unspecified"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "MA": "C64-C68",
+                            "TEN": "U ác của đường niệu",
+                            "TEN_EN": "Malignant neoplasms of urinary tract",
+                            "DANH_SACH_BENH": [
+                              {
+                                "MA": "C67",
+                                "TEN": "U ác của bàng quang",
+                                "TEN_EN": "Malignant neoplasm of bladder",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C67.0",
+                                    "TEN": "U ác của tam giác bàng quang",
+                                    "TEN_EN": "Malignant neoplasm: Trigone of bladder"
+                                  },
+                                  {
+                                    "MA": "C67.1",
+                                    "TEN": "U ác của đáy bàng quang",
+                                    "TEN_EN": "Malignant neoplasm: Dome of bladder"
+                                  },
+                                  {
+                                    "MA": "C67.2",
+                                    "TEN": "U ác của thành bên bàng quang",
+                                    "TEN_EN": "Malignant neoplasm: Lateral wall of bladder"
+                                  },
+                                  {
+                                    "MA": "C67.3",
+                                    "TEN": "U ác của thành trước bàng quang",
+                                    "TEN_EN": "Malignant neoplasm: Anterior wall of bladder"
+                                  },
+                                  {
+                                    "MA": "C67.4",
+                                    "TEN": "U ác của thành sau bàng quang",
+                                    "TEN_EN": "Malignant neoplasm: Posterior wall of bladder"
+                                  },
+                                  {
+                                    "MA": "C67.5",
+                                    "TEN": "U ác của cổ bàng quang",
+                                    "TEN_EN": "Malignant neoplasm: Bladder neck"
+                                  },
+                                  {
+                                    "MA": "C67.6",
+                                    "TEN": "U ác của lỗ niệu quản",
+                                    "TEN_EN": "Malignant neoplasm: Ureteric orifice"
+                                  },
+                                  {
+                                    "MA": "C67.7",
+                                    "TEN": "U ác của dây treo bàng quang",
+                                    "TEN_EN": "Malignant neoplasm: Urachus"
+                                  },
+                                  {
+                                    "MA": "C67.8",
+                                    "TEN": "U ác với tổn thương chồng lấn của bàng quang",
+                                    "TEN_EN": "Malignant neoplasm: Overlapping lesion of bladder"
+                                  },
+                                  {
+                                    "MA": "C67.9",
+                                    "TEN": "U ác của bàng quang không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Bladder, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C68",
+                                "TEN": "U ác của cơ quan tiết niệu khác và không xác định",
+                                "TEN_EN": "Malignant neoplasm of other and unspecified urinary organs",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C68.0",
+                                    "TEN": "U ác của niệu đạo",
+                                    "TEN_EN": "Malignant neoplasm: Urethra"
+                                  },
+                                  {
+                                    "MA": "C68.1",
+                                    "TEN": "U ác của tuyến cận niệu đạo",
+                                    "TEN_EN": "Malignant neoplasm: Paraurethral gland"
+                                  },
+                                  {
+                                    "MA": "C68.8",
+                                    "TEN": "U ác với tổn thương chồng lấn của cơ quan tiết niệu",
+                                    "TEN_EN": "Malignant neoplasm: Overlapping lesion of urinary organs"
+                                  },
+                                  {
+                                    "MA": "C68.9",
+                                    "TEN": "U ác của cơ quan tiết niệu, không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Urinary organ, unspecified"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "MA": "C69-C72",
+                            "TEN": "U ác của mắt, não và phần khác của hệ thần kinh trung ương",
+                            "TEN_EN": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+                            "DANH_SACH_BENH": [
+                              {
+                                "MA": "C69",
+                                "TEN": "U ác của mắt và phần phụ",
+                                "TEN_EN": "Malignant neoplasm of eye and adnexa",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C69.0",
+                                    "TEN": "U ác của kết mạc",
+                                    "TEN_EN": "Malignant neoplasm: Conjunctiva"
+                                  },
+                                  {
+                                    "MA": "C69.1",
+                                    "TEN": "U ác của củng mạc",
+                                    "TEN_EN": "Malignant neoplasm: Cornea"
+                                  },
+                                  {
+                                    "MA": "C69.2",
+                                    "TEN": "U ác của võng mạc",
+                                    "TEN_EN": "Malignant neoplasm: Retina"
+                                  },
+                                  {
+                                    "MA": "C69.3",
+                                    "TEN": "U ác của màng mạch",
+                                    "TEN_EN": "Malignant neoplasm: Choroid"
+                                  },
+                                  {
+                                    "MA": "C69.4",
+                                    "TEN": "U ác của thể mi",
+                                    "TEN_EN": "Malignant neoplasm: Ciliary body"
+                                  },
+                                  {
+                                    "MA": "C69.5",
+                                    "TEN": "U ác của tuyến lệ và ống",
+                                    "TEN_EN": "Malignant neoplasm: Lacrimal gland and duct"
+                                  },
+                                  {
+                                    "MA": "C69.6",
+                                    "TEN": "U ác của hốc mắt",
+                                    "TEN_EN": "Malignant neoplasm: Orbit"
+                                  },
+                                  {
+                                    "MA": "C69.8",
+                                    "TEN": "U ác với tổn thương chồng lấn của mắt và phần phụ",
+                                    "TEN_EN": "Malignant neoplasm: Overlapping lesion of eye and adnexa"
+                                  },
+                                  {
+                                    "MA": "C69.9",
+                                    "TEN": "U ác của mắt không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Eye, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C70",
+                                "TEN": "U ác của màng não",
+                                "TEN_EN": "Malignant neoplasm of meninges",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C70.0",
+                                    "TEN": "U ác của màng não",
+                                    "TEN_EN": "Malignant neoplasm: Cerebral meninges"
+                                  },
+                                  {
+                                    "MA": "C70.1",
+                                    "TEN": "U ác của màng tủy",
+                                    "TEN_EN": "Malignant neoplasm: Spinal meninges"
+                                  },
+                                  {
+                                    "MA": "C70.9",
+                                    "TEN": "U ác của màng não, không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Meninges, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C71",
+                                "TEN": "U ác của não",
+                                "TEN_EN": "Malignant neoplasm of brain",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C71.0",
+                                    "TEN": "U ác của đại não ngoại trừ thùy não và não thất",
+                                    "TEN_EN": "Malignant neoplasm: Cerebrum, except lobes and ventricles"
+                                  },
+                                  {
+                                    "MA": "C71.1",
+                                    "TEN": "U ác của thuỳ trán",
+                                    "TEN_EN": "Malignant neoplasm: Frontal lobe"
+                                  },
+                                  {
+                                    "MA": "C71.2",
+                                    "TEN": "U ác của thuỳ thái dương",
+                                    "TEN_EN": "Malignant neoplasm: Temporal lobe"
+                                  },
+                                  {
+                                    "MA": "C71.3",
+                                    "TEN": "U ác của thuỳ đỉnh",
+                                    "TEN_EN": "Malignant neoplasm: Parietal lobe"
+                                  },
+                                  {
+                                    "MA": "C71.4",
+                                    "TEN": "U ác của thùy chẩm",
+                                    "TEN_EN": "Malignant neoplasm: Occipital lobe"
+                                  },
+                                  {
+                                    "MA": "C71.5",
+                                    "TEN": "U ác của não thất",
+                                    "TEN_EN": "Malignant neoplasm: Cerebral ventricle"
+                                  },
+                                  {
+                                    "MA": "C71.6",
+                                    "TEN": "U ác của tiểu não",
+                                    "TEN_EN": "Malignant neoplasm: Cerebellum"
+                                  },
+                                  {
+                                    "MA": "C71.7",
+                                    "TEN": "U ác của cuống não",
+                                    "TEN_EN": "Malignant neoplasm: Brain stem"
+                                  },
+                                  {
+                                    "MA": "C71.8",
+                                    "TEN": "U ác với tổn thương chồng lấn của não",
+                                    "TEN_EN": "Malignant neoplasm: Overlapping lesion of brain"
+                                  },
+                                  {
+                                    "MA": "C71.9",
+                                    "TEN": "U ác của não không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Brain, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C72",
+                                "TEN": "U ác của tủy sống, dây thần kinh sọ và các phần khác của hệ thần kinh trung ương",
+                                "TEN_EN": "Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C72.0",
+                                    "TEN": "U ác của tủy sống",
+                                    "TEN_EN": "Malignant neoplasm: Spinal cord"
+                                  },
+                                  {
+                                    "MA": "C72.1",
+                                    "TEN": "U ác của chùm đuôi ngựa",
+                                    "TEN_EN": "Malignant neoplasm: Cauda equina"
+                                  },
+                                  {
+                                    "MA": "C72.2",
+                                    "TEN": "U ác của thần kinh khứu giác",
+                                    "TEN_EN": "Malignant neoplasm: Olfactory nerve"
+                                  },
+                                  {
+                                    "MA": "C72.3",
+                                    "TEN": "U ác của thần kinh thị giác",
+                                    "TEN_EN": "Malignant neoplasm: Optic nerve"
+                                  },
+                                  {
+                                    "MA": "C72.4",
+                                    "TEN": "U ác của thần kinh thính giác",
+                                    "TEN_EN": "Malignant neoplasm: Acoustic nerve"
+                                  },
+                                  {
+                                    "MA": "C72.5",
+                                    "TEN": "U ác của dây thần kinh sọ khác và không xác định",
+                                    "TEN_EN": "Malignant neoplasm: Other and unspecified cranial nerves"
+                                  },
+                                  {
+                                    "MA": "C72.8",
+                                    "TEN": "U ác với tổn thương chồng lấn của não và các phần khác của hệ thần kinh trung ương",
+                                    "TEN_EN": "Malignant neoplasm: Overlapping lesion of brain and other parts of central nervous system"
+                                  },
+                                  {
+                                    "MA": "C72.9",
+                                    "TEN": "U ác của hệ thần kinh trung ương không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Central nervous system, unspecified"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "MA": "C73-C75",
+                            "TEN": "U ác của tuyến giáp và tuyến nội tiết khác",
+                            "TEN_EN": "Malignant neoplasms of thyroid and other endocrine glands",
+                            "DANH_SACH_BENH": [
+                              {
+                                "MA": "C74",
+                                "TEN": "U ác của tuyến thượng thận",
+                                "TEN_EN": "Malignant neoplasm of adrenal gland",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C74.0",
+                                    "TEN": "U ác của vỏ tuyến thượng thận",
+                                    "TEN_EN": "Malignant neoplasm: Cortex of adrenal gland"
+                                  },
+                                  {
+                                    "MA": "C74.1",
+                                    "TEN": "U ác của tủy tuyến thượng thận",
+                                    "TEN_EN": "Malignant neoplasm: Medulla of adrenal gland"
+                                  },
+                                  {
+                                    "MA": "C74.9",
+                                    "TEN": "U ác của tuyến thượng thận, không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Adrenal gland, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C75",
+                                "TEN": "U ác của các tuyến nội tiết khác và các cơ quan liên quan",
+                                "TEN_EN": "Malignant neoplasm of other endocrine glands and related structures",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C75.0",
+                                    "TEN": "U ác của tuyến cận giáp",
+                                    "TEN_EN": "Malignant neoplasm: Parathyroid gland"
+                                  },
+                                  {
+                                    "MA": "C75.1",
+                                    "TEN": "U ác của tuyến yên",
+                                    "TEN_EN": "Malignant neoplasm: Pituitary gland"
+                                  },
+                                  {
+                                    "MA": "C75.2",
+                                    "TEN": "U ác của ống sọ hầu",
+                                    "TEN_EN": "Malignant neoplasm: Craniopharyngeal duct"
+                                  },
+                                  {
+                                    "MA": "C75.3",
+                                    "TEN": "U ác của tuyến tùng",
+                                    "TEN_EN": "Malignant neoplasm: Pineal gland"
+                                  },
+                                  {
+                                    "MA": "C75.4",
+                                    "TEN": "U ác của thể cảnh",
+                                    "TEN_EN": "Malignant neoplasm: Carotid body"
+                                  },
+                                  {
+                                    "MA": "C75.5",
+                                    "TEN": "U ác của thể động mạch chủ và phó hạch khác",
+                                    "TEN_EN": "Malignant neoplasm: Aortic body and other paraganglia"
+                                  },
+                                  {
+                                    "MA": "C75.8",
+                                    "TEN": "U ác ảnh hưởng nhiều tuyến không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Pluriglandular involvement, unspecified"
+                                  },
+                                  {
+                                    "MA": "C75.9",
+                                    "TEN": "U ác của tuyến nội tiết không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm: Endocrine gland, unspecified"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "MA": "C76-C80",
+                            "TEN": "U ác có vị trí không rõ ràng, thứ phát và không xác định",
+                            "TEN_EN": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+                            "DANH_SACH_BENH": [
+                              {
+                                "MA": "C76",
+                                "TEN": "U ác có vị trí khác và không rõ ràng",
+                                "TEN_EN": "Malignant neoplasm of other and ill-defined sites",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C76.0",
+                                    "TEN": "U ác của đầu mặt và cổ",
+                                    "TEN_EN": "Malignant neoplasm of other and ill-defined sites: Head, face and neck"
+                                  },
+                                  {
+                                    "MA": "C76.1",
+                                    "TEN": "U ác của ngực",
+                                    "TEN_EN": "Malignant neoplasm of other and ill-defined sites: Thorax"
+                                  },
+                                  {
+                                    "MA": "C76.2",
+                                    "TEN": "U ác của bụng",
+                                    "TEN_EN": "Malignant neoplasm of other and ill-defined sites: Abdomen"
+                                  },
+                                  {
+                                    "MA": "C76.3",
+                                    "TEN": "U ác của chậu",
+                                    "TEN_EN": "Malignant neoplasm of other and ill-defined sites: Pelvis"
+                                  },
+                                  {
+                                    "MA": "C76.4",
+                                    "TEN": "U ác của chi trên",
+                                    "TEN_EN": "Malignant neoplasm of other and ill-defined sites: Upper limb"
+                                  },
+                                  {
+                                    "MA": "C76.5",
+                                    "TEN": "U ác của chi dưới",
+                                    "TEN_EN": "Malignant neoplasm of other and ill-defined sites: Lower limb"
+                                  },
+                                  {
+                                    "MA": "C76.7",
+                                    "TEN": "U ác ở vị trí không rõ ràng khác",
+                                    "TEN_EN": "Malignant neoplasm of other and ill-defined sites: Other ill-defined sites"
+                                  },
+                                  {
+                                    "MA": "C76.8",
+                                    "TEN": "U ác với tổn thương chồng lấn của các vị trí khác và không rõ ràng",
+                                    "TEN_EN": "Malignant neoplasm of other and ill-defined sites: Overlapping lesion of other and ill-defined sites"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C77",
+                                "TEN": "U ác thứ phát và không xác định của hạch lympho",
+                                "TEN_EN": "Secondary and unspecified malignant neoplasm of lymph nodes",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C77.0",
+                                    "TEN": "U ác của hạch của vùng đầu mặt cổ",
+                                    "TEN_EN": "Secondary and unspecified malignant neoplasm: Lymph nodes of head, face and neck"
+                                  },
+                                  {
+                                    "MA": "C77.1",
+                                    "TEN": "U ác thứ phát và không đặc hiệu của hạch trong lồng ngực",
+                                    "TEN_EN": "Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes"
+                                  },
+                                  {
+                                    "MA": "C77.2",
+                                    "TEN": "U ác thứ phát và không đặc hiệu của hạch trong xoang bụng",
+                                    "TEN_EN": "Secondary and unspecified malignant neoplasm: Intra-abdominal lymph nodes"
+                                  },
+                                  {
+                                    "MA": "C77.3",
+                                    "TEN": "U ác thứ phát và không đặc hiệu của hạch nách và hạch chi trên",
+                                    "TEN_EN": "Secondary and unspecified malignant neoplasm: Axillary and upper limb lymph nodes"
+                                  },
+                                  {
+                                    "MA": "C77.4",
+                                    "TEN": "U ác thứ phát và không đặc hiệu của hạch bẹn và hạch chi dưới",
+                                    "TEN_EN": "Secondary and unspecified malignant neoplasm: Inguinal and lower limb lymph nodes"
+                                  },
+                                  {
+                                    "MA": "C77.5",
+                                    "TEN": "U ác thứ phát và không đặc hiệu của hạch trong vùng chậu",
+                                    "TEN_EN": "Secondary and unspecified malignant neoplasm: Intrapelvic lymph nodes"
+                                  },
+                                  {
+                                    "MA": "C77.8",
+                                    "TEN": "U ác thứ phát và không đặc hiệu của hạch của nhiều vùng",
+                                    "TEN_EN": "Secondary and unspecified malignant neoplasm: Lymph nodes of multiple regions"
+                                  },
+                                  {
+                                    "MA": "C77.9",
+                                    "TEN": "U ác thứ phát và không đặc hiệu của hạch lympho, không xác định",
+                                    "TEN_EN": "Secondary and unspecified malignant neoplasm: Lymph node, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C78",
+                                "TEN": "U ác thứ phát của cơ quan hô hấp và tiêu ho",
+                                "TEN_EN": "Secondary malignant neoplasm of respiratory and digestive organs",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C78.0",
+                                    "TEN": "U ác thứ phát của phổi",
+                                    "TEN_EN": "Secondary malignant neoplasm of lung"
+                                  },
+                                  {
+                                    "MA": "C78.1",
+                                    "TEN": "U ác thứ phát của trung thất",
+                                    "TEN_EN": "Secondary malignant neoplasm of mediastinum"
+                                  },
+                                  {
+                                    "MA": "C78.2",
+                                    "TEN": "U ác thứ phát của màng phổi",
+                                    "TEN_EN": "Secondary malignant neoplasm of pleura"
+                                  },
+                                  {
+                                    "MA": "C78.3",
+                                    "TEN": "U ác thứ phát của cơ quan hô hấp và không xác định",
+                                    "TEN_EN": "Secondary malignant neoplasm of other and unspecified respiratory organs"
+                                  },
+                                  {
+                                    "MA": "C78.4",
+                                    "TEN": "U ác thứ phát của ruột non",
+                                    "TEN_EN": "Secondary malignant neoplasm of small intestine"
+                                  },
+                                  {
+                                    "MA": "C78.5",
+                                    "TEN": "U ác thứ phát của đại tràng và trực tràng",
+                                    "TEN_EN": "Secondary malignant neoplasm of large intestine and rectum"
+                                  },
+                                  {
+                                    "MA": "C78.6",
+                                    "TEN": "U ác thứ phát của sau phúc mạc và phúc mạc",
+                                    "TEN_EN": "Secondary malignant neoplasm of retroperitoneum and peritoneum"
+                                  },
+                                  {
+                                    "MA": "C78.7",
+                                    "TEN": "U ác thứ phát của gan và đường mật trong gan",
+                                    "TEN_EN": "Secondary malignant neoplasm of liver"
+                                  },
+                                  {
+                                    "MA": "C78.8",
+                                    "TEN": "U ác thứ phát của cơ quan tiêu hóa khác và không đặc hiệu",
+                                    "TEN_EN": "Secondary malignant neoplasm of other and unspecified digestive organs"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C79",
+                                "TEN": "U ác thứ phát có vị trí khác và không xác định",
+                                "TEN_EN": "Secondary malignant neoplasm of other sites",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C79.0",
+                                    "TEN": "U ác thứ phát của thận và bể thận",
+                                    "TEN_EN": "Secondary malignant neoplasm of kidney and renal pelvis"
+                                  },
+                                  {
+                                    "MA": "C79.1",
+                                    "TEN": "U ác thứ phát của bàng quang và cơ quan tiết niệu khác và không đặc hiệu",
+                                    "TEN_EN": "Secondary malignant neoplasm of bladder and other and unspecified urinary organs"
+                                  },
+                                  {
+                                    "MA": "C79.2",
+                                    "TEN": "U ác thứ phát của da",
+                                    "TEN_EN": "Secondary malignant neoplasm of skin"
+                                  },
+                                  {
+                                    "MA": "C79.3",
+                                    "TEN": "U ác thứ phát của não và màng não",
+                                    "TEN_EN": "Secondary malignant neoplasm of brain and cerebral meninges"
+                                  },
+                                  {
+                                    "MA": "C79.4",
+                                    "TEN": "U ác thứ phát không xác định vị trí của hệ thần kinh",
+                                    "TEN_EN": "Secondary malignant neoplasm of other and unspecified parts of nervous system"
+                                  },
+                                  {
+                                    "MA": "C79.5",
+                                    "TEN": "U ác thứ phát của xương và tủy xương",
+                                    "TEN_EN": "Secondary malignant neoplasm of bone and bone marrow"
+                                  },
+                                  {
+                                    "MA": "C79.6",
+                                    "TEN": "U ác thứ phát của buồng trứng",
+                                    "TEN_EN": "Secondary malignant neoplasm of ovary"
+                                  },
+                                  {
+                                    "MA": "C79.7",
+                                    "TEN": "U ác thứ phát của tuyến thượng thận",
+                                    "TEN_EN": "Secondary malignant neoplasm of adrenal gland"
+                                  },
+                                  {
+                                    "MA": "C79.8",
+                                    "TEN": "U ác thứ phát của các vị trí xác định rõ khác",
+                                    "TEN_EN": "Secondary malignant neoplasm of other specified sites"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C80",
+                                "TEN": "U ác không xác định vị trí",
+                                "TEN_EN": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C80.0",
+                                    "TEN": "U ác tính, không biết vị trí nguyên phát",
+                                    "TEN_EN": "Malignant neoplasm, primary site unknown, so stated"
+                                  },
+                                  {
+                                    "MA": "C80.9",
+                                    "TEN": "U ác, không đặc hiệu",
+                                    "TEN_EN": "Malignant neoplasm, unspecified"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "MA": "C81-C96",
+                            "TEN": "U ác của hệ lympho, hệ tạo máu và các mô liên quan",
+                            "TEN_EN": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+                            "DANH_SACH_BENH": [
+                              {
+                                "MA": "C81",
+                                "TEN": "U lympho Hodgkin",
+                                "TEN_EN": "Hodgkin s disease",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C81.0",
+                                    "TEN": "U lympho Hodgkin dạng nốt ưu thế lympho bào",
+                                    "TEN_EN": "Hodgkin s disease: Lymphocytic predominance"
+                                  },
+                                  {
+                                    "MA": "C81.1",
+                                    "TEN": "U lympho Hodgkin (kinh điển) xơ nốt",
+                                    "TEN_EN": "Hodgkin s disease: Nodular sclerosis"
+                                  },
+                                  {
+                                    "MA": "C81.2",
+                                    "TEN": "U lympho Hodgkin (kinh điển) hỗn hợp tế bào",
+                                    "TEN_EN": "Hodgkin s disease: Mixed cellularity"
+                                  },
+                                  {
+                                    "MA": "C81.3",
+                                    "TEN": "U lympho Hodgkin (kinh điển) giảm lympho bào",
+                                    "TEN_EN": "Hodgkin s disease: Lymphocytic depletion"
+                                  },
+                                  {
+                                    "MA": "C81.4",
+                                    "TEN": "U lympho Hodgkin (kinh điển) giàu lympho bào",
+                                    "TEN_EN": "Lymphocyte-rich (classical) Hodgkin lymphoma"
+                                  },
+                                  {
+                                    "MA": "C81.7",
+                                    "TEN": "U lympho Hodgkin (kinh điển) khác",
+                                    "TEN_EN": "Hodgkin s disease: Other Hodgkin s disease"
+                                  },
+                                  {
+                                    "MA": "C81.9",
+                                    "TEN": "U lympho Hodgkin, không đặc hiệu",
+                                    "TEN_EN": "Hodgkin s disease: Hodgkin s disease, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C82",
+                                "TEN": "U lympho dạng nang",
+                                "TEN_EN": "Follicular [nodular] non-Hodgkin s lymphoma",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C82.0",
+                                    "TEN": "U lympho dạng nang độ 1",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Small cleaved cell, follicular"
+                                  },
+                                  {
+                                    "MA": "C82.1",
+                                    "TEN": "U lympho dạng nang độ II",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Mixed small cleaved and large cell, follicular"
+                                  },
+                                  {
+                                    "MA": "C82.2",
+                                    "TEN": "U lympho dạng nang độ III, không xác định",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Large cell, follicular"
+                                  },
+                                  {
+                                    "MA": "C82.3",
+                                    "TEN": "U lympho dạng nang độ IIIa",
+                                    "TEN_EN": "Follicular lymphoma grade IIIa"
+                                  },
+                                  {
+                                    "MA": "C82.4",
+                                    "TEN": "U lympho dạng nang độ IIIb",
+                                    "TEN_EN": "Follicular lymphoma grade IIIb"
+                                  },
+                                  {
+                                    "MA": "C82.5",
+                                    "TEN": "U lympho trung tâm nang tỏa rộng",
+                                    "TEN_EN": "Diffuse follicle centre lymphoma"
+                                  },
+                                  {
+                                    "MA": "C82.6",
+                                    "TEN": "U lympho trung tâm nang da",
+                                    "TEN_EN": "Cutaneous follicle centre lymphoma"
+                                  },
+                                  {
+                                    "MA": "C82.7",
+                                    "TEN": "Loại khác của u lympho dạng nang",
+                                    "TEN_EN": "Other types of follicular non-Hodgkin s lymphoma"
+                                  },
+                                  {
+                                    "MA": "C82.9",
+                                    "TEN": "U lympho dạng nang, không xác định",
+                                    "TEN_EN": "Follicular non-Hodgkin s lymphoma, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C83",
+                                "TEN": "U Lympho dạng không phải nang",
+                                "TEN_EN": "Diffuse non-Hodgkin s lymphoma",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C83.0",
+                                    "TEN": "U lympho không Hodgkin tế bào B nhỏ",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Small cell (diffuse)"
+                                  },
+                                  {
+                                    "MA": "C83.1",
+                                    "TEN": "U lympho không Hodgkin tế bào Mantle",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Small cleaved cell (diffuse)"
+                                  },
+                                  {
+                                    "MA": "C83.2",
+                                    "TEN": "U lympho không Hodgkin hỗn hợp tế bào nhỏ-tế bào lớn (toả rộng)",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Mixed small and large cell (diffuse)"
+                                  },
+                                  {
+                                    "MA": "C83.3",
+                                    "TEN": "U lympho không Hodgkin tế bào B lớn tỏa rộng",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Large cell (diffuse)"
+                                  },
+                                  {
+                                    "MA": "C83.4",
+                                    "TEN": "U lympho không Hodgkin nguyên bào miễn dịch (toả rộng)",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Immunoblastic (diffuse)"
+                                  },
+                                  {
+                                    "MA": "C83.5",
+                                    "TEN": "U lympho không Hodgkin dạng nguyên bào lympho (tỏa rộng)",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Lymphoblastic (diffuse)"
+                                  },
+                                  {
+                                    "MA": "C83.6",
+                                    "TEN": "U lympho không Hodgkin không biệt hóa tỏa rộng",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma: Undifferentiated (diffuse)"
+                                  },
+                                  {
+                                    "MA": "C83.7",
+                                    "TEN": "U lympho Burkitt",
+                                    "TEN_EN": "Burkitt s tumour"
+                                  },
+                                  {
+                                    "MA": "C83.8",
+                                    "TEN": "U lympho không phải dạng nang khác",
+                                    "TEN_EN": "Other types of diffuse non-Hodgkin s lymphoma"
+                                  },
+                                  {
+                                    "MA": "C83.9",
+                                    "TEN": "U lympho tỏa rộng không Hodgkin, không dạng nang, (tỏa rộng), không xác định",
+                                    "TEN_EN": "Diffuse non-Hodgkin s lymphoma, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C84",
+                                "TEN": "Các loại U lympho tế bào T/NK trưởng thành",
+                                "TEN_EN": "Peripheral and cutaneous T-cell lymphomas",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C84.0",
+                                    "TEN": "U sùi dạng nấm",
+                                    "TEN_EN": "Mycosis fungoides"
+                                  },
+                                  {
+                                    "MA": "C84.1",
+                                    "TEN": "Bệnh Sézary",
+                                    "TEN_EN": "Sézary s disease"
+                                  },
+                                  {
+                                    "MA": "C84.2",
+                                    "TEN": "U lympho vùng T",
+                                    "TEN_EN": "T-zone lymphoma"
+                                  },
+                                  {
+                                    "MA": "C84.3",
+                                    "TEN": "U lympho loại u lympho-biểu mô",
+                                    "TEN_EN": "Lymphoepithelioid lymphoma"
+                                  },
+                                  {
+                                    "MA": "C84.4",
+                                    "TEN": "U lympho tế bào T ngoại vi, không phân loại ở nơi khác",
+                                    "TEN_EN": "Peripheral T-cell lymphoma"
+                                  },
+                                  {
+                                    "MA": "C84.5",
+                                    "TEN": "U lympho tế bào T/NK trưởng thành khác",
+                                    "TEN_EN": "Other and unspecified T-cell lymphomas"
+                                  },
+                                  {
+                                    "MA": "C84.6",
+                                    "TEN": "U lympho tế bào lớn bất sản, ALK- dương tính",
+                                    "TEN_EN": "Anaplastic large cell lymphoma, ALK- positive"
+                                  },
+                                  {
+                                    "MA": "C84.7",
+                                    "TEN": "U lympho tế bào lớn bất sản, ALK âm tính",
+                                    "TEN_EN": "Anaplastic large cell lymphoma, ALK- negative"
+                                  },
+                                  {
+                                    "MA": "C84.8",
+                                    "TEN": "U lympho tế bào T ở da, không đặc hiệu",
+                                    "TEN_EN": "Cutaneous T-cell lymphoma, unspecified"
+                                  },
+                                  {
+                                    "MA": "C84.9",
+                                    "TEN": "U lympho tế bào T/NK trưởng thành, không đặc hiệu",
+                                    "TEN_EN": "Mature T/NK-cell lymphoma, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C85",
+                                "TEN": "U lympho không Hodgkin, loại khác và không xác định",
+                                "TEN_EN": "Other and unspecified types of non-Hodgkin s lymphoma",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C85.0",
+                                    "TEN": "U lympho sarcom",
+                                    "TEN_EN": "Lymphosarcoma"
+                                  },
+                                  {
+                                    "MA": "C85.1",
+                                    "TEN": "U lympho tế bào B, không đặc hiệu",
+                                    "TEN_EN": "B-cell lymphoma, unspecified"
+                                  },
+                                  {
+                                    "MA": "C85.2",
+                                    "TEN": "U lympho tế bào B lớn trung thất (tuyến ức)",
+                                    "TEN_EN": "Mediastinal (thymic) large B-cell lymphoma"
+                                  },
+                                  {
+                                    "MA": "C85.7",
+                                    "TEN": "Loại xác định khác của u lympho không Hodgkin",
+                                    "TEN_EN": "Other specified types of non-Hodgkin s lymphoma"
+                                  },
+                                  {
+                                    "MA": "C85.9",
+                                    "TEN": "U lympho không Hodgkin, loại không xác định",
+                                    "TEN_EN": "Non-Hodgkin s lymphoma, unspecified type"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C86",
+                                "TEN": "Loại xác định khác của u lympho tế bào T/NK",
+                                "TEN_EN": "Other and unspecified types of non-Hodgkin s lymphoma",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C86.0",
+                                    "TEN": "U lympho tế bào NK/T ngoại nút, loại mũi",
+                                    "TEN_EN": "Extranodal NK/T-cell lymphoma, nasal type"
+                                  },
+                                  {
+                                    "MA": "C86.1",
+                                    "TEN": "U lympho tế bào T gan- lách",
+                                    "TEN_EN": "Hepatosplenic T-cell lymphoma"
+                                  },
+                                  {
+                                    "MA": "C86.2",
+                                    "TEN": "U lympho tế bào T loại bệnh lý ruột",
+                                    "TEN_EN": "Enteropathy-type (intestinal) T-cell lymphoma"
+                                  },
+                                  {
+                                    "MA": "C86.3",
+                                    "TEN": "U lympho tế bào T giống viêm mô mỡ dưới da",
+                                    "TEN_EN": "Subcutaneous panniculitis-like T-cell lymphoma"
+                                  },
+                                  {
+                                    "MA": "C86.4",
+                                    "TEN": "U lympho nguyên bào NK",
+                                    "TEN_EN": "Blastic NK-cell lymphoma"
+                                  },
+                                  {
+                                    "MA": "C86.5",
+                                    "TEN": "U lympho tế bào T nguyên bào mạch- nguyên bào miễn dịch",
+                                    "TEN_EN": "Angioimmunoblastic T-cell lymphoma "
+                                  },
+                                  {
+                                    "MA": "C86.6",
+                                    "TEN": "Tăng sinh tế bào T da nguyên phát CD-30 dương tính",
+                                    "TEN_EN": "Primary cutaneous CD30-positive T-cell proliferations"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C88",
+                                "TEN": "Bệnh tăng sinh miễn dịch ác tính",
+                                "TEN_EN": "Malignant immunoproliferative diseases",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C88.0",
+                                    "TEN": "Macroglogulin máu của WaldenstrÖn",
+                                    "TEN_EN": "Waldenström s macroglobulinaemia"
+                                  },
+                                  {
+                                    "MA": "C88.1",
+                                    "TEN": "Bệnh chuỗi alpha nặng",
+                                    "TEN_EN": "Alpha heavy chain disease"
+                                  },
+                                  {
+                                    "MA": "C88.2",
+                                    "TEN": "Bệnh chuỗi gamma nặng",
+                                    "TEN_EN": "Gamma heavy chain disease"
+                                  },
+                                  {
+                                    "MA": "C88.3",
+                                    "TEN": "Bệnh tăng sinh miễn dịch ruột non",
+                                    "TEN_EN": "Immunoproliferative small intestinal disease"
+                                  },
+                                  {
+                                    "MA": "C88.4",
+                                    "TEN": "U lympho tế bào B ngoài hạch của các mô lympho chế nhầy",
+                                    "TEN_EN": "Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lyphoma]"
+                                  },
+                                  {
+                                    "MA": "C88.7",
+                                    "TEN": "Bệnh tăng sinh miễn dịch ác tính khác",
+                                    "TEN_EN": "Other malignant immunoproliferative diseases"
+                                  },
+                                  {
+                                    "MA": "C88.9",
+                                    "TEN": "Bệnh tăng sinh miễn dịch ác tính không đặc hiệu",
+                                    "TEN_EN": "Malignant immunoproliferative disease, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C90",
+                                "TEN": "Đa u tủy và các u tương bào",
+                                "TEN_EN": "Multiple myeloma and malignant plasma cell neoplasms",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C90.0",
+                                    "TEN": "Đa u tủy",
+                                    "TEN_EN": "Multiple myeloma"
+                                  },
+                                  {
+                                    "MA": "C90.1",
+                                    "TEN": "Bệnh bạch cầu dạng tương bào",
+                                    "TEN_EN": "Plasma cell leukaemia"
+                                  },
+                                  {
+                                    "MA": "C90.2",
+                                    "TEN": "U tương bào ngoài tủy",
+                                    "TEN_EN": "Plasmacytoma, extramedullary"
+                                  },
+                                  {
+                                    "MA": "C90.3",
+                                    "TEN": "Bướu tương bào đơn độc",
+                                    "TEN_EN": "Solitary plasmacytoma"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C91",
+                                "TEN": "Bệnh bạch cầu dạng lympho",
+                                "TEN_EN": "Lymphoid leukaemia",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C91.0",
+                                    "TEN": "Bệnh bạch cầu dạng nguyên bào lympho cấp (ALL)",
+                                    "TEN_EN": "Acute lymphoblastic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C91.1",
+                                    "TEN": "Bệnh bạch cầu dạng lympho mãn tính của loại tế bào B",
+                                    "TEN_EN": "Chronic lymphocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C91.2",
+                                    "TEN": "Bệnh bạch cầu dạng lympho bán cấp",
+                                    "TEN_EN": "Subacute lymphocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C91.3",
+                                    "TEN": "Bệnh bạch cầu dạng tiền lympho của tế bào B",
+                                    "TEN_EN": "Prolymphocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C91.4",
+                                    "TEN": "Bệnh bạch cầu dạng tế bào có lông",
+                                    "TEN_EN": "Hairy-cell leukaemia"
+                                  },
+                                  {
+                                    "MA": "C91.5",
+                                    "TEN": "Bệnh bạch cầu dạng tế bào T trưởng thành",
+                                    "TEN_EN": "Adult T-cell leukaemia"
+                                  },
+                                  {
+                                    "MA": "C91.6",
+                                    "TEN": "Bệnh bạch cầu dạng tiền lympho của tế bào T",
+                                    "TEN_EN": "Prolymphocytic leukaemia of T-cell type"
+                                  },
+                                  {
+                                    "MA": "C91.7",
+                                    "TEN": "Bệnh bạch cầu dạng lympho khác",
+                                    "TEN_EN": "Other lymphoid leukaemia"
+                                  },
+                                  {
+                                    "MA": "C91.8",
+                                    "TEN": "Bệnh bạch cầu tế bào B trưởng thành loại Burkitt",
+                                    "TEN_EN": "Mature B-cell leukaemia Burkitt-type"
+                                  },
+                                  {
+                                    "MA": "C91.9",
+                                    "TEN": "Bệnh bạch cầu dạng lympho, không đặc hiệu",
+                                    "TEN_EN": "Lymphoid leukaemia, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C92",
+                                "TEN": "Bệnh bạch cầu tủy",
+                                "TEN_EN": "Myeloid leukaemia",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C92.0",
+                                    "TEN": "Bệnh bạch cầu dạng tủy cấp",
+                                    "TEN_EN": "Acute myeloid leukaemia"
+                                  },
+                                  {
+                                    "MA": "C92.1",
+                                    "TEN": "Bệnh bạch cầu dạng tủy mạn [CML], BCR/ABL- dương tính",
+                                    "TEN_EN": "Chronic myeloid leukaemia"
+                                  },
+                                  {
+                                    "MA": "C92.2",
+                                    "TEN": "Bệnh bạch cầu dạng tủy mãn tính không điển hình, BCR/ABL âm tính",
+                                    "TEN_EN": "Subacute myeloid leukaemia"
+                                  },
+                                  {
+                                    "MA": "C92.3",
+                                    "TEN": "Ung thư mô liên kết dòng tủy",
+                                    "TEN_EN": "Myeloid sarcoma"
+                                  },
+                                  {
+                                    "MA": "C92.4",
+                                    "TEN": "Bệnh bạch cầu dạng tiền tủy bào (PML)",
+                                    "TEN_EN": "Acute promyelocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C92.5",
+                                    "TEN": "Bệnh bạch cầu dạng tủy đơn nhân cấp",
+                                    "TEN_EN": "Acute myelomonocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C92.6",
+                                    "TEN": "Bệnh bạch cầu dạng tủy cấp tính có bất thường 11Q23",
+                                    "TEN_EN": "Acute myeloid leukaemia with 11Q23- abnormality"
+                                  },
+                                  {
+                                    "MA": "C92.7",
+                                    "TEN": "Bệnh bạch cầu dạng tủy khác",
+                                    "TEN_EN": "Other myeloid leukaemia"
+                                  },
+                                  {
+                                    "MA": "C92.8",
+                                    "TEN": "Bệnh bạch cầu dạng tủy cấp tính có loạn sản đa dòng",
+                                    "TEN_EN": "Acute myeloid leukaemia with multilineage dysplasia"
+                                  },
+                                  {
+                                    "MA": "C92.9",
+                                    "TEN": "Bệnh bạch cầu dạng tủy, không đặc hiệu",
+                                    "TEN_EN": "Myeloid leukaemia, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C93",
+                                "TEN": "Bệnh bạch cầu đơn nhân",
+                                "TEN_EN": "Monocytic leukaemia",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C93.0",
+                                    "TEN": "Bệnh bạch cầu đơn nhân/nguyên bào đơn nhân cấp tính",
+                                    "TEN_EN": "Acute monocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C93.1",
+                                    "TEN": "Bệnh bạch cầu dòng tủy đơn nhân mãn tính",
+                                    "TEN_EN": "Chronic monocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C93.2",
+                                    "TEN": "Bệnh bạch cầu đơn nhân bán cấp",
+                                    "TEN_EN": "Subacute monocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C93.3",
+                                    "TEN": "Bệnh bạch cầu dòng tủy đơn nhân tuổi vị thành niên",
+                                    "TEN_EN": "Juvenile myelomonocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C93.7",
+                                    "TEN": "Bệnh bạch cầu đơn nhân khác",
+                                    "TEN_EN": "Other monocytic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C93.9",
+                                    "TEN": "Bệnh bạch cầu đơn nhân không đặc hiệu",
+                                    "TEN_EN": "Monocytic leukaemia, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C94",
+                                "TEN": "Bệnh bạch cầu khác có loại tế bào xác định",
+                                "TEN_EN": "Other leukaemias of specified cell type",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C94.0",
+                                    "TEN": "Bệnh bạch cầu dạng tăng hồng cầu",
+                                    "TEN_EN": "Acute erythraemia and erythroleukaemia"
+                                  },
+                                  {
+                                    "MA": "C94.1",
+                                    "TEN": "Bệnh tăng hồng cầu mạn",
+                                    "TEN_EN": "Chronic erythraemia"
+                                  },
+                                  {
+                                    "MA": "C94.2",
+                                    "TEN": "Bệnh bạch cầu dạng tiền nguyên tiểu cầu cấp",
+                                    "TEN_EN": "Acute megakaryoblastic leukaemia"
+                                  },
+                                  {
+                                    "MA": "C94.3",
+                                    "TEN": "Bệnh bạch cầu dạng dưỡng bào",
+                                    "TEN_EN": "Mast cell leukaemia"
+                                  },
+                                  {
+                                    "MA": "C94.4",
+                                    "TEN": "Bệnh toàn tủy cấp tính có xơ tủy",
+                                    "TEN_EN": "Acute panmyelosis"
+                                  },
+                                  {
+                                    "MA": "C94.5",
+                                    "TEN": "Bệnh xơ tủy cấp",
+                                    "TEN_EN": "Acute myelofibrosis"
+                                  },
+                                  {
+                                    "MA": "C94.6",
+                                    "TEN": "Bệnh loạn sản tủy và tăng sinh tủy, chưa phân loại nơi khác",
+                                    "TEN_EN": "Myelodysplastic and myeloproliferative disease, not elsewhere classified"
+                                  },
+                                  {
+                                    "MA": "C94.7",
+                                    "TEN": "Bệnh bạch cầu xác định khác",
+                                    "TEN_EN": "Other specified leukaemias"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C95",
+                                "TEN": "Bệnh bạch cầu có loại tế bào không xác định",
+                                "TEN_EN": "Leukaemia of unspecified cell type",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C95.0",
+                                    "TEN": "Bệnh bạch cầu cấp loại tế bào không xác định",
+                                    "TEN_EN": "Acute leukaemia of unspecified cell type"
+                                  },
+                                  {
+                                    "MA": "C95.1",
+                                    "TEN": "Bệnh bạch cầu mạn loại tế bào không xác định",
+                                    "TEN_EN": "Chronic leukaemia of unspecified cell type"
+                                  },
+                                  {
+                                    "MA": "C95.2",
+                                    "TEN": "Bệnh bạch cầu bán cấp loại tế bào không xác định",
+                                    "TEN_EN": "Subacute leukaemia of unspecified cell type"
+                                  },
+                                  {
+                                    "MA": "C95.7",
+                                    "TEN": "Bệnh bạch cầu khác, loại tế bào không xác định",
+                                    "TEN_EN": "Other leukaemia of unspecified cell type"
+                                  },
+                                  {
+                                    "MA": "C95.9",
+                                    "TEN": "Bệnh bạch cầu không xác định",
+                                    "TEN_EN": "Leukaemia, unspecified"
+                                  }
+                                ]
+                              },
+                              {
+                                "MA": "C96",
+                                "TEN": "U ác khác và không xác định của hệ lympho, hệ tạo máu và mô liên quan",
+                                "TEN_EN": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+                                "DANH_SACH_BENH": [
+                                  {
+                                    "MA": "C96.0",
+                                    "TEN": "Bệnh tổ chức bào tế bào Langerhans đa ổ và đa hệ thống (rải rác) [bệnh Letterer-Siwe]",
+                                    "TEN_EN": "Letterer-Siwe disease"
+                                  },
+                                  {
+                                    "MA": "C96.1",
+                                    "TEN": "Bệnh mô bào ác tính",
+                                    "TEN_EN": "Malignant histiocytosis"
+                                  },
+                                  {
+                                    "MA": "C96.2",
+                                    "TEN": "Bệnh dưỡng bào hệ thống xâm lấn",
+                                    "TEN_EN": "Malignant mast cell tumour"
+                                  },
+                                  {
+                                    "MA": "C96.3",
+                                    "TEN": "U lympho mô bào thực sự",
+                                    "TEN_EN": "True histiocytic lymphoma"
+                                  },
+                                  {
+                                    "MA": "C96.4",
+                                    "TEN": "Sarcom tế bào đuôi gai (tế bào phụ)",
+                                    "TEN_EN": "Sarcoma of dendritic cells (accessory cells)"
+                                  },
+                                  {
+                                    "MA": "C96.5",
+                                    "TEN": "Bệnh tổ chức bào tế bào Langerhans đa ổ và đơn hệ thống",
+                                    "TEN_EN": "Multifocal and unisystemic Langerhans- cell histiocytosis"
+                                  },
+                                  {
+                                    "MA": "C96.6",
+                                    "TEN": "Bệnh tổ chức bào Langerhans đơn ổ",
+                                    "TEN_EN": "Unifocal Langerhans-cell histiocytosis "
+                                  },
+                                  {
+                                    "MA": "C96.7",
+                                    "TEN": "U ác tính khác của mô dạng lympho, hệ tạo máu và mô liên quan",
+                                    "TEN_EN": "Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue"
+                                  },
+                                  {
+                                    "MA": "C96.8",
+                                    "TEN": "Sarcom tổ chức bào",
+                                    "TEN_EN": "Histiocytic sarcoma "
+                                  },
+                                  {
+                                    "MA": "C96.9",
+                                    "TEN": "U ác tính không đặc hiệu của mô dạng lympho, hệ tạo máu và mô liên quan",
+                                    "TEN_EN": "Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "MA": "C97-C97",
+                            "TEN": "U ác có nhiều vị trí độc lập (nguyên phát) nhiều chỗ",
+                            "TEN_EN": "Malignant neoplasms of independent (primary) multiple sites",
+                            "DANH_SACH_BENH": [
+                              {
+                                "MA": "C97",
+                                "TEN": "U ác có nhiều vị trí độc lập (nguyên phát) nhiều chỗ",
+                                "TEN_EN": "Malignant neoplasms of independent (primary) multiple sites"
+                              }
+                            ]
                           }
                         ]
-                      },
-                      {}
+                      }
                     ]
                   }
                 ]

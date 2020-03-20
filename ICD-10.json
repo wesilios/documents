@@ -27539,49 +27539,2228 @@
         "MA": "L00-L08",
         "MA_TRONG_CHUONG": "",
         "TEN": "Nhiễm khuẩn da và mô dưới da",
-        "TEN_EN": "Infections of the skin and subcutaneous tissue"
+        "TEN_EN": "Infections of the skin and subcutaneous tissue",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "L00",
+            "TEN": "Hội chứng bong vảy da do tụ cầu",
+            "TEN_EN": "Staphylococcal scalded skin syndrome",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L01",
+            "TEN": "Chốc",
+            "TEN_EN": "Impetigo",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L01.0",
+                "TEN": "Chốc [bất kỳ sinh vật nào] [cơ quan nào] [bất kỳ vị trí nào]",
+                "TEN_EN": "Impetigo [any organism] [any site]"
+              },
+              {
+                "MA": "L01.1",
+                "TEN": "Chốc hóa của các bệnh da khác",
+                "TEN_EN": "Impetiginization of other dermatoses"
+              }
+            ]
+          },
+          {
+            "MA": "L02",
+            "TEN": "Áp xe da, nhọt, nhọt cụm",
+            "TEN_EN": "Cutaneous abscess, furuncle and carbuncle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L02.0",
+                "TEN": "Áp xe da, nhọt và cụm nhọt ở mặt",
+                "TEN_EN": "Cutaneous abscess, furuncle and carbuncle of face"
+              },
+              {
+                "MA": "L02.1",
+                "TEN": "Áp xe da, nhọt, cụm nhọt ở cổ",
+                "TEN_EN": "Cutaneous abscess, furuncle and carbuncle of neck"
+              },
+              {
+                "MA": "L02.2",
+                "TEN": "Áp xe da, nhọt, cụm nhọt ở thân",
+                "TEN_EN": "Cutaneous abscess, furuncle and carbuncle of trunk"
+              },
+              {
+                "MA": "L02.3",
+                "TEN": "Áp xe da, nhọt, cụm nhọt ở mông",
+                "TEN_EN": "Cutaneous abscess, furuncle and carbuncle of buttock"
+              },
+              {
+                "MA": "L02.4",
+                "TEN": "Áp xe da, nhọt, cụm nhọt ở chi",
+                "TEN_EN": "Cutaneous abscess, furuncle and carbuncle of limb"
+              },
+              {
+                "MA": "L02.8",
+                "TEN": "Áp xe da, nhọt, cụm nhọt ở vị trí khác",
+                "TEN_EN": "Cutaneous abscess, furuncle and carbuncle of other sites"
+              },
+              {
+                "MA": "L02.9",
+                "TEN": "Áp xe da, nhọt, cụm nhọt không đặc hiệu",
+                "TEN_EN": "Cutaneous abscess, furuncle and carbuncle, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L03",
+            "TEN": "Viêm mô bào",
+            "TEN_EN": "Cellulitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L03.0",
+                "TEN": "Viêm mô bào ở ngón tay và ngón chân",
+                "TEN_EN": "Cellulitis of finger and toe"
+              },
+              {
+                "MA": "L03.1",
+                "TEN": "Viêm mô bào ở các phần khác của chi",
+                "TEN_EN": "Cellulitis of other parts of limb"
+              },
+              {
+                "MA": "L03.2",
+                "TEN": "Viêm mô bào ở mặt",
+                "TEN_EN": "Cellulitis of face"
+              },
+              {
+                "MA": "L03.3",
+                "TEN": "Viêm mô bào ở thân",
+                "TEN_EN": "Cellulitis of trunk"
+              },
+              {
+                "MA": "L03.8",
+                "TEN": "Viêm mô bào ở vị trí khác",
+                "TEN_EN": "Cellulitis of other sites"
+              },
+              {
+                "MA": "L03.9",
+                "TEN": "Viêm mô bào không đặc hiệu",
+                "TEN_EN": "Cellulitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L04",
+            "TEN": "Viêm hạch bạch huyết cấp tính",
+            "TEN_EN": "Acute lymphadenitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L04.0",
+                "TEN": "Viêm hạch bạch huyết cấp ở mặt, đầu và cổ",
+                "TEN_EN": "Acute lymphadenitis of face, head and neck"
+              },
+              {
+                "MA": "L04.1",
+                "TEN": "Viêm bạch mạch huyết cấp ở thân",
+                "TEN_EN": "Acute lymphadenitis of trunk"
+              },
+              {
+                "MA": "L04.2",
+                "TEN": "Viêm bạch mạch huyết cấp ở chi trên",
+                "TEN_EN": "Acute lymphadenitis of upper limb"
+              },
+              {
+                "MA": "L04.3",
+                "TEN": "Viêm bạch mạch huyết cấp ở chi dưới",
+                "TEN_EN": "Acute lymphadenitis of lower limb"
+              },
+              {
+                "MA": "L04.8",
+                "TEN": "Viêm hạch bạch huyết cấp ở các vị trí khác",
+                "TEN_EN": "Acute lymphadenitis of other sites"
+              },
+              {
+                "MA": "L04.9",
+                "TEN": "Viêm bạch mạch huyết cấp, không đặc hiệu",
+                "TEN_EN": "Acute lymphadenitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L05",
+            "TEN": "Kén nang lông",
+            "TEN_EN": "Pilonidal cyst",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L05.0",
+                "TEN": "Kén nang lông áp xe hóa",
+                "TEN_EN": "Pilonidal cyst with abscess"
+              },
+              {
+                "MA": "L05.9",
+                "TEN": "Kén nang lông không áp xe hóa",
+                "TEN_EN": "Pilonidal cyst without abscess"
+              }
+            ]
+          },
+          {
+            "MA": "L08",
+            "TEN": "Nhiễm khuẩn khu trú khác của da và mô dưới da",
+            "TEN_EN": "Other local infections of skin and subcutaneous tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L08.0",
+                "TEN": "Viêm da mủ",
+                "TEN_EN": "Pyoderma"
+              },
+              {
+                "MA": "L08.1",
+                "TEN": "Bệnh Erythrasma",
+                "TEN_EN": "Erythrasma"
+              },
+              {
+                "MA": "L08.8",
+                "TEN": "Các nhiễm trùng khu trú ở da và tổ chức dưới da đặc hiệu khác",
+                "TEN_EN": "Other specified local infections of skin and subcutaneous tissue"
+              },
+              {
+                "MA": "L08.9",
+                "TEN": "Các nhiễm trùng khu trú ở da và tổ chức dưới da không đặc hiệu",
+                "TEN_EN": "Local infection of skin and subcutaneous tissue, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "L10-L14",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh da bọng nước",
-        "TEN_EN": "Bullous disorders"
+        "TEN_EN": "Bullous disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "L10",
+            "TEN": "Pemphigus",
+            "TEN_EN": "Pemphigus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L10.0",
+                "TEN": "Pemphigus thông thường",
+                "TEN_EN": "Pemphigus vulgaris"
+              },
+              {
+                "MA": "L10.1",
+                "TEN": "Pemphigus sùi",
+                "TEN_EN": "Pemphigus vegetans"
+              },
+              {
+                "MA": "L10.2",
+                "TEN": "Pemphigus vảy lá",
+                "TEN_EN": "Pemphigus foliaceus"
+              },
+              {
+                "MA": "L10.3",
+                "TEN": "Pemphigus Brazil",
+                "TEN_EN": "Brazilian pemphigus [fogo selvagem]"
+              },
+              {
+                "MA": "L10.4",
+                "TEN": "Pemphigus đỏ da",
+                "TEN_EN": "Pemphigus erythematosus"
+              },
+              {
+                "MA": "L10.5",
+                "TEN": "Pemphigus do thuốc",
+                "TEN_EN": "Drug-induced pemphigus"
+              },
+              {
+                "MA": "L10.8",
+                "TEN": "Các Pemphigus khác",
+                "TEN_EN": "Other pemphigus"
+              },
+              {
+                "MA": "L10.9",
+                "TEN": "Pemphigus không đặc hiệu",
+                "TEN_EN": "Pemphigus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L11",
+            "TEN": "Các bệnh da ly gai khác",
+            "TEN_EN": "Other acantholytic disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L11.0",
+                "TEN": "Dày sừng nang lông mắc phải",
+                "TEN_EN": "Acquired keratosis follicularis"
+              },
+              {
+                "MA": "L11.1",
+                "TEN": "Bệnh da do tiêu lớp gai thoáng qua [Grover]",
+                "TEN_EN": "Transient acantholytic dermatosis [Grover]"
+              },
+              {
+                "MA": "L11.8",
+                "TEN": "Các bệnh ly gai đặc hiệu khác",
+                "TEN_EN": "Other specified acantholytic disorders"
+              },
+              {
+                "MA": "L11.9",
+                "TEN": "Các bệnh ly gai, không đặc hiệu",
+                "TEN_EN": "Acantholytic disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L12",
+            "TEN": "Pemphigus",
+            "TEN_EN": "Pemphigoid",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L12.0",
+                "TEN": "Pemphigoid bọng nước",
+                "TEN_EN": "Bullous pemphigoid"
+              },
+              {
+                "MA": "L12.1",
+                "TEN": "Pemphigoid sẹo",
+                "TEN_EN": "Cicatricial pemphigoid"
+              },
+              {
+                "MA": "L12.2",
+                "TEN": "Bệnh bọng nước mãn tính ở trẻ em",
+                "TEN_EN": "Chronic bullous disease of childhood"
+              },
+              {
+                "MA": "L12.3",
+                "TEN": "Ly thượng bì bọng nước mắc phải",
+                "TEN_EN": "Acquired epidermolysis bullosa"
+              },
+              {
+                "MA": "L12.8",
+                "TEN": "Pemphigoid khác",
+                "TEN_EN": "Other pemphigoid"
+              },
+              {
+                "MA": "L12.9",
+                "TEN": "Pemphigoid không đặc hiệu",
+                "TEN_EN": "Pemphigoid, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L13",
+            "TEN": "Các bệnh da có bọng nước khác",
+            "TEN_EN": "Other bullous disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L13.0",
+                "TEN": "Viêm da dạng herpes",
+                "TEN_EN": "Dermatitis herpetiformis"
+              },
+              {
+                "MA": "L13.1",
+                "TEN": "Viêm da mụn mủ dưới lớp sừng",
+                "TEN_EN": "Subcorneal pustular dermatitis"
+              },
+              {
+                "MA": "L13.8",
+                "TEN": "Các bệnh da bọng nước đặc hiệu khác",
+                "TEN_EN": "Other specified bullous disorders"
+              },
+              {
+                "MA": "L13.9",
+                "TEN": "Các bệnh da bọng nước không đặc hiệu",
+                "TEN_EN": "Bullous disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L14",
+            "TEN": "Các bệnh da bọng nước trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Bullous disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L14*",
+                "TEN": "Các bệnh da bọng nước trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Bullous disorders in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "L20-L30",
         "MA_TRONG_CHUONG": "",
         "TEN": "Viêm da và chàm",
-        "TEN_EN": "Dermatitis and eczema"
+        "TEN_EN": "Dermatitis and eczema",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "L20",
+            "TEN": "Viêm da cơ địa",
+            "TEN_EN": "Atopic dermatitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L20.0",
+                "TEN": "Sẩn ngứa Besnier",
+                "TEN_EN": "Besnier s prurigo"
+              },
+              {
+                "MA": "L20.8",
+                "TEN": "Viêm da cơ địa khác",
+                "TEN_EN": "Other atopic dermatitis"
+              },
+              {
+                "MA": "L20.9",
+                "TEN": "Viêm da cơ địa, không đặc hiệu",
+                "TEN_EN": "Atopic dermatitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L21",
+            "TEN": "Viêm da dầu",
+            "TEN_EN": "Seborrhoeic dermatitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L21.0",
+                "TEN": "Viêm da dầu ở đầu",
+                "TEN_EN": "Seborrhoea capitis"
+              },
+              {
+                "MA": "L21.1",
+                "TEN": "Viêm da dầu ở trẻ em",
+                "TEN_EN": "Seborrhoeic infantile dermatitis"
+              },
+              {
+                "MA": "L21.8",
+                "TEN": "Viêm da dầu khác",
+                "TEN_EN": "Other seborrhoeic dermatitis"
+              },
+              {
+                "MA": "L21.9",
+                "TEN": "Viêm da dầu không đặc hiệu",
+                "TEN_EN": "Seborrhoeic dermatitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L22",
+            "TEN": "Viêm da tã lót",
+            "TEN_EN": "Diaper (napkin) dermatitis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L23",
+            "TEN": "Viêm da tiếp xúc dị ứng",
+            "TEN_EN": "Allergic contact dermatitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L23.0",
+                "TEN": "Viêm da dị ứng tiếp xúc do kim loại",
+                "TEN_EN": "Allergic contact dermatitis due to metals"
+              },
+              {
+                "MA": "L23.1",
+                "TEN": "Viêm da dị ứng tiếp xúc do keo dính",
+                "TEN_EN": "Allergic contact dermatitis due to adhesives"
+              },
+              {
+                "MA": "L23.2",
+                "TEN": "Viêm da  dị ứng tiếp xúc do mỹ phẩm",
+                "TEN_EN": "Allergic contact dermatitis due to cosmetics"
+              },
+              {
+                "MA": "L23.3",
+                "TEN": "Viêm da  dị ứng tiếp xúc do thuốc",
+                "TEN_EN": "Allergic contact dermatitis due to drugs in contact with skin"
+              },
+              {
+                "MA": "L23.4",
+                "TEN": "Viêm da  dị ứng tiếp xúc do thuốc nhuộm",
+                "TEN_EN": "Allergic contact dermatitis due to dyes"
+              },
+              {
+                "MA": "L23.5",
+                "TEN": "Viêm da  dị ứng tiếp xúc do hóa chất khác",
+                "TEN_EN": "Allergic contact dermatitis due to other chemical products"
+              },
+              {
+                "MA": "L23.6",
+                "TEN": "Viêm da dị ứng tiếp xúc do thực phẩm",
+                "TEN_EN": "Allergic contact dermatitis due to food in contact with skin"
+              },
+              {
+                "MA": "L23.7",
+                "TEN": "Viêm da dị ứng tiếp xúc do thực vật, ngoại trừ thực phẩm",
+                "TEN_EN": "Allergic contact dermatitis due to plants, except food"
+              },
+              {
+                "MA": "L23.8",
+                "TEN": "Viêm da dị ứng tiếp xúc do tác nhân khác",
+                "TEN_EN": "Allergic contact dermatitis due to other agents"
+              },
+              {
+                "MA": "L23.9",
+                "TEN": "Viêm da dị ứng tiếp xúc , nguyên nhân không đặc hiệu",
+                "TEN_EN": "Allergic contact dermatitis, unspecified cause"
+              }
+            ]
+          },
+          {
+            "MA": "L24",
+            "TEN": "Viêm da tiếp xúc kích ứng",
+            "TEN_EN": "Irritant contact dermatitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L24.0",
+                "TEN": "Viêm da tiếp xúc kích ứng do chất tẩy rửa",
+                "TEN_EN": "Irritant contact dermatitis due to detergents"
+              },
+              {
+                "MA": "L24.1",
+                "TEN": "Viêm da tiếp xúc kích ứng do dầu mỡ",
+                "TEN_EN": "Irritant contact dermatitis due to oils and greases"
+              },
+              {
+                "MA": "L24.2",
+                "TEN": "Viêm da tiếp xúc kích ứng do dung môi",
+                "TEN_EN": "Irritant contact dermatitis due to solvents"
+              },
+              {
+                "MA": "L24.3",
+                "TEN": "Viêm da tiếp xúc kích ứng do mỹ phẩm",
+                "TEN_EN": "Irritant contact dermatitis due to cosmetics"
+              },
+              {
+                "MA": "L24.4",
+                "TEN": "Viêm da tiếp xúc kích ứng do thuốc tại chỗ",
+                "TEN_EN": "Irritant contact dermatitis due to drugs in contact with skin"
+              },
+              {
+                "MA": "L24.5",
+                "TEN": "Viêm da tiếp xúc kích ứng do các hóa chất khác",
+                "TEN_EN": "Irritant contact dermatitis due to other chemical products"
+              },
+              {
+                "MA": "L24.6",
+                "TEN": "Viêm da tiếp xúc kích ứng do thực phẩm",
+                "TEN_EN": "Irritant contact dermatitis due to food in contact with skin"
+              },
+              {
+                "MA": "L24.7",
+                "TEN": "Viêm da tiếp xúc kích ứng do thực vật, ngoại trừ thực phẩm",
+                "TEN_EN": "Irritant contact dermatitis due to plants, except food"
+              },
+              {
+                "MA": "L24.8",
+                "TEN": "Viêm da tiếp xúc kích ứng do tác nhân khác",
+                "TEN_EN": "Irritant contact dermatitis due to other agents"
+              },
+              {
+                "MA": "L24.9",
+                "TEN": "Viêm da tiếp xúc kích ứng, nguyên nhân không đặc hiệu",
+                "TEN_EN": "Irritant contact dermatitis, unspecified cause"
+              }
+            ]
+          },
+          {
+            "MA": "L25",
+            "TEN": "Viêm da tiếp xúc không đặc hiệu",
+            "TEN_EN": "Unspecified contact dermatitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L25.0",
+                "TEN": "Viêm da tiếp xúc không đặc hiệu, do mỹ phẩm",
+                "TEN_EN": "Unspecified contact dermatitis due to cosmetics"
+              },
+              {
+                "MA": "L25.1",
+                "TEN": "Viêm da tiếp xúc không đặc hiệu, do thuốc",
+                "TEN_EN": "Unspecified contact dermatitis due to drugs in contact with skin"
+              },
+              {
+                "MA": "L25.2",
+                "TEN": "Viêm da tiếp xúc không đặc hiệu do thuốc nhuộm",
+                "TEN_EN": "Unspecified contact dermatitis due to dyes"
+              },
+              {
+                "MA": "L25.3",
+                "TEN": "Viêm da tiếp xúc không đặc hiệu do hóa chất khác",
+                "TEN_EN": "Unspecified contact dermatitis due to other chemical products"
+              },
+              {
+                "MA": "L25.4",
+                "TEN": "Viêm da tiếp xúc không đặc hiệu do thực phẩm",
+                "TEN_EN": "Unspecified contact dermatitis due to food in contact with skin"
+              },
+              {
+                "MA": "L25.5",
+                "TEN": "Viêm da tiếp xúc không đặc hiệu, do thực vật, trừ thực phẩm",
+                "TEN_EN": "Unspecified contact dermatitis due to plants, except food"
+              },
+              {
+                "MA": "L25.8",
+                "TEN": "Viêm da tiếp xúc không đặc hiệu, do tác nhân khác",
+                "TEN_EN": "Unspecified contact dermatitis due to other agents"
+              },
+              {
+                "MA": "L25.9",
+                "TEN": "Viêm da tiếp xúc không đặc hiệu",
+                "TEN_EN": "Unspecified contact dermatitis, unspecified cause"
+              }
+            ]
+          },
+          {
+            "MA": "L26",
+            "TEN": "Đỏ da toàn thân",
+            "TEN_EN": "Exfoliative dermatitis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L27",
+            "TEN": "Viêm da do các chất được đưa vào trong cơ thể",
+            "TEN_EN": "Dermatitis due to substances taken internally",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L27.0",
+                "TEN": "Phát ban toàn thân do dược chất và thuốc",
+                "TEN_EN": "Generalized skin eruption due to drugs and medicaments"
+              },
+              {
+                "MA": "L27.1",
+                "TEN": "Phát ban khu trú do dược chất và thuốc",
+                "TEN_EN": "Localized skin eruption due to drugs and medicaments"
+              },
+              {
+                "MA": "L27.2",
+                "TEN": "Viêm da do thức ăn",
+                "TEN_EN": "Dermatitis due to ingested food"
+              },
+              {
+                "MA": "L27.8",
+                "TEN": "Viêm da do các chất khác đưa vào trong cơ thể",
+                "TEN_EN": "Dermatitis due to other substances taken internally"
+              },
+              {
+                "MA": "L27.9",
+                "TEN": "Viêm da do các chất không đặc hiệu đưa vào trong cơ thể",
+                "TEN_EN": "Dermatitis due to unspecified substance taken internally"
+              }
+            ]
+          },
+          {
+            "MA": "L28",
+            "TEN": "Lichen đơn dạng mãn tính và sẩn ngứa",
+            "TEN_EN": "Lichen simplex chronicus and prurigo",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L28.0",
+                "TEN": "Lichen đơn dạng mãn tính",
+                "TEN_EN": "Lichen simplex chronicus"
+              },
+              {
+                "MA": "L28.1",
+                "TEN": "Sẩn cục",
+                "TEN_EN": "Prurigo nodularis"
+              },
+              {
+                "MA": "L28.2",
+                "TEN": "Sẩn ngứa khác",
+                "TEN_EN": "Other prurigo"
+              }
+            ]
+          },
+          {
+            "MA": "L29",
+            "TEN": "Ngứa",
+            "TEN_EN": "Pruritus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L29.0",
+                "TEN": "Ngứa hậu môn",
+                "TEN_EN": "Pruritus ani"
+              },
+              {
+                "MA": "L29.1",
+                "TEN": "Ngứa bìu",
+                "TEN_EN": "Pruritus scroti"
+              },
+              {
+                "MA": "L29.2",
+                "TEN": "Ngứa âm hộ",
+                "TEN_EN": "Pruritus vulvae"
+              },
+              {
+                "MA": "L29.3",
+                "TEN": "Ngứa hậu môn - sinh dục, không đặc hiệu",
+                "TEN_EN": "Anogenital pruritus, unspecified"
+              },
+              {
+                "MA": "L29.8",
+                "TEN": "Ngứa khác",
+                "TEN_EN": "Other pruritus"
+              },
+              {
+                "MA": "L29.9",
+                "TEN": "Ngứa không đặc hiệu",
+                "TEN_EN": "Pruritus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L30",
+            "TEN": "Các viêm da khác",
+            "TEN_EN": "Other dermatitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L30.0",
+                "TEN": "Chàm đồng tiền",
+                "TEN_EN": "Nummular dermatitis"
+              },
+              {
+                "MA": "L30.1",
+                "TEN": "Tổ đỉa [Chàm dạng trứng sam]",
+                "TEN_EN": "Dyshidrosis [pompholyx]"
+              },
+              {
+                "MA": "L30.2",
+                "TEN": "Tự mẫn cảm da",
+                "TEN_EN": "Cutaneous autosensitization"
+              },
+              {
+                "MA": "L30.3",
+                "TEN": "Viêm da nhiễm trùng",
+                "TEN_EN": "Infective dermatitis"
+              },
+              {
+                "MA": "L30.4",
+                "TEN": "Viêm kẽ",
+                "TEN_EN": "Erythema intertrigo"
+              },
+              {
+                "MA": "L30.5",
+                "TEN": "Vảy phấn trắng",
+                "TEN_EN": "Pityriasis alba"
+              },
+              {
+                "MA": "L30.8",
+                "TEN": "Viêm da đặc hiệu khác",
+                "TEN_EN": "Other specified dermatitis"
+              },
+              {
+                "MA": "L30.9",
+                "TEN": "Viêm da, không đặc hiệu",
+                "TEN_EN": "Dermatitis, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "L40-L45",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh sẩn có vảy",
-        "TEN_EN": "Papulosquamous disorders"
+        "TEN_EN": "Papulosquamous disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "L40",
+            "TEN": "Vảy nến",
+            "TEN_EN": "Psoriasis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L40.0",
+                "TEN": "Vảy nến thông thường",
+                "TEN_EN": "Psoriasis vulgaris"
+              },
+              {
+                "MA": "L40.1",
+                "TEN": "Vảy nến mủ toàn thân",
+                "TEN_EN": "Generalized pustular psoriasis"
+              },
+              {
+                "MA": "L40.2",
+                "TEN": "Viêm da đầu chi liên tục",
+                "TEN_EN": "Acrodermatitis continua"
+              },
+              {
+                "MA": "L40.3",
+                "TEN": "Vảy nến thể mủ ở gan bàn tay - bàn chân",
+                "TEN_EN": "Pustulosis palmaris et plantaris"
+              },
+              {
+                "MA": "L40.4",
+                "TEN": "Vảy nến thể giọt",
+                "TEN_EN": "Guttate psoriasis"
+              },
+              {
+                "MA": "L40.5†",
+                "TEN": "Vảy nến thể khớp M07.0- M07.3 M09.0",
+                "TEN_EN": "Arthropathic psoriasis M07.0-M07.3 M09.0"
+              },
+              {
+                "MA": "L40.8",
+                "TEN": "Vảy nến khác",
+                "TEN_EN": "Other psoriasis"
+              },
+              {
+                "MA": "L40.9",
+                "TEN": "Vảy nến, không điển hình",
+                "TEN_EN": "Psoriasis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L41",
+            "TEN": "Á vảy nến",
+            "TEN_EN": "Parapsoriasis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L41.0",
+                "TEN": "Vảy phấn dạng lichen và đậu mùa cấp tính",
+                "TEN_EN": "Pityriasis lichenoides et varioliformis acuta"
+              },
+              {
+                "MA": "L41.1",
+                "TEN": "Vảy phấn dạng lichen mãn tính",
+                "TEN_EN": "Pityriasis lichenoides chronica"
+              },
+              {
+                "MA": "L41.2",
+                "TEN": "Bệnh sẩn dạng lympho",
+                "TEN_EN": "Lymphomatoid papulosis"
+              },
+              {
+                "MA": "L41.3",
+                "TEN": "Á vảy nến thể mảng nhỏ",
+                "TEN_EN": "Small plaque parapsoriasis"
+              },
+              {
+                "MA": "L41.4",
+                "TEN": "Á vảy nến thể mảng lớn",
+                "TEN_EN": "Large plaque parapsoriasis"
+              },
+              {
+                "MA": "L41.5",
+                "TEN": "Á vảy nến dạng lưới",
+                "TEN_EN": "Retiform parapsoriasis"
+              },
+              {
+                "MA": "L41.8",
+                "TEN": "Á vảy nến khác",
+                "TEN_EN": "Other parapsoriasis"
+              },
+              {
+                "MA": "L41.9",
+                "TEN": "Á vảy nến, không điển hình",
+                "TEN_EN": "Parapsoriasis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L42",
+            "TEN": "Vảy phấn hồng",
+            "TEN_EN": "Pityriasis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L43",
+            "TEN": "Lichen phẳng",
+            "TEN_EN": "Lichen planus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L43.0",
+                "TEN": "Lichen phẳng phì đại",
+                "TEN_EN": "Hypertrophic lichen planus"
+              },
+              {
+                "MA": "L43.1",
+                "TEN": "Lichen phẳng bọng nước",
+                "TEN_EN": "Bullous lichen planus"
+              },
+              {
+                "MA": "L43.2",
+                "TEN": "Phản ứng thuốc dạng lichen",
+                "TEN_EN": "Lichenoid drug reaction"
+              },
+              {
+                "MA": "L43.3",
+                "TEN": "Lichen phẳng bán cấp (hoạt tính)",
+                "TEN_EN": "Subacute (active) lichen planus"
+              },
+              {
+                "MA": "L43.8",
+                "TEN": "Lichen phẳng khác",
+                "TEN_EN": "Other lichen planus"
+              },
+              {
+                "MA": "L43.9",
+                "TEN": "Lichen phẳng, không đặc hiệu",
+                "TEN_EN": "Lichen planus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L44",
+            "TEN": "Các bệnh sẩn có vảy khác",
+            "TEN_EN": "Other papulosquamous disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L44.0",
+                "TEN": "Vảy phấn đỏ nang lông",
+                "TEN_EN": "Pityriasis rubra pilaris"
+              },
+              {
+                "MA": "L44.1",
+                "TEN": "Lichen hình chuỗi hạt",
+                "TEN_EN": "Lichen nitidus"
+              },
+              {
+                "MA": "L44.2",
+                "TEN": "Lichen thành dải",
+                "TEN_EN": "Lichen striatus"
+              },
+              {
+                "MA": "L44.3",
+                "TEN": "Lichen dạng vằn",
+                "TEN_EN": "Lichen ruber moniliformis"
+              },
+              {
+                "MA": "L44.4",
+                "TEN": "Viêm da đầu chi dạng sẩn ở trẻ em [Glannotti-Crosti]",
+                "TEN_EN": "Infantile papular acrodermatitis [Giannotti-Crosti]"
+              },
+              {
+                "MA": "L44.8",
+                "TEN": "Các bệnh sẩn có vảy đặc hiệu khác",
+                "TEN_EN": "Other specified papulosquamous disorders"
+              },
+              {
+                "MA": "L44.9",
+                "TEN": "Các bệnh sẩn có vảy không điển hình",
+                "TEN_EN": "Papulosquamous disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L45",
+            "TEN": "Các bệnh sẩn có vảy trong các bệnh đã phân loại ở nơi khác",
+            "TEN_EN": "Papulosquamous disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L45*",
+                "TEN": "Các bệnh sẩn có vảy trong các bệnh đã phân loại ở nơi khác",
+                "TEN_EN": "Papulosquamous disorders in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "L50-L54",
         "MA_TRONG_CHUONG": "",
         "TEN": "Mày đay và hồng ban",
-        "TEN_EN": "Urticaria and erythema"
+        "TEN_EN": "Urticaria and erythema",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "L50",
+            "TEN": "Mày đay",
+            "TEN_EN": "Urticaria",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L50.0",
+                "TEN": "Mày đay dị ứng",
+                "TEN_EN": "Allergic urticaria"
+              },
+              {
+                "MA": "L50.1",
+                "TEN": "Mày đay tự phát",
+                "TEN_EN": "Idiopathic urticaria"
+              },
+              {
+                "MA": "L50.2",
+                "TEN": "Mày đay do lạnh và nóng",
+                "TEN_EN": "Urticaria due to cold and heat"
+              },
+              {
+                "MA": "L50.3",
+                "TEN": "Da vẽ nổi",
+                "TEN_EN": "Dermatographic urticaria"
+              },
+              {
+                "MA": "L50.4",
+                "TEN": "Mày đay do rung động",
+                "TEN_EN": "Vibratory urticaria"
+              },
+              {
+                "MA": "L50.5",
+                "TEN": "Mày đay do Cholin",
+                "TEN_EN": "Cholinergic urticaria"
+              },
+              {
+                "MA": "L50.6",
+                "TEN": "Mày đay tiếp xúc",
+                "TEN_EN": "Contact urticaria"
+              },
+              {
+                "MA": "L50.8",
+                "TEN": "Mày đay khác",
+                "TEN_EN": "Other urticaria"
+              },
+              {
+                "MA": "L50.9",
+                "TEN": "Mày đay, không đặc hiệu",
+                "TEN_EN": "Urticaria, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L51",
+            "TEN": "Hồng ban đa dạng",
+            "TEN_EN": "Erythema multiforme",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L51.0",
+                "TEN": "Hồng ban đa dạng không có bọng nước",
+                "TEN_EN": "Nonbullous erythema multiforme"
+              },
+              {
+                "MA": "L51.1",
+                "TEN": "Hồng ban đa dạng có bọng nước",
+                "TEN_EN": "Bullous erythema multiforme"
+              },
+              {
+                "MA": "L51.2",
+                "TEN": "Hoại tử thượng bì nhiễm độc [Lyell]",
+                "TEN_EN": "Toxic epidermal necrolysis [Lyell]"
+              },
+              {
+                "MA": "L51.8",
+                "TEN": "Hồng ban đa dạng khác",
+                "TEN_EN": "Other erythema multiforme"
+              },
+              {
+                "MA": "L51.9",
+                "TEN": "Hồng ban đa dạng, không điển hình",
+                "TEN_EN": "Erythema multiforme, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L52",
+            "TEN": "Hồng ban nút",
+            "TEN_EN": "Erythema nodosum",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L53",
+            "TEN": "Các trạng thái hồng ban khác",
+            "TEN_EN": "Other erythematous conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L53.0",
+                "TEN": "Hồng ban do nhiễm độc",
+                "TEN_EN": "Toxic erythema"
+              },
+              {
+                "MA": "L53.1",
+                "TEN": "Hồng ban hình nhẫn",
+                "TEN_EN": "Erythema annulare centrifugum"
+              },
+              {
+                "MA": "L53.2",
+                "TEN": "Hồng ban hình bản đồ",
+                "TEN_EN": "Erythema marginatum"
+              },
+              {
+                "MA": "L53.3",
+                "TEN": "Hồng ban mãn tính khác",
+                "TEN_EN": "Other chronic figurate erythema"
+              },
+              {
+                "MA": "L53.8",
+                "TEN": "Các tình trạng hồng ban đặc hiệu khác",
+                "TEN_EN": "Other specified erythematous conditions"
+              },
+              {
+                "MA": "L53.9",
+                "TEN": "Các tình trạng hồng ban không điển hình",
+                "TEN_EN": "Erythematous condition, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L54",
+            "TEN": "Hồng ban trong các bệnh đã phân loại ở phần khác",
+            "TEN_EN": "Erythema in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L54*",
+                "TEN": "Hồng ban trong các bệnh đã phân loại ở phần khác",
+                "TEN_EN": "Erythema in diseases classified elsewhere"
+              },
+              {
+                "MA": "L54.0*",
+                "TEN": "Hồng ban hình bản đồ trong thấp khớp cấp có sốt I00",
+                "TEN_EN": "Erythema marginatum in acute rheumatic feverI00"
+              },
+              {
+                "MA": "L54.8*",
+                "TEN": "Hồng ban trong các bệnh đã phân loại ở phần khác",
+                "TEN_EN": "Erythema in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "L55-L59",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh da và tổ chức dưới da liên quan đến bức xạ",
-        "TEN_EN": "Radiation-related disorders of the skin and subcutaneous tissue"
+        "TEN_EN": "Radiation-related disorders of the skin and subcutaneous tissue",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "L55",
+            "TEN": "Bỏng nắng",
+            "TEN_EN": "Sunburn",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L55.0",
+                "TEN": "Bỏng nắng độ một",
+                "TEN_EN": "Sunburn of first degree"
+              },
+              {
+                "MA": "L55.1",
+                "TEN": "Bỏng nắng độ hai",
+                "TEN_EN": "Sunburn of second degree"
+              },
+              {
+                "MA": "L55.2",
+                "TEN": "Bỏng nắng độ ba",
+                "TEN_EN": "Sunburn of third degree"
+              },
+              {
+                "MA": "L55.8",
+                "TEN": "Bỏng nắng khác",
+                "TEN_EN": "Other sunburn"
+              },
+              {
+                "MA": "L55.9",
+                "TEN": "Bỏng nắng, không điển hình",
+                "TEN_EN": "Sunburn, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L56",
+            "TEN": "Biến đổi da cấp tính khác do bức xạ tia cực tím",
+            "TEN_EN": "Other acute skin changes due to ultraviolet radiation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L56.0",
+                "TEN": "Nhiễm độc ánh sáng do thuốc",
+                "TEN_EN": "Drug phototoxic response"
+              },
+              {
+                "MA": "L56.1",
+                "TEN": "Phản ứng quá mẫn với ánh sáng do thuốc",
+                "TEN_EN": "Drug photoallergic response"
+              },
+              {
+                "MA": "L56.2",
+                "TEN": "Viêm da tiếp xúc ánh sáng [viêm da Berloque]",
+                "TEN_EN": "Photocontact dermatitis [berloque dermatitis]"
+              },
+              {
+                "MA": "L56.3",
+                "TEN": "Mày đay do ánh nắng",
+                "TEN_EN": "Solar urticaria"
+              },
+              {
+                "MA": "L56.4",
+                "TEN": "Phát ban đa dạng do ánh sáng",
+                "TEN_EN": "Polymorphous light eruption"
+              },
+              {
+                "MA": "L56.8",
+                "TEN": "Biến đổi da cấp tính đặc hiệu khác do tia cực tím",
+                "TEN_EN": "Other specified acute skin changes due to ultraviolet radiation"
+              },
+              {
+                "MA": "L56.9",
+                "TEN": "Biến đổi da cấp tính do tia cực tím, không điển hình",
+                "TEN_EN": "Acute skin change due to ultraviolet radiation, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L57",
+            "TEN": "Bệnh da do tiếp xúc lâu dài với bức xạ không ion hóa",
+            "TEN_EN": "Skin changes due to chronic exposure to nonionizing radiation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L57.0",
+                "TEN": "Dày sừng ánh sáng",
+                "TEN_EN": "Actinic keratosis"
+              },
+              {
+                "MA": "L57.1",
+                "TEN": "Ban dạng lưới do ánh sáng",
+                "TEN_EN": "Actinic reticuloid"
+              },
+              {
+                "MA": "L57.2",
+                "TEN": "Bệnh dày da gáy",
+                "TEN_EN": "Cutis rhomboidalis nuchae"
+              },
+              {
+                "MA": "L57.3",
+                "TEN": "Bệnh teo da hình mạng lưới của Civatt",
+                "TEN_EN": "Poikiloderma of Civatte"
+              },
+              {
+                "MA": "L57.4",
+                "TEN": "Bệnh nhão da người già",
+                "TEN_EN": "Cutis laxa senilis"
+              },
+              {
+                "MA": "L57.5",
+                "TEN": "U hạt do ánh sáng",
+                "TEN_EN": "Actinic granuloma"
+              },
+              {
+                "MA": "L57.8",
+                "TEN": "Biển đổi khác ở da do tiếp xúc lâu dài với bức xạ không ion hóa",
+                "TEN_EN": "Other skin changes due to chronic exposure to nonionizing radiation"
+              },
+              {
+                "MA": "L57.9",
+                "TEN": "Biến đổi khác ở da do tiếp xúc lâu dài với bức xạ không ion hóa không điển hình",
+                "TEN_EN": "Skin changes due to chronic exposure to nonionizing radiation, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L58",
+            "TEN": "Viêm da do quang tuyến",
+            "TEN_EN": "Radiodermatitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L58.0",
+                "TEN": "Viêm da do quang tuyến cấp tính",
+                "TEN_EN": "Acute radiodermatitis"
+              },
+              {
+                "MA": "L58.1",
+                "TEN": "Viêm da do quang tuyến mãn tính",
+                "TEN_EN": "Chronic radiodermatitis"
+              },
+              {
+                "MA": "L58.9",
+                "TEN": "Viêm da do quang tuyến không điển hình",
+                "TEN_EN": "Radiodermatitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L59",
+            "TEN": "Các bệnh khác ở da và tổ chức dưới da liên quan đến bức xạ",
+            "TEN_EN": "Other disorders of skin and subcutaneous tissue related to radiation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L59.0",
+                "TEN": "Hồng ban nhiệt [viêm da do nhiệt]",
+                "TEN_EN": "Erythema ab igne [dermatitis ab igne]"
+              },
+              {
+                "MA": "L59.8",
+                "TEN": "Các bệnh đặc hiệu khác ở da và tổ chức dưới da liên quan đến bức xạ",
+                "TEN_EN": "Other specified disorders of skin and subcutaneous tissue related to radiation"
+              },
+              {
+                "MA": "L59.9",
+                "TEN": "Bệnh ở da và tổ chức dưới da liên quan đến bức xạ, không điển hình",
+                "TEN_EN": "Disorder of skin and subcutaneous tissue related to radiation, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "L60-L75",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh phần phụ của da",
-        "TEN_EN": "Disorders of skin appendages"
+        "TEN_EN": "Disorders of skin appendages",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "L60",
+            "TEN": "Các bệnh về móng",
+            "TEN_EN": "Nail disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L60.0",
+                "TEN": "Móng chọc thịt",
+                "TEN_EN": "Ingrowing nail"
+              },
+              {
+                "MA": "L60.1",
+                "TEN": "Móng tách",
+                "TEN_EN": "Onycholysis"
+              },
+              {
+                "MA": "L60.2",
+                "TEN": "Móng quặp",
+                "TEN_EN": "Onychogryphosis"
+              },
+              {
+                "MA": "L60.3",
+                "TEN": "Loạn dưỡng móng",
+                "TEN_EN": "Nail dystrophy"
+              },
+              {
+                "MA": "L60.4",
+                "TEN": "Móng rãnh Beau",
+                "TEN_EN": "Beau s lines"
+              },
+              {
+                "MA": "L60.5",
+                "TEN": "Hội chứng vàng móng",
+                "TEN_EN": "Yellow nail syndrome"
+              },
+              {
+                "MA": "L60.8",
+                "TEN": "Các bệnh khác của móng",
+                "TEN_EN": "Other nail disorders"
+              },
+              {
+                "MA": "L60.9",
+                "TEN": "Bệnh móng khác, không điển hình",
+                "TEN_EN": "Nail disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L62",
+            "TEN": "Các bệnh móng trong các bệnh đã phân loại ở phần khác",
+            "TEN_EN": "Nail disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L62*",
+                "TEN": "Các bệnh móng trong các bệnh đã phân loại ở phần khác",
+                "TEN_EN": "Nail disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "L62.0*",
+                "TEN": "Móng tay dùi trống do tăng sinh màng xương M89.4",
+                "TEN_EN": "Clubbed nail pachydermoperiostosisM89.4"
+              },
+              {
+                "MA": "L62.8*",
+                "TEN": "Các bệnh của móng trong các bệnh khác đã phân loại ở phần khác",
+                "TEN_EN": "Nail disorders in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "L63",
+            "TEN": "Rụng tóc từng mảng",
+            "TEN_EN": "Alopecia areata",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L63.0",
+                "TEN": "Rụng tóc toàn thể",
+                "TEN_EN": "Alopecia (capitis) totalis"
+              },
+              {
+                "MA": "L63.1",
+                "TEN": "Rụng lông tóc toàn bộ",
+                "TEN_EN": "Alopecia universalis"
+              },
+              {
+                "MA": "L63.2",
+                "TEN": "Rụng tóc dạng dải",
+                "TEN_EN": "Ophiasis"
+              },
+              {
+                "MA": "L63.8",
+                "TEN": "Rụng tóc từng mảng khác",
+                "TEN_EN": "Other alopecia areata"
+              },
+              {
+                "MA": "L63.9",
+                "TEN": "Rụng tóc từng mảng, không điển hình",
+                "TEN_EN": "Alopecia areata, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L64",
+            "TEN": "Rụng tóc do nội tiết tố nam tính",
+            "TEN_EN": "Androgenic alopecia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L64.0",
+                "TEN": "Rụng tóc do thuốc nội tiết tố nam",
+                "TEN_EN": "Drug-induced androgenic alopecia"
+              },
+              {
+                "MA": "L64.8",
+                "TEN": "Rụng tóc do nội tiết tố nam khác",
+                "TEN_EN": "Other androgenic alopecia"
+              },
+              {
+                "MA": "L64.9",
+                "TEN": "Rụng tóc do nội tiết tố nam, không đặc hiệu",
+                "TEN_EN": "Androgenic alopecia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L65",
+            "TEN": "Rụng tóc không sẹo khác",
+            "TEN_EN": "Other nonscarring hair loss",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L65.0",
+                "TEN": "Rụng tóc ở giai đoạn ngừng phát triển của tóc",
+                "TEN_EN": "Telogen effluvium"
+              },
+              {
+                "MA": "L65.1",
+                "TEN": "Rụng tóc ở giai đoạn đầu của sự phát triển tóc",
+                "TEN_EN": "Anagen effluvium"
+              },
+              {
+                "MA": "L65.2",
+                "TEN": "Rụng tóc do lắng đọng chất nhầy",
+                "TEN_EN": "Alopecia mucinosa"
+              },
+              {
+                "MA": "L65.8",
+                "TEN": "Rụng tóc không do sẹo đặc hiệu khác",
+                "TEN_EN": "Other specified nonscarring hair loss"
+              },
+              {
+                "MA": "L65.9",
+                "TEN": "Rụng tóc không sẹo, không điển hình",
+                "TEN_EN": "Nonscarring hair loss, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L66",
+            "TEN": "Rụng tóc có sẹo",
+            "TEN_EN": "Cicatricial alopecia [scarring hair loss]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L66.0",
+                "TEN": "Giả rụng tóc pelade",
+                "TEN_EN": "Pseudopelade"
+              },
+              {
+                "MA": "L66.1",
+                "TEN": "Lichen phẳng nang lông",
+                "TEN_EN": "Lichen planopilaris"
+              },
+              {
+                "MA": "L66.2",
+                "TEN": "Viêm nang lông gây rụng tóc toàn thể",
+                "TEN_EN": "Folliculitis decalvans"
+              },
+              {
+                "MA": "L66.3",
+                "TEN": "Viêm nang lông da đầu",
+                "TEN_EN": "Perifolliculitis capitis abscedens"
+              },
+              {
+                "MA": "L66.4",
+                "TEN": "Viêm nang lông hồng ban hình mạng lưới",
+                "TEN_EN": "Folliculitis ulerythematosa reticulata"
+              },
+              {
+                "MA": "L66.8",
+                "TEN": "Rụng tóc có sẹo khác",
+                "TEN_EN": "Other cicatricial alopecia"
+              },
+              {
+                "MA": "L66.9",
+                "TEN": "Rụng tóc có sẹo, không điển hình",
+                "TEN_EN": "Cicatricial alopecia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L67",
+            "TEN": "Bất thường về màu và sợi tóc",
+            "TEN_EN": "Hair colour and hair shaft abnormalities",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L67.0",
+                "TEN": "Tóc giòn có nốt",
+                "TEN_EN": "Trichorrhexis nodosa"
+              },
+              {
+                "MA": "L67.1",
+                "TEN": "Thay đổi màu tóc",
+                "TEN_EN": "Variations in hair colour"
+              },
+              {
+                "MA": "L67.8",
+                "TEN": "Các bất thường khác về màu tóc sợi tóc",
+                "TEN_EN": "Other hair colour and hair shaft abnormalities"
+              },
+              {
+                "MA": "L67.9",
+                "TEN": "Các bất thường về màu tóc và sợi tóc, không điển hình",
+                "TEN_EN": "Hair colour and hair shaft abnormality, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L68",
+            "TEN": "Rậm lông tóc",
+            "TEN_EN": "Hypertrichosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L68.0",
+                "TEN": "Rậm lông",
+                "TEN_EN": "Hirsutism"
+              },
+              {
+                "MA": "L68.1",
+                "TEN": "Rậm lông tơ mắc phải",
+                "TEN_EN": "Acquired hypertrichosis lanuginosa"
+              },
+              {
+                "MA": "L68.2",
+                "TEN": "Rậm lông khu trú",
+                "TEN_EN": "Localized hypertrichosis"
+              },
+              {
+                "MA": "L68.3",
+                "TEN": "Đa nang tóc",
+                "TEN_EN": "Polytrichia"
+              },
+              {
+                "MA": "L68.8",
+                "TEN": "Rậm lông tóc khác",
+                "TEN_EN": "Other hypertrichosis"
+              },
+              {
+                "MA": "L68.9",
+                "TEN": "Rậm lông tóc, không điển hình",
+                "TEN_EN": "Hypertrichosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L70",
+            "TEN": "Trứng cá",
+            "TEN_EN": "Acne",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L70.0",
+                "TEN": "Trứng cá thông thường",
+                "TEN_EN": "Acne vulgaris"
+              },
+              {
+                "MA": "L70.1",
+                "TEN": "Trứng cá mạch lươn",
+                "TEN_EN": "Acne conglobata"
+              },
+              {
+                "MA": "L70.2",
+                "TEN": "Trứng cá dạng thủy đậu",
+                "TEN_EN": "Acne varioliformis"
+              },
+              {
+                "MA": "L70.3",
+                "TEN": "Trứng cá nhiệt đới",
+                "TEN_EN": "Acne tropica"
+              },
+              {
+                "MA": "L70.4",
+                "TEN": "Trứng cá trẻ em",
+                "TEN_EN": "Infantile acne"
+              },
+              {
+                "MA": "L70.5",
+                "TEN": "Trứng cá trầy xước ở thiếu nữ",
+                "TEN_EN": "Acné excoriée des jeunes filles"
+              },
+              {
+                "MA": "L70.8",
+                "TEN": "Trứng cá khác",
+                "TEN_EN": "Other acne"
+              },
+              {
+                "MA": "L70.9",
+                "TEN": "Trứng cá không điển hình",
+                "TEN_EN": "Acne, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L71",
+            "TEN": "Trứng cá đỏ",
+            "TEN_EN": "Rosacea",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L71.0",
+                "TEN": "Viêm da quanh miệng",
+                "TEN_EN": "Perioral dermatitis"
+              },
+              {
+                "MA": "L71.1",
+                "TEN": "Mũi sư tử",
+                "TEN_EN": "Rhinophyma"
+              },
+              {
+                "MA": "L71.8",
+                "TEN": "Trứng cá đỏ khác",
+                "TEN_EN": "Other rosacea"
+              },
+              {
+                "MA": "L71.9",
+                "TEN": "Trứng cá đỏ, không điển hình",
+                "TEN_EN": "Rosacea, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L72",
+            "TEN": "Kén nang lông của da và tổ chức dưới da",
+            "TEN_EN": "Follicular cysts of skin and subcutaneous tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L72.0",
+                "TEN": "Kén thượng bì",
+                "TEN_EN": "Epidermal cyst"
+              },
+              {
+                "MA": "L72.1",
+                "TEN": "Kén ở chân lông",
+                "TEN_EN": "Trichilemmal cyst"
+              },
+              {
+                "MA": "L72.2",
+                "TEN": "Đa u tuyến bã",
+                "TEN_EN": "Steatocystoma multiplex"
+              },
+              {
+                "MA": "L72.8",
+                "TEN": "Các u nang khác ở da và tổ chức dưới da",
+                "TEN_EN": "Other follicular cysts of skin and subcutaneous tissue"
+              },
+              {
+                "MA": "L72.9",
+                "TEN": "U nang lông ở da và tổ chức dưới da, không điển hình",
+                "TEN_EN": "Follicular cyst of skin and subcutaneous tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L73",
+            "TEN": "Các bệnh nang lông khác",
+            "TEN_EN": "Other follicular disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L73.0",
+                "TEN": "Sẹo lồi do trứng cá",
+                "TEN_EN": "Acne keloid"
+              },
+              {
+                "MA": "L73.1",
+                "TEN": "Giả viêm nang lông ở cằm",
+                "TEN_EN": "Pseudofolliculitis barbae"
+              },
+              {
+                "MA": "L73.2",
+                "TEN": "Viêm tuyến mồ hôi mủ (nhọt ổ gà)",
+                "TEN_EN": "Hidradenitis suppurativa"
+              },
+              {
+                "MA": "L73.8",
+                "TEN": "Các bệnh nang lông đặc hiệu khác",
+                "TEN_EN": "Other specified follicular disorders"
+              },
+              {
+                "MA": "L73.9",
+                "TEN": "Bệnh nang lông, không điển hình",
+                "TEN_EN": "Follicular disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L74",
+            "TEN": "Các bệnh của tuyến mồ hôi",
+            "TEN_EN": "Eccrine sweat disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L74.0",
+                "TEN": "Rôm đỏ",
+                "TEN_EN": "Miliaria rubra"
+              },
+              {
+                "MA": "L74.1",
+                "TEN": "Rôm mụn nước",
+                "TEN_EN": "Miliaria crystallina"
+              },
+              {
+                "MA": "L74.2",
+                "TEN": "Rôm sâu",
+                "TEN_EN": "Miliaria profunda"
+              },
+              {
+                "MA": "L74.3",
+                "TEN": "Rôm không điển hình",
+                "TEN_EN": "Miliaria, unspecified"
+              },
+              {
+                "MA": "L74.4",
+                "TEN": "Không tiết mồ hôi",
+                "TEN_EN": "Anhidrosis"
+              },
+              {
+                "MA": "L74.8",
+                "TEN": "Các bệnh khác của tuyến mồ hôi",
+                "TEN_EN": "Other eccrine sweat disorders"
+              },
+              {
+                "MA": "L74.9",
+                "TEN": "Các bệnh tuyến mồ hôi, không điển hình",
+                "TEN_EN": "Eccrine sweat disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L75",
+            "TEN": "Bệnh tuyến mồ hôi bán hủy (nội tiết)",
+            "TEN_EN": "Apocrine sweat disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L75.0",
+                "TEN": "Mồ hôi có mùi",
+                "TEN_EN": "Bromhidrosis"
+              },
+              {
+                "MA": "L75.1",
+                "TEN": "Mồ hôi có màu",
+                "TEN_EN": "Chromhidrosis"
+              },
+              {
+                "MA": "L75.2",
+                "TEN": "Rôm tuyến mồ hôi bán hủy",
+                "TEN_EN": "Apocrine miliaria"
+              },
+              {
+                "MA": "L75.8",
+                "TEN": "Các bệnh tuyến mồ hôi bán hủy khác",
+                "TEN_EN": "Other apocrine sweat disorders"
+              },
+              {
+                "MA": "L75.9",
+                "TEN": "Các bệnh tuyến mồ hôi bán hủy, không điển hình",
+                "TEN_EN": "Apocrine sweat disorder, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "L80-L99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh khác của da và tổ chức dưới da",
-        "TEN_EN": "Other disorders of the skin and subcutaneous tissue"
+        "TEN_EN": "Other disorders of the skin and subcutaneous tissue",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "L80",
+            "TEN": "Bạch biến",
+            "TEN_EN": "Vitiligo",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L81",
+            "TEN": "Bệnh rối loạn sắc tố khác",
+            "TEN_EN": "Other disorders of pigmentation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L81.0",
+                "TEN": "Tăng sắc tố sau viêm",
+                "TEN_EN": "Postinflammatory hyperpigmentation"
+              },
+              {
+                "MA": "L81.1",
+                "TEN": "Rám má",
+                "TEN_EN": "Chloasma"
+              },
+              {
+                "MA": "L81.2",
+                "TEN": "Tàn nhang",
+                "TEN_EN": "Freckles"
+              },
+              {
+                "MA": "L81.3",
+                "TEN": "Dát cà phê sữa",
+                "TEN_EN": "Café au lait spots"
+              },
+              {
+                "MA": "L81.4",
+                "TEN": "Bệnh tăng sắc tố do melanin khác",
+                "TEN_EN": "Other melanin hyperpigmentation"
+              },
+              {
+                "MA": "L81.5",
+                "TEN": "Bệnh da mất sắc tố chưa được phân loại ở phần khác",
+                "TEN_EN": "Leukoderma, not elsewhere classified"
+              },
+              {
+                "MA": "L81.6",
+                "TEN": "Các bệnh khác do giảm sản xuất melanin",
+                "TEN_EN": "Other disorders of diminished melanin formation"
+              },
+              {
+                "MA": "L81.7",
+                "TEN": "Bệnh da xuất huyết tăng sắc tố",
+                "TEN_EN": "Pigmented purpuric dermatosis"
+              },
+              {
+                "MA": "L81.8",
+                "TEN": "Bệnh sắc tố đặc hiệu khác",
+                "TEN_EN": "Other specified disorders of pigmentation"
+              },
+              {
+                "MA": "L81.9",
+                "TEN": "Bệnh sắc tố không đặc hiệu",
+                "TEN_EN": "Disorder of pigmentation, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L82",
+            "TEN": "Dày sừng da dầu",
+            "TEN_EN": "Seborrhoeic keratosis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L83",
+            "TEN": "Bệnh gai đen",
+            "TEN_EN": "Acanthosis nigricans",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L84",
+            "TEN": "Mắt cá và chai chân",
+            "TEN_EN": "Corns and callosities",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L85",
+            "TEN": "Dày thượng bì khác",
+            "TEN_EN": "Other epidermal thickening",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L85.0",
+                "TEN": "Bệnh da vảy cá mắc phải",
+                "TEN_EN": "Acquired ichthyosis"
+              },
+              {
+                "MA": "L85.1",
+                "TEN": "Bệnh dày sừng mắc phải [da dày] ở lòng bàn tay và bàn chân",
+                "TEN_EN": "Acquired keratosis [keratoderma] palmaris et plantaris"
+              },
+              {
+                "MA": "L85.2",
+                "TEN": "Dày sừng chấm (lòng bàn tay - bàn chân)",
+                "TEN_EN": "Keratosis punctata (palmaris et plantaris)"
+              },
+              {
+                "MA": "L85.3",
+                "TEN": "Khô da",
+                "TEN_EN": "Xerosis cutis"
+              },
+              {
+                "MA": "L85.8",
+                "TEN": "Dày thượng bì đặc hiệu khác",
+                "TEN_EN": "Other specified epidermal thickening"
+              },
+              {
+                "MA": "L85.9",
+                "TEN": "Dày thượng bì, không điển hình",
+                "TEN_EN": "Epidermal thickening, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L86",
+            "TEN": "Dày sừng trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Keratoderma in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L86*",
+                "TEN": "Dày sừng trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Keratoderma in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "L87",
+            "TEN": "Các bệnh loại bỏ dị vật qua thượng bì",
+            "TEN_EN": "Transepidermal elimination disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L87.0",
+                "TEN": "Dày sừng nang lông và quanh nang lông [Bệnh Kyrle]",
+                "TEN_EN": "Keratosis follicularis et parafollicularis in cutem penetrans [Kyrle]"
+              },
+              {
+                "MA": "L87.1",
+                "TEN": "Bệnh tạo keo đục lỗ phản ứng",
+                "TEN_EN": "Reactive perforating collagenosis"
+              },
+              {
+                "MA": "L87.2",
+                "TEN": "Bệnh sợi chun đục lỗ ngoằn ngoèo",
+                "TEN_EN": "Elastosis perforans serpiginosa"
+              },
+              {
+                "MA": "L87.8",
+                "TEN": "Các bệnh loại bỏ dị vật qua thượng bì khác",
+                "TEN_EN": "Other transepidermal elimination disorders"
+              },
+              {
+                "MA": "L87.9",
+                "TEN": "Các bệnh loại bỏ dị vật qua thượng bì, không điển hình",
+                "TEN_EN": "Transepidermal elimination disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L88",
+            "TEN": "Viêm da mủ hoại thư",
+            "TEN_EN": "Pyoderma gangrenosum",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L89",
+            "TEN": "Loét nằm và vùng đè ép",
+            "TEN_EN": "Decubitus ulcer and pressure area ",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L89.0",
+                "TEN": "Loét nằm và vùng đè ép giai đoạn I",
+                "TEN_EN": "Stage I decubitus ulcer and pressure area"
+              },
+              {
+                "MA": "L89.1",
+                "TEN": "Loét nằm giai đoạn II",
+                "TEN_EN": "Stage II decubitus ulcer"
+              },
+              {
+                "MA": "L89.2",
+                "TEN": "Loét nằm giai đoạn III",
+                "TEN_EN": "Stage III decubitus ulcer"
+              },
+              {
+                "MA": "L89.3",
+                "TEN": "Loét nằm giai đoạn IV",
+                "TEN_EN": "Stage IV decubitus ulcer"
+              },
+              {
+                "MA": "L89.9",
+                "TEN": "Loét nằm và vùng đè ép, không đặc hiệu",
+                "TEN_EN": "Decubitus ulcer and pressure area, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L90",
+            "TEN": "Teo da",
+            "TEN_EN": "Atrophic disorders of skin",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L90.0",
+                "TEN": "Lichen xơ teo",
+                "TEN_EN": "Lichen sclerosus et atrophicus"
+              },
+              {
+                "MA": "L90.1",
+                "TEN": "Bệnh teo da Schweninger-Buzzi",
+                "TEN_EN": "Anetoderma of Schweninger-Buzzi"
+              },
+              {
+                "MA": "L90.2",
+                "TEN": "Bệnh teo da Jadassohn - Pellizzari",
+                "TEN_EN": "Anetoderma of Jadassohn-Pellizzari"
+              },
+              {
+                "MA": "L90.3",
+                "TEN": "Bệnh teo nhão da Pasinivà Pierini",
+                "TEN_EN": "Atrophoderma of Pasini and Pierini"
+              },
+              {
+                "MA": "L90.4",
+                "TEN": "Viêm da đầu chi teo mãn tính",
+                "TEN_EN": "Acrodermatitis chronica atrophicans"
+              },
+              {
+                "MA": "L90.5",
+                "TEN": "Các bệnh sẹo và xơ hóa của da",
+                "TEN_EN": "Scar conditions and fibrosis of skin"
+              },
+              {
+                "MA": "L90.6",
+                "TEN": "Rạn da teo",
+                "TEN_EN": "Striae atrophicae"
+              },
+              {
+                "MA": "L90.8",
+                "TEN": "Các bệnh teo da khác",
+                "TEN_EN": "Other atrophic disorders of skin"
+              },
+              {
+                "MA": "L90.9",
+                "TEN": "Teo da, không điển hình",
+                "TEN_EN": "Atrophic disorder of skin, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L91",
+            "TEN": "Các bệnh quá sản của da",
+            "TEN_EN": "Hypertrophic disorders of skin",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L91.0",
+                "TEN": "Sẹo phì đại",
+                "TEN_EN": "Keloid scar"
+              },
+              {
+                "MA": "L91.8",
+                "TEN": "Các bệnh quá sản khác của da",
+                "TEN_EN": "Other hypertrophic disorders of skin"
+              },
+              {
+                "MA": "L91.9",
+                "TEN": "Các bệnh quá sản của da không điển hình",
+                "TEN_EN": "Hypertrophic disorder of skin, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L92",
+            "TEN": "U hạt của da và tổ chức dưới da",
+            "TEN_EN": "Granulomatous disorders of skin and subcutaneous tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L92.0",
+                "TEN": "U hạt hình nhẫn",
+                "TEN_EN": "Granuloma annulare"
+              },
+              {
+                "MA": "L92.1",
+                "TEN": "Hoại tử mỡ, chưa phân loại ở phần khác",
+                "TEN_EN": "Necrobiosis lipoidica, not elsewhere classified"
+              },
+              {
+                "MA": "L92.2",
+                "TEN": "U hạt ở mặt [u hạt nhiễm bạch ái toan của da]",
+                "TEN_EN": "Granuloma faciale [eosinophilic granuloma of skin]"
+              },
+              {
+                "MA": "L92.3",
+                "TEN": "U hạt ở da và tổ chức dưới da do dị vật",
+                "TEN_EN": "Foreign body granuloma of skin and subcutaneous tissue"
+              },
+              {
+                "MA": "L92.8",
+                "TEN": "Các bệnh u hạt ở da và tổ chức dưới da khác",
+                "TEN_EN": "Other granulomatous disorders of skin and subcutaneous tissue"
+              },
+              {
+                "MA": "L92.9",
+                "TEN": "Các bệnh u hạt ở da và tổ chức dưới da, không điển hình",
+                "TEN_EN": "Granulomatous disorder of skin and subcutaneous tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L93",
+            "TEN": "Lupus ban đỏ",
+            "TEN_EN": "Lupus erythematosus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L93.0",
+                "TEN": "Lupus ban đỏ dạng đĩa",
+                "TEN_EN": "Discoid lupus erythematosus"
+              },
+              {
+                "MA": "L93.1",
+                "TEN": "Lupus ban đỏ bán cấp",
+                "TEN_EN": "Subacute cutaneous lupus erythematosus"
+              },
+              {
+                "MA": "L93.2",
+                "TEN": "Lupus ban đỏ khu trú khác",
+                "TEN_EN": "Other local lupus erythematosus"
+              }
+            ]
+          },
+          {
+            "MA": "L94",
+            "TEN": "Các bệnh tổ chức liên kết khu trú khác",
+            "TEN_EN": "Other localized connective tissue disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L94.0",
+                "TEN": "Xơ cứng bì khu trú [dạng mảng]",
+                "TEN_EN": "Localized scleroderma [morphea]"
+              },
+              {
+                "MA": "L94.1",
+                "TEN": "Xơ cứng bì dạng dải",
+                "TEN_EN": "Linear scleroderma"
+              },
+              {
+                "MA": "L94.2",
+                "TEN": "Lắng đọng Calci ở da",
+                "TEN_EN": "Calcinosis cutis"
+              },
+              {
+                "MA": "L94.3",
+                "TEN": "Xơ cứng ngón",
+                "TEN_EN": "Sclerodactyly"
+              },
+              {
+                "MA": "L94.4",
+                "TEN": "Sẩn Gottron",
+                "TEN_EN": "Gottron s papules"
+              },
+              {
+                "MA": "L94.5",
+                "TEN": "Bệnh teo da dạng mạng lưới giãn mạch",
+                "TEN_EN": "Poikiloderma vasculare atrophicans"
+              },
+              {
+                "MA": "L94.6",
+                "TEN": "Bệnh Ainhum",
+                "TEN_EN": "Ainhum"
+              },
+              {
+                "MA": "L94.8",
+                "TEN": "Các bệnh tổ chức liên kết khu trú đặc hiệu khác",
+                "TEN_EN": "Other specified localized connective tissue disorders"
+              },
+              {
+                "MA": "L94.9",
+                "TEN": "Các bệnh tổ chức liên kết khu trú, không điển hình",
+                "TEN_EN": "Localized connective tissue disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L95",
+            "TEN": "Viêm mao mạch ở da, chưa phân loại ở phần khác",
+            "TEN_EN": "Vasculitis limited to skin, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L95.0",
+                "TEN": "Viêm mạch mạng lưới",
+                "TEN_EN": "Livedoid vasculitis"
+              },
+              {
+                "MA": "L95.1",
+                "TEN": "Ban đỏ nổi cục rắn",
+                "TEN_EN": "Erythema elevatum diutinum"
+              },
+              {
+                "MA": "L95.8",
+                "TEN": "Viêm mao mạch ở da",
+                "TEN_EN": "Other vasculitis limited to skin"
+              },
+              {
+                "MA": "L95.9",
+                "TEN": "Viêm mao mạch ở da, không điển hình",
+                "TEN_EN": "Vasculitis limited to skin, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L97",
+            "TEN": "Loét chi dưới, chưa phân loại ở phần khác",
+            "TEN_EN": "Ulcer of lower limb, not elsewhere classified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "L98",
+            "TEN": "Bệnh khác của da và mô dưới da chưa được phân loại ở phần khác",
+            "TEN_EN": "Other disorders of skin and subcutaneous tissue, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L98.0",
+                "TEN": "U hạt sinh mủ",
+                "TEN_EN": "Pyogenic granuloma"
+              },
+              {
+                "MA": "L98.1",
+                "TEN": "Viêm da tự tạo",
+                "TEN_EN": "Factitial dermatitis"
+              },
+              {
+                "MA": "L98.2",
+                "TEN": "Bệnh da tăng bạch cầu trung tính có sốt [Hội chứng Sweet]",
+                "TEN_EN": "Febrile neutrophilic dermatosis [Sweet]"
+              },
+              {
+                "MA": "L98.3",
+                "TEN": "Viêm mô bào tăng bạch cầu ái toan [Hội chứng Wells]",
+                "TEN_EN": "Eosinophilic cellulitis [Wells]"
+              },
+              {
+                "MA": "L98.4",
+                "TEN": "Loét da mãn tính, chưa phân loại ở phần khác",
+                "TEN_EN": "Chronic ulcer of skin, not elsewhere classified"
+              },
+              {
+                "MA": "L98.5",
+                "TEN": "Bệnh thoái hóa nhày ở da",
+                "TEN_EN": "Mucinosis of skin"
+              },
+              {
+                "MA": "L98.6",
+                "TEN": "Các bệnh có thâm nhiễm khác ở da và tổ chức dưới da",
+                "TEN_EN": "Other infiltrative disorders of skin and subcutaneous tissue"
+              },
+              {
+                "MA": "L98.8",
+                "TEN": "Bệnh đặc hiệu khác ở da và tổ chức dưới da",
+                "TEN_EN": "Other specified disorders of skin and subcutaneous tissue"
+              },
+              {
+                "MA": "L98.9",
+                "TEN": "Bệnh ở da và tổ chức dưới da, không điển hình",
+                "TEN_EN": "Disorder of skin and subcutaneous tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "L99",
+            "TEN": "Bệnh khác của da và tổ chức dưới da trong các bệnh đã phân loại ở phần khác",
+            "TEN_EN": "Other disorders of skin and subcutaneous tissue in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "L99*",
+                "TEN": "Bệnh khác của da và tổ chức dưới da trong các bệnh đã phân loại ở phần khác",
+                "TEN_EN": "Other disorders of skin and subcutaneous tissue in diseases classified elsewhere"
+              },
+              {
+                "MA": "L99.0*",
+                "TEN": "Thoái hóa dạng bột ở da (E85.-†)",
+                "TEN_EN": "Amyloidosis of skin (E85.-†)"
+              },
+              {
+                "MA": "L99.8*",
+                "TEN": "Bệnh ở da và tổ chức dưới da đặc hiệu khác trong các bệnh đã phân loại ở phần khác",
+                "TEN_EN": "Other specified disorders of skin and subcutaneous tissue in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

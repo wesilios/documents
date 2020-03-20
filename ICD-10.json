@@ -15752,73 +15752,2275 @@
         "MA": "G00-G09",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh viêm hệ thần kinh trung ương",
-        "TEN_EN": "Inflammatory diseases of the central nervous system"
+        "TEN_EN": "Inflammatory diseases of the central nervous system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G00",
+            "TEN": "Viêm màng não vi khuẩn, không phân loại nơi khác",
+            "TEN_EN": "Bacterial meningitis, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G00.0",
+                "TEN": "Viêm màng não do Haemophilus",
+                "TEN_EN": "Haemophilus meningitis"
+              },
+              {
+                "MA": "G00.1",
+                "TEN": "Viêm màng não do phế cầu",
+                "TEN_EN": "Pneumococcal meningitis"
+              },
+              {
+                "MA": "G00.2",
+                "TEN": "Viêm màng não do liên cầu",
+                "TEN_EN": "Streptococcal meningitis"
+              },
+              {
+                "MA": "G00.3",
+                "TEN": "Viêm màng não do tụ cầu",
+                "TEN_EN": "Staphylococcal meningitis"
+              },
+              {
+                "MA": "G00.8",
+                "TEN": "Viêm màng não do vi khuẩn khác",
+                "TEN_EN": "Other bacterial meningitis"
+              },
+              {
+                "MA": "G00.9",
+                "TEN": "Viêm màng não vi khuẩn, không biệt định",
+                "TEN_EN": "Bacterial meningitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G01",
+            "TEN": "Viêm màng não trong bệnh nhiễm khuẩn phân loại ở mục khác",
+            "TEN_EN": "Meningitis in bacterial diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G01*",
+                "TEN": "Viêm màng não trong bệnh nhiễm khuẩn phân loại ở mục khác",
+                "TEN_EN": "Meningitis in bacterial diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "G02",
+            "TEN": "Viêm màng não trong bệnh nhiễm trùng và ký sinh trùng phân loại ở mục khác",
+            "TEN_EN": "Meningitis in other infectious and parasitic diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G02*",
+                "TEN": "Viêm màng não trong bệnh nhiễm trùng và ký sinh trùng phân loại ở mục khác",
+                "TEN_EN": "Meningitis in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "G02.0*",
+                "TEN": "Viêm màng não trong bệnh virus phân loại ở mục khác",
+                "TEN_EN": "Meningitis in viral diseases classified elsewhere"
+              },
+              {
+                "MA": "G02.1*",
+                "TEN": "Viêm màng não trong bệnh nấm",
+                "TEN_EN": "Meningitis in mycoses"
+              },
+              {
+                "MA": "G02.8*",
+                "TEN": "Viêm màng não trong bệnh nhiễm trùng và ký sinh trùng biệt định khác, phân loại ở mục khác",
+                "TEN_EN": "Meningitis in other specified infectious and parasitic diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "G03",
+            "TEN": "Viêm màng não do nguyên nhân khác và không xác định",
+            "TEN_EN": "Meningitis due to other and unspecified causes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G03.0",
+                "TEN": "Viêm màng não không sinh mủ",
+                "TEN_EN": "Nonpyogenic meningitis"
+              },
+              {
+                "MA": "G03.1",
+                "TEN": "Viêm màng não mãn tính",
+                "TEN_EN": "Chronic meningitis"
+              },
+              {
+                "MA": "G03.2",
+                "TEN": "Viêm màng não tái diễn lành tính [Mollaret)",
+                "TEN_EN": "Benign recurrent meningitis [Mollaret]"
+              },
+              {
+                "MA": "G03.8",
+                "TEN": "Viêm màng não do nguyên nhân biệt định khác",
+                "TEN_EN": "Meningitis due to other specified causes"
+              },
+              {
+                "MA": "G03.9",
+                "TEN": "Viêm màng não, không biệt định",
+                "TEN_EN": "Meningitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G04",
+            "TEN": "Viêm não, viêm tủy và viêm não-tủy",
+            "TEN_EN": "Encephalitis, myelitis and encephalomyelitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G04.0",
+                "TEN": "Viêm não rải rác cấp tính",
+                "TEN_EN": "Acute disseminated encephalitis"
+              },
+              {
+                "MA": "G04.1",
+                "TEN": "Liệt co cứng hai chân vùng nhiệt đới",
+                "TEN_EN": "Tropical spastic paraplegia"
+              },
+              {
+                "MA": "G04.2",
+                "TEN": "Viêm não - màng não và viêm tủy - màng tủy do vi khuẩn, không phân loại ở mục khác",
+                "TEN_EN": "Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"
+              },
+              {
+                "MA": "G04.8",
+                "TEN": "Viêm não, viêm tủy và viêm não - tủy khác",
+                "TEN_EN": "Other encephalitis, myelitis and encephalomyelitis"
+              },
+              {
+                "MA": "G04.9",
+                "TEN": "Viêm não, viêm tủy và viêm não-tủy, không biệt định",
+                "TEN_EN": "Encephalitis, myelitis and encephalomyelitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G05",
+            "TEN": "Viêm não, viêm tủy và viêm não- tủy trong bệnh phân loại ở mục khác",
+            "TEN_EN": "Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G05*",
+                "TEN": "Viêm não, viêm tủy và viêm não- tủy trong bệnh phân loại ở mục khác",
+                "TEN_EN": "Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere"
+              },
+              {
+                "MA": "G05.0*",
+                "TEN": "Viêm não, viêm tủy và viêm não - tủy trong bệnh nhiễm khuẩn đã được phân loại nơi khác",
+                "TEN_EN": "Encephalitis, myelitis and encephalomyelitis in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "G05.1*",
+                "TEN": "Viêm não, viêm tủy và viêm não - tủy trong bệnh virus phân loại nơi khác",
+                "TEN_EN": "Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere"
+              },
+              {
+                "MA": "G05.2*",
+                "TEN": "Viêm não, viêm tủy và viêm não - tủy trong bệnh nhiễm trùng, ký sinh trùng khác, phân loại ở mục khác",
+                "TEN_EN": "Encephalitis, myelitis and encephalomyelitis in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "G05.8*",
+                "TEN": "Viêm não, viêm tủy và viêm não- tủy trong bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Encephalitis, myelitis and encephalomyelitis in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "G06",
+            "TEN": "Áp xe và u hạt nội sọ và nội tủy",
+            "TEN_EN": "Intracranial and intraspinal abscess and granuloma",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G06.0",
+                "TEN": "Áp xe và u hạt nội sọ",
+                "TEN_EN": "Intracranial abscess and granuloma"
+              },
+              {
+                "MA": "G06.1",
+                "TEN": "Áp xe và u hạt nội tủy",
+                "TEN_EN": "Intraspinal abscess and granuloma"
+              },
+              {
+                "MA": "G06.2",
+                "TEN": "Áp xe ngoài màng cứng và dưới màng cứng, không đặc hiệu",
+                "TEN_EN": "Extradural and subdural abscess, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G07",
+            "TEN": "Áp xe và u hạt nội sọ và nội tủy trong bệnh phân loại ở mục khác",
+            "TEN_EN": "Intracranial and intraspinal abscess and granuloma in diseases specified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G07*",
+                "TEN": "Áp xe và u hạt nội sọ và nội tủy trong bệnh phân loại ở mục khác",
+                "TEN_EN": "Intracranial and intraspinal abscess and granuloma in diseases specified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "G08",
+            "TEN": "Viêm tĩnh mạch và viêm tắc tĩnh mạch nội sọ và nội tủy",
+            "TEN_EN": "Intracranial and intraspinal phlebitis and thrombophlebitis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "G09",
+            "TEN": "Di chứng của bệnh viêm hệ thần kinh trung ương",
+            "TEN_EN": "Sequelae of inflammatory diseases of central nervous system",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "G10-G13",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh teo hệ thống ảnh hưởng chủ yếu tới hệ thần kinh trung ương",
-        "TEN_EN": "Systemic atrophies primarily affecting the central nervous system"
+        "TEN_EN": "Systemic atrophies primarily affecting the central nervous system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G10",
+            "TEN": "Bệnh Hungtington",
+            "TEN_EN": "Hungtington disease"
+          }
+        ]
       },
       {
         "MA": "G10-G14",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh teo hệ thống ảnh hưởng chủ yếu tới hệ thần kinh trung ương",
-        "TEN_EN": "Systemic atrophies primarily affecting the central nervous system"
+        "TEN_EN": "Systemic atrophies primarily affecting the central nervous system",
+        "DANH_SACH_BENH": [
+          [
+            {
+              "MA": "G11",
+              "TEN": "Thất điều di truyền",
+              "TEN_EN": "Hereditary ataxia",
+              "DANH_SACH_BENH": [
+                {
+                  "MA": "G11.0",
+                  "TEN": "Thất điều bẩm sinh không tiến triển",
+                  "TEN_EN": "Congenital nonprogressive ataxia"
+                },
+                {
+                  "MA": "G11.1",
+                  "TEN": "Thất điều tiểu não khởi phát sớm",
+                  "TEN_EN": "Early-onset cerebellar ataxia"
+                },
+                {
+                  "MA": "G11.2",
+                  "TEN": "Thất điều tiểu não khởi phát muộn",
+                  "TEN_EN": "Late-onset cerebellar ataxia"
+                },
+                {
+                  "MA": "G11.3",
+                  "TEN": "Thất điều tiểu não với rối loạn sửa chữa DNA",
+                  "TEN_EN": "Cerebellar ataxia with defective DNA repair"
+                },
+                {
+                  "MA": "G11.4",
+                  "TEN": "Liệt cứng hai chân di truyền",
+                  "TEN_EN": "Hereditary spastic paraplegia"
+                },
+                {
+                  "MA": "G11.8",
+                  "TEN": "Thất điều di truyền khác",
+                  "TEN_EN": "Other hereditary ataxias"
+                },
+                {
+                  "MA": "G11.9",
+                  "TEN": "Thất điều di truyền, không đặc hiệu",
+                  "TEN_EN": "Hereditary ataxia, unspecified"
+                }
+              ]
+            },
+            {
+              "MA": "G12",
+              "TEN": "Teo cơ do tổn thương tủy sống và hội chứng liên quan",
+              "TEN_EN": "Spinal muscular atrophy and related syndromes",
+              "DANH_SACH_BENH": [
+                {
+                  "MA": "G12.0",
+                  "TEN": "Teo cơ do tủy trẻ em, loại I [Werdnig - Hofman)",
+                  "TEN_EN": "Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]"
+                },
+                {
+                  "MA": "G12.1",
+                  "TEN": "Teo cơ do tủy sống di truyền khác",
+                  "TEN_EN": "Other inherited spinal muscular atrophy"
+                },
+                {
+                  "MA": "G12.2",
+                  "TEN": "Bệnh tế bào thần kinh vận động",
+                  "TEN_EN": "Motor neuron disease"
+                },
+                {
+                  "MA": "G12.8",
+                  "TEN": "Teo cơ tủy khác và hội chứng liên quan",
+                  "TEN_EN": "Other spinal muscular atrophies and related syndromes"
+                },
+                {
+                  "MA": "G12.9",
+                  "TEN": "Teo cơ tủy sống, không đặc hiệu",
+                  "TEN_EN": "Spinal muscular atrophy, unspecified"
+                }
+              ]
+            },
+            {
+              "MA": "G13",
+              "TEN": "Bệnh teo hệ thống ảnh hưởng chủ yếu tới hệ thần kinh trung ương trong bệnh phân loại nơi khác",
+              "TEN_EN": "Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere",
+              "DANH_SACH_BENH": [
+                {
+                  "MA": "G13*",
+                  "TEN": "Bệnh teo hệ thống ảnh hưởng chủ yếu tới hệ thần kinh trung ương trong bệnh phân loại nơi khác",
+                  "TEN_EN": "Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere"
+                },
+                {
+                  "MA": "G13.0*",
+                  "TEN": "Bệnh thần kinh cơ và bệnh thần kinh cận u",
+                  "TEN_EN": "Paraneoplastic neuromyopathy and neuropathy"
+                },
+                {
+                  "MA": "G13.1*",
+                  "TEN": "Bệnh teo hệ thống ảnh hưởng chủ yếu tới hệ thần kinh trung ương khác, trong u",
+                  "TEN_EN": "Other systemic atrophy primarily affecting central nervous system in neoplastic disease"
+                },
+                {
+                  "MA": "G13.2*",
+                  "TEN": "Bệnh teo hệ thống ảnh hưởng chủ yếu tới hệ thần kinh trung ương trong bệnh phù niêm (E00.1†, E03.- †)",
+                  "TEN_EN": "Systemic atrophy primarily affecting central nervous system in myxoedema (E00.1†, E03.- †)"
+                },
+                {
+                  "MA": "G13.8*",
+                  "TEN": "Bệnh teo hệ thống ảnh hưởng chủ yếu tới hệ thần kinh trung ương trong bệnh khác, phân loại nơi khác",
+                  "TEN_EN": "Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere"
+                }
+              ]
+            },
+            {
+              "MA": "G14",
+              "TEN": "Hội chứng sau bại liệt",
+              "TEN_EN": "Postpolio syndrome",
+              "DANH_SACH_BENH": []
+            }
+          ]
+        ]
       },
       {
         "MA": "G20-G26",
         "MA_TRONG_CHUONG": "",
         "TEN": "Hội chứng ngoại tháp và rối loạn vận động",
-        "TEN_EN": "Extrapyramidal and movement disorders"
+        "TEN_EN": "Extrapyramidal and movement disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G20",
+            "TEN": "Bệnh Parkinson",
+            "TEN_EN": "Parkinson disease",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "G21",
+            "TEN": "Hội chứng Parkinson thứ phát",
+            "TEN_EN": "Secondary parkinsonism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G21.0",
+                "TEN": "Hội chứng an thần kinh ác tính",
+                "TEN_EN": "Malignant neuroleptic syndrome"
+              },
+              {
+                "MA": "G21.1",
+                "TEN": "Hội chứng Parkinson thứ phát khác do thuốc",
+                "TEN_EN": "Other drug-induced secondary parkinsonism"
+              },
+              {
+                "MA": "G21.2",
+                "TEN": "Hội chứng Parkinson thứ phát do tác nhân bên ngoài khác",
+                "TEN_EN": "Secondary parkinsonism due to other external agents"
+              },
+              {
+                "MA": "G21.3",
+                "TEN": "Hội chứng Parkinson sau viêm não",
+                "TEN_EN": "Postencephalitic parkinsonism"
+              },
+              {
+                "MA": "G21.4",
+                "TEN": "Hội chứng Parkinson do bệnh mạch máu",
+                "TEN_EN": "Vascular parkinsonism"
+              },
+              {
+                "MA": "G21.8",
+                "TEN": "Hội chứng Parkinson thứ phát khác",
+                "TEN_EN": "Other secondary parkinsonism"
+              },
+              {
+                "MA": "G21.9",
+                "TEN": "Hội chứng Parkinson thứ phát, không đặc hiệu",
+                "TEN_EN": "Secondary parkinsonism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G22",
+            "TEN": "Hội chứng Parkinson trong bệnh phân loại nơi khác",
+            "TEN_EN": "Parkinsonism in diseases classified else where ",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G22*",
+                "TEN": "Hội chứng Parkinson trong bệnh phân loại nơi khác",
+                "TEN_EN": "Parkinsonism in diseases classified else where "
+              }
+            ]
+          },
+          {
+            "MA": "G23",
+            "TEN": "Bệnh thoái hóa khác của hạch nền não",
+            "TEN_EN": "Other degenerative diseases of basal ganglia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G23.0",
+                "TEN": "Bệnh Hallervorden-Spatz",
+                "TEN_EN": "Hallervorden-Spatz disease"
+              },
+              {
+                "MA": "G23.1",
+                "TEN": "Liệt vận nhãn trên nhân tiến triển [Steele-Richardson-Olszewski]",
+                "TEN_EN": "Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]"
+              },
+              {
+                "MA": "G23.2",
+                "TEN": "thoái hóa thể vân liềm đen",
+                "TEN_EN": "Striatonigral degeneration"
+              },
+              {
+                "MA": "G23.8",
+                "TEN": "BBệnh thoái hóa xác định khác của hạch nền",
+                "TEN_EN": "Other specified degenerative diseases of basal ganglia"
+              },
+              {
+                "MA": "G23.9",
+                "TEN": "Bệnh thoái hóa hạch nền, không đặc hiệu",
+                "TEN_EN": "Degenerative disease of basal ganglia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G24",
+            "TEN": "Loạn trương lực cơ",
+            "TEN_EN": "Dystonia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G24.0",
+                "TEN": "Loạn trương lực cơ do thuốc",
+                "TEN_EN": "Drug-induced dystonia"
+              },
+              {
+                "MA": "G24.1",
+                "TEN": "Loạn trương lực cơ gia đình tự phát",
+                "TEN_EN": "Idiopathic familial dystonia"
+              },
+              {
+                "MA": "G24.2",
+                "TEN": "Loạn trương lực cơ không có tính gia đình nguyên phát",
+                "TEN_EN": "Idiopathic nonfamilial dystonia"
+              },
+              {
+                "MA": "G24.3",
+                "TEN": "Vẹo cổ",
+                "TEN_EN": "Spasmodic torticollis"
+              },
+              {
+                "MA": "G24.4",
+                "TEN": "Loạn trương lực cơ mặt - miệng nguyên phát",
+                "TEN_EN": "Idiopathic orofacial dystonia"
+              },
+              {
+                "MA": "G24.5",
+                "TEN": "Co thắt cơ vòng mi",
+                "TEN_EN": "Blepharospasm"
+              },
+              {
+                "MA": "G24.8",
+                "TEN": "Loạn trương lực cơ khác",
+                "TEN_EN": "Other dystonia"
+              },
+              {
+                "MA": "G24.9",
+                "TEN": "Loạn trương lực cơ, không xác định",
+                "TEN_EN": "Dystonia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G25",
+            "TEN": "Hội chứng ngoại tháp và rối loạn vận động khác",
+            "TEN_EN": "Other extrapyramidal and movement disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G25.0",
+                "TEN": "Run vô căn",
+                "TEN_EN": "Essential tremor"
+              },
+              {
+                "MA": "G25.1",
+                "TEN": "Run do thuốc",
+                "TEN_EN": "Drug-induced tremor"
+              },
+              {
+                "MA": "G25.2",
+                "TEN": "Các thể run khác",
+                "TEN_EN": "Other specified forms of tremor"
+              },
+              {
+                "MA": "G25.3",
+                "TEN": "Giật cơ",
+                "TEN_EN": "Myoclonus"
+              },
+              {
+                "MA": "G25.4",
+                "TEN": "Múa giật do thuốc",
+                "TEN_EN": "Drug-induced chorea"
+              },
+              {
+                "MA": "G25.5",
+                "TEN": "Múa giật khác",
+                "TEN_EN": "Other chorea"
+              },
+              {
+                "MA": "G25.6",
+                "TEN": "Tic (thói tật) do thuốc và các tic (thói tật) khác do nguyên nhân thực thể",
+                "TEN_EN": "Drug-induced tics and other tics of organic origin"
+              },
+              {
+                "MA": "G25.8",
+                "TEN": "Hội chứng ngoại tháp và rối loạn vận động",
+                "TEN_EN": "Other specified extrapyramidal and movement disorders"
+              },
+              {
+                "MA": "G25.9",
+                "TEN": "Hội chứng ngoại tháp và rối loạn vận động không đặc hiệu",
+                "TEN_EN": "Extrapyramidal and movement disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G26",
+            "TEN": "Hội chứng ngoại tháp và rối loạn vận động trong bệnh phân loại nơi khác",
+            "TEN_EN": "Extrapyramidal and movement disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G26*",
+                "TEN": "Hội chứng ngoại tháp và rối loạn vận động trong bệnh phân loại nơi khác",
+                "TEN_EN": "Extrapyramidal and movement disorders in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "G30-G32",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh thoái hóa khác của hệ thần kinh",
-        "TEN_EN": "Other degenerative diseases of the nervous system"
+        "TEN_EN": "Other degenerative diseases of the nervous system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G30",
+            "TEN": "Bệnh Alzheimer",
+            "TEN_EN": "Alzheimer s disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G30.0",
+                "TEN": "Bệnh Alzheimer khởi phát sớm",
+                "TEN_EN": "Alzheimer s disease with early onset"
+              },
+              {
+                "MA": "G30.1",
+                "TEN": "Bệnh Alzheimer khởi phát muộn",
+                "TEN_EN": "Alzheimer s disease with late onset"
+              },
+              {
+                "MA": "G30.8",
+                "TEN": "Bệnh Alzheimer khác",
+                "TEN_EN": "Other Alzheimer s disease"
+              },
+              {
+                "MA": "G30.9",
+                "TEN": "Bệnh Alzheimer không đặc hiệu",
+                "TEN_EN": "Alzheimer s disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G31",
+            "TEN": "Bệnh thoái hóa khác của hệ thần kinh, không phân loại ở mục khác",
+            "TEN_EN": "Other degenerative diseases of nervous system, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G31.0",
+                "TEN": "Teo não khu trú",
+                "TEN_EN": "Circumscribed brain atrophy"
+              },
+              {
+                "MA": "G31.1",
+                "TEN": "thoái hóa não tuổi già, không phân loại nơi khác",
+                "TEN_EN": "Senile degeneration of brain, not elsewhere classified"
+              },
+              {
+                "MA": "G31.2",
+                "TEN": "thoái hóa hệ thần kinh do rượu",
+                "TEN_EN": "Degeneration of nervous system due to alcohol"
+              },
+              {
+                "MA": "G31.8",
+                "TEN": "Bệnh thoái hóa xác định khác của hệ thần kinh",
+                "TEN_EN": "Other specified degenerative diseases of nervous system"
+              },
+              {
+                "MA": "G31.9",
+                "TEN": "Bệnh thoái hóa hệ thần kinh, không đặc hiệu",
+                "TEN_EN": "Degenerative disease of nervous system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G32",
+            "TEN": "Bệnh thoái hóa khác của hệ thần kinh, trong bệnh phân loại nơi khác",
+            "TEN_EN": "Other degenerative disorders of nervous system in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G32*",
+                "TEN": "Bệnh thoái hóa khác của hệ thần kinh, trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other degenerative disorders of nervous system in diseases classified elsewhere"
+              },
+              {
+                "MA": "G32.0*",
+                "TEN": "thoái hóa phối hợp bán cấp tủy sống trong bệnh phân loại nơi khác",
+                "TEN_EN": "Subacute combined degeneration of spinal cord in diseases classified elsewhere"
+              },
+              {
+                "MA": "G32.8*",
+                "TEN": "Bệnh thoái hóa xác định khác của hệ thần kinh trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other specified degenerative disorders of nervous system in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "G35-G37",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh mất myelin của hệ thần kinh trung ương",
-        "TEN_EN": "Demyelinating diseases of the central nervous system"
+        "TEN_EN": "Demyelinating diseases of the central nervous system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G35",
+            "TEN": "Xơ cứng rải rác",
+            "TEN_EN": "Multiple sclerosis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "G36",
+            "TEN": "Mất myelin rải rác cấp tính khác",
+            "TEN_EN": "Other acute disseminated demyelination",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G36.0",
+                "TEN": "Viêm tủy thị thần kinh [Devic]",
+                "TEN_EN": "Neuromyelitis optica [Devic]"
+              },
+              {
+                "MA": "G36.1",
+                "TEN": "Viêm não chất trắng chảy máu cấp và bán cấp",
+                "TEN_EN": "Acute and subacute haemorrhagic leukoencephalitis [Hurst]"
+              },
+              {
+                "MA": "G36.8",
+                "TEN": "Mất myelin rải rác cấp tính xác định khác",
+                "TEN_EN": "Other specified acute disseminated demyelination"
+              },
+              {
+                "MA": "G36.9",
+                "TEN": "Mất myelin rải rác cấp tính không đặc hiệu",
+                "TEN_EN": "Acute disseminated demyelination, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G37",
+            "TEN": "Bệnh mất myelin khác của hệ thần kinh trung ương",
+            "TEN_EN": "Other demyelinating diseases of central nervous system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G37.0",
+                "TEN": "Xơ cứng toả lan",
+                "TEN_EN": "Diffuse sclerosis"
+              },
+              {
+                "MA": "G37.1",
+                "TEN": "Mất myelin trung tâm của thể trai",
+                "TEN_EN": "Central demyelination of corpus callosum"
+              },
+              {
+                "MA": "G37.2",
+                "TEN": "Tiêu myelin trung tâm cầu não",
+                "TEN_EN": "Central pontine myelinolysis"
+              },
+              {
+                "MA": "G37.3",
+                "TEN": "Viêm tủy ngang cấp trong bệnh mất myelin của hệ thần kinh trung ương",
+                "TEN_EN": "Acute transverse myelitis in demyelinating disease of central nervous system"
+              },
+              {
+                "MA": "G37.4",
+                "TEN": "Viêm tủy hoại tử bán cấp",
+                "TEN_EN": "Subacute necrotizing myelitis"
+              },
+              {
+                "MA": "G37.5",
+                "TEN": "Xơ cứng đồng tâm [Baló]",
+                "TEN_EN": "Concentric sclerosis [Baló]"
+              },
+              {
+                "MA": "G37.8",
+                "TEN": "Bệnh mất myelin xác định khác của hệ thần kinh trung ương",
+                "TEN_EN": "Other specified demyelinating diseases of central nervous system"
+              },
+              {
+                "MA": "G37.9",
+                "TEN": "Bệnh mất myelin của hệ thần kinh trung ương, không đặc hiệu",
+                "TEN_EN": "Demyelinating disease of central nervous system, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "G40-G47",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh chu kỳ và kịch phát",
-        "TEN_EN": "Episodic and paroxysmal disorders"
+        "TEN_EN": "Episodic and paroxysmal disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G40",
+            "TEN": "Động kinh",
+            "TEN_EN": "Epilepsy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G40.0",
+                "TEN": "Động kinh nguyên phát khu trú (cục bộ) (từng phần) và hội chứng động kinh với cơn khởi phát khu trú",
+                "TEN_EN": "Localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset"
+              },
+              {
+                "MA": "G40.1",
+                "TEN": "Động kinh triệu chứng có khu trú (cục bộ) (từng phần) và hội chứng động kinh có cơn cục bộ đơn giản",
+                "TEN_EN": "Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures"
+              },
+              {
+                "MA": "G40.2",
+                "TEN": "Động kinh triệu chứng khu trú (cục bộ) (từng phần) và hội chứng động kinh có cơn động kinh cục bộ phức tạp",
+                "TEN_EN": "Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures"
+              },
+              {
+                "MA": "G40.3",
+                "TEN": "Hội chứng động kinh và động kinh toàn thể nguyên phát",
+                "TEN_EN": "Generalized idiopathic epilepsy and epileptic syndromes"
+              },
+              {
+                "MA": "G40.4",
+                "TEN": "Động kinh toàn bộ và hội chứng động kinh khác",
+                "TEN_EN": "Other generalized epilepsy and epileptic syndromes"
+              },
+              {
+                "MA": "G40.5",
+                "TEN": "Hội chứng động kinh đặc hiệu",
+                "TEN_EN": "Special epileptic syndromes"
+              },
+              {
+                "MA": "G40.6",
+                "TEN": "Động kinh cơn lớn, không đặc hiệu (kèm hay không có cơn nhỏ)",
+                "TEN_EN": "Grand mal seizures, unspecified (with or without petit mal)"
+              },
+              {
+                "MA": "G40.7",
+                "TEN": "Cơn nhỏ, không đặc hiệu, không kèm theo động kinh cơn lớn",
+                "TEN_EN": "Petit mal, unspecified, without grand mal seizures"
+              },
+              {
+                "MA": "G40.8",
+                "TEN": "Động kinh khác",
+                "TEN_EN": "Other epilepsy"
+              },
+              {
+                "MA": "G40.9",
+                "TEN": "Động kinh không đặc hiệu",
+                "TEN_EN": "Epilepsy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G41",
+            "TEN": "Trạng thái động kinh",
+            "TEN_EN": "Status epilepticus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G41.0",
+                "TEN": "Trạng thái động kinh cơn lớn",
+                "TEN_EN": "Grand mal status epilepticus"
+              },
+              {
+                "MA": "G41.1",
+                "TEN": "Trạng thái động kinh cơn nhỏ",
+                "TEN_EN": "Petit mal status epilepticus"
+              },
+              {
+                "MA": "G41.2",
+                "TEN": "Trạng thái động kinh cục bộ phức tạp",
+                "TEN_EN": "Complex partial status epilepticus"
+              },
+              {
+                "MA": "G41.8",
+                "TEN": "Trạng thái động kinh khác",
+                "TEN_EN": "Other status epilepticus"
+              },
+              {
+                "MA": "G41.9",
+                "TEN": "Trạng thái động kinh, không đặc hiệu",
+                "TEN_EN": "Status epilepticus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G43",
+            "TEN": "Migraine",
+            "TEN_EN": "Migraine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G43.0",
+                "TEN": "Migraine không có aura (thoáng báo) (migraine chung)",
+                "TEN_EN": "Migraine without aura [common migraine]"
+              },
+              {
+                "MA": "G43.1",
+                "TEN": "Migraine có aura (thoáng báo) (migraine cổ điển)",
+                "TEN_EN": "Migraine with aura [classical migraine]"
+              },
+              {
+                "MA": "G43.2",
+                "TEN": "Trạng thái Migraine",
+                "TEN_EN": "Status migrainosus"
+              },
+              {
+                "MA": "G43.3",
+                "TEN": "Migraine biến chứng",
+                "TEN_EN": "Complicated migraine"
+              },
+              {
+                "MA": "G43.8",
+                "TEN": "Migraine khác",
+                "TEN_EN": "Other migraine"
+              },
+              {
+                "MA": "G43.9",
+                "TEN": "Migraine, không đặc hiệu",
+                "TEN_EN": "Migraine, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G44",
+            "TEN": "Hội chứng đau đầu khác",
+            "TEN_EN": "Other headache syndromes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G44.0",
+                "TEN": "Hội chứng đau đầu chuỗi",
+                "TEN_EN": "Cluster headache syndrome"
+              },
+              {
+                "MA": "G44.1",
+                "TEN": "Nhức đầu do mạch máu, không phân loại nơi khác",
+                "TEN_EN": "Vascular headache, not elsewhere classified"
+              },
+              {
+                "MA": "G44.2",
+                "TEN": "Đau đầu do căng thẳng",
+                "TEN_EN": "Tension-type headache"
+              },
+              {
+                "MA": "G44.3",
+                "TEN": "Đau đầu mãn tính sau chấn thương",
+                "TEN_EN": "Chronic post-traumatic headache"
+              },
+              {
+                "MA": "G44.4",
+                "TEN": "Đau do thuốc, không phân loại ở mục khác",
+                "TEN_EN": "Drug-induced headache, not elsewhere classified"
+              },
+              {
+                "MA": "G44.8",
+                "TEN": "Chứng đau đầu xác định khác",
+                "TEN_EN": "Other specified headache syndromes"
+              }
+            ]
+          },
+          {
+            "MA": "G45",
+            "TEN": "Cơn thiếu máu não cục bộ thóang qua và hội chứng liên quan",
+            "TEN_EN": "Transient cerebral ischaemic attacks and related syndromes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G45.0",
+                "TEN": "Hội chứng động mạch sống - nền",
+                "TEN_EN": "Vertebro-basilar artery syndrome"
+              },
+              {
+                "MA": "G45.1",
+                "TEN": "Hội chứng động mạch cảnh (bán cầu não)",
+                "TEN_EN": "Carotid artery syndrome (hemispheric)"
+              },
+              {
+                "MA": "G45.2",
+                "TEN": "Các hội chứng động mạch não trước rải rác hai bên",
+                "TEN_EN": "Multiple and bilateral precerebral artery syndromes"
+              },
+              {
+                "MA": "G45.3",
+                "TEN": "Mù thoáng qua",
+                "TEN_EN": "Amaurosis fugax"
+              },
+              {
+                "MA": "G45.4",
+                "TEN": "Quên toàn bộ thoáng qua",
+                "TEN_EN": "Transient global amnesia"
+              },
+              {
+                "MA": "G45.8",
+                "TEN": "Cơn thiếu máu não thoáng qua khác và hội chứng liên quan",
+                "TEN_EN": "Other transient cerebral ischaemic attacks and related syndromes"
+              },
+              {
+                "MA": "G45.9",
+                "TEN": "Cơn thiếu máu não thoáng qua không đặc hiệu",
+                "TEN_EN": "Transient cerebral ischaemic attack, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G46",
+            "TEN": "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+            "TEN_EN": "Vascular syndromes of brain in cerebrovascular diseasesI60-I67",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G46*",
+                "TEN": "Hội chứng mạch máu não trong bệnh mạch não (I60-I67†)",
+                "TEN_EN": "Vascular syndromes of brain in cerebrovascular diseases (I60-I67†)"
+              },
+              {
+                "MA": "G46.0*",
+                "TEN": "Hội chứng động mạch não giữa (I66.0†)",
+                "TEN_EN": "Middle cerebral artery syndrome (I66.0†)"
+              },
+              {
+                "MA": "G46.1*",
+                "TEN": "Hội chứng động mạch não trước (I66.1†)",
+                "TEN_EN": "Anterior cerebral artery syndrome (I66.1†)"
+              },
+              {
+                "MA": "G46.2*",
+                "TEN": "Hội chứng động mạch não sau (I66.2†)",
+                "TEN_EN": "Posterior cerebral artery syndrome (I66.2†)"
+              },
+              {
+                "MA": "G46.3*",
+                "TEN": "Hội chứng đột quỵ thân não (I60-I67†)",
+                "TEN_EN": "Brain stem stroke syndrome (I60-I67†)"
+              },
+              {
+                "MA": "G46.4*",
+                "TEN": "Hội chứng đột quỵ tiểu não (I60-I67†)",
+                "TEN_EN": "Cerebellar stroke syndrome (I60-I67†)"
+              },
+              {
+                "MA": "G46.5*",
+                "TEN": "Hội chứng ổ khuyết vận động đơn thuần (I60-I67†)",
+                "TEN_EN": "Pure motor lacunar syndrome (I60-I67†)"
+              },
+              {
+                "MA": "G46.6*",
+                "TEN": "Hội chứng ổ khuyết cảm giác đơn thuần (I60-I67†)",
+                "TEN_EN": "Pure sensory lacunar syndrome (I60-I67†)"
+              },
+              {
+                "MA": "G46.7*",
+                "TEN": "Hội chứng ổ khuyết khác (I60-I67†)",
+                "TEN_EN": "Other lacunar syndromes (I60-I67†)"
+              },
+              {
+                "MA": "G46.8*",
+                "TEN": "Hội chứng mạch máu não khác trong bệnh mạch máu não (I60-I67†)",
+                "TEN_EN": "Other vascular syndromes of brain in cerebrovascular diseases (I60-I67†)"
+              }
+            ]
+          },
+          {
+            "MA": "G47",
+            "TEN": "Rối loạn giấc ngủ",
+            "TEN_EN": "Sleep disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G47.0",
+                "TEN": "Rối loạn vào giấc và duy trì giấc ngủ [mất ngủ]",
+                "TEN_EN": "Disorders of initiating and maintaining sleep [insomnias]"
+              },
+              {
+                "MA": "G47.1",
+                "TEN": "Rối loạn buồn ngủ quá mức [ngủ quá nhiều]",
+                "TEN_EN": "Disorders of excessive somnolence [hypersomnias]"
+              },
+              {
+                "MA": "G47.2",
+                "TEN": "Rối loạn chu kỳ thức ngủ",
+                "TEN_EN": "Disorders of the sleep-wake schedule"
+              },
+              {
+                "MA": "G47.3",
+                "TEN": "Ngừng thở khi ngủ",
+                "TEN_EN": "Sleep apnoea"
+              },
+              {
+                "MA": "G47.4",
+                "TEN": "Chứng ngủ rũ và mất trương lực đột ngột",
+                "TEN_EN": "Narcolepsy and cataplexy"
+              },
+              {
+                "MA": "G47.8",
+                "TEN": "Rối loạn giấc ngủ khác",
+                "TEN_EN": "Other sleep disorders"
+              },
+              {
+                "MA": "G47.9",
+                "TEN": "Rối loạn giấc ngủ, không biệt định",
+                "TEN_EN": "Sleep disorder, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "G50-G59",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh dây, rễ và đám rối thần kinh",
-        "TEN_EN": "Nerve, nerve root and plexus disorders"
+        "TEN_EN": "Nerve, nerve root and plexus disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G50",
+            "TEN": "Bệnh dây thần kinh tam thoa",
+            "TEN_EN": "Disorders of trigeminal nerve",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G50.0",
+                "TEN": "Đau dây thần kinh tam thoa",
+                "TEN_EN": "Trigeminal neuralgia"
+              },
+              {
+                "MA": "G50.1",
+                "TEN": "Đau mặt không điển hình",
+                "TEN_EN": "Atypical facial pain"
+              },
+              {
+                "MA": "G50.8",
+                "TEN": "Bệnh khác của dây thần kinh tam thoa",
+                "TEN_EN": "Other disorders of trigeminal nerve"
+              },
+              {
+                "MA": "G50.9",
+                "TEN": "Bệnh dây thần kinh tam thoa, chưa phân loại",
+                "TEN_EN": "Disorder of trigeminal nerve, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "G51",
+            "TEN": "Bệnh dây thần kinh mặt",
+            "TEN_EN": "Facial nerve disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G51.0",
+                "TEN": "Liệt Bell",
+                "TEN_EN": "Bell palsy"
+              },
+              {
+                "MA": "G51.1",
+                "TEN": "Viêm hạch gối",
+                "TEN_EN": "Geniculate ganglionitis"
+              },
+              {
+                "MA": "G51.2",
+                "TEN": "Hội chứng Melkersson",
+                "TEN_EN": "Melkersson syndrome"
+              },
+              {
+                "MA": "G51.3",
+                "TEN": "Co thắt và giật nửa mặt",
+                "TEN_EN": "Clonic hemifacial spasm"
+              },
+              {
+                "MA": "G51.4",
+                "TEN": "Máy cơ mặt",
+                "TEN_EN": "Facial myokymia"
+              },
+              {
+                "MA": "G51.8",
+                "TEN": "Bệnh khác của dây thần kinh mặt",
+                "TEN_EN": "Other disorders of facial nerve"
+              },
+              {
+                "MA": "G51.9",
+                "TEN": "Bệnh dây thần kinh mặt, không đặc hiệu",
+                "TEN_EN": "Disorder of facial nerve, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G52",
+            "TEN": "Bệnh các dây thần kinh sọ khác",
+            "TEN_EN": "Disorders of other cranial nerves",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G52.0",
+                "TEN": "Bệnh dây thần kinh khứu giác",
+                "TEN_EN": "Disorders of olfactory nerve"
+              },
+              {
+                "MA": "G52.1",
+                "TEN": "Bệnh dây thần kinh lưỡi hầu (thiệt hầu)",
+                "TEN_EN": "Disorders of glossopharyngeal nerve"
+              },
+              {
+                "MA": "G52.2",
+                "TEN": "Bệnh dây thần kinh phế vị",
+                "TEN_EN": "Disorders of vagus nerve"
+              },
+              {
+                "MA": "G52.3",
+                "TEN": "Bệnh dây thần kinh dưới lưỡi (hạ thiệt)",
+                "TEN_EN": "Disorders of hypoglossal nerve"
+              },
+              {
+                "MA": "G52.7",
+                "TEN": "Nhiều dây thần kinh sọ",
+                "TEN_EN": "Disorders of multiple cranial nerves"
+              },
+              {
+                "MA": "G52.8",
+                "TEN": "Bệnh dây thần kinh sọ xác định khác",
+                "TEN_EN": "Disorders of other specified cranial nerves"
+              },
+              {
+                "MA": "G52.9",
+                "TEN": "Bệnh dây thần kinh sọ, không đặc hiệu",
+                "TEN_EN": "Cranial nerve disorder, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G53",
+            "TEN": "Bệnh dây thần kinh sọ trong bệnh phân loại nơi khác",
+            "TEN_EN": "Cranial nerve disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G53*",
+                "TEN": "Bệnh dây thần kinh sọ trong bệnh phân loại nơi khác",
+                "TEN_EN": "Cranial nerve disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "G53.0*",
+                "TEN": "Đau dây thần kinh sau zona (B02.2†)",
+                "TEN_EN": "Postzoster neuralgia (B02.2†)"
+              },
+              {
+                "MA": "G53.1*",
+                "TEN": "Liệt nhiều dây thần kinh sọ trong bệnh nhiễm trùng và ký sinh trùng phân loại ở mục khác (A00-B99†)",
+                "TEN_EN": "Multiple cranial nerve palsies in infectious and parasitic diseases classified elsewhere (A00-B99†)"
+              },
+              {
+                "MA": "G53.2*",
+                "TEN": "Liệt nhiều dây thần kinh sọ trong bệnh Saccoit (D86.8†)",
+                "TEN_EN": "Multiple cranial nerve palsies in sarcoidosis (D86.8†)"
+              },
+              {
+                "MA": "G53.3*",
+                "TEN": "Liệt nhiều dây thần kinh sọ trong u (C00-D48†)",
+                "TEN_EN": "Multiple cranial nerve palsies in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "G53.8*",
+                "TEN": "Bệnh dây thần kinh sọ khác trong các bệnh khác được phân loại nơi khác",
+                "TEN_EN": "Other cranial nerve disorders in other diseases classified elsewhere"
+              }
+            ]
+          },
+
+          {
+            "MA": "G54",
+            "TEN": "Bệnh rễ và đám rối thần kinh",
+            "TEN_EN": "Nerve root and plexus disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G54.0",
+                "TEN": "Bệnh đám rối thần kinh cánh tay",
+                "TEN_EN": "Brachial plexus disorders"
+              },
+              {
+                "MA": "G54.1",
+                "TEN": "Bệnh đám rối thắt lưng - cùng",
+                "TEN_EN": "Lumbosacral plexus disorders"
+              },
+              {
+                "MA": "G54.2",
+                "TEN": "Bệnh rễ thần kinh cổ, không phân loại nơi khác",
+                "TEN_EN": "Cervical root disorders, not elsewhere classified"
+              },
+              {
+                "MA": "G54.3",
+                "TEN": "Bệnh rễ thần kinh ngực, không phân loại nơi khác",
+                "TEN_EN": "Thoracic root disorders, not elsewhere classified"
+              },
+              {
+                "MA": "G54.4",
+                "TEN": "Bệnh rễ thần kinh thắt lưng - cùng, không phân loại nơi khác",
+                "TEN_EN": "Lumbosacral root disorders, not elsewhere classified"
+              },
+              {
+                "MA": "G54.5",
+                "TEN": "Teo cơ đau thần kinh",
+                "TEN_EN": "Neuralgic amyotrophy"
+              },
+              {
+                "MA": "G54.6",
+                "TEN": "Hội chứng chi ma có đau",
+                "TEN_EN": "Phantom limb syndrome with pain"
+              },
+              {
+                "MA": "G54.7",
+                "TEN": "Hội chứng chi ma không đau",
+                "TEN_EN": "Phantom limb syndrome without pain"
+              },
+              {
+                "MA": "G54.8",
+                "TEN": "Bệnh rễ và đám rối thần kinh khác",
+                "TEN_EN": "Other nerve root and plexus disorders"
+              },
+              {
+                "MA": "G54.9",
+                "TEN": "Bệnh rễ và đám rối thần kinh, không đặc hiệu",
+                "TEN_EN": "Nerve root and plexus disorder, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G55",
+            "TEN": "Chèn ép rễ thần kinh và đám rối trong bệnh phân loại nơi khác",
+            "TEN_EN": "Nerve root and plexus compressions in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G55*",
+                "TEN": "Chèn ép rễ thần kinh và đám rối trong bệnh phân loại nơi khác",
+                "TEN_EN": "Nerve root and plexus compressions in diseases classified elsewhere"
+              },
+              {
+                "MA": "G55.0*",
+                "TEN": "Chèn ép rễ thần kinh và đám rối trong u (C00-D48†)",
+                "TEN_EN": "Nerve root and plexus compressions in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "G55.1*",
+                "TEN": "Chèn ép rễ và đám rối thần kinh trong bệnh đĩa đệm cột sống (M50-M51†)",
+                "TEN_EN": "Nerve root and plexus compressions in intervertebral disc disorders (M50-M51†)"
+              },
+              {
+                "MA": "G55.2*",
+                "TEN": "Chèn ép rễ và đám rối thần kinh trong thoái hóa đốt sống (M47.-†)",
+                "TEN_EN": "Nerve root and plexus compressions in spondylosis (M47.-†)"
+              },
+              {
+                "MA": "G55.3*",
+                "TEN": "Chèn ép rễ và đám rối thần kinh trong bệnh khác vùng lưng (M45-M46†, M48.-†, M53-M54†)",
+                "TEN_EN": "Nerve root and plexus compressions in other dorsopathiesM45-M46M48.-M53-M54"
+              },
+              {
+                "MA": "G55.8*",
+                "TEN": "Chèn ép rễ và đám rối thần kinh trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Nerve root and plexus compressions in other diseases classified elsewhere"
+              }
+            ]
+          },
+
+          {
+            "MA": "G56",
+            "TEN": "Bệnh đơn dây thần kinh chi trên",
+            "TEN_EN": "Mononeuropathies of upper limb",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G56.0",
+                "TEN": "Hội chứng ống cổ tay",
+                "TEN_EN": "Carpal tunnel syndrome"
+              },
+              {
+                "MA": "G56.1",
+                "TEN": "Tổn thương khác của dây thần kinh giữa",
+                "TEN_EN": "Other lesions of median nerve"
+              },
+              {
+                "MA": "G56.2",
+                "TEN": "Tổn thương dây thần kinh trụ",
+                "TEN_EN": "Lesion of ulnar nerve"
+              },
+              {
+                "MA": "G56.3",
+                "TEN": "Tổn thương dây thần kinh quay",
+                "TEN_EN": "Lesion of radial nerve"
+              },
+              {
+                "MA": "G56.4",
+                "TEN": "Bỏng buốt",
+                "TEN_EN": "Causalgia"
+              },
+              {
+                "MA": "G56.8",
+                "TEN": "Bệnh đơn dây thần kinh khác của chi trên",
+                "TEN_EN": "Other mononeuropathies of upper limb"
+              },
+              {
+                "MA": "G56.9",
+                "TEN": "Bệnh đơn dây thần kinh của chi trên không đặc hiệu",
+                "TEN_EN": "Mononeuropathy of upper limb, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G57",
+            "TEN": "Bệnh đơn dây thần kinh chi dưới",
+            "TEN_EN": "Mononeuropathies of lower limb",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G57.0",
+                "TEN": "Tổn thương dây thần kinh hông to",
+                "TEN_EN": "Lesion of sciatic nerve"
+              },
+              {
+                "MA": "G57.1",
+                "TEN": "Đau đùi dị cảm",
+                "TEN_EN": "Meralgia paraesthetica"
+              },
+              {
+                "MA": "G57.2",
+                "TEN": "Tổn thương dây thần kinh đùi",
+                "TEN_EN": "Lesion of femoral nerve"
+              },
+              {
+                "MA": "G57.3",
+                "TEN": "Tổn thương dây thần kinh khoeo ngoài",
+                "TEN_EN": "Lesion of lateral popliteal nerve"
+              },
+              {
+                "MA": "G57.4",
+                "TEN": "Tổn thương dây thần kinh khoeo trong",
+                "TEN_EN": "Lesion of medial popliteal nerve"
+              },
+              {
+                "MA": "G57.5",
+                "TEN": "Hội chứng ống cổ chân",
+                "TEN_EN": "Tarsal tunnel syndrome"
+              },
+              {
+                "MA": "G57.6",
+                "TEN": "Tổn thương dây thần kinh gan bàn chân",
+                "TEN_EN": "Lesion of plantar nerve"
+              },
+              {
+                "MA": "G57.8",
+                "TEN": "Bệnh đơn dây thần kinh khác ở chi dưới",
+                "TEN_EN": "Other mononeuropathies of lower limb"
+              },
+              {
+                "MA": "G57.9",
+                "TEN": "Bệnh đơn dây thần kinh ở chi dưới không đặc hiệu",
+                "TEN_EN": "Mononeuropathy of lower limb, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G58",
+            "TEN": "Bệnh đơn dây thần kinh khác",
+            "TEN_EN": "Other mononeuropathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G58.0",
+                "TEN": "Bệnh dây thần kinh liên sườn",
+                "TEN_EN": "Intercostal neuropathy"
+              },
+              {
+                "MA": "G58.7",
+                "TEN": "Viêm đơn dây thần kinh nhiều ổ",
+                "TEN_EN": "Mononeuritis multiplex"
+              },
+              {
+                "MA": "G58.8",
+                "TEN": "Bệnh đơn dây thần kinh xác định khác",
+                "TEN_EN": "Other specified mononeuropathies"
+              },
+              {
+                "MA": "G58.9",
+                "TEN": "Bệnh đơn dây thần kinh, không đặc hiệu",
+                "TEN_EN": "Mononeuropathy, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G59",
+            "TEN": "Bệnh đơn dây thần kinh được phân loại nơi khác",
+            "TEN_EN": "Mononeuropathy in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G59*",
+                "TEN": "Bệnh đơn dây thần kinh được phân loại nơi khác",
+                "TEN_EN": "Mononeuropathy in diseases classified elsewhere"
+              },
+              {
+                "MA": "G59.0*",
+                "TEN": "Bệnh đơn dây thần kinh do đái tháo đường (E10-E14†) (với ký tự thứ tư chung là .4)",
+                "TEN_EN": "Diabetic mononeuropathy (E10-E14†) with common fourth character .4"
+              },
+              {
+                "MA": "G59.8*",
+                "TEN": "Bệnh đơn dây thần kinh khác trong bệnh được phân loại nơi khác",
+                "TEN_EN": "Other mononeuropathies in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "G60-G64",
         "MA_TRONG_CHUONG": "",
         "TEN": "Viêm nhiều dây thần kinh và bệnh hệ thần kinh ngoại biên khác",
-        "TEN_EN": "Polyneuropathies and other disorders of the peripheral nervous system"
+        "TEN_EN": "Polyneuropathies and other disorders of the peripheral nervous system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G60",
+            "TEN": "Bệnh dây thần kinh di truyền và nguyên phát",
+            "TEN_EN": "Hereditary and idiopathic neuropathy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G60.0",
+                "TEN": "Bệnh dây thần kinh cảm giác và vận động di truyền",
+                "TEN_EN": "Hereditary motor and sensory neuropathy"
+              },
+              {
+                "MA": "G60.1",
+                "TEN": "Bệnh Refsum",
+                "TEN_EN": "Refsum s disease"
+              },
+              {
+                "MA": "G60.2",
+                "TEN": "Bệnh dây thần kinh kết hợp với thất điều di truyền",
+                "TEN_EN": "Neuropathy in association with hereditary ataxia"
+              },
+              {
+                "MA": "G60.3",
+                "TEN": "Bệnh dây thần kinh tiến triển nguyên phát",
+                "TEN_EN": "Idiopathic progressive neuropathy"
+              },
+              {
+                "MA": "G60.8",
+                "TEN": "Bệnh dây thần kinh nguyên phát và di truyền khác",
+                "TEN_EN": "Other hereditary and idiopathic neuropathies"
+              },
+              {
+                "MA": "G60.9",
+                "TEN": "Bệnh dây thần kinh di truyền nguyên phát, không đặc hiệu khác",
+                "TEN_EN": "Hereditary and idiopathic neuropathy, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G61",
+            "TEN": "Viêm đa dây thần kinh",
+            "TEN_EN": "Inflammatory polyneuropathy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G61.0",
+                "TEN": "Hội chứng Guillain-Barré",
+                "TEN_EN": "Guillain-Barré syndrome"
+              },
+              {
+                "MA": "G61.1",
+                "TEN": "Bệnh dây thần kinh do huyết thanh",
+                "TEN_EN": "Serum neuropathy"
+              },
+              {
+                "MA": "G61.8",
+                "TEN": "Bệnh viêm đa dây thần kinh khác",
+                "TEN_EN": "Other inflammatory polyneuropathies"
+              },
+              {
+                "MA": "G61.9",
+                "TEN": "Bệnh viêm đa dây thần kinh, không đặc hiệu",
+                "TEN_EN": "Inflammatory polyneuropathy, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G62",
+            "TEN": "Bệnh đa dây thần kinh khác",
+            "TEN_EN": "Other polyneuropathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G62.0",
+                "TEN": "Bệnh đa dây thần kinh do thuốc",
+                "TEN_EN": "Drug-induced polyneuropathy"
+              },
+              {
+                "MA": "G62.1",
+                "TEN": "Bệnh đa dây thần kinh do rượu",
+                "TEN_EN": "Alcoholic polyneuropathy"
+              },
+              {
+                "MA": "G62.2",
+                "TEN": "Bệnh đa dây thần kinh do độc tố khác",
+                "TEN_EN": "Polyneuropathy due to other toxic agents"
+              },
+              {
+                "MA": "G62.8",
+                "TEN": "Bệnh đa dây thần kinh xác định khác",
+                "TEN_EN": "Other specified polyneuropathies"
+              },
+              {
+                "MA": "G62.9",
+                "TEN": "Bệnh đa dây thần kinh, không đặc hiệu",
+                "TEN_EN": "Polyneuropathy, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G63",
+            "TEN": "Bệnh đa dây thần kinh trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Polyneuropathy in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G63*",
+                "TEN": "Bệnh đa dây thần kinh trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Polyneuropathy in diseases classified elsewhere"
+              },
+              {
+                "MA": "G63.0*",
+                "TEN": "Bệnh đa dây thần kinh trong các bệnh nhiễm trùng và ký sinh trùng đã phân loại nơi khác",
+                "TEN_EN": "Polyneuropathy in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "G63.1*",
+                "TEN": "Bệnh đa dây thần kinh trong u (C00-D48†)",
+                "TEN_EN": "Polyneuropathy in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "G63.2*",
+                "TEN": "Bệnh đa dây thần kinh do đái tháo đường (E10-E14 với ký tự thứ tự chung là .4†)",
+                "TEN_EN": "Diabetic polyneuropathy (E10-E14 with common fourth character .4†)"
+              },
+              {
+                "MA": "G63.3*",
+                "TEN": "Bệnh đa dây thần kinh trong các bệnh nội tiết và chuyển hóa khác (E00-E07†, E15-E16†, E20-E34†, E70-E89†)",
+                "TEN_EN": "Polyneuropathy in other endocrine and metabolic diseases (E00-E07†, E15-E16†, E20-E34†, E70-E89†)"
+              },
+              {
+                "MA": "G63.4*",
+                "TEN": "Bệnh đa dây thần kinh trong thiểu dinh dưỡng (E40-E64†)",
+                "TEN_EN": "Polyneuropathy in nutritional deficiency (E40-E64†)"
+              },
+              {
+                "MA": "G63.5*",
+                "TEN": "Bệnh đa dây thần kinh trong bệnh hệ thống mô liên kết (M30-M35†)",
+                "TEN_EN": "Polyneuropathy in systemic connective tissue disorders (M30-M35†)"
+              },
+              {
+                "MA": "G63.6*",
+                "TEN": "Bệnh đa dây thần kinh trong bệnh cơ xương khác (M00-M25†, M40-M96†)",
+                "TEN_EN": "Polyneuropathy in other musculoskeletal disorders (M00-M25†, M40-M96†)"
+              },
+              {
+                "MA": "G63.8*",
+                "TEN": "Bệnh đa dây thần kinh trong bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Polyneuropathy in other diseases classified elsewhere"
+              }
+            ]
+          },
+
+          {
+            "MA": "G64",
+            "TEN": "Bệnh khác của hệ thần kinh ngoại vi",
+            "TEN_EN": "Other disorders of peripheral nervous system",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "G70-G73",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của khớp thần kinh - cơ và cơ",
-        "TEN_EN": "Diseases of myoneural junction and muscle"
+        "TEN_EN": "Diseases of myoneural junction and muscle",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G70",
+            "TEN": "Nhược cơ và bệnh thần kinh - cơ khác",
+            "TEN_EN": "Myasthenia gravis and other myoneural disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G70.0",
+                "TEN": "Nhược cơ",
+                "TEN_EN": "Myasthenia gravis"
+              },
+              {
+                "MA": "G70.1",
+                "TEN": "Bệnh thần kinh - cơ do nhiễm độc",
+                "TEN_EN": "Toxic myoneural disorders"
+              },
+              {
+                "MA": "G70.2",
+                "TEN": "Nhược cơ bẩm sinh và trong quá trình phát triển",
+                "TEN_EN": "Congenital and developmental myasthenia"
+              },
+              {
+                "MA": "G70.8",
+                "TEN": "Bệnh thần kinh - cơ xác định khác",
+                "TEN_EN": "Other specified myoneural disorders"
+              },
+              {
+                "MA": "G70.9",
+                "TEN": "Bệnh thần kinh - cơ, không đặc hiệu",
+                "TEN_EN": "Myoneural disorder, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G71",
+            "TEN": "Bệnh cơ tiên phát",
+            "TEN_EN": "Primary disorders of muscles",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G71.0",
+                "TEN": "Loạn dưỡng cơ",
+                "TEN_EN": "Muscular dystrophy"
+              },
+              {
+                "MA": "G71.1",
+                "TEN": "Bệnh loạn trương lực cơ",
+                "TEN_EN": "Myotonic disorders"
+              },
+              {
+                "MA": "G71.2",
+                "TEN": "Bệnh cơ bẩm sinh",
+                "TEN_EN": "Congenital myopathies"
+              },
+              {
+                "MA": "G71.3",
+                "TEN": "Bệnh cơ do thể ty lạp, không phân loại nơi khác",
+                "TEN_EN": "Mitochondrial myopathy, not elsewhere classified"
+              },
+              {
+                "MA": "G71.8",
+                "TEN": "Các bệnh tiên phát khác của cơ",
+                "TEN_EN": "Other primary disorders of muscles"
+              },
+              {
+                "MA": "G71.9",
+                "TEN": "Bệnh cơ tiên phát, không đặc hiệu",
+                "TEN_EN": "Primary disorder of muscle, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G72",
+            "TEN": "Bệnh cơ khác",
+            "TEN_EN": "Other myopathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G72.0",
+                "TEN": "Bệnh cơ do thuốc",
+                "TEN_EN": "Drug-induced myopathy"
+              },
+              {
+                "MA": "G72.1",
+                "TEN": "Bệnh cơ do rượu",
+                "TEN_EN": "Alcoholic myopathy"
+              },
+              {
+                "MA": "G72.2",
+                "TEN": "Bệnh cơ do độc tố khác",
+                "TEN_EN": "Myopathy due to other toxic agents"
+              },
+              {
+                "MA": "G72.3",
+                "TEN": "Liệt chu kỳ",
+                "TEN_EN": "Periodic paralysis"
+              },
+              {
+                "MA": "G72.4",
+                "TEN": "Viêm cơ, không phân loại nơi khác",
+                "TEN_EN": "Inflammatory myopathy, not elsewhere classified"
+              },
+              {
+                "MA": "G72.8",
+                "TEN": "Bệnh cơ xác định khác",
+                "TEN_EN": "Other specified myopathies"
+              },
+              {
+                "MA": "G72.9",
+                "TEN": "Bệnh cơ, không đặc hiệu",
+                "TEN_EN": "Myopathy, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G73",
+            "TEN": "Bệnh khớp thần kinh- cơ và cơ trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of myoneural junction and muscle in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G73*",
+                "TEN": "Bệnh khớp thần kinh- cơ và cơ trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of myoneural junction and muscle in diseases classified elsewhere"
+              },
+              {
+                "MA": "G73.0*",
+                "TEN": "Hội chứng nhược cơ trong bệnh nội tiết",
+                "TEN_EN": "Myasthenic syndromes in endocrine diseases"
+              },
+              {
+                "MA": "G73.1*",
+                "TEN": "Hội chứng Lambert-Eaton (C80†",
+                "TEN_EN": "Eaton-Lambert syndromeC80"
+              },
+              {
+                "MA": "G73.2*",
+                "TEN": "Hội chứng nhược cơ khác trong u (C00-D48†)",
+                "TEN_EN": "Other myasthenic syndromes in neoplastic diseaseC00-D48"
+              },
+              {
+                "MA": "G73.3*",
+                "TEN": "Hội chứng nhược cơ trong các bệnh khác phân loại nơi khác",
+                "TEN_EN": "Myasthenic syndromes in other diseases classified elsewhere"
+              },
+              {
+                "MA": "G73.4*",
+                "TEN": "Bệnh cơ trong bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Myopathy in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "G73.5*",
+                "TEN": "Bệnh cơ trong bệnh nội tiết",
+                "TEN_EN": "Myopathy in endocrine diseases"
+              },
+              {
+                "MA": "G73.6*",
+                "TEN": "Bệnh cơ trong bệnh chuyển hóa",
+                "TEN_EN": "Myopathy in metabolic diseases"
+              },
+              {
+                "MA": "G73.7*",
+                "TEN": "Bệnh cơ trong bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Myopathy in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "G80-G83",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bại não và những hội chứng liệt khác",
-        "TEN_EN": "Cerebral palsy and other paralytic syndromes"
+        "TEN_EN": "Cerebral palsy and other paralytic syndromes",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G80",
+            "TEN": "Bại não",
+            "TEN_EN": "Cerebral palsy",
+            "DANH_SACH_BEMH": [
+              {
+                "MA": "G80.0",
+                "TEN": "Bại não liệt tứ chi co cứng",
+                "TEN_EN": "Spastic quadriplegic cerebral palsy"
+              },
+              {
+                "MA": "G80.1",
+                "TEN": "Bại não liệt co cứng hai bên",
+                "TEN_EN": "Spastic diplegic cerebral palsy"
+              },
+              {
+                "MA": "G80.2",
+                "TEN": "Bại não liệt nửa người co cứng",
+                "TEN_EN": "Spastic hemiplegic cerebral palsy"
+              },
+              {
+                "MA": "G80.3",
+                "TEN": "Bại não loạn động",
+                "TEN_EN": "Dyskinetic cerebral palsy"
+              },
+              {
+                "MA": "G80.4",
+                "TEN": "Bại não thất điều",
+                "TEN_EN": "Ataxic cerebral palsy"
+              },
+              {
+                "MA": "G80.8",
+                "TEN": "Bại não khác",
+                "TEN_EN": "Other cerebral palsy"
+              },
+              {
+                "MA": "G80.9",
+                "TEN": "Bại não, không đặc hiệu",
+                "TEN_EN": "Cerebral palsy, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G81",
+            "TEN": "Liệt nửa người",
+            "TEN_EN": "Hemiplegia",
+            "DANH_SACH_BEMH": [
+              {
+                "MA": "G81.0",
+                "TEN": "Liệt mềm nửa người",
+                "TEN_EN": "Flaccid hemiplegia"
+              },
+              {
+                "MA": "G81.1",
+                "TEN": "Liệt cứng nửa người",
+                "TEN_EN": "Spastic hemiplegia"
+              },
+              {
+                "MA": "G81.9",
+                "TEN": "Liệt nửa người không đặc hiệu",
+                "TEN_EN": "Hemiplegia, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G82",
+            "TEN": "Liệt hai chân và liệt tứ chi",
+            "TEN_EN": "Paraplegia and tetraplegia",
+            "DANH_SACH_BEMH": [
+              {
+                "MA": "G82.0",
+                "TEN": "Liệt mềm hai chi dưới",
+                "TEN_EN": "Flaccid paraplegia"
+              },
+              {
+                "MA": "G82.1",
+                "TEN": "Liệt cứng hai chi dưới",
+                "TEN_EN": "Spastic paraplegia"
+              },
+              {
+                "MA": "G82.2",
+                "TEN": "Liệt hai chi dưới, không đặc hiệu",
+                "TEN_EN": "Paraplegia, unspecified"
+              },
+              {
+                "MA": "G82.3",
+                "TEN": "Liệt mềm tứ chi",
+                "TEN_EN": "Flaccid tetraplegia"
+              },
+              {
+                "MA": "G82.4",
+                "TEN": "Liệt cứng tứ chi",
+                "TEN_EN": "Spastic tetraplegia"
+              },
+              {
+                "MA": "G82.5",
+                "TEN": "Liệt tứ chi, không đặc hiệu",
+                "TEN_EN": "Tetraplegia, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G83",
+            "TEN": "Hội chứng liệt khác",
+            "TEN_EN": "Other paralytic syndromes",
+            "DANH_SACH_BEMH": [
+              {
+                "MA": "G83.0",
+                "TEN": "Liệt hai chi trên",
+                "TEN_EN": "Diplegia of upper limbs"
+              },
+              {
+                "MA": "G83.1",
+                "TEN": "Liệt một chi dưới",
+                "TEN_EN": "Monoplegia of lower limb"
+              },
+              {
+                "MA": "G83.2",
+                "TEN": "Liệt một chi trên",
+                "TEN_EN": "Monoplegia of upper limb"
+              },
+              {
+                "MA": "G83.3",
+                "TEN": "Liệt một chi, không đặc hiệu",
+                "TEN_EN": "Monoplegia, unspecified"
+              },
+              {
+                "MA": "G83.4",
+                "TEN": "Hội chứng đuôi ngựa",
+                "TEN_EN": "Cauda equina syndrome"
+              },
+              {
+                "MA": "G83.8",
+                "TEN": "Các hội chứng liệt xác định khác",
+                "TEN_EN": "Other specified paralytic syndromes"
+              },
+              {
+                "MA": "G83.9",
+                "TEN": "Hội chứng liệt, không đặc hiệu",
+                "TEN_EN": "Paralytic syndrome, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "G90-G99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh khác của hệ thần kinh",
-        "TEN_EN": "Other disorders of the nervous system"
+        "TEN_EN": "Other disorders of the nervous system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "G90",
+            "TEN": "Bệnh hệ thần kinh tự động",
+            "TEN_EN": "Disorders of autonomic nervous system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G90.0",
+                "TEN": "Bệnh thần kinh tự động ngoại vi nguyên phát",
+                "TEN_EN": "Idiopathic peripheral autonomic neuropathy"
+              },
+              {
+                "MA": "G90.1",
+                "TEN": "Rối loạn thần kinh tự động gia đình [Riley-Day]",
+                "TEN_EN": "Familial dysautonomia [Riley-Day]"
+              },
+              {
+                "MA": "G90.2",
+                "TEN": "Hội chứng Horner",
+                "TEN_EN": "Horner s syndrome"
+              },
+              {
+                "MA": "G90.3",
+                "TEN": "thoái hóa đa hệ",
+                "TEN_EN": "Multi-system degeneration"
+              },
+              {
+                "MA": "G90.4",
+                "TEN": "Loạn phản xạ tự quản",
+                "TEN_EN": "Autonomic dysreflexia"
+              },
+              {
+                "MA": "G90.8",
+                "TEN": "Bệnh khác của hệ thần kinh tự động",
+                "TEN_EN": "Other disorders of autonomic nervous system"
+              },
+              {
+                "MA": "G90.9",
+                "TEN": "Bệnh hệ thần kinh tự động, không đặc hiệu",
+                "TEN_EN": "Disorder of autonomic nervous system, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G91",
+            "TEN": "Tràn dịch não",
+            "TEN_EN": "Hydrocephalus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G91.0",
+                "TEN": "Tràn dịch não thông",
+                "TEN_EN": "Communicating hydrocephalus"
+              },
+              {
+                "MA": "G91.1",
+                "TEN": "Tràn dịch não tắc",
+                "TEN_EN": "Obstructive hydrocephalus"
+              },
+              {
+                "MA": "G91.2",
+                "TEN": "Tràn dịch não áp lực bình thường",
+                "TEN_EN": "Normal-pressure hydrocephalus"
+              },
+              {
+                "MA": "G91.3",
+                "TEN": "Tràn dịch não sau chấn thương, không đặc hiệu",
+                "TEN_EN": "Post-traumatic hydrocephalus, unspecified"
+              },
+              {
+                "MA": "G91.8",
+                "TEN": "Tràn dịch não khác",
+                "TEN_EN": "Other hydrocephalus"
+              },
+              {
+                "MA": "G91.9",
+                "TEN": "Tràn dịch não, không đặc hiệu",
+                "TEN_EN": "Hydrocephalus, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G92",
+            "TEN": "Bệnh não nhiễm độc",
+            "TEN_EN": "Toxic encephalopathy",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "G93",
+            "TEN": "Bệnh khác của não",
+            "TEN_EN": "Other disorders of brain",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G93.0",
+                "TEN": "Kén dịch não",
+                "TEN_EN": "Cerebral cysts"
+              },
+              {
+                "MA": "G93.1",
+                "TEN": "Tổn thương não do thiếu oxy, không phân loại nơi khác",
+                "TEN_EN": "Anoxic brain damage, not elsewhere classified"
+              },
+              {
+                "MA": "G93.2",
+                "TEN": "Tăng áp lực trong sọ lành tính",
+                "TEN_EN": "Benign intracranial hypertension"
+              },
+              {
+                "MA": "G93.3",
+                "TEN": "Hội chứng mệt mỏi sau nhiễm virus",
+                "TEN_EN": "Postviral fatigue syndrome"
+              },
+              {
+                "MA": "G93.4",
+                "TEN": "Bệnh não, không đặc hiệu",
+                "TEN_EN": "Encephalopathy, unspecified"
+              },
+              {
+                "MA": "G93.5",
+                "TEN": "Chèn ép não",
+                "TEN_EN": "Compression of brain"
+              },
+              {
+                "MA": "G93.6",
+                "TEN": "Phù não",
+                "TEN_EN": "Cerebral oedema"
+              },
+              {
+                "MA": "G93.7",
+                "TEN": "Hội chứng Reye",
+                "TEN_EN": "Reye s syndrome"
+              },
+              {
+                "MA": "G93.8",
+                "TEN": "Các bệnh xác định khác của não",
+                "TEN_EN": "Other specified disorders of brain"
+              },
+              {
+                "MA": "G93.9",
+                "TEN": "Bệnh não, không đặc hiệu",
+                "TEN_EN": "Disorder of brain, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G94",
+            "TEN": "Bệnh khác của não trong bệnh phân loại nơi khác",
+            "TEN_EN": "Other disorders of brain in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G94*",
+                "TEN": "Bệnh khác của não trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of brain in diseases classified elsewhere"
+              },
+              {
+                "MA": "G94.0*",
+                "TEN": "Tràn dịch não trong bệnh nhiễm trùng và ký sinh trùng phân loại ở mục khác (A00-B99†)",
+                "TEN_EN": "Hydrocephalus in infectious and parasitic diseases classified elsewhere (A00-B99†)"
+              },
+              {
+                "MA": "G94.1*",
+                "TEN": "Tràn dịch não trong u (C00-D48†)",
+                "TEN_EN": "Hydrocephalus in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "G94.2*",
+                "TEN": "Tràn dịch não trong các bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Hydrocephalus in other diseases classified elsewhere"
+              },
+              {
+                "MA": "G94.8*",
+                "TEN": "Các bệnh xác định khác của não trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other specified disorders of brain in diseases classified elsewhere"
+              }
+            ]
+          },
+
+          {
+            "MA": "G95",
+            "TEN": "Bệnh khác của tủy sống",
+            "TEN_EN": "Other diseases of spinal cord",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G95.0",
+                "TEN": "Bệnh rỗng tủy sống và rỗng hành não",
+                "TEN_EN": "Syringomyelia and syringobulbia"
+              },
+              {
+                "MA": "G95.1",
+                "TEN": "Bệnh mạch máu tủy",
+                "TEN_EN": "Vascular myelopathies"
+              },
+              {
+                "MA": "G95.2",
+                "TEN": "Chèn ép tủy, không đặc hiệu",
+                "TEN_EN": "Cord compression, unspecified"
+              },
+              {
+                "MA": "G95.8",
+                "TEN": "Các bệnh tủy xác định khác của tủy",
+                "TEN_EN": "Other specified diseases of spinal cord"
+              },
+              {
+                "MA": "G95.9",
+                "TEN": "Bệnh của tủy, không đặc hiệu",
+                "TEN_EN": "Disease of spinal cord, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G96",
+            "TEN": "Bệnh khác của hệ thần kinh trung ương",
+            "TEN_EN": "Other disorders of central nervous system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G96.0",
+                "TEN": "Dò dịch não tủy",
+                "TEN_EN": "Cerebrospinal fluid leak"
+              },
+              {
+                "MA": "G96.1",
+                "TEN": "Bệnh màng não không phân loại nơi khác",
+                "TEN_EN": "Disorders of meninges, not elsewhere classified"
+              },
+              {
+                "MA": "G96.8",
+                "TEN": "Bệnh xác định khác của hệ thần kinh trung ương",
+                "TEN_EN": "Other specified disorders of central nervous system"
+              },
+              {
+                "MA": "G96.9",
+                "TEN": "Bệnh thần kinh trung ương, không đặc hiệu",
+                "TEN_EN": "Disorder of central nervous system, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G97",
+            "TEN": "Bệnh hệ thần kinh sau thủ thuật, không phân loại nơi khác",
+            "TEN_EN": "Postprocedural disorders of nervous system, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G97.0",
+                "TEN": "Dò dịch não tủy do chọc dò thắt lưng",
+                "TEN_EN": "Cerebrospinal fluid leak from spinal puncture"
+              },
+              {
+                "MA": "G97.1",
+                "TEN": "Phản ứng khác đối với chọc dò thắt lưng",
+                "TEN_EN": "Other reaction to spinal and lumbar puncture"
+              },
+              {
+                "MA": "G97.2",
+                "TEN": "Hạ áp lực nội sọ sau dẫn lưu não thất",
+                "TEN_EN": "Intracranial hypotension following ventricular shunting"
+              },
+              {
+                "MA": "G97.8",
+                "TEN": "Bệnh khác của hệ thần kinh sau thủ thuật",
+                "TEN_EN": "Other postprocedural disorders of nervous system"
+              },
+              {
+                "MA": "G97.9",
+                "TEN": "Bệnh của hệ thần kinh sau thủ thuật, không đặc hiệu",
+                "TEN_EN": "Postprocedural disorder of nervous system, unspecified"
+              }
+            ]
+          },
+
+          {
+            "MA": "G98",
+            "TEN": "Bệnh khác của hệ thần kinh không phân loại nơi khác",
+            "TEN_EN": "Other disorders of nervous system, not elsewhere classified ",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "G99",
+            "TEN": "Bệnh khác của hệ thần kinh trong bệnh phân loại nơi khác",
+            "TEN_EN": "Other disorders of nervous system in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "G99*",
+                "TEN": "Bệnh khác của hệ thần kinh trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of nervous system in diseases classified elsewhere"
+              },
+              {
+                "MA": "G99.0*",
+                "TEN": "Bệnh hệ thần kinh tự động trong bệnh nội tiết và chuyển hóa",
+                "TEN_EN": "Autonomic neuropathy in endocrine and metabolic diseases"
+              },
+              {
+                "MA": "G99.1*",
+                "TEN": "Bệnh khác của hệ thần kinh tự động trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of autonomic nervous system in other diseases classified elsewhere"
+              },
+              {
+                "MA": "G99.2*",
+                "TEN": "Bệnh tủy trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Myelopathy in diseases classified elsewhere"
+              },
+              {
+                "MA": "G99.8*",
+                "TEN": "Các bệnh xác định khác của hệ thần kinh trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other specified disorders of nervous system in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -15832,67 +18034,1776 @@
         "MA": "H00-H06",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của mí mắt, lệ bộ và hốc mắt",
-        "TEN_EN": "Disorders of eyelid, lacrimal system and orbit"
+        "TEN_EN": "Disorders of eyelid, lacrimal system and orbit",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H00",
+            "TEN": "Lẹo và chắp",
+            "TEN_EN": "Hordeolum and chalazion",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H00.0",
+                "TEN": "Lẹo và viêm sâu khác của mi mắt",
+                "TEN_EN": "Hordeolum and other deep inflammation of eyelid"
+              },
+              {
+                "MA": "H00.1",
+                "TEN": "Chắp",
+                "TEN_EN": "Chalazion"
+              }
+            ]
+          },
+          {
+            "MA": "H01",
+            "TEN": "Viêm khác của mí mắt",
+            "TEN_EN": "Other inflammation of eyelid",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H01.0",
+                "TEN": "Viêm bờ mi",
+                "TEN_EN": "Blepharitis"
+              },
+              {
+                "MA": "H01.1",
+                "TEN": "Bệnh da mi mắt không nhiễm trùng",
+                "TEN_EN": "Noninfectious dermatoses of eyelid"
+              },
+              {
+                "MA": "H01.8",
+                "TEN": "Viêm mi mắt đặc hiệu khác",
+                "TEN_EN": "Other specified inflammation of eyelid"
+              },
+              {
+                "MA": "H01.9",
+                "TEN": "Viêm mi mắt không xác định",
+                "TEN_EN": "Inflammation of eyelid, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H02",
+            "TEN": "Bệnh khác của mí mắt",
+            "TEN_EN": "Other disorders of eyelid",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H02.0",
+                "TEN": "Quặm và lông xiêu của mi mắt",
+                "TEN_EN": "Entropion and trichiasis of eyelid"
+              },
+              {
+                "MA": "H02.1",
+                "TEN": "Lật mi",
+                "TEN_EN": "Ectropion of eyelid"
+              },
+              {
+                "MA": "H02.2",
+                "TEN": "Hở mi",
+                "TEN_EN": "Lagophthalmos"
+              },
+              {
+                "MA": "H02.3",
+                "TEN": "Sa da mi",
+                "TEN_EN": "Blepharochalasis"
+              },
+              {
+                "MA": "H02.4",
+                "TEN": "Sụp mi",
+                "TEN_EN": "Ptosis of eyelid"
+              },
+              {
+                "MA": "H02.5",
+                "TEN": "Bệnh khác ảnh hưởng đến chức năng của mi mắt",
+                "TEN_EN": "Other disorders affecting eyelid function"
+              },
+              {
+                "MA": "H02.6",
+                "TEN": "U vàng ở mi mắt",
+                "TEN_EN": "Xanthelasma of eyelid"
+              },
+              {
+                "MA": "H02.7",
+                "TEN": "Bệnh thoái hóa khác của mi mắt và vùng quanh mắt",
+                "TEN_EN": "Other degenerative disorders of eyelid and periocular area"
+              },
+              {
+                "MA": "H02.8",
+                "TEN": "Bệnh khác của mi mắt",
+                "TEN_EN": "Other specified disorders of eyelid"
+              },
+              {
+                "MA": "H02.9",
+                "TEN": "Bệnh mi mắt không đặc hiệu",
+                "TEN_EN": "Disorder of eyelid, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H03",
+            "TEN": "Bệnh mí mắt trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of eyelid in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H03*",
+                "TEN": "Bệnh mi mắt trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of eyelid in diseases classified elsewhere"
+              },
+              {
+                "MA": "H03.0*",
+                "TEN": "Nhiễm ký sinh trùng ở mi mắt trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Parasitic infestation of eyelid in diseases classified elsewhere"
+              },
+              {
+                "MA": "H03.1*",
+                "TEN": "Các bệnh nhiễm trùng liên quan đến mi mắt trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Involvement of eyelid in other infectious diseases classified elsewhere"
+              },
+              {
+                "MA": "H03.8*",
+                "TEN": "Liên quan đến mi mắt trong các bệnh khác phân loại nơi khác",
+                "TEN_EN": "Involvement of eyelid in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "H04",
+            "TEN": "Bệnh của lệ bộ",
+            "TEN_EN": "Disorders of lacrimal system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H04.0",
+                "TEN": "Viêm tuyến lệ",
+                "TEN_EN": "Dacryoadenitis"
+              },
+              {
+                "MA": "H04.1",
+                "TEN": "Bệnh khác của tuyến lệ (bao gồm Hội chứng khô mắt)",
+                "TEN_EN": "Other disorders of lacrimal gland (include Dry eye syndrome )"
+              },
+              {
+                "MA": "H04.2",
+                "TEN": "Chảy nước mắt",
+                "TEN_EN": "Epiphora"
+              },
+              {
+                "MA": "H04.3",
+                "TEN": "Viêm lệ đạo cấp tính và không đặc hiệu",
+                "TEN_EN": "Acute and unspecified inflammation of lacrimal passages"
+              },
+              {
+                "MA": "H04.4",
+                "TEN": "Viêm lệ đạo mãn tính",
+                "TEN_EN": "Chronic inflammation of lacrimal passages"
+              },
+              {
+                "MA": "H04.5",
+                "TEN": "Tắc và bán tắc lệ đạo",
+                "TEN_EN": "Stenosis and insufficiency of lacrimal passages"
+              },
+              {
+                "MA": "H04.6",
+                "TEN": "Biến đổi khác trong lệ đạo",
+                "TEN_EN": "Other changes in lacrimal passages"
+              },
+              {
+                "MA": "H04.8",
+                "TEN": "Bệnh khác của lệ bộ",
+                "TEN_EN": "Other disorders of lacrimal system"
+              },
+              {
+                "MA": "H04.9",
+                "TEN": "Bệnh của lệ bộ, không đặc hiệu",
+                "TEN_EN": "Disorder of lacrimal system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H05",
+            "TEN": "Bệnh của hốc mắt",
+            "TEN_EN": "Disorders of orbit",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H05.0",
+                "TEN": "Viêm hốc mắt cấp tính",
+                "TEN_EN": "Acute inflammation of orbit"
+              },
+              {
+                "MA": "H05.1",
+                "TEN": "Viêm tổ chức hốc mắt mãn tính",
+                "TEN_EN": "Chronic inflammatory disorders of orbit"
+              },
+              {
+                "MA": "H05.2",
+                "TEN": "Các bệnh gây lồi mắt",
+                "TEN_EN": "Exophthalmic conditions"
+              },
+              {
+                "MA": "H05.3",
+                "TEN": "Biến dạng của hốc mắt",
+                "TEN_EN": "Deformity of orbit"
+              },
+              {
+                "MA": "H05.4",
+                "TEN": "Lõm mắt",
+                "TEN_EN": "Enophthalmos"
+              },
+              {
+                "MA": "H05.5",
+                "TEN": "Dị vật (đâm xuyên) hậu nhãn cầu",
+                "TEN_EN": "Retained (old) foreign body following penetrating wound of orbit"
+              },
+              {
+                "MA": "H05.8",
+                "TEN": "Bệnh khác của hốc mắt",
+                "TEN_EN": "Other disorders of orbit"
+              },
+              {
+                "MA": "H05.9",
+                "TEN": "Bệnh của hốc mắt, không xác định",
+                "TEN_EN": "Disorder of orbit, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H06",
+            "TEN": "Bệnh của lệ bộ và hốc mắt trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of lacrimal system and orbit in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H06*",
+                "TEN": "Bệnh của lệ bộ và hốc mắt trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of lacrimal system and orbit in diseases classified elsewhere"
+              },
+              {
+                "MA": "H06.0*",
+                "TEN": "Bệnh của lệ bộ trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of lacrimal system in diseases classified elsewhere"
+              },
+              {
+                "MA": "H06.1*",
+                "TEN": "Nhiễm ký sinh trùng của hốc mắt trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Parasitic infestation of orbit in diseases classified elsewhere"
+              },
+              {
+                "MA": "H06.2*",
+                "TEN": "Lồi mắt do tuyến giáp (E05.- †)",
+                "TEN_EN": "Dysthyroid exophthalmos (E05.- †)"
+              },
+              {
+                "MA": "H06.3*",
+                "TEN": "Bệnh khác của hốc mắt trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of orbit in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H10-H13",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của kết mạc",
-        "TEN_EN": "Disorders of conjunctiva"
+        "TEN_EN": "Disorders of conjunctiva",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H10",
+            "TEN": "Viêm kết mạc",
+            "TEN_EN": "Conjunctivitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H10.0",
+                "TEN": "Viêm kết mạc nhầy mủ",
+                "TEN_EN": "Mucopurulent conjunctivitis"
+              },
+              {
+                "MA": "H10.1",
+                "TEN": "Viêm kết mạc dị ứng cấp",
+                "TEN_EN": "Acute atopic conjunctivitis"
+              },
+              {
+                "MA": "H10.2",
+                "TEN": "Viêm kết mạc cấp khác",
+                "TEN_EN": "Other acute conjunctivitis"
+              },
+              {
+                "MA": "H10.3",
+                "TEN": "Viêm kết mạc cấp, không đặc hiệu",
+                "TEN_EN": "Acute conjunctivitis, unspecified"
+              },
+              {
+                "MA": "H10.4",
+                "TEN": "Viêm kết mạc mãn tính",
+                "TEN_EN": "Chronic conjunctivitis"
+              },
+              {
+                "MA": "H10.5",
+                "TEN": "Viêm kết mạc, mi mắt",
+                "TEN_EN": "Blepharoconjunctivitis"
+              },
+              {
+                "MA": "H10.8",
+                "TEN": "Viêm kết mạc khác",
+                "TEN_EN": "Other conjunctivitis"
+              },
+              {
+                "MA": "H10.9",
+                "TEN": "Viêm kết mạc, không đặc hiệu",
+                "TEN_EN": "Conjunctivitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H11",
+            "TEN": "Bệnh khác của kết mạc",
+            "TEN_EN": "Other disorders of conjunctiva",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H11.0",
+                "TEN": "Mộng thịt",
+                "TEN_EN": "Pterygium"
+              },
+              {
+                "MA": "H11.1",
+                "TEN": "Cặn lắng và thoái hóa kết mạc, sạn vôi",
+                "TEN_EN": "Conjunctival degenerations and deposits"
+              },
+              {
+                "MA": "H11.2",
+                "TEN": "Sẹo kết mạc",
+                "TEN_EN": "Conjunctival scars"
+              },
+              {
+                "MA": "H11.3",
+                "TEN": "Xuất huyết kết mạc",
+                "TEN_EN": "Conjunctival haemorrhage"
+              },
+              {
+                "MA": "H11.4",
+                "TEN": "Nang các bệnh mạch máu kết mạc khác",
+                "TEN_EN": "Other conjunctival vascular disorders and cysts"
+              },
+              {
+                "MA": "H11.8",
+                "TEN": "Bệnh xác định khác của kết mạc",
+                "TEN_EN": "Other specified disorders of conjunctiva"
+              },
+              {
+                "MA": "H11.9",
+                "TEN": "Bệnh của kết mạc, không đặc hiệu",
+                "TEN_EN": "Disorder of conjunctiva, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H13",
+            "TEN": "Bệnh của kết mạc trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of conjunctiva in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H13*",
+                "TEN": "Bệnh của kết mạc trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of conjunctiva in diseases classified elsewhere"
+              },
+              {
+                "MA": "H13.0*",
+                "TEN": "Nhiễm giun chỉ ở kết mạc (B74.-†)",
+                "TEN_EN": "Filarial infection of conjunctiva (B74.-†)"
+              },
+              {
+                "MA": "H13.1*",
+                "TEN": "Viêm kết mạc trong các bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Conjunctivitis in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "H13.2*",
+                "TEN": "Viêm kết mạc trong bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Conjunctivitis in other diseases classified elsewhere"
+              },
+              {
+                "MA": "H13.3*",
+                "TEN": "Pempigus ở mắt (L12.-†)",
+                "TEN_EN": "Ocular pemphigoid (L12.-†)"
+              },
+              {
+                "MA": "H13.8*",
+                "TEN": "Bệnh khác của kết mạc trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of conjunctiva in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H15-H22",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh củng mạc, giác mạc, mống mắt và thể mi",
-        "TEN_EN": "Disorders of sclera, cornea, iris and ciliary body"
+        "TEN_EN": "Disorders of sclera, cornea, iris and ciliary body",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H15",
+            "TEN": "Bệnh của củng mạc",
+            "TEN_EN": "Disorders of sclera",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H15.0",
+                "TEN": "Viêm củng mạc",
+                "TEN_EN": "Scleritis"
+              },
+              {
+                "MA": "H15.1",
+                "TEN": "Viêm thượng củng mạc",
+                "TEN_EN": "Episcleritis"
+              },
+              {
+                "MA": "H15.8",
+                "TEN": "Bệnh khác của củng mạc",
+                "TEN_EN": "Other disorders of sclera"
+              },
+              {
+                "MA": "H15.9",
+                "TEN": "Bệnh củng mạc, không đặc hiệu",
+                "TEN_EN": "Disorder of sclera, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H16",
+            "TEN": "Viêm giác mạc",
+            "TEN_EN": "Keratitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H16.0",
+                "TEN": "Loét giác mạc",
+                "TEN_EN": "Corneal ulcer"
+              },
+              {
+                "MA": "H16.1",
+                "TEN": "Viêm giác mạc nông khác không viêm kết mạc",
+                "TEN_EN": "Other superficial keratitis without conjunctivitis"
+              },
+              {
+                "MA": "H16.2",
+                "TEN": "Viêm kết giác mạc",
+                "TEN_EN": "Keratoconjunctivitis"
+              },
+              {
+                "MA": "H16.3",
+                "TEN": "Viêm giác mạc sâu và viêm giác mạc kẽ",
+                "TEN_EN": "Interstitial and deep keratitis"
+              },
+              {
+                "MA": "H16.4",
+                "TEN": "Tân mạch giác mạc",
+                "TEN_EN": "Corneal neovascularization"
+              },
+              {
+                "MA": "H16.8",
+                "TEN": "Viêm giác mạc khác",
+                "TEN_EN": "Other keratitis"
+              },
+              {
+                "MA": "H16.9",
+                "TEN": "Viêm giác mạc, không đặc hiệu",
+                "TEN_EN": "Keratitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H17",
+            "TEN": "Sẹo và đục giác mạc",
+            "TEN_EN": "Corneal scars and opacities",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H17.0",
+                "TEN": "Sẹo dính",
+                "TEN_EN": "Adherent leukoma"
+              },
+              {
+                "MA": "H17.1",
+                "TEN": "Đục giác mạc trung tâm khác",
+                "TEN_EN": "Other central corneal opacity"
+              },
+              {
+                "MA": "H17.8",
+                "TEN": "Sẹo và đục giác mạc khác",
+                "TEN_EN": "Other corneal scars and opacities"
+              },
+              {
+                "MA": "H17.9",
+                "TEN": "Sẹo và đục giác mạc, không đặc hiệu",
+                "TEN_EN": "Corneal scar and opacity, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H18",
+            "TEN": "Bệnh khác của giác mạc",
+            "TEN_EN": "Other disorders of cornea",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H18.0",
+                "TEN": "Nhiễm sắc tố và lắng đọng ở giác mạc",
+                "TEN_EN": "Corneal pigmentations and deposits"
+              },
+              {
+                "MA": "H18.1",
+                "TEN": "Bệnh giác mạc bọng",
+                "TEN_EN": "Bullous keratopathy"
+              },
+              {
+                "MA": "H18.2",
+                "TEN": "Phù giác mạc khác",
+                "TEN_EN": "Other corneal oedema"
+              },
+              {
+                "MA": "H18.3",
+                "TEN": "Biến đổi ở các lớp giác mạc",
+                "TEN_EN": "Changes in corneal membranes"
+              },
+              {
+                "MA": "H18.4",
+                "TEN": "thoái hóa giác mạc",
+                "TEN_EN": "Corneal degeneration"
+              },
+              {
+                "MA": "H18.5",
+                "TEN": "Loạn dưỡng giác mạc di truyền",
+                "TEN_EN": "Hereditary corneal dystrophies"
+              },
+              {
+                "MA": "H18.6",
+                "TEN": "Giác mạc hình chóp",
+                "TEN_EN": "Keratoconus"
+              },
+              {
+                "MA": "H18.7",
+                "TEN": "Biến dạng giác mạc khác",
+                "TEN_EN": "Other corneal deformities"
+              },
+              {
+                "MA": "H18.8",
+                "TEN": "Bệnh giác mạc xác định khác",
+                "TEN_EN": "Other specified disorders of cornea"
+              },
+              {
+                "MA": "H18.9",
+                "TEN": "Bệnh giác mạc không đặc hiệu",
+                "TEN_EN": "Disorder of cornea, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H19",
+            "TEN": "Bệnh củng mạc và giác mạc trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of sclera and cornea in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H19*",
+                "TEN": "Bệnh củng mạc và giác mạc trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of sclera and cornea in diseases classified elsewhere"
+              },
+              {
+                "MA": "H19.0*",
+                "TEN": "Viêm củng mạc và thượng củng mạc trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Scleritis and episcleritis in diseases classified elsewhere"
+              },
+              {
+                "MA": "H19.1*",
+                "TEN": "Viêm giác mạc và viêm kết mạc do virus Herpes (B00.5†)",
+                "TEN_EN": "Herpesviral keratitis and keratoconjunctivitis (B00.5†)"
+              },
+              {
+                "MA": "H19.2*",
+                "TEN": "Viêm giác mạc và viêm kết giác mạc trong bệnh nhiễm trùng và nhiễm ký sinh khác phân loại nơi khác",
+                "TEN_EN": "Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "H19.3*",
+                "TEN": "Viêm giác mạc và viêm kết giác mạc trong bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Keratitis and keratoconjunctivitis in other diseases classified elsewhere"
+              },
+              {
+                "MA": "H19.8*",
+                "TEN": "Bệnh khác của củng mạc và giác mạc trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of sclera and cornea in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "H20",
+            "TEN": "Viêm mống thể mi",
+            "TEN_EN": "Iridocyclitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H20.0",
+                "TEN": "Viêm mống mắt thể mi cấp và bán cấp",
+                "TEN_EN": "Acute and subacute iridocyclitis"
+              },
+              {
+                "MA": "H20.1",
+                "TEN": "Viêm mống mắt thể mi mạn",
+                "TEN_EN": "Chronic iridocyclitis"
+              },
+              {
+                "MA": "H20.2",
+                "TEN": "Viêm mống mắt thể mi do thể thủy tinh",
+                "TEN_EN": "Lens-induced iridocyclitis"
+              },
+              {
+                "MA": "H20.8",
+                "TEN": "Viêm mống mắt thể mi khác",
+                "TEN_EN": "Other iridocyclitis"
+              },
+              {
+                "MA": "H20.9",
+                "TEN": "Viêm mống mắt thể mi, không đặc hiệu",
+                "TEN_EN": "Iridocyclitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H21",
+            "TEN": "Bệnh khác của mống mắt và thể mi",
+            "TEN_EN": "Other disorders of iris and ciliary body",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H21.0",
+                "TEN": "Xuất huyết tiền phòng",
+                "TEN_EN": "Hyphaema"
+              },
+              {
+                "MA": "H21.1",
+                "TEN": "Bệnh mạch máu khác của mống mắt và thể mi",
+                "TEN_EN": "Other vascular disorders of iris and ciliary body"
+              },
+              {
+                "MA": "H21.2",
+                "TEN": "thoái hóa mống mắt và thể mi",
+                "TEN_EN": "Degeneration of iris and ciliary body"
+              },
+              {
+                "MA": "H21.3",
+                "TEN": "Nang mống mắt, thể mi và tiền phòng",
+                "TEN_EN": "Cyst of iris, ciliary body and anterior chamber"
+              },
+              {
+                "MA": "H21.4",
+                "TEN": "Màng đồng từ",
+                "TEN_EN": "Pupillary membranes"
+              },
+              {
+                "MA": "H21.5",
+                "TEN": "Dính và đứt khác của mống mắt và thể mi",
+                "TEN_EN": "Other adhesions and disruptions of iris and ciliary body"
+              },
+              {
+                "MA": "H21.8",
+                "TEN": "Bệnh khác của mống mắt và thể mi",
+                "TEN_EN": "Other specified disorders of iris and ciliary body"
+              },
+              {
+                "MA": "H21.9",
+                "TEN": "Bệnh của mống mắt và thể mi, không đặc hiệu",
+                "TEN_EN": "Disorder of iris and ciliary body, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H22",
+            "TEN": "Bệnh của mống mắt và thể mi trong bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of iris and ciliary body in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H22*",
+                "TEN": "Bệnh của mống mắt và thể mi trong bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of iris and ciliary body in diseases classified elsewhere"
+              },
+              {
+                "MA": "H22.0*",
+                "TEN": "Viêm mống mắt thể mi trong các bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Iridocyclitis in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "H22.1*",
+                "TEN": "Viêm mống mắt thể mi trong các bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Iridocyclitis in other diseases classified elsewhere"
+              },
+              {
+                "MA": "H22.8*",
+                "TEN": "Bệnh khác của mống mắt và thể mi trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of iris and ciliary body in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H25-H28",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh thủy tinh thể",
-        "TEN_EN": "Disorders of lens"
+        "TEN_EN": "Disorders of lens",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H25",
+            "TEN": "Đục thủy tinh thể người già",
+            "TEN_EN": "Senile cataract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H25.0",
+                "TEN": "Đục thể thủy tinh bắt đầu ở người già",
+                "TEN_EN": "Senile incipient cataract"
+              },
+              {
+                "MA": "H25.1",
+                "TEN": "Đục thể thủy tinh vùng nhân ở người già",
+                "TEN_EN": "Senile nuclear cataract"
+              },
+              {
+                "MA": "H25.2",
+                "TEN": "Đục thể thủy tinh hình thái Morgagni",
+                "TEN_EN": "Senile cataract, morgagnian type"
+              },
+              {
+                "MA": "H25.8",
+                "TEN": "Đục thể thủy tinh người già khác",
+                "TEN_EN": "Other senile cataract"
+              },
+              {
+                "MA": "H25.9",
+                "TEN": "Đục thể thủy tinh người già, không đặc hiệu",
+                "TEN_EN": "Senile cataract, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H26",
+            "TEN": "Đục thủy tinh thể khác",
+            "TEN_EN": "Other cataract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H26.0",
+                "TEN": "Đục thể thủy tinh trẻ em, người trẻ và trước tuổi già (loại trừ bẩm sinh)",
+                "TEN_EN": "Infantile, juvenile and presenile cataract"
+              },
+              {
+                "MA": "H26.1",
+                "TEN": "Đục thể thủy tinh do chấn thương",
+                "TEN_EN": "Traumatic cataract"
+              },
+              {
+                "MA": "H26.2",
+                "TEN": "Đục thể thủy tinh biến chứng",
+                "TEN_EN": "Complicated cataract"
+              },
+              {
+                "MA": "H26.3",
+                "TEN": "Đục thể thủy tinh do thuốc",
+                "TEN_EN": "Drug-induced cataract"
+              },
+              {
+                "MA": "H26.4",
+                "TEN": "Đục bao sau mổ đục thể thủy tinh ngoài bao",
+                "TEN_EN": "After-cataract"
+              },
+              {
+                "MA": "H26.8",
+                "TEN": "Đục thể thủy tinh xác định khác",
+                "TEN_EN": "Other specified cataract"
+              },
+              {
+                "MA": "H26.9",
+                "TEN": "Đục thể thủy tinh, không đặc hiệu khác",
+                "TEN_EN": "Cataract, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H27",
+            "TEN": "Các bệnh khác của thủy tinh thể",
+            "TEN_EN": "Other disorders of lens",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H27.0",
+                "TEN": "Không có thể thủy tinh",
+                "TEN_EN": "Aphakia"
+              },
+              {
+                "MA": "H27.1",
+                "TEN": "Lệch thể thủy tinh",
+                "TEN_EN": "Dislocation of lens"
+              },
+              {
+                "MA": "H27.8",
+                "TEN": "Bệnh thể thủy tinh xác định khác",
+                "TEN_EN": "Other specified disorders of lens"
+              },
+              {
+                "MA": "H27.9",
+                "TEN": "Bệnh thể thủy tinh, không đặc hiệu",
+                "TEN_EN": "Disorder of lens, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H28",
+            "TEN": "Đục thủy tinh thể và bệnh của thủy tinh thể khác trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Cataract and other disorders of lens in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H28.0*",
+                "TEN": "Đục thể thủy tinh do đái tháo đường (E10-E14 với ký tự thứ tư chung la .3†)",
+                "TEN_EN": "Diabetic cataract (E10-E14 with common fourth character .3†)"
+              },
+              {
+                "MA": "H28.1*",
+                "TEN": "Đục thể thủy tinh trong các bệnh nội tiết, dinh dưỡng và chuyển hóa khác",
+                "TEN_EN": "Cataract in other endocrine, nutritional and metabolic diseases"
+              },
+              {
+                "MA": "H28.2*",
+                "TEN": "Đục thể thủy tinh trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Cataract in other diseases classified elsewhere"
+              },
+              {
+                "MA": "H28.8*",
+                "TEN": "Bệnh khác của thể thủy tinh trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of lens in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H30-H36",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh hắc mạc và võng mạc",
-        "TEN_EN": "Disorders of choroid and retina"
+        "TEN_EN": "Disorders of choroid and retina",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H30",
+            "TEN": "Viêm hắc võng mạc",
+            "TEN_EN": "Chorioretinal inflammation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H30.0",
+                "TEN": "Viêm hắc võng mạc khu trú",
+                "TEN_EN": "Focal chorioretinal inflammation"
+              },
+              {
+                "MA": "H30.1",
+                "TEN": "Viêm hắc võng mạc rải rác",
+                "TEN_EN": "Disseminated chorioretinal inflammation"
+              },
+              {
+                "MA": "H30.2",
+                "TEN": "Viêm thể mi sau",
+                "TEN_EN": "Posterior cyclitis"
+              },
+              {
+                "MA": "H30.8",
+                "TEN": "Bệnh viêm hắc võng mạc khác",
+                "TEN_EN": "Other chorioretinal inflammations"
+              },
+              {
+                "MA": "H30.9",
+                "TEN": "Viêm hắc võng mạc, không đặc hiệu",
+                "TEN_EN": "Chorioretinal inflammation, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H31",
+            "TEN": "Bệnh khác của hắc mạc",
+            "TEN_EN": "Other disorders of choroid",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H31.0",
+                "TEN": "Sẹo hắc võng mạc",
+                "TEN_EN": "Chorioretinal scars"
+              },
+              {
+                "MA": "H31.1",
+                "TEN": "thoái hóa hắc mạc",
+                "TEN_EN": "Choroidal degeneration"
+              },
+              {
+                "MA": "H31.2",
+                "TEN": "Loạn dưỡng hắc mạc di truyền",
+                "TEN_EN": "Hereditary choroidal dystrophy"
+              },
+              {
+                "MA": "H31.3",
+                "TEN": "Xuất huyết và rách hắc mạc",
+                "TEN_EN": "Choroidal haemorrhage and rupture"
+              },
+              {
+                "MA": "H31.4",
+                "TEN": "Bong hắc mạc",
+                "TEN_EN": "Choroidal detachment"
+              },
+              {
+                "MA": "H31.8",
+                "TEN": "Bệnh xác định khác của hắc mạc",
+                "TEN_EN": "Other specified disorders of choroid"
+              },
+              {
+                "MA": "H31.9",
+                "TEN": "Bệnh hắc mạc, không đặc hiệu",
+                "TEN_EN": "Disorder of choroid, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H32",
+            "TEN": "Bệnh hắc võng mạc trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Chorioretinal disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H32*",
+                "TEN": "Bệnh hắc võng mạc trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Chorioretinal disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "H32.0*",
+                "TEN": "Viêm hắc võng mạc trong bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Chorioretinal inflammation in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "H32.8*",
+                "TEN": "Bệnh hắc võng mạc khác trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other chorioretinal disorders in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "H33",
+            "TEN": "Bong và rách võng mạc",
+            "TEN_EN": "Retinal detachments and breaks",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H33.0",
+                "TEN": "Bong võng mạc có vết rách",
+                "TEN_EN": "Retinal detachment with retinal break"
+              },
+              {
+                "MA": "H33.1",
+                "TEN": "Tách lớp võng mạc và nang võng mạc",
+                "TEN_EN": "Retinoschisis and retinal cysts"
+              },
+              {
+                "MA": "H33.2",
+                "TEN": "Bong võng mạc thanh dịch",
+                "TEN_EN": "Serous retinal detachment"
+              },
+              {
+                "MA": "H33.3",
+                "TEN": "Vết rách võng mạc không có bong",
+                "TEN_EN": "Retinal breaks without detachment"
+              },
+              {
+                "MA": "H33.4",
+                "TEN": "Bong võng mạc do kéo",
+                "TEN_EN": "Traction detachment of retina"
+              },
+              {
+                "MA": "H33.5",
+                "TEN": "Bong võng mạc khác",
+                "TEN_EN": "Other retinal detachments"
+              }
+            ]
+          },
+          {
+            "MA": "H34",
+            "TEN": "Tắc mạch võng mạc",
+            "TEN_EN": "Retinal vascular occlusions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H34.0",
+                "TEN": "Tắc động mạch võng mạc thoáng qua",
+                "TEN_EN": "Transient retinal artery occlusion"
+              },
+              {
+                "MA": "H34.1",
+                "TEN": "Tắc động mạch trung tâm võng mạc",
+                "TEN_EN": "Central retinal artery occlusion"
+              },
+              {
+                "MA": "H34.2",
+                "TEN": "Tắc động mạch võng mạc khác",
+                "TEN_EN": "Other retinal artery occlusions"
+              },
+              {
+                "MA": "H34.8",
+                "TEN": "Các tắc mạch võng mạc khác",
+                "TEN_EN": "Other retinal vascular occlusions"
+              },
+              {
+                "MA": "H34.9",
+                "TEN": "Tắc mạch võng mạc, không đặc hiệu",
+                "TEN_EN": "Retinal vascular occlusion, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H35",
+            "TEN": "Các bệnh võng mạc khác",
+            "TEN_EN": "Other retinal disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H35.0",
+                "TEN": "Bệnh lý võng mạc sơ phát và biến đổi mạch máu võng mạc",
+                "TEN_EN": "Background retinopathy and retinal vascular changes"
+              },
+              {
+                "MA": "H35.1",
+                "TEN": "Bệnh lý võng mạc của trẻ đẻ non",
+                "TEN_EN": "Retinopathy of prematurity"
+              },
+              {
+                "MA": "H35.2",
+                "TEN": "Bệnh lý võng mạc tăng sinh khác",
+                "TEN_EN": "Other proliferative retinopathy"
+              },
+              {
+                "MA": "H35.3",
+                "TEN": "thoái hóa hoàng điểm và cực sau",
+                "TEN_EN": "Degeneration of macula and posterior pole"
+              },
+              {
+                "MA": "H35.4",
+                "TEN": "thoái hóa võng mạc ngoại biên",
+                "TEN_EN": "Peripheral retinal degeneration"
+              },
+              {
+                "MA": "H35.5",
+                "TEN": "Loạn dưỡng võng mạc di truyền",
+                "TEN_EN": "Hereditary retinal dystrophy"
+              },
+              {
+                "MA": "H35.6",
+                "TEN": "Xuất huyết võng mạc",
+                "TEN_EN": "Retinal haemorrhage"
+              },
+              {
+                "MA": "H35.7",
+                "TEN": "Bong các lớp võng mạc",
+                "TEN_EN": "Separation of retinal layers"
+              },
+              {
+                "MA": "H35.8",
+                "TEN": "Bệnh võng mạc xác định khác",
+                "TEN_EN": "Other specified retinal disorders"
+              },
+              {
+                "MA": "H35.9",
+                "TEN": "Bệnh võng mạc, không đặc hiệu",
+                "TEN_EN": "Retinal disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H36",
+            "TEN": "Bệnh võng mạc trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Retinal disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H36*",
+                "TEN": "Bệnh võng mạc trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Retinal disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "H36.0*",
+                "TEN": "Bệnh lý võng mạc do đái tháo đường (E10-E14 với ký tự thứ tư chung là .3†)",
+                "TEN_EN": "Diabetic retinopathy (E10-E14 with common fourth character .3†)"
+              },
+              {
+                "MA": "H36.8*",
+                "TEN": "Bệnh võng mạc khác trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other retinal disorders in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H40-H42",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh glôcôm",
-        "TEN_EN": "Glaucoma"
+        "TEN_EN": "Glaucoma",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H40",
+            "TEN": "Glôcôm",
+            "TEN_EN": "Glaucoma",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H40.0",
+                "TEN": "Nghi ngờ glocom",
+                "TEN_EN": "Glaucoma suspect"
+              },
+              {
+                "MA": "H40.1",
+                "TEN": "Glocom góc mở nguyên phát",
+                "TEN_EN": "Primary open-angle glaucoma"
+              },
+              {
+                "MA": "H40.2",
+                "TEN": "Glocom góc đóng nguyên phát",
+                "TEN_EN": "Primary angle-closure glaucoma"
+              },
+              {
+                "MA": "H40.3",
+                "TEN": "Glocom thứ phát do chấn thương mắt",
+                "TEN_EN": "Glaucoma secondary to eye trauma"
+              },
+              {
+                "MA": "H40.4",
+                "TEN": "Glocom thứ phát do viêm mắt",
+                "TEN_EN": "Glaucoma secondary to eye inflammation"
+              },
+              {
+                "MA": "H40.5",
+                "TEN": "Glocom thứ phát do bệnh mắt khác",
+                "TEN_EN": "Glaucoma secondary to other eye disorders"
+              },
+              {
+                "MA": "H40.6",
+                "TEN": "Glocom thứ phát do thuốc",
+                "TEN_EN": "Glaucoma secondary to drugs"
+              },
+              {
+                "MA": "H40.8",
+                "TEN": "Glocom khác",
+                "TEN_EN": "Other glaucoma"
+              },
+              {
+                "MA": "H40.9",
+                "TEN": "Glocom, không đặc hiệu",
+                "TEN_EN": "Glaucoma, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H42",
+            "TEN": "Glôcôm trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Glaucoma in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H42*",
+                "TEN": "Glocom trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Glaucoma in diseases classified elsewhere"
+              },
+              {
+                "MA": "H42.0*",
+                "TEN": "Glocom trong bệnh nội tiết, dinh dưỡng và chuyển h",
+                "TEN_EN": "Glaucoma in endocrine, nutritional and metabolic diseases"
+              },
+              {
+                "MA": "H42.8*",
+                "TEN": "Glocom trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Glaucoma in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H43-H45",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh dịch kính và nhãn cầu",
-        "TEN_EN": "Disorders of vitreous body and globe"
+        "TEN_EN": "Disorders of vitreous body and globe",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H43",
+            "TEN": "Bệnh của dịch kính",
+            "TEN_EN": "Disorders of vitreous body",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H43.0",
+                "TEN": "Phòi dịch kính",
+                "TEN_EN": "Vitreous prolapse"
+              },
+              {
+                "MA": "H43.1",
+                "TEN": "Xuất huyết dịch kính",
+                "TEN_EN": "Vitreous haemorrhage"
+              },
+              {
+                "MA": "H43.2",
+                "TEN": "Cặn lắng tinh thể trong dịch kính",
+                "TEN_EN": "Crystalline deposits in vitreous body"
+              },
+              {
+                "MA": "H43.3",
+                "TEN": "Vẩn đục dịch kính khác",
+                "TEN_EN": "Other vitreous opacities"
+              },
+              {
+                "MA": "H43.8",
+                "TEN": "Bệnh khác của dịch kính",
+                "TEN_EN": "Other disorders of vitreous body"
+              },
+              {
+                "MA": "H43.9",
+                "TEN": "Bệnh dịch kính, không đặc hiệu",
+                "TEN_EN": "Disorder of vitreous body, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H44",
+            "TEN": "Bệnh của nhãn cầu",
+            "TEN_EN": "Disorders of globe",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H44.0",
+                "TEN": "Viêm mủ nội nhãn",
+                "TEN_EN": "Purulent endophthalmitis"
+              },
+              {
+                "MA": "H44.1",
+                "TEN": "Viêm nội nhãn khác",
+                "TEN_EN": "Other endophthalmitis"
+              },
+              {
+                "MA": "H44.2",
+                "TEN": "Cận thị thoái hóa",
+                "TEN_EN": "Degenerative myopia"
+              },
+              {
+                "MA": "H44.3",
+                "TEN": "Bệnh thoái hóa khác của nhãn cầu",
+                "TEN_EN": "Other degenerative disorders of globe"
+              },
+              {
+                "MA": "H44.4",
+                "TEN": "Hạ nhãn áp",
+                "TEN_EN": "Hypotony of eye"
+              },
+              {
+                "MA": "H44.5",
+                "TEN": "Các bệnh thoái hóa của nhãn cầu",
+                "TEN_EN": "Degenerated conditions of globe"
+              },
+              {
+                "MA": "H44.6",
+                "TEN": "Dị vật nội nhãn, có từ tính",
+                "TEN_EN": "Retained (old) intraocular foreign body, magnetic"
+              },
+              {
+                "MA": "H44.7",
+                "TEN": "Dị vật nội nhãn, không từ tính",
+                "TEN_EN": "Retained (old) intraocular foreign body, nonmagnetic"
+              },
+              {
+                "MA": "H44.8",
+                "TEN": "Các bệnh khác của nhãn cầu",
+                "TEN_EN": "Other disorders of globe"
+              },
+              {
+                "MA": "H44.9",
+                "TEN": "Bệnh nhãn cầu, không đặc hiệu",
+                "TEN_EN": "Disorder of globe, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H45",
+            "TEN": "Bệnh của dịch kính và nhãn cầu trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of vitreous body and globe in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H45*",
+                "TEN": "Bệnh của dịch kính và nhãn cầu trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of vitreous body and globe in diseases classified elsewhere"
+              },
+              {
+                "MA": "H45.0*",
+                "TEN": "Xuất huyết dịch kính trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Vitreous haemorrhage in diseases classified elsewhere"
+              },
+              {
+                "MA": "H45.1*",
+                "TEN": "Viêm nội nhãn trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Endophthalmitis in diseases classified elsewhere"
+              },
+              {
+                "MA": "H45.8*",
+                "TEN": "Các bệnh khác của dịch kính và nhãn cầu trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of vitreous body and globe in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H46-H48",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh thần kinh thị và đường dẫn thị giác",
-        "TEN_EN": "Disorders of optic nerve and visual pathways"
+        "TEN_EN": "Disorders of optic nerve and visual pathways",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H46",
+            "TEN": "Viêm thần kinh thị",
+            "TEN_EN": "Optic neuritis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "H47",
+            "TEN": "Các bệnh khác của thần kinh thị (dây thần kinh II) và đường thị giác",
+            "TEN_EN": "Other disorders of optic [2nd] nerve and visual pathways",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H47.0",
+                "TEN": "Bệnh thần kinh thị, không phân loại nơi khác",
+                "TEN_EN": "Disorders of optic nerve, not elsewhere classified"
+              },
+              {
+                "MA": "H47.1",
+                "TEN": "Phù gai, không đặc hiệu",
+                "TEN_EN": "Papilloedema, unspecified"
+              },
+              {
+                "MA": "H47.2",
+                "TEN": "Teo thần kinh thị",
+                "TEN_EN": "Optic atrophy"
+              },
+              {
+                "MA": "H47.3",
+                "TEN": "Bệnh khác của đĩa thị - khuyết gai thị",
+                "TEN_EN": "Other disorders of optic disc"
+              },
+              {
+                "MA": "H47.4",
+                "TEN": "Bệnh giao thoa thị giác",
+                "TEN_EN": "Disorders of optic chiasm"
+              },
+              {
+                "MA": "H47.5",
+                "TEN": "Bệnh đường thị giác",
+                "TEN_EN": "Disorders of other visual pathways"
+              },
+              {
+                "MA": "H47.6",
+                "TEN": "Bệnh vỏ não thị giác",
+                "TEN_EN": "Disorders of visual cortex"
+              },
+              {
+                "MA": "H47.7",
+                "TEN": "Bệnh đường thị giác, không đặc hiệu",
+                "TEN_EN": "Disorder of visual pathways, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H48",
+            "TEN": "Bệnh thần kinh thị và đường dẫn thị giác trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H48*",
+                "TEN": "Bệnh thần kinh thị và đường dẫn thị giác trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere"
+              },
+              {
+                "MA": "H48.0*",
+                "TEN": "Teo thần kinh thị trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Optic atrophy in diseases classified elsewhere"
+              },
+              {
+                "MA": "H48.1*",
+                "TEN": "Viêm thần kinh hậu cầu trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Retrobulbar neuritis in diseases classified elsewhere"
+              },
+              {
+                "MA": "H48.8*",
+                "TEN": "Bệnh khác của thần kinh thị và đường dẫn truyền thị giác trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of optic nerve and visual pathways in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H49-H52",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh cơ vận nhãn, vận nhãn hai mắt điều tiết và khúc xạ",
-        "TEN_EN": "Disorders of ocular muscles, binocular movement, accommodation and refraction"
+        "TEN_EN": "Disorders of ocular muscles, binocular movement, accommodation and refraction",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H49",
+            "TEN": "Lác liệt",
+            "TEN_EN": "Paralytic strabismus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H49.0",
+                "TEN": "Liệt dây thần kinh [vận nhãn] III",
+                "TEN_EN": "Third [oculomotor] nerve palsy"
+              },
+              {
+                "MA": "H49.1",
+                "TEN": "Liệt dây thần kinh [ròng rọc] IV",
+                "TEN_EN": "Fourth [trochlear] nerve palsy"
+              },
+              {
+                "MA": "H49.2",
+                "TEN": "Liệt dây thần kinh [giạng] VI",
+                "TEN_EN": "Sixth [abducent] nerve palsy"
+              },
+              {
+                "MA": "H49.3",
+                "TEN": "Liệt vận nhãn (ngoài) toàn bộ",
+                "TEN_EN": "Total (external) ophthalmoplegia"
+              },
+              {
+                "MA": "H49.4",
+                "TEN": "Liệt vận nhãn ngoài tiến triển",
+                "TEN_EN": "Progressive external ophthalmoplegia"
+              },
+              {
+                "MA": "H49.8",
+                "TEN": "Các loại liệt khác",
+                "TEN_EN": "Other paralytic strabismus"
+              },
+              {
+                "MA": "H49.9",
+                "TEN": "Các loại liệt, không đặc hiệu",
+                "TEN_EN": "Paralytic strabismus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H50",
+            "TEN": "Lác khác",
+            "TEN_EN": "Other strabismus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H50.0",
+                "TEN": "Lác hội tụ đồng hành",
+                "TEN_EN": "Convergent concomitant strabismus"
+              },
+              {
+                "MA": "H50.1",
+                "TEN": "Lác phân kỳ đồng hành",
+                "TEN_EN": "Divergent concomitant strabismus"
+              },
+              {
+                "MA": "H50.2",
+                "TEN": "Lác đứng",
+                "TEN_EN": "Vertical strabismus"
+              },
+              {
+                "MA": "H50.3",
+                "TEN": "Lác từng hồi",
+                "TEN_EN": "Intermittent heterotropia"
+              },
+              {
+                "MA": "H50.4",
+                "TEN": "Lác khác và lác không đặc hiệu",
+                "TEN_EN": "Other and unspecified heterotropia"
+              },
+              {
+                "MA": "H50.5",
+                "TEN": "Lác ẩn",
+                "TEN_EN": "Heterophoria"
+              },
+              {
+                "MA": "H50.6",
+                "TEN": "Lác cơ học",
+                "TEN_EN": "Mechanical strabismus"
+              },
+              {
+                "MA": "H50.8",
+                "TEN": "Lác xác định khác",
+                "TEN_EN": "Other specified strabismus"
+              },
+              {
+                "MA": "H50.9",
+                "TEN": "Lác, không đặc hiệu",
+                "TEN_EN": "Strabismus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H51",
+            "TEN": "Các rối loạn vận nhãn hai mắt khác",
+            "TEN_EN": "Other disorders of binocular movement",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H51.0",
+                "TEN": "Liệt phối hợp hướng nhìn",
+                "TEN_EN": "Palsy of conjugate gaze"
+              },
+              {
+                "MA": "H51.1",
+                "TEN": "Thiểu năng hay gia tăng quy tụ",
+                "TEN_EN": "Convergence insufficiency and excess"
+              },
+              {
+                "MA": "H51.2",
+                "TEN": "Liệt vận nhãn gian",
+                "TEN_EN": "Internuclear ophthalmoplegia"
+              },
+              {
+                "MA": "H51.8",
+                "TEN": "Các rối loạn vận nhãn hai mắt xác định khác",
+                "TEN_EN": "Other specified disorders of binocular movement"
+              },
+              {
+                "MA": "H51.9",
+                "TEN": "Rối loạn vận nhãn hai mắt, không đặc hiệu",
+                "TEN_EN": "Disorder of binocular movement, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H52",
+            "TEN": "Bệnh khúc xạ và điều tiết",
+            "TEN_EN": "Disorders of refraction and accommodation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H52.0",
+                "TEN": "Viễn thị",
+                "TEN_EN": "Hypermetropia"
+              },
+              {
+                "MA": "H52.1",
+                "TEN": "Cận thị",
+                "TEN_EN": "Myopia"
+              },
+              {
+                "MA": "H52.2",
+                "TEN": "Loạn thị",
+                "TEN_EN": "Astigmatism"
+              },
+              {
+                "MA": "H52.3",
+                "TEN": "Khúc xạ hai mắt không đều và hình võng mạc hai mắt không đều",
+                "TEN_EN": "Anisometropia and aniseikonia"
+              },
+              {
+                "MA": "H52.4",
+                "TEN": "Lão thị",
+                "TEN_EN": "Presbyopia"
+              },
+              {
+                "MA": "H52.5",
+                "TEN": "Rối loạn điều tiết",
+                "TEN_EN": "Disorders of accommodation"
+              },
+              {
+                "MA": "H52.6",
+                "TEN": "Tật khúc xạ khác",
+                "TEN_EN": "Other disorders of refraction"
+              },
+              {
+                "MA": "H52.7",
+                "TEN": "Tật khúc xạ, không đặc hiệu",
+                "TEN_EN": "Disorder of refraction, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H53-H54",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn thị giác và mù lòa",
-        "TEN_EN": "Visual disturbances and blindness"
+        "TEN_EN": "Visual disturbances and blindness",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H53",
+            "TEN": "Rối loạn thị giác",
+            "TEN_EN": "Visual disturbances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H53.0",
+                "TEN": "Nhược thị do không nhìn",
+                "TEN_EN": "Amblyopia ex anopsia"
+              },
+              {
+                "MA": "H53.1",
+                "TEN": "Rối loạn thị giác chủ quan",
+                "TEN_EN": "Subjective visual disturbances"
+              },
+              {
+                "MA": "H53.2",
+                "TEN": "Song thị",
+                "TEN_EN": "Diplopia"
+              },
+              {
+                "MA": "H53.3",
+                "TEN": "Rối loạn thị giác hai mắt khác",
+                "TEN_EN": "Other disorders of binocular vision"
+              },
+              {
+                "MA": "H53.4",
+                "TEN": "Tổn hại thị trường",
+                "TEN_EN": "Visual field defects"
+              },
+              {
+                "MA": "H53.5",
+                "TEN": "Tổn hại sắc giác",
+                "TEN_EN": "Colour vision deficiencies"
+              },
+              {
+                "MA": "H53.6",
+                "TEN": "Quáng gà",
+                "TEN_EN": "Night blindness"
+              },
+              {
+                "MA": "H53.8",
+                "TEN": "Rối loạn thị giác khác",
+                "TEN_EN": "Other visual disturbances"
+              },
+              {
+                "MA": "H53.9",
+                "TEN": "Rối loạn thị giác, không đặc hiệu",
+                "TEN_EN": "Visual disturbance, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H54",
+            "TEN": "Giảm thị lực bao gồm mù lòa (hai mắt hoặc một mắt)",
+            "TEN_EN": "Blindness and low vision",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H54.0",
+                "TEN": "Mù, hai mắt",
+                "TEN_EN": "Blindness, both eyes"
+              },
+              {
+                "MA": "H54.1",
+                "TEN": "Giảm thị lực mức độ nặng, hai mắt",
+                "TEN_EN": "Blindness, one eye, low vision other eye"
+              },
+              {
+                "MA": "H54.2",
+                "TEN": "Giảm thị lực mức độ trung bình, hai mắt",
+                "TEN_EN": "Low vision, both eyes"
+              },
+              {
+                "MA": "H54.3",
+                "TEN": "Giảm thị lực mức độ nhẹ hoặc không giảm, hai mắt",
+                "TEN_EN": "Unqualified visual loss, both eyes"
+              },
+              {
+                "MA": "H54.4",
+                "TEN": "Mù, một mắt",
+                "TEN_EN": "Blindness, one eye"
+              },
+              {
+                "MA": "H54.5",
+                "TEN": "Giảm thị lực mức độ nặng, một mắt",
+                "TEN_EN": "Low vision, one eye"
+              },
+              {
+                "MA": "H54.6",
+                "TEN": "Giảm thị lực mức độ trung bình, một mắt",
+                "TEN_EN": "Unqualified visual loss, one eye"
+              },
+              {
+                "MA": "H54.7",
+                "TEN": "Mất thị lực, không đặc hiệu",
+                "TEN_EN": "Unspecified visual loss"
+              },
+              {
+                "MA": "H54.9",
+                "TEN": "Giảm thị lực không đặc hiệu (hai mắt)",
+                "TEN_EN": "Unspecified visual impairment (binocular)"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H55-H59",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh mắt và phần phụ",
-        "TEN_EN": "Other disorders of eye and adnexa"
+        "TEN_EN": "Other disorders of eye and adnexa",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H55",
+            "TEN": "Rung giật nhãn cầu và rối loạn vận nhãn khác",
+            "TEN_EN": "Nystagmus and other irregular eye movements",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "H57",
+            "TEN": "Các bệnh khác của mắt và phần phụ",
+            "TEN_EN": "Other disorders of eye and adnexa",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H57.0",
+                "TEN": "Bất thường chức năng đồng tử",
+                "TEN_EN": "Anomalies of pupillary function"
+              },
+              {
+                "MA": "H57.1",
+                "TEN": "Nhức mắt",
+                "TEN_EN": "Ocular pain"
+              },
+              {
+                "MA": "H57.8",
+                "TEN": "Các bệnh xác định khác của mắt và phần phụ",
+                "TEN_EN": "Other specified disorders of eye and adnexa"
+              },
+              {
+                "MA": "H57.9",
+                "TEN": "Các bệnh của mắt và phần phụ, không đặc hiệu",
+                "TEN_EN": "Disorder of eye and adnexa, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H58",
+            "TEN": "Bệnh khác của mắt và phần phụ trong các bệnh phân loại nơi khác",
+            "TEN_EN": "Other disorders of eye and adnexa in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H58*",
+                "TEN": "Bệnh khác của mắt và phần phụ trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of eye and adnexa in diseases classified elsewhere"
+              },
+              {
+                "MA": "H58.0*",
+                "TEN": "Bất thường chức năng đồng tử trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Anomalies of pupillary function in diseases classified elsewhere"
+              },
+              {
+                "MA": "H58.1*",
+                "TEN": "Rối loạn thị giác trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Visual disturbances in diseases classified elsewhere"
+              },
+              {
+                "MA": "H58.8*",
+                "TEN": "Bệnh của mắt và phần phụ xác định khác trong các bệnh phân loại nơi khác",
+                "TEN_EN": "Other specified disorders of eye and adnexa in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "H59",
+            "TEN": "Bệnh mắt và phần phụ sau phẫu thuật không phân loại nơi khác",
+            "TEN_EN": "Postprocedural disorders of eye and adnexa, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H59.0",
+                "TEN": "Bệnh lý giác mạc (không có thể thủy tinh)",
+                "TEN_EN": "Keratopathy (bullous aphakic) following cataract surgery"
+              },
+              {
+                "MA": "H59.8",
+                "TEN": "Bệnh khác của mắt và phần phụ sau phẫu thuật",
+                "TEN_EN": "Other postprocedural disorders of eye and adnexa"
+              },
+              {
+                "MA": "H59.9",
+                "TEN": "Bệnh mắt và phần phụ sau phẫu thuật, không đặc hiệu",
+                "TEN_EN": "Postprocedural disorder of eye and adnexa, unspecified"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -15906,25 +19817,780 @@
         "MA": "H60-H62",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của tai ngoài",
-        "TEN_EN": "Diseases of external ear"
+        "TEN_EN": "Diseases of external ear",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H60",
+            "TEN": "Viêm tai ngoài",
+            "TEN_EN": "Otitis externa",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H60.0",
+                "TEN": "Apxe tai ngoài",
+                "TEN_EN": "Abscess of external ear"
+              },
+              {
+                "MA": "H60.1",
+                "TEN": "Viêm mô tế bào tai ngoài",
+                "TEN_EN": "Cellulitis of external ear"
+              },
+              {
+                "MA": "H60.2",
+                "TEN": "Viêm tai ngoài ác tính",
+                "TEN_EN": "Malignant otitis externa"
+              },
+              {
+                "MA": "H60.3",
+                "TEN": "Viêm tai ngoài nhiễm trùng khác",
+                "TEN_EN": "Other infective otitis externa"
+              },
+              {
+                "MA": "H60.4",
+                "TEN": "Cholesteoma của tai ngoài",
+                "TEN_EN": "Cholesteatoma of external ear"
+              },
+              {
+                "MA": "H60.5",
+                "TEN": "Viêm tai ngoài cấp không nhiễm trùng",
+                "TEN_EN": "Acute otitis externa, noninfective"
+              },
+              {
+                "MA": "H60.8",
+                "TEN": "Viêm tai ngoài khác",
+                "TEN_EN": "Other otitis externa"
+              },
+              {
+                "MA": "H60.9",
+                "TEN": "Viêm tai ngoài, không đặc hiệu",
+                "TEN_EN": "Otitis externa, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H61",
+            "TEN": "Bệnh khác của tai ngoài",
+            "TEN_EN": "Other disorders of external ear",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H61.0",
+                "TEN": "Viêm màng bao sụn tai ngoài viêm màng sụn vành tai",
+                "TEN_EN": "Perichondritis of external ear"
+              },
+              {
+                "MA": "H61.1",
+                "TEN": "Bệnh loa tai không nhiễm trùng",
+                "TEN_EN": "Noninfective disorders of pinna"
+              },
+              {
+                "MA": "H61.2",
+                "TEN": "Nút ráy tai",
+                "TEN_EN": "Impacted cerumen"
+              },
+              {
+                "MA": "H61.3",
+                "TEN": "Hẹp ống tai ngoài mắc phải",
+                "TEN_EN": "Acquired stenosis of external ear canal"
+              },
+              {
+                "MA": "H61.8",
+                "TEN": "Bệnh tai ngoài xác định khác",
+                "TEN_EN": "Other specified disorders of external ear"
+              },
+              {
+                "MA": "H61.9",
+                "TEN": "Bệnh tai ngoài, không đặc hiệu",
+                "TEN_EN": "Disorder of external ear, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H62",
+            "TEN": "Bệnh tai ngoài trong bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of external ear in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H62*",
+                "TEN": "Bệnh tai ngoài trong bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of external ear in diseases classified elsewhere"
+              },
+              {
+                "MA": "H62.0*",
+                "TEN": "Viêm tai ngoài trong bệnh nhiễm trùng phân loại nơi khác",
+                "TEN_EN": "Otitis externa in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "H62.1*",
+                "TEN": "Viêm tai ngoài trong bệnh do virus phân loại nơi khác",
+                "TEN_EN": "Otitis externa in viral diseases classified elsewhere"
+              },
+              {
+                "MA": "H62.2*",
+                "TEN": "Viêm tai ngoài trong bệnh nhiễm nấm",
+                "TEN_EN": "Otitis externa in mycoses"
+              },
+              {
+                "MA": "H62.3*",
+                "TEN": "Viêm tai ngoài trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác",
+                "TEN_EN": "Otitis externa in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "H62.4*",
+                "TEN": "Viêm tai ngoài trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Otitis externa in other diseases classified elsewhere"
+              },
+              {
+                "MA": "H62.8*",
+                "TEN": "Bệnh khác của tai ngoài trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of external ear in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H65-H75",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của tai giữa và xương chũm",
-        "TEN_EN": "Diseases of middle ear and mastoid"
+        "TEN_EN": "Diseases of middle ear and mastoid",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H65",
+            "TEN": "Viêm tai giữa không nung mủ viêm tai giữa không mủ",
+            "TEN_EN": "Nonsuppurative otitis media",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H65.0",
+                "TEN": "Viêm tai giữa xuất tiết cấp và bán cấp viêm tai giữa thanh dịch cấp",
+                "TEN_EN": "Acute serous otitis media"
+              },
+              {
+                "MA": "H65.1",
+                "TEN": "Viêm tai giữa không nung mủ cấp khác",
+                "TEN_EN": "Other acute nonsuppurative otitis media"
+              },
+              {
+                "MA": "H65.2",
+                "TEN": "Viêm tai giữa xuất tiết mạn viêm tai giữa thanh dịch mạn",
+                "TEN_EN": "Chronic serous otitis media"
+              },
+              {
+                "MA": "H65.3",
+                "TEN": "Viêm tai giữa tiết nhày mạn",
+                "TEN_EN": "Chronic mucoid otitis media"
+              },
+              {
+                "MA": "H65.4",
+                "TEN": "Viêm tai giữa không nung mủ mạn khác",
+                "TEN_EN": "Other chronic nonsuppurative otitis media"
+              },
+              {
+                "MA": "H65.9",
+                "TEN": "Viêm tai giữa không nung mủ, không đặc hiệu",
+                "TEN_EN": "Nonsuppurative otitis media, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H66",
+            "TEN": "Viêm tai giữa nung mủ và không đặc hiệu",
+            "TEN_EN": "Suppurative and unspecified otitis media",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H66.0",
+                "TEN": "Viêm tai giữa nung mủ cấp viêm tai giữa cấp mủ",
+                "TEN_EN": "Acute suppurative otitis media"
+              },
+              {
+                "MA": "H66.1",
+                "TEN": "Viêm tai giữa vòi nhĩ mủ mạn",
+                "TEN_EN": "Chronic tubotympanic suppurative otitis media"
+              },
+              {
+                "MA": "H66.2",
+                "TEN": "Viêm tai giữa thượng nhĩ sào bào mủ mạn",
+                "TEN_EN": "Chronic atticoantral suppurative otitis media"
+              },
+              {
+                "MA": "H66.3",
+                "TEN": "Viêm tai giữa nung mủ mạn khác viêm tai giữa mủ mạn khác",
+                "TEN_EN": "Other chronic suppurative otitis media"
+              },
+              {
+                "MA": "H66.4",
+                "TEN": "Viêm tai giữa nung mủ không đặc hiệu viêm tai giữa mủ không đặc hiệu",
+                "TEN_EN": "Suppurative otitis media, unspecified"
+              },
+              {
+                "MA": "H66.9",
+                "TEN": "Viêm tai giữa không đặc hiệu",
+                "TEN_EN": "Otitis media, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H67",
+            "TEN": "Viêm tai giữa trong bệnh phân loại nơi khác",
+            "TEN_EN": "Otitis media in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H67*",
+                "TEN": "Viêm tai giữa trong bệnh phân loại nơi khác",
+                "TEN_EN": "Otitis media in diseases classified elsewhere"
+              },
+              {
+                "MA": "H67.0*",
+                "TEN": "Viêm tai giữa trong bệnh nhiễm trùng phân loại nơi khác",
+                "TEN_EN": "Otitis media in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "H67.1*",
+                "TEN": "Viêm tai giữa trong bệnh do virus phân loại nơi khác",
+                "TEN_EN": "Otitis media in viral diseases classified elsewhere"
+              },
+              {
+                "MA": "H67.8*",
+                "TEN": "Viêm tai giữa trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Otitis media in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "H68",
+            "TEN": "Viêm và tắc vòi Eustache",
+            "TEN_EN": "Eustachian salpingitis and obstruction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H68.0",
+                "TEN": "Viêm vòi Eustache",
+                "TEN_EN": "Eustachian salpingitis"
+              },
+              {
+                "MA": "H68.1",
+                "TEN": "Tắc vòi Eustache",
+                "TEN_EN": "Obstruction of Eustachian tube"
+              }
+            ]
+          },
+          {
+            "MA": "H69",
+            "TEN": "Bệnh khác của vòi Eustache",
+            "TEN_EN": "Other disorders of Eustachian tube",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H69.0",
+                "TEN": "Vòi Eustache rộng",
+                "TEN_EN": "Patulous Eustachian tube"
+              },
+              {
+                "MA": "H69.8",
+                "TEN": "Bệnh vòi Eustache xác định khác",
+                "TEN_EN": "Other specified disorders of Eustachian tube"
+              },
+              {
+                "MA": "H69.9",
+                "TEN": "Bệnh vòi Eustache, không đặc hiệu",
+                "TEN_EN": "Eustachian tube disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H70",
+            "TEN": "Viêm xương chũm và tình trạng liên quan",
+            "TEN_EN": "Mastoiditis and related conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H70.0",
+                "TEN": "Viêm xương chũm cấp",
+                "TEN_EN": "Acute mastoiditis"
+              },
+              {
+                "MA": "H70.1",
+                "TEN": "Viêm xương chũm mạn",
+                "TEN_EN": "Chronic mastoiditis"
+              },
+              {
+                "MA": "H70.2",
+                "TEN": "Viêm xương đá",
+                "TEN_EN": "Petrositis"
+              },
+              {
+                "MA": "H70.8",
+                "TEN": "Viêm xương chũm khác và tình trạng liên quan",
+                "TEN_EN": "Other mastoiditis and related conditions"
+              },
+              {
+                "MA": "H70.9",
+                "TEN": "Viêm xương chũm, không đặc hiệu",
+                "TEN_EN": "Mastoiditis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H71",
+            "TEN": "Cholesteatoma của tai giữa",
+            "TEN_EN": "Cholesteatoma of middle ear",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "H72",
+            "TEN": "Thủng màng nhĩ",
+            "TEN_EN": "Perforation of tympanic membrane",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H72.0",
+                "TEN": "Thủng màng nhĩ trung tâm",
+                "TEN_EN": "Central perforation of tympanic membrane"
+              },
+              {
+                "MA": "H72.1",
+                "TEN": "Thủng màng nhĩ ở vị trí thượng nhĩ",
+                "TEN_EN": "Attic perforation of tympanic membrane"
+              },
+              {
+                "MA": "H72.2",
+                "TEN": "Thủng rìa màng nhĩ khác thủng màng nhĩ sát xương khác",
+                "TEN_EN": "Other marginal perforations of tympanic membrane"
+              },
+              {
+                "MA": "H72.8",
+                "TEN": "Thủng màng nhĩ khác",
+                "TEN_EN": "Other perforations of tympanic membrane"
+              },
+              {
+                "MA": "H72.9",
+                "TEN": "Thủng màng nhĩ, không đặc hiệu",
+                "TEN_EN": "Perforation of tympanic membrane, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H73",
+            "TEN": "Bệnh khác của màng nhĩ",
+            "TEN_EN": "Other disorders of tympanic membrane",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H73.0",
+                "TEN": "Viêm màng nhĩ cấp",
+                "TEN_EN": "Acute myringitis"
+              },
+              {
+                "MA": "H73.1",
+                "TEN": "Viêm màng nhĩ mạn",
+                "TEN_EN": "Chronic myringitis"
+              },
+              {
+                "MA": "H73.8",
+                "TEN": "Những rối loạn đặc hiệu khác của màng nhĩ",
+                "TEN_EN": "Other specified disorders of tympanic membrane"
+              },
+              {
+                "MA": "H73.9",
+                "TEN": "Bệnh màng nhĩ, không đặc hiệu",
+                "TEN_EN": "Disorder of tympanic membrane, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H74",
+            "TEN": "Bệnh khác của tai giữa và xương chũm",
+            "TEN_EN": "Other disorders of middle ear and mastoid",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H74.0",
+                "TEN": "Xơ nhĩ",
+                "TEN_EN": "Tympanosclerosis"
+              },
+              {
+                "MA": "H74.1",
+                "TEN": "Bệnh tai giữa kết dính bệnh tai giữa dính",
+                "TEN_EN": "Adhesive middle ear disease"
+              },
+              {
+                "MA": "H74.2",
+                "TEN": "Gián đoạn và trật khớp xương con của tai gián đoạn và trật khớp xương con",
+                "TEN_EN": "Discontinuity and dislocation of ear ossicles"
+              },
+              {
+                "MA": "H74.3",
+                "TEN": "Những bất thường mắc phải khác của chuỗi xương con dị dạng xương con mắc phải khác",
+                "TEN_EN": "Other acquired abnormalities of ear ossicles"
+              },
+              {
+                "MA": "H74.4",
+                "TEN": "Polip tai giữa",
+                "TEN_EN": "Polyp of middle ear"
+              },
+              {
+                "MA": "H74.8",
+                "TEN": "Những rối loạn đặc hiệu khác của tai giữa và xương chũm",
+                "TEN_EN": "Other specified disorders of middle ear and mastoid"
+              },
+              {
+                "MA": "H74.9",
+                "TEN": "Bệnh tai, những rối loạn ở tai giữa và xương chũm không đặc hiệu những rối loạn ở tai giữa và xương chũm không đặc hiệu",
+                "TEN_EN": "Disorder of middle ear and mastoid, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H75",
+            "TEN": "Bệnh khác của tai giữa và xương chũm trong bệnh phân loại nơi khác",
+            "TEN_EN": "Other disorders of middle ear and mastoid in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H75*",
+                "TEN": "Bệnh khác của tai giữa và xương chũm trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of middle ear and mastoid in diseases classified elsewhere"
+              },
+              {
+                "MA": "H75.0*",
+                "TEN": "Viêm xương chũm trong bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Mastoiditis in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "H75.8*",
+                "TEN": "Những rối loạn đặc hiệu khác của tai giữa và xương chũm trong các bệnh đã được phân loại nơi khác",
+                "TEN_EN": "Other specified disorders of middle ear and mastoid in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H80-H83",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của tai trong",
-        "TEN_EN": "Diseases of inner ear"
+        "TEN_EN": "Diseases of inner ear",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H80",
+            "TEN": "Xốp xơ tai",
+            "TEN_EN": "Otosclerosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H80.0",
+                "TEN": "Xốp xơ tai xâm lấn cửa sổ bầu dục làm bít tắc xốp xơ tai xâm lấn cửa sổ bầu dục bít lấp",
+                "TEN_EN": "Otosclerosis involving oval window, nonobliterative"
+              },
+              {
+                "MA": "H80.1",
+                "TEN": "Xốp xơ tai xâm lấn cửa sổ bầu dục làm bít tắc xốp xơ tai xâm lấn cửa sổ bầu dục bít lấp",
+                "TEN_EN": "Otosclerosis involving oval window, obliterative"
+              },
+              {
+                "MA": "H80.2",
+                "TEN": "Xốp xơ ốc tai",
+                "TEN_EN": "Cochlear otosclerosis"
+              },
+              {
+                "MA": "H80.8",
+                "TEN": "Xốp xơ tai khác",
+                "TEN_EN": "Other otosclerosis"
+              },
+              {
+                "MA": "H80.9",
+                "TEN": "Xơ nhĩ không đặc hiệu xốp xơ tai không đặc hiệu",
+                "TEN_EN": "Otosclerosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H81",
+            "TEN": "Rối loạn chức năng tiền đình",
+            "TEN_EN": "Disorders of vestibular function",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H81.0",
+                "TEN": "Bệnh Ménière",
+                "TEN_EN": "Ménière s disease"
+              },
+              {
+                "MA": "H81.1",
+                "TEN": "Chóng mặt kịch phát lành tính",
+                "TEN_EN": "Benign paroxysmal vertigo"
+              },
+              {
+                "MA": "H81.2",
+                "TEN": "Viêm thần kinh tiền đình",
+                "TEN_EN": "Vestibular neuronitis"
+              },
+              {
+                "MA": "H81.3",
+                "TEN": "Chóng mặt do nguyên nhân ngoại biên khác",
+                "TEN_EN": "Other peripheral vertigo"
+              },
+              {
+                "MA": "H81.4",
+                "TEN": "Chóng mặt nguồn gốc trung ương",
+                "TEN_EN": "Vertigo of central origin"
+              },
+              {
+                "MA": "H81.8",
+                "TEN": "Rối loạn chức năng tiền đình khác",
+                "TEN_EN": "Other disorders of vestibular function"
+              },
+              {
+                "MA": "H81.9",
+                "TEN": "Rối loạn chức năng tiền đình, không đặc hiệu",
+                "TEN_EN": "Disorder of vestibular function, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H82",
+            "TEN": "Rối loạn chức năng tiền đình",
+            "TEN_EN": "Disorders of vestibular function",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H82*",
+                "TEN": "Hội chứng chóng mặt trong bệnh phân loại nơi khác",
+                "TEN_EN": "Vertiginous syndromes in diseases classified elsewhere "
+              }
+            ]
+          },
+          {
+            "MA": "H83",
+            "TEN": "Bệnh khác của tai trong",
+            "TEN_EN": "Other diseases of inner ear",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H83.0",
+                "TEN": "Viêm mê nhĩ",
+                "TEN_EN": "Labyrinthitis"
+              },
+              {
+                "MA": "H83.1",
+                "TEN": "Rò mê nhĩ",
+                "TEN_EN": "Labyrinthine fistula"
+              },
+              {
+                "MA": "H83.2",
+                "TEN": "Rối loạn chức năng mê nhĩ",
+                "TEN_EN": "Labyrinthine dysfunction"
+              },
+              {
+                "MA": "H83.3",
+                "TEN": "Ảnh hưởng tiếng ồn lên tai trong",
+                "TEN_EN": "Noise effects on inner ear"
+              },
+              {
+                "MA": "H83.8",
+                "TEN": "Bệnh tai trong, đặc hiệu bệnh tai trong đặc hiệu khác",
+                "TEN_EN": "Other specified diseases of inner ear"
+              },
+              {
+                "MA": "H83.9",
+                "TEN": "Bệnh tai trong, không đặc hiệu",
+                "TEN_EN": "Disease of inner ear, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "H90-H95",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh khác của tai",
-        "TEN_EN": "Other disorders of ear"
+        "TEN_EN": "Other disorders of ear",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "H90",
+            "TEN": "Điếc dẫn truyền và điếc thần kinh giác quan điếc dẫn truyền và tiếp nhận",
+            "TEN_EN": "Conductive and sensorineural hearing loss",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H90.0",
+                "TEN": "Điếc dẫn truyền hai bên",
+                "TEN_EN": "Conductive hearing loss, bilateral"
+              },
+              {
+                "MA": "H90.1",
+                "TEN": "Điếc dẫn truyền một bên với sức nghe không hạn chế bên đối diện",
+                "TEN_EN": "Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side"
+              },
+              {
+                "MA": "H90.2",
+                "TEN": "Điếc dẫn truyền không đặc hiệu",
+                "TEN_EN": "Conductive hearing loss, unspecified"
+              },
+              {
+                "MA": "H90.3",
+                "TEN": "Điếc thần kinh hai bên điếc tiếp nhận hai bên",
+                "TEN_EN": "Sensorineural hearing loss, bilateral"
+              },
+              {
+                "MA": "H90.4",
+                "TEN": "Điếc giác quan, một bên với sức nghe không hạn chế bên đối diện điếc tiếp nhận một bên với sức nghe không hạn chế bên đối diện",
+                "TEN_EN": "Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+              },
+              {
+                "MA": "H90.5",
+                "TEN": "Điếc thần kinh không đặc hiệu điếc tiếp nhận không đặc hiệu",
+                "TEN_EN": "Sensorineural hearing loss, unspecified"
+              },
+              {
+                "MA": "H90.6",
+                "TEN": "Điếc hỗn hợp dẫn truyền và giác quan, hai bên điếc hỗn hợp hai bên",
+                "TEN_EN": "Mixed conductive and sensorineural hearing loss, bilateral"
+              },
+              {
+                "MA": "H90.7",
+                "TEN": "Điếc hỗn hợp dẫn truyền và giác quan, một bên với sức nghe không hạn chế bên tai kia điếc hỗn hợp một bên với sức nghe không hạn chế bên đối diện",
+                "TEN_EN": "Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+              },
+              {
+                "MA": "H90.8",
+                "TEN": "Điếc hỗn hợp dẫn truyền và giác quan không đặc hiệu điếc hỗn hợp không đặc hiệu",
+                "TEN_EN": "Mixed conductive and sensorineural hearing loss, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H91",
+            "TEN": "Nghe kém khác",
+            "TEN_EN": "Other hearing loss",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H91.0",
+                "TEN": "Nghe kém do ngộ độc tai",
+                "TEN_EN": "Ototoxic hearing loss"
+              },
+              {
+                "MA": "H91.1",
+                "TEN": "Điếc tuổi già hay lão thính",
+                "TEN_EN": "Presbycusis"
+              },
+              {
+                "MA": "H91.2",
+                "TEN": "Điếc đột ngột không rõ nguyên do",
+                "TEN_EN": "Sudden idiopathic hearing loss"
+              },
+              {
+                "MA": "H91.3",
+                "TEN": "Câm điếc, không phân loại nơi khác điếc câm không phân loại nơi khác",
+                "TEN_EN": "Deaf mutism, not elsewhere classified"
+              },
+              {
+                "MA": "H91.8",
+                "TEN": "Nghe kém (do nguyên nhân) đặc hiệu khác",
+                "TEN_EN": "Other specified hearing loss"
+              },
+              {
+                "MA": "H91.9",
+                "TEN": "Nghe kém không đặc hiệu khác nghe kém không đặc hiệu",
+                "TEN_EN": "Hearing loss, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H92",
+            "TEN": "Đau tai và chảy dịch ở tai",
+            "TEN_EN": "Otalgia and effusion of ear",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H92.0",
+                "TEN": "Đau tai",
+                "TEN_EN": "Otalgia"
+              },
+              {
+                "MA": "H92.1",
+                "TEN": "Chảy dịch tai",
+                "TEN_EN": "Otorrhoea"
+              },
+              {
+                "MA": "H92.2",
+                "TEN": "Chảy máu tai",
+                "TEN_EN": "Otorrhagia"
+              }
+            ]
+          },
+          {
+            "MA": "H93",
+            "TEN": "Bệnh khác của tai, không phân loại nơi khác",
+            "TEN_EN": "Other disorders of ear, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H93.0",
+                "TEN": "Bệnh do thoái hóa và do mạch máu của tai",
+                "TEN_EN": "Degenerative and vascular disorders of ear"
+              },
+              {
+                "MA": "H93.1",
+                "TEN": "Ù tai",
+                "TEN_EN": "Tinnitus"
+              },
+              {
+                "MA": "H93.2",
+                "TEN": "Nhận thức thính giác bất thường khác. Tiếp nhận thính giác bất thường khác",
+                "TEN_EN": "Other abnormal auditory perceptions"
+              },
+              {
+                "MA": "H93.3",
+                "TEN": "Rối loạn của thần kinh thính giác",
+                "TEN_EN": "Disorders of acoustic nerve"
+              },
+              {
+                "MA": "H93.8",
+                "TEN": "Bệnh tai đặc hiệu khác",
+                "TEN_EN": "Other specified disorders of ear"
+              },
+              {
+                "MA": "H93.9",
+                "TEN": "Bệnh tai, không đặc hiệu",
+                "TEN_EN": "Disorder of ear, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "H94",
+            "TEN": "Bệnh khác của tai trong bệnh phân loại nơi khác",
+            "TEN_EN": "Other disorders of ear in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H94*",
+                "TEN": "Bệnh khác của tai trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of ear in diseases classified elsewhere"
+              },
+              {
+                "MA": "H94.0*",
+                "TEN": "Viêm dây thần kinh thính giác trong bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Acoustic neuritis in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "H94.8*",
+                "TEN": "Những rối loạn đặc hiệu khác của tai trong những bệnh đã phân loại khác",
+                "TEN_EN": "Other specified disorders of ear in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "H95",
+            "TEN": "Bệnh tai và xương chũm sau phẫu thuật, không phân loại nơi khác",
+            "TEN_EN": "Postprocedural disorders of ear and mastoid process, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "H95.0",
+                "TEN": "Cholesteatoma tái phát ở hố mổ khóet chũm",
+                "TEN_EN": "Recurrent cholesteatoma of postmastoidectomy cavity"
+              },
+              {
+                "MA": "H95.1",
+                "TEN": "Bệnh khác sau mổ khóet chũm",
+                "TEN_EN": "Other disorders following mastoidectomy"
+              },
+              {
+                "MA": "H95.8",
+                "TEN": "Rối loạn khác của tai và xương chũm sau phẫu thuật",
+                "TEN_EN": "Other postprocedural disorders of ear and mastoid process"
+              },
+              {
+                "MA": "H95.9",
+                "TEN": "Rối loạn của tai và xương chũm sau phẫu thuật, không đặc hiệu",
+                "TEN_EN": "Postprocedural disorder of ear and mastoid process, unspecified"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

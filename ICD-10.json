@@ -11290,49 +11290,2001 @@
         "MA_TRONG_CHUONG": "",
         "TEN": "Đái tháo đường",
         "TEN_EN": "Diabetes mellitus",
-        "DANH_SACH_BENH": []
+        "DANH_SACH_BENH": [
+          {
+            "MA": "E10",
+            "TEN": "Bệnh đái tháo đường phụ thuộc insuline",
+            "TEN_EN": "Insuline-dependent diabetes mellitus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E10.0",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có hôn mê)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With coma)"
+              },
+              {
+                "MA": "E10.1",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có nhiễm toan ceton)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With ketoacidosis)"
+              },
+              {
+                "MA": "E10.2†",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có biến chứng thận)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With renal complications)"
+              },
+              {
+                "MA": "E10.3†",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có biến chứng mắt)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With ophthalmic complications)"
+              },
+              {
+                "MA": "E10.4†",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có biến chứng thần kinh)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With neurological complications)"
+              },
+              {
+                "MA": "E10.5",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có biến chứng mạch máu ngoại vi)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With peripheral circulatory complications)"
+              },
+              {
+                "MA": "E10.6",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có biến chứng xác định khác)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With peripheral circulatory complications)"
+              },
+              {
+                "MA": "E10.7",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có đa biến chứng)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With multiple complications)"
+              },
+              {
+                "MA": "E10.8",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Có biến chứng không xác định khác)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (With unspecified complications)"
+              },
+              {
+                "MA": "E10.9",
+                "TEN": "Bệnh đái tháo đường phụ thuộc insuline (Chưa có biến chứng)",
+                "TEN_EN": "Insuline-dependent diabetes mellitus (Without complications)"
+              }
+            ]
+          },
+          {
+            "MA": "E11",
+            "TEN": "Bệnh đái tháo đường không phụ thuộc insuline",
+            "TEN_EN": "Non-insuline-dependent diabetes mellitus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E11.0",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có hôn mê)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With coma)"
+              },
+              {
+                "MA": "E11.1",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có nhiễm toan ceton)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With ketoacidosis)"
+              },
+              {
+                "MA": "E11.2†",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có biến chứng thận)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With renal complications)"
+              },
+              {
+                "MA": "E11.3†",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có biến chứng mắt)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With ophthalmic complications)"
+              },
+              {
+                "MA": "E11.4†",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có biến chứng thần kinh)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With neurological complications)"
+              },
+              {
+                "MA": "E11.5",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có biến chứng mạch máu ngoại vi)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With peripheral circulatory complications)"
+              },
+              {
+                "MA": "E11.6",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có biến chứng xác định khác)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With other specified complications)"
+              },
+              {
+                "MA": "E11.7",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có đa biến chứng)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With multiple complications)"
+              },
+              {
+                "MA": "E11.8",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Có biến chứng không xác định khác)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (With unspecified complications)"
+              },
+              {
+                "MA": "E11.9",
+                "TEN": "Bệnh đái tháo đường không phụ thuộc insuline (Chưa có biến chứng)",
+                "TEN_EN": "Non-insuline-dependent diabetes mellitus (Without complications)"
+              }
+            ]
+          },
+          {
+            "MA": "E12",
+            "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng",
+            "TEN_EN": "Malnutrition-related diabetes mellitus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E12.0",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có hôn mê)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With coma)"
+              },
+              {
+                "MA": "E12.1",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có Nhiễm toan ceton)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With ketoacidosis)"
+              },
+              {
+                "MA": "E12.2†",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có biến chứng thận)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With renal complications)"
+              },
+              {
+                "MA": "E12.3†",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có biến chứng mắt)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With ophthalmic complications)"
+              },
+              {
+                "MA": "E12.4†",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có biến chứng thần kinh)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With neurological complications)"
+              },
+              {
+                "MA": "E12.5",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có biến chứng mạch máu ngoại vi)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With peripheral circulatory complications)"
+              },
+              {
+                "MA": "E12.6",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có biến chứng xác định khác)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With other specified complications)"
+              },
+              {
+                "MA": "E12.7",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có đa biến chứng)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With multiple complications)"
+              },
+              {
+                "MA": "E12.8",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Có biến chứng không xác định khác)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (With unspecified complications)"
+              },
+              {
+                "MA": "E12.9",
+                "TEN": "Bệnh đái tháo đường liên quan đến suy dinh dưỡng (Chưa có biến chứng)",
+                "TEN_EN": "Malnutrition-related diabetes mellitus (Without complications)"
+              }
+            ]
+          },
+          {
+            "MA": "E13",
+            "TEN": "Bệnh đái tháo đường xác định khác",
+            "TEN_EN": "Other specified diabetes mellitus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E13.0",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có hôn mê)",
+                "TEN_EN": "Other specified diabetes mellitus (With coma)"
+              },
+              {
+                "MA": "E13.1",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có nhiễm toan ceton)",
+                "TEN_EN": "Other specified diabetes mellitus (With ketoacidosis)"
+              },
+              {
+                "MA": "E13.2†",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có biến chứng thận)",
+                "TEN_EN": "Other specified diabetes mellitus (With renal complications)"
+              },
+              {
+                "MA": "E13.3†",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có biến chứng mắt)",
+                "TEN_EN": "Other specified diabetes mellitus (With ophthalmic complications)"
+              },
+              {
+                "MA": "E13.4†",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có biến chứng thần kinh)",
+                "TEN_EN": "Other specified diabetes mellitus (With neurological complications)"
+              },
+              {
+                "MA": "E13.5",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có biến chứng mạch máu ngoại vi)",
+                "TEN_EN": "Other specified diabetes mellitus (With peripheral circulatory complications)"
+              },
+              {
+                "MA": "E13.6",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có biến chứng xác định khác)",
+                "TEN_EN": "Other specified diabetes mellitus (With other specified complications)"
+              },
+              {
+                "MA": "E13.7",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có đa biến chứng)",
+                "TEN_EN": "Other specified diabetes mellitus (With multiple complications)"
+              },
+              {
+                "MA": "E13.8",
+                "TEN": "Bệnh đái tháo đường xác định khác (Có biến chứng không xác định khác)",
+                "TEN_EN": "Other specified diabetes mellitus (With unspecified complications)"
+              },
+              {
+                "MA": "E13.9",
+                "TEN": "Bệnh đái tháo đường xác định khác (Chưa có biến chứng)",
+                "TEN_EN": "Other specified diabetes mellitus (Without complications)"
+              }
+            ]
+          },
+          {
+            "MA": "E14",
+            "TEN": "Các thể loại đái tháo đường không xác định",
+            "TEN_EN": "Unspecified diabetes mellitus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E14.0",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có hôn mê)",
+                "TEN_EN": "Unspecified diabetes mellitus (With coma)"
+              },
+              {
+                "MA": "E14.1",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có Nhiễm toan ceton)",
+                "TEN_EN": "Unspecified diabetes mellitus (With ketoacidosis)"
+              },
+              {
+                "MA": "E14.2†",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có biến chứng thận)",
+                "TEN_EN": "Unspecified diabetes mellitus (With renal complications)"
+              },
+              {
+                "MA": "E14.3†",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có biến chứng mắt)",
+                "TEN_EN": "Unspecified diabetes mellitus (With ophthalmic complications)"
+              },
+              {
+                "MA": "E14.4†",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có biến chứng thần kinh)",
+                "TEN_EN": "Unspecified diabetes mellitus (With neurological complications)"
+              },
+              {
+                "MA": "E14.5",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có biến chứng mạch máu ngoại vi)",
+                "TEN_EN": "Unspecified diabetes mellitus (With peripheral circulatory complications)"
+              },
+              {
+                "MA": "E14.6",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có biến chứng xác định khác)",
+                "TEN_EN": "Unspecified diabetes mellitus (With other specified complications)"
+              },
+              {
+                "MA": "E14.7",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có đa biến chứng)",
+                "TEN_EN": "Unspecified diabetes mellitus (With multiple complications)"
+              },
+              {
+                "MA": "E14.8",
+                "TEN": "Các thể loại đái tháo đường không xác định (Có biến chứng không xác định khác)",
+                "TEN_EN": "Unspecified diabetes mellitus (With unspecified complications)"
+              },
+              {
+                "MA": "E14.9",
+                "TEN": "Các thể loại đái tháo đường không xác định (Chưa có biến chứng)",
+                "TEN_EN": "Unspecified diabetes mellitus (Without complications)"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "E15-E16",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn khác về sự điều hoà glucose và bài tiết của tụy nội tiết",
         "TEN_EN": "Other disorders of glucose regulation and pancreatic internal secretion",
-        "DANH_SACH_BENH": []
+        "DANH_SACH_BENH": [
+          {
+            "MA": "E15",
+            "TEN": "Hôn mê hạ đường máu không do đái tháo đường",
+            "TEN_EN": "Nondiabetic hypoglycaemic coma",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E16",
+            "TEN": "Rối loạn khác của tuyến tụy nội tiết",
+            "TEN_EN": "Other disorders of pancreatic internal secretion",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E16.0",
+                "TEN": "Hạ glucose máu do thuốc, không hôn mê",
+                "TEN_EN": "Drug-induced hypoglycaemia without coma"
+              },
+              {
+                "MA": "E16.1",
+                "TEN": "Hạ glucose máu khác",
+                "TEN_EN": "Other hypoglycaemia"
+              },
+              {
+                "MA": "E16.2",
+                "TEN": "Hạ glucose máu không đặc hiệu",
+                "TEN_EN": "Hypoglycaemia, unspecified"
+              },
+              {
+                "MA": "E16.3",
+                "TEN": "Tăng tiết glucagon",
+                "TEN_EN": "Increased secretion of glucagon"
+              },
+              {
+                "MA": "E16.4",
+                "TEN": "Tiết gastrin bất thường",
+                "TEN_EN": "Abnormal secretion of gastrin"
+              },
+              {
+                "MA": "E16.8",
+                "TEN": "Các rối loạn xác định khác của - bài tiết của tuyến tụy nội tiết",
+                "TEN_EN": "Other specified disorders of pancreatic internal secretion"
+              },
+              {
+                "MA": "E16.9",
+                "TEN": "Các rối loạn bài tiết của tuyến tụy nội tiết, không xác định",
+                "TEN_EN": "Disorder of pancreatic internal secretion, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "E20-E35",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn các tuyến nội tiết khác",
         "TEN_EN": "Disorders of other endocrine glands",
-        "DANH_SACH_BENH": []
+        "DANH_SACH_BENH": [
+          {
+            "MA": "E20",
+            "TEN": "Suy cận giáp",
+            "TEN_EN": "Hypoparathyroidism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E20.0",
+                "TEN": "Suy cận giáp không rõ nguyên nhân",
+                "TEN_EN": "Idiopathic hypoparathyroidism"
+              },
+              {
+                "MA": "E20.1",
+                "TEN": "Giả Suy cận giáp",
+                "TEN_EN": "Pseudohypoparathyroidism"
+              },
+              {
+                "MA": "E20.8",
+                "TEN": "Suy cận giáp khác",
+                "TEN_EN": "Other hypoparathyroidism"
+              },
+              {
+                "MA": "E20.9",
+                "TEN": "Suy cận giáp, không đặc hiệu",
+                "TEN_EN": "Hypoparathyroidism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E21",
+            "TEN": "Cường cận giáp và các rối loạn khác của tuyến cận giáp",
+            "TEN_EN": "Hyperparathyroidism and other disorders of parathyroid gland",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E21.0",
+                "TEN": "Cường cận giáp nguyên phát",
+                "TEN_EN": "Primary hyperparathyroidism"
+              },
+              {
+                "MA": "E21.1",
+                "TEN": "Cường cận giáp thứ phát chưa được phân loại ở phần khác",
+                "TEN_EN": "Secondary hyperparathyroidism, not elsewhere classified"
+              },
+              {
+                "MA": "E21.2",
+                "TEN": "Cường cận giáp độ 3",
+                "TEN_EN": "Other hyperparathyroidism"
+              },
+              {
+                "MA": "E21.3",
+                "TEN": "Cường cận giáp, không các định",
+                "TEN_EN": "Hyperparathyroidism, unspecified"
+              },
+              {
+                "MA": "E21.4",
+                "TEN": "Các rối loạn xác định khác của tuyến cận giáp",
+                "TEN_EN": "Other specified disorders of parathyroid gland"
+              },
+              {
+                "MA": "E21.5",
+                "TEN": "Rối loạn tuyến cận giáp, không đặc hiệu",
+                "TEN_EN": "Disorder of parathyroid gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E22",
+            "TEN": "Cường tuyến yên",
+            "TEN_EN": "Hyperfunction of pituitary gland",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E22.0",
+                "TEN": "Bệnh to cực và chứng khổng lồ do tuyến yên (M14.5*)",
+                "TEN_EN": "Acromegaly and pituitary gigantism (M14.5*)"
+              },
+              {
+                "MA": "E22.1",
+                "TEN": "Tăng prolactin máu",
+                "TEN_EN": "Hyperprolactinaemia"
+              },
+              {
+                "MA": "E22.2",
+                "TEN": "Hội chứng tiết hormon kháng bài niệu (ADH) không thích hợp",
+                "TEN_EN": "Syndrome of inappropriate secretion of antidiuretic hormone"
+              },
+              {
+                "MA": "E22.8",
+                "TEN": "Cường năng khác của tuyến yên",
+                "TEN_EN": "Other hyperfunction of pituitary gland"
+              },
+              {
+                "MA": "E22.9",
+                "TEN": "Cường năng tuyến yên, không đặc hiệu",
+                "TEN_EN": "Hyperfunction of pituitary gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E23",
+            "TEN": "Suy chức năng và rối loạn khác của tuyến yên",
+            "TEN_EN": "Hypofunction and other disorders of pituitary gland",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E23.0",
+                "TEN": "Suy tuyến yên",
+                "TEN_EN": "Hypopituitarism"
+              },
+              {
+                "MA": "E23.1",
+                "TEN": "Suy tuyến yên do thuốc",
+                "TEN_EN": "Drug-induced hypopituitarism"
+              },
+              {
+                "MA": "E23.2",
+                "TEN": "Đái tháo nhạt",
+                "TEN_EN": "Diabetes insipidus"
+              },
+              {
+                "MA": "E23.3",
+                "TEN": "Rối loạn chức năng vùng dưới đồi, chưa được phân loại ở phần khác",
+                "TEN_EN": "Hypothalamic dysfunction, not elsewhere classified"
+              },
+              {
+                "MA": "E23.6",
+                "TEN": "Rối loạn khác của tuyến yên",
+                "TEN_EN": "Other disorders of pituitary gland"
+              },
+              {
+                "MA": "E23.7",
+                "TEN": "Rối loạn tuyến yên, không đặc hiệu",
+                "TEN_EN": "Disorder of pituitary gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E24",
+            "TEN": "Hội chứng Cushing",
+            "TEN_EN": "Cushing s syndrome",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E24.0",
+                "TEN": "Bệnh Cushing phụ thuộc tuyến yên",
+                "TEN_EN": "Pituitary-dependent Cushing s disease"
+              },
+              {
+                "MA": "E24.1",
+                "TEN": "Hội chứng Nelson",
+                "TEN_EN": "Nelson s syndrome"
+              },
+              {
+                "MA": "E24.2",
+                "TEN": "Hội chứng Cushing do thuốc",
+                "TEN_EN": "Drug-induced Cushing s syndrome"
+              },
+              {
+                "MA": "E24.3",
+                "TEN": "Hội chứng ACTH lạc chỗ",
+                "TEN_EN": "Ectopic ACTH syndrome"
+              },
+              {
+                "MA": "E24.4",
+                "TEN": "Hội chứng Cushing giả do rượu",
+                "TEN_EN": "Alcohol-induced pseudo-Cushing s syndrome"
+              },
+              {
+                "MA": "E24.8",
+                "TEN": "Hội chứng Cushing khác",
+                "TEN_EN": "Other Cushing s syndrome"
+              },
+              {
+                "MA": "E24.9",
+                "TEN": "Hội chứng Cushing, không đặc hiệu",
+                "TEN_EN": "Cushing s syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E25",
+            "TEN": "Rối loạn thượng thận sinh dục",
+            "TEN_EN": "Adrenogenital disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E25.0",
+                "TEN": "Rối loạn thượng thận - sinh dục bẩm sinh kết hợp với thiếu enzym",
+                "TEN_EN": "Congenital adrenogenital disorders associated with enzyme deficiency"
+              },
+              {
+                "MA": "E25.8",
+                "TEN": "Các rối loạn khác của thượng thận - sinh dục",
+                "TEN_EN": "Other adrenogenital disorders"
+              },
+              {
+                "MA": "E25.9",
+                "TEN": "Rối loạn thượng thận - sinh dục, không đặc hiệu",
+                "TEN_EN": "Adrenogenital disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E26",
+            "TEN": "Cường aldosterone",
+            "TEN_EN": "Hyperaldosteronism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E26.0",
+                "TEN": "Cường aldosterone nguyên phát",
+                "TEN_EN": "Primary hyperaldosteronism"
+              },
+              {
+                "MA": "E26.1",
+                "TEN": "Cường aldosterone thứ phát",
+                "TEN_EN": "Secondary hyperaldosteronism"
+              },
+              {
+                "MA": "E26.8",
+                "TEN": "Cường aldosterone thứ phát",
+                "TEN_EN": "Other hyperaldosteronism"
+              },
+              {
+                "MA": "E26.9",
+                "TEN": "Cường aldosterone, không đặc hiệu",
+                "TEN_EN": "Hyperaldosteronism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E27",
+            "TEN": "Các rối loạn khác của tuyến thượng thận",
+            "TEN_EN": "Other disorders of adrenal gland",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E27.0",
+                "TEN": "Tăng hoạt động vỏ thượng thận khác",
+                "TEN_EN": "Other adrenocortical overactivity"
+              },
+              {
+                "MA": "E27.1",
+                "TEN": "Thiểu năng vỏ thượng thận nguyên phát",
+                "TEN_EN": "Primary adrenocortical insufficiency"
+              },
+              {
+                "MA": "E27.2",
+                "TEN": "Cơn Addison",
+                "TEN_EN": "Addisonian crisis"
+              },
+              {
+                "MA": "E27.3",
+                "TEN": "Thiểu nặng vỏ thượng thận do thuốc",
+                "TEN_EN": "Drug-induced adrenocortical insufficiency"
+              },
+              {
+                "MA": "E27.4",
+                "TEN": "Thiểu nặng vỏ thượng thận khác và không đặc hiệu",
+                "TEN_EN": "Other and unspecified adrenocortical insufficiency"
+              },
+              {
+                "MA": "E27.5",
+                "TEN": "Tăng năng tủy thượng thận",
+                "TEN_EN": "Adrenomedullary hyperfunction"
+              },
+              {
+                "MA": "E27.8",
+                "TEN": "Các rối loạn xác định khác của tuyến thượng thận",
+                "TEN_EN": "Other specified disorders of adrenal gland"
+              },
+              {
+                "MA": "E27.9",
+                "TEN": "Rối loạn tuyến thượng thận, không đặc hiệu",
+                "TEN_EN": "Disorder of adrenal gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E28",
+            "TEN": "Rối loạn chức năng buồng trứng",
+            "TEN_EN": "Ovarian dysfunction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E28.0",
+                "TEN": "Thừa estrogen",
+                "TEN_EN": "Ovarian dysfunction: Estrogen excess"
+              },
+              {
+                "MA": "E28.1",
+                "TEN": "Thừa androgen",
+                "TEN_EN": "Ovarian dysfunction: Androgen excess"
+              },
+              {
+                "MA": "E28.2",
+                "TEN": "Hội chứng buồng trứng đa nang",
+                "TEN_EN": "Polycystic ovarian syndrome"
+              },
+              {
+                "MA": "E28.3",
+                "TEN": "Suy buồng trứng nguyên phát",
+                "TEN_EN": "Primary ovarian failure"
+              },
+              {
+                "MA": "E28.8",
+                "TEN": "Rối loạn chức năng buồng trứng khác",
+                "TEN_EN": "Other ovarian dysfunction"
+              },
+              {
+                "MA": "E28.9",
+                "TEN": "Các thể rối loạn chức năng buồng trứng, không đặc hiệu",
+                "TEN_EN": "Ovarian dysfunction, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E29",
+            "TEN": "Rối loạn chức năng tinh hoàn",
+            "TEN_EN": "Testicular dysfunction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E29.0",
+                "TEN": "Cường năng tinh hoàn",
+                "TEN_EN": "Testicular hyperfunction"
+              },
+              {
+                "MA": "E29.1",
+                "TEN": "Thiểu năng tinh hoàn",
+                "TEN_EN": "Testicular hypofunction"
+              },
+              {
+                "MA": "E29.8",
+                "TEN": "Rối loạn chức năng tinh hoàn khác",
+                "TEN_EN": "Other testicular dysfunction"
+              },
+              {
+                "MA": "E29.9",
+                "TEN": "Rối loạn chức năng tinh hoàn, không đặc hiệu",
+                "TEN_EN": "Testicular dysfunction, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E30",
+            "TEN": "Rối loạn lúc dậy thì, không phân loại ở phần khác",
+            "TEN_EN": "Disorders of puberty, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E30.0",
+                "TEN": "Dậy thì muộn",
+                "TEN_EN": "Delayed puberty"
+              },
+              {
+                "MA": "E30.1",
+                "TEN": "Dậy thì sớm",
+                "TEN_EN": "Precocious puberty"
+              },
+              {
+                "MA": "E30.8",
+                "TEN": "Rối loạn dậy thì khác",
+                "TEN_EN": "Other disorders of puberty"
+              },
+              {
+                "MA": "E30.9",
+                "TEN": "Rối loạn dậy thì, không đặc hiệu",
+                "TEN_EN": "Disorder of puberty, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E31",
+            "TEN": "Rối loạn chức năng đa tuyến",
+            "TEN_EN": "Polyglandular dysfunction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E31.0",
+                "TEN": "Suy đa tuyến tự miễn",
+                "TEN_EN": "Autoimmune polyglandular failure"
+              },
+              {
+                "MA": "E31.1",
+                "TEN": "Cường năng đa tuyến",
+                "TEN_EN": "Polyglandular hyperfunction"
+              },
+              {
+                "MA": "E31.8",
+                "TEN": "Rối loạn chức năng đa tuyến khác",
+                "TEN_EN": "Other polyglandular dysfunction"
+              },
+              {
+                "MA": "E31.9",
+                "TEN": "Rối loạn chức năng đa tuyến, không đặc hiệu",
+                "TEN_EN": "Polyglandular dysfunction, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E32",
+            "TEN": "Bệnh tuyến ức",
+            "TEN_EN": "Diseases of thymus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E32.0",
+                "TEN": "Tăng sản tuyến ức kéo dài",
+                "TEN_EN": "Persistent hyperplasia of thymus"
+              },
+              {
+                "MA": "E32.1",
+                "TEN": "Áp-xe tuyến ức",
+                "TEN_EN": "Abscess of thymus"
+              },
+              {
+                "MA": "E32.8",
+                "TEN": "Bệnh tuyến ức khác",
+                "TEN_EN": "Other diseases of thymus"
+              },
+              {
+                "MA": "E32.9",
+                "TEN": "Bệnh tuyến ức không đặc hiệu",
+                "TEN_EN": "Disease of thymus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E34",
+            "TEN": "Rối loạn nội tiết khác",
+            "TEN_EN": "Other endocrine disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E34.0",
+                "TEN": "Hội chứng carcinoid",
+                "TEN_EN": "Carcinoid syndrome"
+              },
+              {
+                "MA": "E34.1",
+                "TEN": "Tăng tiết khác của hormon ruột",
+                "TEN_EN": "Other hypersecretion of intestinal hormones"
+              },
+              {
+                "MA": "E34.2",
+                "TEN": "Tiết hormon lạc chỗ, chưa được phân loại ở phần khác",
+                "TEN_EN": "Ectopic hormone secretion, not elsewhere classified"
+              },
+              {
+                "MA": "E34.3",
+                "TEN": "Vóc dáng lùn, chưa được phân loại ở phần khác",
+                "TEN_EN": "Short stature, not elsewhere classified"
+              },
+              {
+                "MA": "E34.4",
+                "TEN": "Thể tạng cao",
+                "TEN_EN": "Constitutional tall stature"
+              },
+              {
+                "MA": "E34.5",
+                "TEN": "Hội chứng kháng androgen",
+                "TEN_EN": "Androgen resistance syndrome"
+              },
+              {
+                "MA": "E34.8",
+                "TEN": "Rối loạn nội tiết xác định khác",
+                "TEN_EN": "Other specified endocrine disorders"
+              },
+              {
+                "MA": "E34.9",
+                "TEN": "Rối loạn nội tiết, không đặc hiệu",
+                "TEN_EN": "Endocrine disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E35",
+            "TEN": "Rối loạn tuyến nội tiết trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Disorders of endocrine glands in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E35*",
+                "TEN": "Rối loạn tuyến nội tiết trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Disorders of endocrine glands in diseases classified elsewhere"
+              },
+              {
+                "MA": "E35.0*",
+                "TEN": "Rối loạn tuyến giáp trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Disorders of thyroid gland in diseases classified elsewhere"
+              },
+              {
+                "MA": "E35.1*",
+                "TEN": "Rối loạn tuyến thượng thận trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Disorders of adrenal glands in diseases classified elsewhere"
+              },
+              {
+                "MA": "E35.8*",
+                "TEN": "Rối loạn của các tuyến nội tiết khác trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Disorders of other endocrine glands in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "E40-E46",
         "MA_TRONG_CHUONG": "",
         "TEN": "Suy dinh dưỡng",
         "TEN_EN": "Malnutrition",
-        "DANH_SACH_BENH": []
+        "DANH_SACH_BENH": [
+          {
+            "MA": "E40",
+            "TEN": "Kwashiorkor",
+            "TEN_EN": "Kwashiorkor",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E41",
+            "TEN": "Suy dinh dưỡng thể marasmus",
+            "TEN_EN": "Nutritional marasmus",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E42",
+            "TEN": "Thể hỗn hợp Kwashiorkor-marasmus",
+            "TEN_EN": "Marasmic kwashiorkor",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E43",
+            "TEN": "Suy dinh dưỡng nặng do thiếu protein - năng lượng, không đặc hiệu",
+            "TEN_EN": "Unspecified severe protein-energy malnutrition",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E44",
+            "TEN": "Suy dinh dưỡng vừa và nhẹ do thiếu protein - năng lượng",
+            "TEN_EN": "Protein-energy malnutrition of moderate and mild degree",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E44.0",
+                "TEN": "Suy dinh dưỡng vừa do thiếu protein năng lượng",
+                "TEN_EN": "Moderate protein-energy malnutrition"
+              },
+              {
+                "MA": "E44.1",
+                "TEN": "Suy dinh dưỡng nhẹ do thiếu protein năng lượng",
+                "TEN_EN": "Mild protein-energy malnutrition"
+              }
+            ]
+          },
+          {
+            "MA": "E45",
+            "TEN": "Chậm phát triển sau suy dinh dưỡng do thiếu protein năng lượng",
+            "TEN_EN": "Retarded development following protein-energy malnutrition",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E46",
+            "TEN": "Suy dinh dưỡng do thiếu protein năng lượng không xác định",
+            "TEN_EN": "Unspecified protein-energy malnutrition",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "E50-E64",
         "MA_TRONG_CHUONG": "",
         "TEN": "Những bệnh thiếu dinh dưỡng khác",
         "TEN_EN": "Other nutritional deficiencies",
-        "DANH_SACH_BENH": []
+        "DANH_SACH_BENH": [
+          {
+            "MA": "E50",
+            "TEN": "Thiếu vitamin A",
+            "TEN_EN": "Vitamin A deficiency",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E50.0",
+                "TEN": "Thiếu vitamin A có khô kết mạc",
+                "TEN_EN": "Vitamin A deficiency with conjunctival xerosis"
+              },
+              {
+                "MA": "E50.1",
+                "TEN": "thiếu vitamin A có vết Bitot và khô kết mạc",
+                "TEN_EN": "Vitamin A deficiency with Bitot s spot and conjunctival xerosis"
+              },
+              {
+                "MA": "E50.2",
+                "TEN": "Khô giác mạc do thiếu vitamin A",
+                "TEN_EN": "Vitamin A deficiency with corneal xerosis"
+              },
+              {
+                "MA": "E50.3",
+                "TEN": "thiếu vitamin A có loét và khô giác mạc",
+                "TEN_EN": "Vitamin A deficiency with corneal ulceration and xerosis"
+              },
+              {
+                "MA": "E50.4",
+                "TEN": "thiếu vitamin A có loét và khô giác mạc",
+                "TEN_EN": "Vitamin A deficiency with keratomalacia"
+              },
+              {
+                "MA": "E50.5",
+                "TEN": "Thiếu vitamin A có quáng gà",
+                "TEN_EN": "Vitamin A deficiency with night blindness"
+              },
+              {
+                "MA": "E50.6",
+                "TEN": "Thiếu vitamin A có sẹo do khô giác mạc",
+                "TEN_EN": "Vitamin A deficiency with xerophthalmic scars of cornea"
+              },
+              {
+                "MA": "E50.7",
+                "TEN": "Biểu hiện khác ở mắt do thiếu vitamin A",
+                "TEN_EN": "Other ocular manifestations of vitamin A deficiency"
+              },
+              {
+                "MA": "E50.8",
+                "TEN": "Biểu hiện khác của thiếu vitamin A",
+                "TEN_EN": "Other manifestations of vitamin A deficiency"
+              },
+              {
+                "MA": "E50.9",
+                "TEN": "Thiếu vitamin A, không đặc hiệu",
+                "TEN_EN": "Vitamin A deficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E51",
+            "TEN": "Thiếu thiamine",
+            "TEN_EN": "Thiamine deficiency",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E51.1",
+                "TEN": "Bệnh tê phù",
+                "TEN_EN": "Beriberi"
+              },
+              {
+                "MA": "E51.2",
+                "TEN": "Bệnh lý não Wernicke",
+                "TEN_EN": "Wernicke s encephalopathy"
+              },
+              {
+                "MA": "E51.8",
+                "TEN": "Các biểu hiện khác của thiếu thiamine",
+                "TEN_EN": "Other manifestations of thiamine deficiency"
+              },
+              {
+                "MA": "E51.9",
+                "TEN": "Thiếu thiamine, không đặc hiệu",
+                "TEN_EN": "Thiamine deficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E52",
+            "TEN": "Thiếu niacin",
+            "TEN_EN": "Niacin deficifiency",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E53",
+            "TEN": "Thiếu các vitamin nhóm B khác",
+            "TEN_EN": "Deficiency of other B group vitamins",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E53.0",
+                "TEN": "Thiếu riboflavin",
+                "TEN_EN": "Riboflavin deficiency"
+              },
+              {
+                "MA": "E53.1",
+                "TEN": "Thiếu pyridoxine",
+                "TEN_EN": "Pyridoxine deficiency"
+              },
+              {
+                "MA": "E53.8",
+                "TEN": "Thiếu các vitamin nhóm B đặc hiệu khác",
+                "TEN_EN": "Deficiency of other specified B group vitamins"
+              },
+              {
+                "MA": "E53.9",
+                "TEN": "Thiếu vitamin B, không đặc hiệu",
+                "TEN_EN": "Vitamin B deficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E54",
+            "TEN": "Thiếu acid ascorbic",
+            "TEN_EN": "Ascorbic acid deficiency",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E55",
+            "TEN": "Thiếu Vitamin D",
+            "TEN_EN": "Vitamin D deficiency",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E55.0",
+                "TEN": "Còi xương, tiến triển",
+                "TEN_EN": "Rickets, active"
+              },
+              {
+                "MA": "E55.9",
+                "TEN": "Thiếu vitamin D, không xác định",
+                "TEN_EN": "Vitamin D deficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E56",
+            "TEN": "Thiếu Vitamin khác",
+            "TEN_EN": "Other vitamin deficiencies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E56.0",
+                "TEN": "Thiếu vitamin E",
+                "TEN_EN": "Deficiency of vitamin E"
+              },
+              {
+                "MA": "E56.1",
+                "TEN": "Thiếu vitamin K",
+                "TEN_EN": "Deficiency of vitamin K"
+              },
+              {
+                "MA": "E56.8",
+                "TEN": "Thiếu các vitamin khác",
+                "TEN_EN": "Deficiency of other vitamins"
+              },
+              {
+                "MA": "E56.9",
+                "TEN": "Thiếu vitamin, không đặc hiệu",
+                "TEN_EN": "Vitamin deficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E58",
+            "TEN": "Thiếu Calci do chế độ ăn ",
+            "TEN_EN": "Dietary calcium deficiency",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E59",
+            "TEN": "Thiếu Selen do chế độ ăn",
+            "TEN_EN": "Dietary selenium deficiency",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E60",
+            "TEN": "Thiếu kẽm do chế độ ăn",
+            "TEN_EN": "Dietary zinc deficiency",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E61",
+            "TEN": "Thiếu các yếu tố dinh dưỡng khác",
+            "TEN_EN": "Deficiency of other nutrient elements",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E61.0",
+                "TEN": "Thiếu đồng",
+                "TEN_EN": "Copper deficiency"
+              },
+              {
+                "MA": "E61.1",
+                "TEN": "Thiếu sắt",
+                "TEN_EN": "Iron deficiency"
+              },
+              {
+                "MA": "E61.2",
+                "TEN": "Thiếu magie",
+                "TEN_EN": "Magnesium deficiency"
+              },
+              {
+                "MA": "E61.3",
+                "TEN": "Thiếu mangan",
+                "TEN_EN": "Manganese deficiency"
+              },
+              {
+                "MA": "E61.4",
+                "TEN": "Thiếu crôm",
+                "TEN_EN": "Chromium deficiency"
+              },
+              {
+                "MA": "E61.5",
+                "TEN": "Thiếu molypđen",
+                "TEN_EN": "Molybdenum deficiency"
+              },
+              {
+                "MA": "E61.6",
+                "TEN": "Thiếu vanadin",
+                "TEN_EN": "Vanadium deficiency"
+              },
+              {
+                "MA": "E61.7",
+                "TEN": "Thiếu nhiều yếu tố dinh dưỡng",
+                "TEN_EN": "Deficiency of multiple nutrient elements"
+              },
+              {
+                "MA": "E61.8",
+                "TEN": "Thiếu các yếu tố dinh dưỡng xác định khác",
+                "TEN_EN": "Deficiency of other specified nutrient elements"
+              },
+              {
+                "MA": "E61.9",
+                "TEN": "Thiếu các yếu tố dinh dưỡng không đặc hiệu",
+                "TEN_EN": "Deficiency of nutrient element, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E63",
+            "TEN": "Thiếu dinh dưỡng khác",
+            "TEN_EN": "Other nutritional deficiencies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E63.0",
+                "TEN": "Thiếu acid béo cần thiết [EFA)",
+                "TEN_EN": "Essential fatty acid [EFA] deficiency"
+              },
+              {
+                "MA": "E63.1",
+                "TEN": "Mất cân đối trong thành phần thức ăn",
+                "TEN_EN": "Imbalance of constituents of food intake"
+              },
+              {
+                "MA": "E63.8",
+                "TEN": "Thiếu dinh dưỡng đặc hiệu khác",
+                "TEN_EN": "Other specified nutritional deficiencies"
+              },
+              {
+                "MA": "E63.9",
+                "TEN": "Thiếu dinh dưỡng, không đặc hiệu",
+                "TEN_EN": "Nutritional deficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E64",
+            "TEN": "Di chứng của suy dinh dưỡng và bệnh thiếu dinh dưỡng khác",
+            "TEN_EN": "Sequelae of malnutrition and other nutritional deficiencies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E64.0",
+                "TEN": "Di chứng của suy dinh dưỡng do thiếu protein - năng lượng",
+                "TEN_EN": "Sequelae of protein-energy malnutrition"
+              },
+              {
+                "MA": "E64.1",
+                "TEN": "Di chứng của thiếu vitamin A",
+                "TEN_EN": "Sequelae of vitamin A deficiency"
+              },
+              {
+                "MA": "E64.2",
+                "TEN": "Di chứng của thiếu vitamin C",
+                "TEN_EN": "Sequelae of vitamin C deficiency"
+              },
+              {
+                "MA": "E64.3",
+                "TEN": "Di chứng của bệnh còi xương",
+                "TEN_EN": "Sequelae of rickets"
+              },
+              {
+                "MA": "E64.8",
+                "TEN": "Di chứng của bệnh thiếu dinh dưỡng khác",
+                "TEN_EN": "Sequelae of other nutritional deficiencies"
+              },
+              {
+                "MA": "E64.9",
+                "TEN": "Di chứng của thiếu dinh dưỡng không đặc hiệu",
+                "TEN_EN": "Sequelae of unspecified nutritional deficiency"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "E65-E68",
         "MA_TRONG_CHUONG": "",
         "TEN": "Béo phì và tình trạng thừa dinh dưỡng khác",
         "TEN_EN": "Obesity and other hyperalimentation",
-        "DANH_SACH_BENH": []
+        "DANH_SACH_BENH": [
+          {
+            "MA": "E65",
+            "TEN": "Béo phì khu trú",
+            "TEN_EN": "Localized adiposity",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E66",
+            "TEN": "Bệnh béo phì",
+            "TEN_EN": "Obesity",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E66.0",
+                "TEN": "Béo phì do thừa calo",
+                "TEN_EN": "Obesity due to excess calories"
+              },
+              {
+                "MA": "E66.1",
+                "TEN": "Béo phì do thuốc",
+                "TEN_EN": "Drug-induced obesity"
+              },
+              {
+                "MA": "E66.2",
+                "TEN": "Béo phì quá mức với giảm thông khí phế nang",
+                "TEN_EN": "Extreme obesity with alveolar hypoventilation"
+              },
+              {
+                "MA": "E66.8",
+                "TEN": "Béo phì khác",
+                "TEN_EN": "Other obesity"
+              },
+              {
+                "MA": "E66.9",
+                "TEN": "Béo phì, không đặc hiệu",
+                "TEN_EN": "Obesity, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E67",
+            "TEN": "Tình trạng thừa dinh dưỡng khác",
+            "TEN_EN": "Other hyperalimentation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E67.0",
+                "TEN": "Thừa vitamin A",
+                "TEN_EN": "Hypervitaminosis A"
+              },
+              {
+                "MA": "E67.1",
+                "TEN": "Tăng caroten máu",
+                "TEN_EN": "Hypercarotenaemia"
+              },
+              {
+                "MA": "E67.2",
+                "TEN": "Hội chứng Megavitamin-B6",
+                "TEN_EN": "Megavitamin-B6 syndrome"
+              },
+              {
+                "MA": "E67.3",
+                "TEN": "Thừa vitamin D",
+                "TEN_EN": "Hypervitaminosis D"
+              },
+              {
+                "MA": "E67.8",
+                "TEN": "Thừa dinh dưỡng xác định khác",
+                "TEN_EN": "Other specified hyperalimentation"
+              }
+            ]
+          },
+          {
+            "MA": "E68",
+            "TEN": "Di chứng của thừa dinh dưỡng",
+            "TEN_EN": "Metabolic disorders",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "E70-E90",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn chuyển hóa",
         "TEN_EN": "Metabolic disorders",
-        "DANH_SACH_BENH": []
+        "DANH_SACH_BENH": [
+          {
+            "MA": "E70",
+            "TEN": "Rối loạn chuyển hóa acid amin thơm",
+            "TEN_EN": "Disorders of aromatic amino-acid metabolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E70.0",
+                "TEN": "Phenyl-ceton niệu kinh điển",
+                "TEN_EN": "Classical phenylketonuria"
+              },
+              {
+                "MA": "E70.1",
+                "TEN": "Tăng phenylalanin máu khác",
+                "TEN_EN": "Other hyperphenylalaninaemias"
+              },
+              {
+                "MA": "E70.2",
+                "TEN": "Rối loạn chuyển hóa tyrosine",
+                "TEN_EN": "Disorders of tyrosine metabolism"
+              },
+              {
+                "MA": "E70.3",
+                "TEN": "Chứng Bạch tạng",
+                "TEN_EN": "Albinism"
+              },
+              {
+                "MA": "E70.8",
+                "TEN": "Rối loạn chuyển hóa khác của acid amin thơm",
+                "TEN_EN": "Other disorders of aromatic amino-acid metabolism"
+              },
+              {
+                "MA": "E70.9",
+                "TEN": "Rối loạn chuyển hóa acid amin thơm không xác định.",
+                "TEN_EN": "Disorder of aromatic amino-acid metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E71",
+            "TEN": "Rối loạn chuyển hóa acid amin chuỗi nhánh và rối loạn chuyển hóa acid béo",
+            "TEN_EN": "Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E71.0",
+                "TEN": "Bệnh nước tiểu mùi sirô (Maple-syrup)",
+                "TEN_EN": "Maple-syrup-urine disease"
+              },
+              {
+                "MA": "E71.1",
+                "TEN": "Rối loạn khác của chuyển hóa acid amin chuỗi nhánh",
+                "TEN_EN": "Other disorders of branched-chain amino-acid metabolism"
+              },
+              {
+                "MA": "E71.2",
+                "TEN": "Rối loạn chuyển hóa acid amin chuỗi phân nhánh, không đặc hiệu",
+                "TEN_EN": "Disorder of branched-chain amino-acid metabolism, unspecified"
+              },
+              {
+                "MA": "E71.3",
+                "TEN": "Rối loạn chuyển hóa acid béo",
+                "TEN_EN": "Disorders of fatty-acid metabolism"
+              }
+            ]
+          },
+          {
+            "MA": "E72",
+            "TEN": "Các rối loạn khác của chuyển hóa acid amin",
+            "TEN_EN": "Other disorders of amino-acid metabolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E72.0",
+                "TEN": "Rối loạn vận chuyển acid amin",
+                "TEN_EN": "Disorders of amino-acid transport"
+              },
+              {
+                "MA": "E72.1",
+                "TEN": "Rối loạn chuyển hóa acid amin chứa sulfur",
+                "TEN_EN": "Disorders of sulfur-bearing amino-acid metabolism"
+              },
+              {
+                "MA": "E72.2",
+                "TEN": "Rối loạn chuyển hóa chu trình urê",
+                "TEN_EN": "Disorders of urea cycle metabolism"
+              },
+              {
+                "MA": "E72.3",
+                "TEN": "Rối loạn chuyển hóa lysine và hydroxylysine",
+                "TEN_EN": "Disorders of lysine and hydroxylysine metabolism"
+              },
+              {
+                "MA": "E72.4",
+                "TEN": "Rối loạn chuyển hóa ornithine",
+                "TEN_EN": "Disorders of ornithine metabolism"
+              },
+              {
+                "MA": "E72.5",
+                "TEN": "Rối loạn chuyển hóa glycine",
+                "TEN_EN": "Disorders of glycine metabolism"
+              },
+              {
+                "MA": "E72.8",
+                "TEN": "Các rối loạn xác định khác của chuyển hóa acid amin",
+                "TEN_EN": "Other specified disorders of amino-acid metabolism"
+              },
+              {
+                "MA": "E72.9",
+                "TEN": "Rối loạn chuyển hóa acid amin, không đặc hiệu",
+                "TEN_EN": "Disorder of amino-acid metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E73",
+            "TEN": "Không dung nạp lactose",
+            "TEN_EN": "Lactose intolerance",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E73.0",
+                "TEN": "Thiếu men lactase bẩm sinh",
+                "TEN_EN": "Congenital lactase deficiency"
+              },
+              {
+                "MA": "E73.1",
+                "TEN": "Thiếu men lactase thứ phát",
+                "TEN_EN": "Secondary lactase deficiency"
+              },
+              {
+                "MA": "E73.8",
+                "TEN": "Không dung nạp lactose khác",
+                "TEN_EN": "Other lactose intolerance"
+              },
+              {
+                "MA": "E73.9",
+                "TEN": "Không dung nạp lactose, không đặc hiệu",
+                "TEN_EN": "Lactose intolerance, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E74",
+            "TEN": "Rối loạn khác của chuyển hóa carbohydrat",
+            "TEN_EN": "Other disorders of carbohydrate metabolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E74.0",
+                "TEN": "Bệnh tích luỹ glycogen",
+                "TEN_EN": "Glycogen storage disease"
+              },
+              {
+                "MA": "E74.1",
+                "TEN": "Rối loạn chuyển hóa fructose",
+                "TEN_EN": "Disorders of fructose metabolism"
+              },
+              {
+                "MA": "E74.2",
+                "TEN": "Rối loạn chuyển hóa galactose",
+                "TEN_EN": "Disorders of galactose metabolism"
+              },
+              {
+                "MA": "E74.3",
+                "TEN": "Rối loạn khác của hấp thu carbohydrat ở ruột non",
+                "TEN_EN": "Other disorders of intestinal carbohydrate absorption"
+              },
+              {
+                "MA": "E74.4",
+                "TEN": "Rối loạn chuyển hóa pyruvat và tân tạo glucose",
+                "TEN_EN": "Disorders of pyruvate metabolism and gluconeogenesis"
+              },
+              {
+                "MA": "E74.8",
+                "TEN": "Rối loạn xác định khác của chuyển hóa carbohydrat",
+                "TEN_EN": "Other specified disorders of carbohydrate metabolism"
+              },
+              {
+                "MA": "E74.9",
+                "TEN": "Rối loạn chuyển hóa carbohydrat, không đặc hiệu",
+                "TEN_EN": "Disorder of carbohydrate metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E75",
+            "TEN": "Rối loạn chuyển hóa sphingolipid và rối loạn tích luỹ lipid",
+            "TEN_EN": "Disorders of sphingolipid metabolism and other lipid storage disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E75.0",
+                "TEN": "Bệnh nhiễm gangliosid GM2",
+                "TEN_EN": "GM2 gangliosidosis"
+              },
+              {
+                "MA": "E75.1",
+                "TEN": "Bệnh nhiễm gangliosid khác",
+                "TEN_EN": "Other gangliosidosis"
+              },
+              {
+                "MA": "E75.2",
+                "TEN": "Bệnh nhiễm sphingolipid khác",
+                "TEN_EN": "Other sphingolipidosis"
+              },
+              {
+                "MA": "E75.3",
+                "TEN": "Bệnh nhiễm sphingolipid, không đặc hiệu",
+                "TEN_EN": "Sphingolipidosis, unspecified"
+              },
+              {
+                "MA": "E75.4",
+                "TEN": "Bệnh lý tích tụ lipofuscin ở neuron (NCL)",
+                "TEN_EN": "Neuronal ceroid lipofuscinosis"
+              },
+              {
+                "MA": "E75.5",
+                "TEN": "Rối loạn tích luỹ lipid khác",
+                "TEN_EN": "Other lipid storage disorders"
+              },
+              {
+                "MA": "E75.6",
+                "TEN": "Rối loạn tích luỹ lipid, không đặc hiệu",
+                "TEN_EN": "Lipid storage disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E76.0",
+            "TEN": "Nhiễm mucopolysaccharid, typ I",
+            "TEN_EN": "Mucopolysaccharidosis, type I",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E76.0",
+                "TEN": "Nhiễm mucopolysaccharid, typ I",
+                "TEN_EN": "Mucopolysaccharidosis, type I"
+              },
+              {
+                "MA": "E76.1",
+                "TEN": "Nhiễm mucopolysaccharid, typ II",
+                "TEN_EN": "Mucopolysaccharidosis, type II"
+              },
+              {
+                "MA": "E76.2",
+                "TEN": "Nhiễm mucopolysaccharid khác",
+                "TEN_EN": "Other mucopolysaccharidoses"
+              },
+              {
+                "MA": "E76.3",
+                "TEN": "Nhiễm mucopolysaccharid không đặc hiệu",
+                "TEN_EN": "Mucopolysaccharidosis, unspecified"
+              },
+              {
+                "MA": "E76.8",
+                "TEN": "Rối loạn chuyển hóa glucosaminoglycan khác",
+                "TEN_EN": "Other disorders of glucosaminoglycan metabolism"
+              },
+              {
+                "MA": "E76.9",
+                "TEN": "Rối loạn chuyển hóa glucosaminoglycan không đặc hiệu",
+                "TEN_EN": "Disorder of glucosaminoglycan metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E77",
+            "TEN": "Rối loạn chuyển hóa glycoprotein",
+            "TEN_EN": "Disorders of glycoprotein metabolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E77.0",
+                "TEN": "Khiếm khuyết trong sự biến đổi sau chuyển mã của các men tiêu bào",
+                "TEN_EN": "Defects in post-translational modification of lysosomal enzymes"
+              },
+              {
+                "MA": "E77.1",
+                "TEN": "Khiếm khuyết trong quá trình phân hủy glycoprotein",
+                "TEN_EN": "Defects in glycoprotein degradation"
+              },
+              {
+                "MA": "E77.8",
+                "TEN": "Rối loạn chuyển hóa glycoprotein khác",
+                "TEN_EN": "Other disorders of glycoprotein metabolism"
+              },
+              {
+                "MA": "E77.9",
+                "TEN": "Rối loạn chuyển hóa glycoprotein, không đặc hiệu",
+                "TEN_EN": "Disorder of glycoprotein metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E78",
+            "TEN": "Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác",
+            "TEN_EN": "Disorders of lipoprotein metabolism and other lipidaemias",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E78.0",
+                "TEN": "Tăng cholesterol máu đơn thuần",
+                "TEN_EN": "Pure hypercholesterolaemia"
+              },
+              {
+                "MA": "E78.1",
+                "TEN": "Tăng triglycerid máu đơn thuần",
+                "TEN_EN": "Pure hyperglyceridaemia"
+              },
+              {
+                "MA": "E78.2",
+                "TEN": "Tăng lipid máu hỗn hợp",
+                "TEN_EN": "Mixed hyperlipidaemia"
+              },
+              {
+                "MA": "E78.3",
+                "TEN": "Tăng -chylomicron máu",
+                "TEN_EN": "Hyperchylomicronaemia"
+              },
+              {
+                "MA": "E78.4",
+                "TEN": "Tăng lipid máu khác",
+                "TEN_EN": "Other hyperlipidaemia"
+              },
+              {
+                "MA": "E78.5",
+                "TEN": "Tăng lipid máu, không đặc hiệu",
+                "TEN_EN": "Hyperlipidaemia, unspecified"
+              },
+              {
+                "MA": "E78.6",
+                "TEN": "Thiếu Lipoprotein",
+                "TEN_EN": "Lipoprotein deficiency"
+              },
+              {
+                "MA": "E78.8",
+                "TEN": "Rối loạn chuyển hóa lipoprotein khác",
+                "TEN_EN": "Other disorders of lipoprotein metabolism"
+              },
+              {
+                "MA": "E78.9",
+                "TEN": "Rối loạn chuyển hóa lipoprotein không đặc hiệu",
+                "TEN_EN": "Disorder of lipoprotein metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E79",
+            "TEN": "Rối loạn chuyển hóa purine và pyrimidine",
+            "TEN_EN": "Disorders of purine and pyrimidine metabolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E79.0",
+                "TEN": "Tăng acid uric máu không có biểu hiện của viêm khớp và bệnh tạo sỏi",
+                "TEN_EN": "Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease"
+              },
+              {
+                "MA": "E79.1",
+                "TEN": "Hội chứng Lesch-Nyhan",
+                "TEN_EN": "Lesch-Nyhan syndrome"
+              },
+              {
+                "MA": "E79.8",
+                "TEN": "Rối loạn khác của chuyển hóa purine and pyrimidine",
+                "TEN_EN": "Other disorders of purine and pyrimidine metabolism"
+              },
+              {
+                "MA": "E79.9",
+                "TEN": "Rối loạn chuyển hóa purine và pyrimidine không đặc hiệu",
+                "TEN_EN": "Disorder of purine and pyrimidine metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E80",
+            "TEN": "Rối loạn chuyển hóa porphyrin và bilirubin",
+            "TEN_EN": "Disorders of porphyrin and bilirubin metabolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E80.0",
+                "TEN": "Rối loạn chuyển hóa porphyrin sinh hồng cầu di truyền",
+                "TEN_EN": "Hereditary erythropoietic porphyria"
+              },
+              {
+                "MA": "E80.1",
+                "TEN": "Rối loạn chuyển hóa porphyrin biểu hiện muộn ở da",
+                "TEN_EN": "Porphyria cutanea tarda"
+              },
+              {
+                "MA": "E80.2",
+                "TEN": "Rối loạn chuyển hóa porphyrin máu khác",
+                "TEN_EN": "Other porphyria"
+              },
+              {
+                "MA": "E80.3",
+                "TEN": "Khiếm khuyết men catalase và peroxidase",
+                "TEN_EN": "Defects of catalase and peroxidase"
+              },
+              {
+                "MA": "E80.4",
+                "TEN": "Hội chứng Glibert",
+                "TEN_EN": "Gilbert s syndrome"
+              },
+              {
+                "MA": "E80.5",
+                "TEN": "Hội chứng Crigler-Najjar",
+                "TEN_EN": "Crigler-Najjar syndrome"
+              },
+              {
+                "MA": "E80.6",
+                "TEN": "Rối loạn chuyển hóa bilirubin khác",
+                "TEN_EN": "Other disorders of bilirubin metabolism"
+              },
+              {
+                "MA": "E80.7",
+                "TEN": "Rối loạn chuyển hóa bilirubin, không đặc hiệu",
+                "TEN_EN": "Disorder of bilirubin metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E83",
+            "TEN": "Rối loạn chuyển hóa chất khóang",
+            "TEN_EN": "Disorders of mineral metabolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E83.0",
+                "TEN": "Rối loạn chuyển hóa đồng (bao gồm cả bệnh Wilson)",
+                "TEN_EN": "Disorders of copper metabolism (include Wilson disease)"
+              },
+              {
+                "MA": "E83.1",
+                "TEN": "Rối loạn chuyển hóa sắt",
+                "TEN_EN": "Disorders of iron metabolism"
+              },
+              {
+                "MA": "E83.2",
+                "TEN": "Rối loạn chuyển hóa kẽm",
+                "TEN_EN": "Disorders of zinc metabolism"
+              },
+              {
+                "MA": "E83.3",
+                "TEN": "Rối loạn chuyển hóa phospho và phosphatase",
+                "TEN_EN": "Disorders of phosphorus metabolism"
+              },
+              {
+                "MA": "E83.4",
+                "TEN": "Rối loạn chuyển hóa magnie",
+                "TEN_EN": "Disorders of magnesium metabolism"
+              },
+              {
+                "MA": "E83.5",
+                "TEN": "Rối loạn chuyển hóa calci",
+                "TEN_EN": "Disorders of calcium metabolism"
+              },
+              {
+                "MA": "E83.8",
+                "TEN": "Rối loạn chuyển hóa chất khóang khác",
+                "TEN_EN": "Other disorders of mineral metabolism"
+              },
+              {
+                "MA": "E83.9",
+                "TEN": "Rối loạn chuyển hóa chất khóang, không đặc hiệu",
+                "TEN_EN": "Disorder of mineral metabolism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E84",
+            "TEN": "Xơ nang",
+            "TEN_EN": "Cystic fibrosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E84.0",
+                "TEN": "Xơ nang kèm biểu hiện tại phổi",
+                "TEN_EN": "Cystic fibrosis with pulmonary manifestations"
+              },
+              {
+                "MA": "E84.1",
+                "TEN": "Xơ nang kèm biểu hiện tại ruột",
+                "TEN_EN": "Cystic fibrosis with intestinal manifestations"
+              },
+              {
+                "MA": "E84.8",
+                "TEN": "Xơ nang với các biểu hiện khác",
+                "TEN_EN": "Cystic fibrosis with other manifestations"
+              },
+              {
+                "MA": "E84.9",
+                "TEN": "Xơ nang, không đặc hiệu",
+                "TEN_EN": "Cystic fibrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E85",
+            "TEN": "Thoái hóa dạng bột",
+            "TEN_EN": "Amyloidosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E85.0",
+                "TEN": "thoái hóa dạng bột mang tính di truyền gia đình không có bệnh lý thần kinh",
+                "TEN_EN": "Non-neuropathic heredofamilial amyloidosis"
+              },
+              {
+                "MA": "E85.1",
+                "TEN": "thoái hóa dạng bột mang tính di truyền gia đình, có bệnh lý thần kinh",
+                "TEN_EN": "Neuropathic heredofamilial amyloidosis"
+              },
+              {
+                "MA": "E85.2",
+                "TEN": "thoái hóa dạng bột mang tính di truyền gia đình, không đặc hiệu",
+                "TEN_EN": "Heredofamilial amyloidosis, unspecified"
+              },
+              {
+                "MA": "E85.3",
+                "TEN": "thoái hóa dạng bột toàn thân thứ phát",
+                "TEN_EN": "Secondary systemic amyloidosis"
+              },
+              {
+                "MA": "E85.4",
+                "TEN": "thoái hóa dạng bột giới hạn ở cơ quan",
+                "TEN_EN": "Organ-limited amyloidosis"
+              },
+              {
+                "MA": "E85.8",
+                "TEN": "thoái hóa dạng bột khác",
+                "TEN_EN": "Other amyloidosis"
+              },
+              {
+                "MA": "E85.9",
+                "TEN": "thoái hóa dạng bột, không đặc hiệu",
+                "TEN_EN": "Amyloidosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E86",
+            "TEN": "Giảm thể tích",
+            "TEN_EN": "Volume depletion",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E87",
+            "TEN": "Rối loạn cân bằng nước, điện giải và thăng bằng kiềm toan",
+            "TEN_EN": "Other disorders of fluid, electrolyte and acid-base balance",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E87.0",
+                "TEN": "Tăng áp suất thẩm thấu và tăng natri máu",
+                "TEN_EN": "Hyperosmolality and hypernatraemia"
+              },
+              {
+                "MA": "E87.1",
+                "TEN": "Giảm áp suất thẩm thấu và giảm Na máu",
+                "TEN_EN": "Hypo-osmolality and hyponatraemia"
+              },
+              {
+                "MA": "E87.2",
+                "TEN": "Nhiễm toan",
+                "TEN_EN": "Acidosis"
+              },
+              {
+                "MA": "E87.3",
+                "TEN": "Nhiễm kiềm",
+                "TEN_EN": "Alkalosis"
+              },
+              {
+                "MA": "E87.4",
+                "TEN": "Rối loạn cân bằng kiềm toan phối hợp",
+                "TEN_EN": "Mixed disorder of acid-base balance"
+              },
+              {
+                "MA": "E87.5",
+                "TEN": "Tăng kali máu",
+                "TEN_EN": "Hyperkalaemia"
+              },
+              {
+                "MA": "E87.6",
+                "TEN": "Hạ kali máu",
+                "TEN_EN": "Hypokalaemia"
+              },
+              {
+                "MA": "E87.7",
+                "TEN": "Quá tải dịch",
+                "TEN_EN": "Fluid overload"
+              },
+              {
+                "MA": "E87.8",
+                "TEN": "Rối loạn khác về cân bằng điện giải và nước, chưa được phân loại ở phần khác",
+                "TEN_EN": "Other disorders of electrolyte and fluid balance, not elsewhere classified"
+              }
+            ]
+          },
+          {
+            "MA": "E88",
+            "TEN": "Rối loạn chuyển hóa khác",
+            "TEN_EN": "Other metabolic disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E88.0",
+                "TEN": "Rối loạn chuyển hóa protein huyết tương, chưa được phân loại ở phần khác",
+                "TEN_EN": "Disorders of plasma-protein metabolism, not elsewhere classified"
+              },
+              {
+                "MA": "E88.1",
+                "TEN": "Loạn dưỡng mỡ, chưa được phân loại ở phần khác",
+                "TEN_EN": "Lipodystrophy, not elsewhere classified"
+              },
+              {
+                "MA": "E88.2",
+                "TEN": "Bệnh u mỡ, chưa được phân loại ở phần khác",
+                "TEN_EN": "Lipomatosis, not elsewhere classified"
+              },
+              {
+                "MA": "E88.3",
+                "TEN": "Hội chứng ly giải khối u",
+                "TEN_EN": "Tumour lysis syndrome"
+              },
+              {
+                "MA": "E88.8",
+                "TEN": "Rối loạn chuyển hóa xác định khác",
+                "TEN_EN": "Other specified metabolic disorders"
+              },
+              {
+                "MA": "E88.9",
+                "TEN": "Rối loạn chuyển hóa, không đặc hiệu",
+                "TEN_EN": "Metabolic disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E89",
+            "TEN": "Rối loạn nội tiết và chuyển hóa sau điều trị, chưa được phân loại ở phần khác",
+            "TEN_EN": "Postprocedural endocrine and metabolic disorders, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E89.0",
+                "TEN": "Suy giáp sau điều trị",
+                "TEN_EN": "Postprocedural hypothyroidism"
+              },
+              {
+                "MA": "E89.1",
+                "TEN": "Hạ insulin máu sau điều trị",
+                "TEN_EN": "Postprocedural hypoinsulinaemia"
+              },
+              {
+                "MA": "E89.2",
+                "TEN": "Suy cận giáp sau điều trị",
+                "TEN_EN": "Postprocedural hypoparathyroidism"
+              },
+              {
+                "MA": "E89.3",
+                "TEN": "Suy tuyến yên sau điều trị",
+                "TEN_EN": "Postprocedural hypopituitarism"
+              },
+              {
+                "MA": "E89.4",
+                "TEN": "Suy buồng trứng sau điều trị",
+                "TEN_EN": "Postprocedural ovarian failure"
+              },
+              {
+                "MA": "E89.5",
+                "TEN": "Suy tinh hoàn sau điều trị",
+                "TEN_EN": "Postprocedural testicular hypofunction"
+              },
+              {
+                "MA": "E89.6",
+                "TEN": "Suy vỏ (-tủy) thượng thận sau điều trị",
+                "TEN_EN": "Postprocedural adrenocortical(-medullary) hypofunction"
+              },
+              {
+                "MA": "E89.8",
+                "TEN": "Rối loạn nội tiết và chuyển hóa sau điều trị khác",
+                "TEN_EN": "Other postprocedural endocrine and metabolic disorders"
+              },
+              {
+                "MA": "E89.9",
+                "TEN": "Rối loạn nội tiết và chuyển hóa sau điều trị, không đặc hiệu",
+                "TEN_EN": "Postprocedural endocrine and metabolic disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E90",
+            "TEN": "Rối loạn chuyển hóa và dinh dưỡng trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Nutritional and metabolic disorders in disease classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E90*",
+                "TEN": "Rối loạn chuyển hóa và dinh dưỡng trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Nutritional and metabolic disorders in disease classified elsewhere"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

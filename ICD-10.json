@@ -24751,61 +24751,2781 @@
         "MA": "K00-K14",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của khoang miệng, tuyến nước bọt và xương hàm",
-        "TEN_EN": "Diseases of oral cavity, salivary glands and jaws"
+        "TEN_EN": "Diseases of oral cavity, salivary glands and jaws",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K00",
+            "TEN": "Rối loạn phát triển răng và mọc răng",
+            "TEN_EN": "Disorders of tooth development and eruption",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K00.0",
+                "TEN": "Không đủ răng",
+                "TEN_EN": "Anodontia"
+              },
+              {
+                "MA": "K00.1",
+                "TEN": "Răng thừa",
+                "TEN_EN": "Supernumerary teeth"
+              },
+              {
+                "MA": "K00.2",
+                "TEN": "Bất thường kích thước và hình dạng răng",
+                "TEN_EN": "Abnormalities of size and form of teeth"
+              },
+              {
+                "MA": "K00.3",
+                "TEN": "Răng lốm đốm",
+                "TEN_EN": "Mottled teeth"
+              },
+              {
+                "MA": "K00.4",
+                "TEN": "Rối loạn tạo răng",
+                "TEN_EN": "Disturbances in tooth formation"
+              },
+              {
+                "MA": "K00.5",
+                "TEN": "Rối loạn di truyền cấu trúc răng, không phân loại nơi khác",
+                "TEN_EN": "Hereditary disturbances in tooth structure, not elsewhere classified"
+              },
+              {
+                "MA": "K00.6",
+                "TEN": "Rối loạn mọc răng",
+                "TEN_EN": "Disturbances in tooth eruption"
+              },
+              {
+                "MA": "K00.7",
+                "TEN": "Hội chứng mọc răng",
+                "TEN_EN": "Teething syndrome"
+              },
+              {
+                "MA": "K00.8",
+                "TEN": "Rối loạn khác về phát triển răng",
+                "TEN_EN": "Other disorders of tooth development"
+              },
+              {
+                "MA": "K00.9",
+                "TEN": "Rối loạn phát triển răng, không đặc hiệu",
+                "TEN_EN": "Disorder of tooth development, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K01",
+            "TEN": "Răng mọc kẹt và răng ngầm",
+            "TEN_EN": "Embedded and impacted teeth",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K01.0",
+                "TEN": "Răng ngầm",
+                "TEN_EN": "Embedded teeth"
+              },
+              {
+                "MA": "K01.1",
+                "TEN": "Răng mọc kẹt",
+                "TEN_EN": "Impacted teeth"
+              }
+            ]
+          },
+          {
+            "MA": "K02",
+            "TEN": "Sâu răng",
+            "TEN_EN": "Dental caries",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K02.0",
+                "TEN": "Sâu giới hạn ở men",
+                "TEN_EN": "Caries limited to enamel"
+              },
+              {
+                "MA": "K02.1",
+                "TEN": "Sâu ngà",
+                "TEN_EN": "Caries of dentine"
+              },
+              {
+                "MA": "K02.2",
+                "TEN": "Sâu chất xương",
+                "TEN_EN": "Caries of cementum"
+              },
+              {
+                "MA": "K02.3",
+                "TEN": "Sâu răng ngưng tiến triển",
+                "TEN_EN": "Arrested dental caries"
+              },
+              {
+                "MA": "K02.4",
+                "TEN": "Hủy răng",
+                "TEN_EN": "Odontoclasia"
+              },
+              {
+                "MA": "K02.5",
+                "TEN": "Sâu răng với hở tủy",
+                "TEN_EN": "Caries with pulp exposure"
+              },
+              {
+                "MA": "K02.8",
+                "TEN": "Sâu răng khác",
+                "TEN_EN": "Other dental caries"
+              },
+              {
+                "MA": "K02.9",
+                "TEN": "Sâu răng, không đặc hiệu",
+                "TEN_EN": "Dental caries, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K03",
+            "TEN": "Bệnh mô cứng khác của răng",
+            "TEN_EN": "Other diseases of hard tissues of teeth",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K03.0",
+                "TEN": "Mòn răng quá mức",
+                "TEN_EN": "Excessive attrition of teeth"
+              },
+              {
+                "MA": "K03.1",
+                "TEN": "Mòn răng",
+                "TEN_EN": "Abrasion of teeth"
+              },
+              {
+                "MA": "K03.2",
+                "TEN": "Mòn răng",
+                "TEN_EN": "Erosion of teeth"
+              },
+              {
+                "MA": "K03.3",
+                "TEN": "Tiêu răng bệnh lý",
+                "TEN_EN": "Pathological resorption of teeth"
+              },
+              {
+                "MA": "K03.4",
+                "TEN": "Tăng sinh chất răng",
+                "TEN_EN": "Hypercementosis"
+              },
+              {
+                "MA": "K03.5",
+                "TEN": "Cứng khớp răng",
+                "TEN_EN": "Ankylosis of teeth"
+              },
+              {
+                "MA": "K03.6",
+                "TEN": "Cặn lắng [tăng tích tụ] trên răng",
+                "TEN_EN": "Deposits [accretions] on teeth"
+              },
+              {
+                "MA": "K03.7",
+                "TEN": "Biến màu mô cứng sau gẫy răng",
+                "TEN_EN": "Posteruptive colour changes of dental hard tissues"
+              },
+              {
+                "MA": "K03.8",
+                "TEN": "Bệnh xác định khác của mô cứng của răng",
+                "TEN_EN": "Other specified diseases of hard tissues of teeth"
+              },
+              {
+                "MA": "K03.9",
+                "TEN": "Bệnh mô cứng của răng, không đặc hiệu",
+                "TEN_EN": "Disease of hard tissues of teeth, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K04",
+            "TEN": "Bệnh tủy và mô quanh chân răng",
+            "TEN_EN": "Diseases of pulp and periapical tissues",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K04.0",
+                "TEN": "Viêm tủy",
+                "TEN_EN": "Pulpitis"
+              },
+              {
+                "MA": "K04.1",
+                "TEN": "Hoại tử tủy",
+                "TEN_EN": "Necrosis of pulp"
+              },
+              {
+                "MA": "K04.2",
+                "TEN": "thoái hóa tủy",
+                "TEN_EN": "Pulp degeneration"
+              },
+              {
+                "MA": "K04.3",
+                "TEN": "Tạo mô cứng bất thường trong tủy",
+                "TEN_EN": "Abnormal hard tissue formation in pulp"
+              },
+              {
+                "MA": "K04.4",
+                "TEN": "Viêm nha chu chân răng cấp có nguồn gốc tủy",
+                "TEN_EN": "Acute apical periodontitis of pulpal origin"
+              },
+              {
+                "MA": "K04.5",
+                "TEN": "Viêm nha chu chân răng mãn",
+                "TEN_EN": "Chronic apical periodontitis"
+              },
+              {
+                "MA": "K04.6",
+                "TEN": "áp xe quanh chân răng có ổ",
+                "TEN_EN": "Periapical abscess with sinus"
+              },
+              {
+                "MA": "K04.7",
+                "TEN": "áp xe quanh chân răng không có ổ",
+                "TEN_EN": "Periapical abscess without sinus"
+              },
+              {
+                "MA": "K04.8",
+                "TEN": "Nang có cuống",
+                "TEN_EN": "Radicular cyst"
+              },
+              {
+                "MA": "K04.9",
+                "TEN": "Bệnh tủy và mô quanh chân răng khác và không xác định",
+                "TEN_EN": "Other and unspecified diseases of pulp and periapical tissues"
+              }
+            ]
+          },
+          {
+            "MA": "K05",
+            "TEN": "Viêm nướu và bệnh nha chu",
+            "TEN_EN": "Gingivitis and periodontal diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K05.0",
+                "TEN": "Viêm nướu cấp",
+                "TEN_EN": "Acute gingivitis"
+              },
+              {
+                "MA": "K05.1",
+                "TEN": "Viêm nướu mãn",
+                "TEN_EN": "Chronic gingivitis"
+              },
+              {
+                "MA": "K05.2",
+                "TEN": "Viêm nha chu cấp",
+                "TEN_EN": "Acute periodontitis"
+              },
+              {
+                "MA": "K05.3",
+                "TEN": "Viêm nha chu mãn",
+                "TEN_EN": "Chronic periodontitis"
+              },
+              {
+                "MA": "K05.4",
+                "TEN": "thoái hóa nha chu",
+                "TEN_EN": "Periodontosis"
+              },
+              {
+                "MA": "K05.5",
+                "TEN": "Bệnh nha chu",
+                "TEN_EN": "Other periodontal diseases"
+              },
+              {
+                "MA": "K05.6",
+                "TEN": "Bệnh nha chu, không đặc hiệu",
+                "TEN_EN": "Periodontal disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K06",
+            "TEN": "Rối loạn khác của nướu và sóng hàm vùng mất răng",
+            "TEN_EN": "Other disorders of gingiva and edentulous alveolar ridge",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K06.0",
+                "TEN": "Tụt lợi răng",
+                "TEN_EN": "Gingival recession"
+              },
+              {
+                "MA": "K06.1",
+                "TEN": "Lợi sưng",
+                "TEN_EN": "Gingival enlargement"
+              },
+              {
+                "MA": "K06.2",
+                "TEN": "Chấn thương nướu răng và nang sống hàm liên quan đến chấn thương",
+                "TEN_EN": "Gingival and edentulous alveolar ridge lesions associated with trauma"
+              },
+              {
+                "MA": "K06.8",
+                "TEN": "Rối loạn đặc hiệu khác của nướu và sống hàm",
+                "TEN_EN": "Other specified disorders of gingiva and edentulous alveolar ridge"
+              },
+              {
+                "MA": "K06.9",
+                "TEN": "Rối loạn ở nướu và sóng hàm, không đặc hiệu",
+                "TEN_EN": "Disorder of gingiva and edentulous alveolar ridge, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K07",
+            "TEN": "Bất thường hàm mặt [bao gồm khớp cắn lệch]",
+            "TEN_EN": "Dentofacial anomalies [including malocclusion]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K07.0",
+                "TEN": "Bất thường chủ yếu của kích thước xương hàm",
+                "TEN_EN": "Major anomalies of jaw size"
+              },
+              {
+                "MA": "K07.1",
+                "TEN": "Bất thường có liên quan nền sọ xương hàm",
+                "TEN_EN": "Anomalies of jaw-cranial base relationship"
+              },
+              {
+                "MA": "K07.2",
+                "TEN": "Bất thường liên quan đến cung răng",
+                "TEN_EN": "Anomalies of dental arch relationship"
+              },
+              {
+                "MA": "K07.3",
+                "TEN": "Vị trí răng bất thường",
+                "TEN_EN": "Anomalies of tooth position"
+              },
+              {
+                "MA": "K07.4",
+                "TEN": "Khớp cắn lệch không xác định",
+                "TEN_EN": "Malocclusion, unspecified"
+              },
+              {
+                "MA": "K07.5",
+                "TEN": "Bất thường chức năng hàm mặt",
+                "TEN_EN": "Dentofacial functional abnormalities"
+              },
+              {
+                "MA": "K07.6",
+                "TEN": "Rối loạn ở khớp thái dương",
+                "TEN_EN": "Temporomandibular joint disorders"
+              },
+              {
+                "MA": "K07.8",
+                "TEN": "Các bất thường hàm mặt khác",
+                "TEN_EN": "Other dentofacial anomalies"
+              },
+              {
+                "MA": "K07.9",
+                "TEN": "Bất thường hàm mặt không xác định",
+                "TEN_EN": "Dentofacial anomaly, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K08",
+            "TEN": "Bệnh khác của răng và cấu trúc nâng dỡ",
+            "TEN_EN": "Other disorders of teeth and supporting structures",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K08.0",
+                "TEN": "Mẻ răng do nguyên nhân hệ thống",
+                "TEN_EN": "Exfoliation of teeth due to systemic causes"
+              },
+              {
+                "MA": "K08.1",
+                "TEN": "Mất răng do tai nạn, do nhổ răng hay bệnh nha chu khu trú",
+                "TEN_EN": "Loss of teeth due to accident, extraction or local periodontal disease"
+              },
+              {
+                "MA": "K08.2",
+                "TEN": "Teo ổ chân răng",
+                "TEN_EN": "Atrophy of edentulous alveolar ridge"
+              },
+              {
+                "MA": "K08.3",
+                "TEN": "Chân răng còn sót",
+                "TEN_EN": "Retained dental root"
+              },
+              {
+                "MA": "K08.8",
+                "TEN": "Bệnh đặc hiệu khác của răng và cấu trúc nâng đỡ",
+                "TEN_EN": "Other specified disorders of teeth and supporting structures"
+              },
+              {
+                "MA": "K08.9",
+                "TEN": "Bệnh của răng và cấu trúc nâng đỡ, không đặc hiệu",
+                "TEN_EN": "Disorder of teeth and supporting structures, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K09",
+            "TEN": "Nang vùng miệng, không phân loại nơi khác",
+            "TEN_EN": "Cysts of oral region, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K09.0",
+                "TEN": "Nang răng phát triển",
+                "TEN_EN": "Developmental odontogenic cysts"
+              },
+              {
+                "MA": "K09.1",
+                "TEN": "Nang (không do răng) của vùng miệng",
+                "TEN_EN": "Developmental (nonodontogenic) cysts of oral region"
+              },
+              {
+                "MA": "K09.2",
+                "TEN": "Nang khác của xương hàm",
+                "TEN_EN": "Other cysts of jaw"
+              },
+              {
+                "MA": "K09.8",
+                "TEN": "Nang khác ở vùng miệng, không phân loại nơi khác",
+                "TEN_EN": "Other cysts of oral region, not elsewhere classified"
+              },
+              {
+                "MA": "K09.9",
+                "TEN": "Nang vùng miệng không đặc hiệu",
+                "TEN_EN": "Cyst of oral region, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K10",
+            "TEN": "Bệnh khác của xương hàm",
+            "TEN_EN": "Other diseases of jaws",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K10.0",
+                "TEN": "Rối loạn phát triển của xương hàm",
+                "TEN_EN": "Developmental disorders of jaws"
+              },
+              {
+                "MA": "K10.1",
+                "TEN": "U hạt tế bào khổng lồ, trung tâm",
+                "TEN_EN": "Giant cell granuloma, central"
+              },
+              {
+                "MA": "K10.2",
+                "TEN": "Tình trạng viêm của xương hàm",
+                "TEN_EN": "Inflammatory conditions of jaws"
+              },
+              {
+                "MA": "K10.3",
+                "TEN": "Viêm ổ răng xương hàm",
+                "TEN_EN": "Alveolitis of jaws"
+              },
+              {
+                "MA": "K10.8",
+                "TEN": "Bệnh xác định khác của xương hàm",
+                "TEN_EN": "Other specified diseases of jaws"
+              },
+              {
+                "MA": "K10.9",
+                "TEN": "Bệnh xương hàm, không đặc hiệu",
+                "TEN_EN": "Disease of jaws, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K11",
+            "TEN": "Bệnh tuyến nước bọt",
+            "TEN_EN": "Diseases of salivary glands",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K11.0",
+                "TEN": "Teo tuyến nước bọt",
+                "TEN_EN": "Atrophy of salivary gland"
+              },
+              {
+                "MA": "K11.1",
+                "TEN": "Phì đại tuyến nước bọt",
+                "TEN_EN": "Hypertrophy of salivary gland"
+              },
+              {
+                "MA": "K11.2",
+                "TEN": "Viêm tuyến nước bọt",
+                "TEN_EN": "Sialoadenitis"
+              },
+              {
+                "MA": "K11.3",
+                "TEN": "áp xe tuyến nước bọt",
+                "TEN_EN": "Abscess of salivary gland"
+              },
+              {
+                "MA": "K11.4",
+                "TEN": "Lỗ dò tuyến nước bọt",
+                "TEN_EN": "Fistula of salivary gland"
+              },
+              {
+                "MA": "K11.5",
+                "TEN": "Bệnh sỏi tuyến nước bọt",
+                "TEN_EN": "Sialolithiasis"
+              },
+              {
+                "MA": "K11.6",
+                "TEN": "Nang nhầy của tuyến nước bọt",
+                "TEN_EN": "Mucocele of salivary gland"
+              },
+              {
+                "MA": "K11.7",
+                "TEN": "Rối loạn tiết nước bọt",
+                "TEN_EN": "Disturbances of salivary secretion"
+              },
+              {
+                "MA": "K11.8",
+                "TEN": "Bệnh khác của tuyến nước bọt",
+                "TEN_EN": "Other diseases of salivary glands"
+              },
+              {
+                "MA": "K11.9",
+                "TEN": "Bệnh tuyến nước bọt, không đặc hiệu",
+                "TEN_EN": "Disease of salivary gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K12",
+            "TEN": "Viêm miệng và tổn thương liên quan",
+            "TEN_EN": "Stomatitis and related lesions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K12.0",
+                "TEN": "Loét miệng tái diễn",
+                "TEN_EN": "Recurrent oral aphthae"
+              },
+              {
+                "MA": "K12.1",
+                "TEN": "Dạng khác của viêm miệng",
+                "TEN_EN": "Other forms of stomatitis"
+              },
+              {
+                "MA": "K12.2",
+                "TEN": "Viêm mô tế bào và áp xe của miệng",
+                "TEN_EN": "Cellulitis and abscess of mouth"
+              },
+              {
+                "MA": "K12.3",
+                "TEN": "Viêm miệng (loét)",
+                "TEN_EN": "Oral mucositis (ulcerative)"
+              }
+            ]
+          },
+          {
+            "MA": "K13",
+            "TEN": "Bệnh khác của môi và niêm mạc miệng",
+            "TEN_EN": "Other diseases of lip and oral mucosa",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K13.0",
+                "TEN": "Bệnh của môi",
+                "TEN_EN": "Diseases of lips"
+              },
+              {
+                "MA": "K13.1",
+                "TEN": "Đau má và môi",
+                "TEN_EN": "Cheek and lip biting"
+              },
+              {
+                "MA": "K13.2",
+                "TEN": "Mảng trắng và rối loạn khác của thượng bì miệng, bao gồm lưới",
+                "TEN_EN": "Leukoplakia and other disturbances of oral epithelium, including tongue"
+              },
+              {
+                "MA": "K13.3",
+                "TEN": "Bạch sản dạng tóc",
+                "TEN_EN": "Hairy leukoplakia"
+              },
+              {
+                "MA": "K13.4",
+                "TEN": "U hạt và tổn thương dạng u hạt của niêm mạc miệng",
+                "TEN_EN": "Granuloma and granuloma-like lesions of oral mucosa"
+              },
+              {
+                "MA": "K13.5",
+                "TEN": "Xơ hóa dưới niêm mạc miệng",
+                "TEN_EN": "Oral submucous fibrosis"
+              },
+              {
+                "MA": "K13.6",
+                "TEN": "Tăng sản do kích thích của niêm mạc miệng",
+                "TEN_EN": "Irritative hyperplasia of oral mucosa"
+              },
+              {
+                "MA": "K13.7",
+                "TEN": "Tổn thương khác và không xác định của niêm mạc miệng",
+                "TEN_EN": "Other and unspecified lesions of oral mucosa"
+              }
+            ]
+          },
+          {
+            "MA": "K14",
+            "TEN": "Bệnh của lưỡi",
+            "TEN_EN": "Diseases of tongue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K14.0",
+                "TEN": "Viêm lưỡi",
+                "TEN_EN": "Glossitis"
+              },
+              {
+                "MA": "K14.1",
+                "TEN": "Lưỡi bản đồ",
+                "TEN_EN": "Geographic tongue"
+              },
+              {
+                "MA": "K14.2",
+                "TEN": "Viêm lưỡi dạng thoi",
+                "TEN_EN": "Median rhomboid glossitis"
+              },
+              {
+                "MA": "K14.3",
+                "TEN": "Phì đại gai lưỡi",
+                "TEN_EN": "Hypertrophy of tongue papillae"
+              },
+              {
+                "MA": "K14.4",
+                "TEN": "Teo gai lưỡi",
+                "TEN_EN": "Atrophy of tongue papillae"
+              },
+              {
+                "MA": "K14.5",
+                "TEN": "Lưỡi bị gấp nếp",
+                "TEN_EN": "Plicated tongue"
+              },
+              {
+                "MA": "K14.6",
+                "TEN": "Đau lưỡi",
+                "TEN_EN": "Glossodynia"
+              },
+              {
+                "MA": "K14.8",
+                "TEN": "Bệnh khác của lưỡi",
+                "TEN_EN": "Other diseases of tongue"
+              },
+              {
+                "MA": "K14.9",
+                "TEN": "Bệnh lưỡi, không đặc hiệu",
+                "TEN_EN": "Disease of tongue, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K20-K31",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của thực quản, dạ dày và tá tràng",
-        "TEN_EN": "Diseases of oesophagus, stomach and duodenum"
+        "TEN_EN": "Diseases of oesophagus, stomach and duodenum",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K20",
+            "TEN": "Viêm thực quản",
+            "TEN_EN": "Oesophagitis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "K21",
+            "TEN": "Bệnh trào ngược dạ dày - thực quản",
+            "TEN_EN": "Gastro-oesophageal reflux disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K21.0",
+                "TEN": "Bệnh trào ngược dạ dày - thực quản với viêm thực quản",
+                "TEN_EN": "Gastro-oesophageal reflux disease with oesophagitis"
+              },
+              {
+                "MA": "K21.9",
+                "TEN": "Bệnh trào ngược dạ dày - thực quản không có viêm thực quản",
+                "TEN_EN": "Gastro-oesophageal reflux disease without oesophagitis"
+              }
+            ]
+          },
+          {
+            "MA": "K22",
+            "TEN": "Bệnh khác của thực quản",
+            "TEN_EN": "Other diseases of oesophagus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K22.0",
+                "TEN": "Mất khả năng giãn của tâm vị",
+                "TEN_EN": "Achalasia of cardia"
+              },
+              {
+                "MA": "K22.1",
+                "TEN": "Loét thực quản",
+                "TEN_EN": "Ulcer of oesophagus"
+              },
+              {
+                "MA": "K22.2",
+                "TEN": "Tắc nghẽn thực quản",
+                "TEN_EN": "Oesophageal obstruction"
+              },
+              {
+                "MA": "K22.3",
+                "TEN": "Thủng thực quản",
+                "TEN_EN": "Perforation of oesophagus"
+              },
+              {
+                "MA": "K22.4",
+                "TEN": "Rối loạn vận động thực quản",
+                "TEN_EN": "Dyskinesia of oesophagus"
+              },
+              {
+                "MA": "K22.5",
+                "TEN": "Túi thừa thực quản, mắc phải",
+                "TEN_EN": "Diverticulum of oesophagus, acquired"
+              },
+              {
+                "MA": "K22.6",
+                "TEN": "Hội chứng rách - chảy máu thực quản - dạ dày",
+                "TEN_EN": "Gastro-oesophageal laceration-haemorrhage syndrome"
+              },
+              {
+                "MA": "K22.7",
+                "TEN": "Thực quản Barrett",
+                "TEN_EN": "Barrett s oesophagus"
+              },
+              {
+                "MA": "K22.8",
+                "TEN": "Bệnh đặc hiệu khác của thực quản",
+                "TEN_EN": "Other specified diseases of oesophagus"
+              },
+              {
+                "MA": "K22.9",
+                "TEN": "Bệnh thực quản, không đặc hiệu",
+                "TEN_EN": "Disease of oesophagus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K23",
+            "TEN": "Rối loạn thực quản trong bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of oesophagus in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K23*",
+                "TEN": "Rối loạn thực quản trong bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of oesophagus in diseases classified elsewhere"
+              },
+              {
+                "MA": "K23.0*",
+                "TEN": "Viêm thực quản do laoA18.8",
+                "TEN_EN": "Tuberculous oesophagitisA18.8"
+              },
+              {
+                "MA": "K23.1*",
+                "TEN": "Phình thực quản trong bệnh Chagas (B57.3†)",
+                "TEN_EN": "Megaoesophagus in Chagas disease (B57.3†)"
+              },
+              {
+                "MA": "K23.8*",
+                "TEN": "Rối loạn thực quản trong bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of oesophagus in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "K25",
+            "TEN": "Loét dạ dày ",
+            "TEN_EN": "Gastric ulcer",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K25.0",
+                "TEN": "Loét dạ dày (Cấp có xuất huyết)",
+                "TEN_EN": "Gastric ulcer (Acute with haemorrhage)"
+              },
+              {
+                "MA": "K25.1",
+                "TEN": "Loét dạ dày (Cấp có thủng)",
+                "TEN_EN": "Gastric ulcer (Acute with perforation)"
+              },
+              {
+                "MA": "K25.2",
+                "TEN": "Loét dạ dày (Cấp, cả xuất huyết và thủng)",
+                "TEN_EN": "Gastric ulcer (Acute with both haemorrhage and perforation)"
+              },
+              {
+                "MA": "K25.3",
+                "TEN": "Loét dạ dày (Cấp không có xuất huyết hay thủng)",
+                "TEN_EN": "Gastric ulcer (Acute without haemorrhage or perforation)"
+              },
+              {
+                "MA": "K25.4",
+                "TEN": "Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết)",
+                "TEN_EN": "Gastric ulcer (Chronic or unspecified with haemorrhage)"
+              },
+              {
+                "MA": "K25.5",
+                "TEN": "Loét dạ dày (Mạn hay không đặc hiệu có thủng)",
+                "TEN_EN": "Gastric ulcer (Chronic or unspecified with perforation)"
+              },
+              {
+                "MA": "K25.6",
+                "TEN": "Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết hay thủng)",
+                "TEN_EN": "Gastric ulcer (Chronic or unspecified with both haemorrhage\nand perforation)"
+              },
+              {
+                "MA": "K25.7",
+                "TEN": "Loét dạ dày (Mạn không có xuất huyết hay thủng)",
+                "TEN_EN": "Gastric ulcer (Chronic without haemorrhage or perforation)"
+              },
+              {
+                "MA": "K25.9",
+                "TEN": "Loét dạ dày (Không xác định là cấp hay mạn, không xuất huyết hay thủng)",
+                "TEN_EN": "Gastric ulcer (Unspecified as acute or chronic, without\nhaemorrhage or perforation)"
+              }
+            ]
+          },
+          {
+            "MA": "K26",
+            "TEN": "Loét tá tràng",
+            "TEN_EN": "Duodenal ulcer",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K26.0",
+                "TEN": "Loét tá tràng (Cấp có xuất huyết)",
+                "TEN_EN": "Duodenal ulcer (Acute with haemorrhage)"
+              },
+              {
+                "MA": "K26.1",
+                "TEN": "Loét tá tràng (Cấp có thủng)",
+                "TEN_EN": "Duodenal ulcer (Acute with perforation)"
+              },
+              {
+                "MA": "K26.2",
+                "TEN": "Loét tá tràng (Cấp, cả xuất huyết và thủng)",
+                "TEN_EN": "Duodenal ulcer (Acute with both haemorrhage and perforation)"
+              },
+              {
+                "MA": "K26.3",
+                "TEN": "Loét tá tràng (Cấp không có xuất huyết hay thủng)",
+                "TEN_EN": "Duodenal ulcer (Acute without haemorrhage or perforation)"
+              },
+              {
+                "MA": "K26.4",
+                "TEN": "Loét tá tràng (Mạn hay không đặc hiệu có xuất huyết)",
+                "TEN_EN": "Duodenal ulcer (Chronic or unspecified with haemorrhage)"
+              },
+              {
+                "MA": "K26.5",
+                "TEN": "Loét tá tràng (Mạn hay không đặc hiệu có thủng)",
+                "TEN_EN": "Duodenal ulcer (Chronic or unspecified with perforation)"
+              },
+              {
+                "MA": "K26.6",
+                "TEN": "Loét tá tràng (Mạn hay không đặc hiệu có xuất huyết hay thủng)",
+                "TEN_EN": "Duodenal ulcer (Chronic or unspecified with both haemorrhage\nand perforation)"
+              },
+              {
+                "MA": "K26.7",
+                "TEN": "Loét tá tràng (Mạn không có xuất huyết hay thủng)",
+                "TEN_EN": "Duodenal ulcer (Chronic without haemorrhage or perforation)"
+              },
+              {
+                "MA": "K26.9",
+                "TEN": "Loét tá tràng (Không xác định là cấp hay mạn, không xuất huyết hay thủng)",
+                "TEN_EN": "Duodenal ulcer (Unspecified as acute or chronic, without\nhaemorrhage or perforation)"
+              }
+            ]
+          },
+          {
+            "MA": "K27",
+            "TEN": "Loét dạ dày-tá tràng, vị trí không đặc hiệu",
+            "TEN_EN": "Peptic ulcer, site unspecified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K27.0",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp có xuất huyết)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Acute with haemorrhage)"
+              },
+              {
+                "MA": "K27.1",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp có thủng)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Acute with perforation)"
+              },
+              {
+                "MA": "K27.2",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp, cả xuất huyết và thủng)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Acute with both haemorrhage and perforation)"
+              },
+              {
+                "MA": "K27.3",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp không có xuất huyết hay thủng)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Acute without haemorrhage or perforation)"
+              },
+              {
+                "MA": "K27.4",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có xuất huyết)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Chronic or unspecified with haemorrhage)"
+              },
+              {
+                "MA": "K27.5",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có thủng)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Chronic or unspecified with perforation)"
+              },
+              {
+                "MA": "K27.6",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có xuất huyết hay thủng)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Chronic or unspecified with both haemorrhage\nand perforation)"
+              },
+              {
+                "MA": "K27.7",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn không có xuất huyết hay thủng)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Chronic without haemorrhage or perforation)"
+              },
+              {
+                "MA": "K27.9",
+                "TEN": "Loét dạ dày - tá tràng, vị trí không đặc hiệu (Không xác định là cấp hay mạn, không xuất huyết hay thủng)",
+                "TEN_EN": "Peptic ulcer, site unspecified (Unspecified as acute or chronic, without\nhaemorrhage or perforation)"
+              }
+            ]
+          },
+          {
+            "MA": "K28",
+            "TEN": "Loét dạ dày-hỗng tràng",
+            "TEN_EN": "Gastrojejunal ulcer",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K28.0",
+                "TEN": "Loét dạ dày - hỗng tràng (Cấp có xuất huyết)",
+                "TEN_EN": "Gastrojejunal ulcer (Acute with haemorrhage)"
+              },
+              {
+                "MA": "K28.1",
+                "TEN": "Loét dạ dày - hỗng tràng (Cấp có thủng)",
+                "TEN_EN": "Gastrojejunal ulcer (Acute with perforation)"
+              },
+              {
+                "MA": "K28.2",
+                "TEN": "Loét dạ dày - hỗng tràng (Cấp, cả xuất huyết và thủng)",
+                "TEN_EN": "Gastrojejunal ulcer (Acute with both haemorrhage and perforation)"
+              },
+              {
+                "MA": "K28.3",
+                "TEN": "Loét dạ dày - hỗng tràng (Cấp không có xuất huyết hay thủng)",
+                "TEN_EN": "Gastrojejunal ulcer (Acute without haemorrhage or perforation)"
+              },
+              {
+                "MA": "K28.4",
+                "TEN": "Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có xuất huyết)",
+                "TEN_EN": "Gastrojejunal ulcer (Chronic or unspecified with haemorrhage)"
+              },
+              {
+                "MA": "K28.5",
+                "TEN": "Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có thủng)",
+                "TEN_EN": "Gastrojejunal ulcer (Chronic or unspecified with perforation)"
+              },
+              {
+                "MA": "K28.6",
+                "TEN": "Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có xuất huyết hay thủng)",
+                "TEN_EN": "Gastrojejunal ulcer (Chronic or unspecified with both haemorrhage\nand perforation)"
+              },
+              {
+                "MA": "K28.7",
+                "TEN": "Loét dạ dày - hỗng tràng (Mạn không có xuất huyết hay thủng)",
+                "TEN_EN": "Gastrojejunal ulcer (Chronic without haemorrhage or perforation)"
+              },
+              {
+                "MA": "K28.9",
+                "TEN": "Loét dạ dày - hỗng tràng (Không xác định là cấp hay mạn, không xuất huyết hay thủng)",
+                "TEN_EN": "Gastrojejunal ulcer (Unspecified as acute or chronic, without\nhaemorrhage or perforation)"
+              }
+            ]
+          },
+          {
+            "MA": "K29",
+            "TEN": "Viêm dạ dày và tá tràng",
+            "TEN_EN": "Gastritis and duodenitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K29.0",
+                "TEN": "Viêm dạ dày xuất huyết cấp tính",
+                "TEN_EN": "Acute haemorrhagic gastritis"
+              },
+              {
+                "MA": "K29.1",
+                "TEN": "Viêm dạ dày cấp khác",
+                "TEN_EN": "Other acute gastritis"
+              },
+              {
+                "MA": "K29.2",
+                "TEN": "Viêm dạ dày do rượu",
+                "TEN_EN": "Alcoholic gastritis"
+              },
+              {
+                "MA": "K29.3",
+                "TEN": "Viêm nông niêm mạc dạ dày mãn tính",
+                "TEN_EN": "Chronic superficial gastritis"
+              },
+              {
+                "MA": "K29.4",
+                "TEN": "Viêm teo niêm mạc dạ dày mãn tính",
+                "TEN_EN": "Chronic atrophic gastritis"
+              },
+              {
+                "MA": "K29.5",
+                "TEN": "Viêm dạ dày mạn, không đặc hiệu",
+                "TEN_EN": "Chronic gastritis, unspecified"
+              },
+              {
+                "MA": "K29.6",
+                "TEN": "Viêm dạ dày khác",
+                "TEN_EN": "Other gastritis"
+              },
+              {
+                "MA": "K29.7",
+                "TEN": "Viêm dạ dày, không đặc hiệu",
+                "TEN_EN": "Gastritis, unspecified"
+              },
+              {
+                "MA": "K29.8",
+                "TEN": "Viêm tá tràng",
+                "TEN_EN": "Duodenitis"
+              },
+              {
+                "MA": "K29.9",
+                "TEN": "Viêm dạ dày tá tràng, không đặc hiệu",
+                "TEN_EN": "Gastroduodenitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K30",
+            "TEN": "Khó tiêu chức năng",
+            "TEN_EN": "Functional dyspepsia",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "K31",
+            "TEN": "Bệnh khác của dạ dày và tá tràng",
+            "TEN_EN": "Other diseases of stomach and duodenum",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K31.0",
+                "TEN": "Dãn dạ dày cấp",
+                "TEN_EN": "Acute dilatation of stomach"
+              },
+              {
+                "MA": "K31.1",
+                "TEN": "Hẹp môn vị do phì đại ở người lớn",
+                "TEN_EN": "Adult hypertrophic pyloric stenosis"
+              },
+              {
+                "MA": "K31.2",
+                "TEN": "Hẹp dạ dày và chít hẹp dạng đồng hồ cát",
+                "TEN_EN": "Hourglass stricture and stenosis of stomach"
+              },
+              {
+                "MA": "K31.3",
+                "TEN": "Co thắt môn vị, không phân loại nơi khác",
+                "TEN_EN": "Pylorospasm, not elsewhere classified"
+              },
+              {
+                "MA": "K31.4",
+                "TEN": "Túi thừa dạ dày",
+                "TEN_EN": "Gastric diverticulum"
+              },
+              {
+                "MA": "K31.5",
+                "TEN": "Tắc tá tràng",
+                "TEN_EN": "Obstruction of duodenum"
+              },
+              {
+                "MA": "K31.6",
+                "TEN": "Dò dạ dày và tá tràng",
+                "TEN_EN": "Fistula of stomach and duodenum"
+              },
+              {
+                "MA": "K31.7",
+                "TEN": "Polyp dạ dày và tá tràng",
+                "TEN_EN": "Polyp of stomach and duodenum"
+              },
+              {
+                "MA": "K31.8",
+                "TEN": "Bệnh dạ dày và tá tràng đặc hiệu khác",
+                "TEN_EN": "Other specified diseases of stomach and duodenum"
+              },
+              {
+                "MA": "K31.9",
+                "TEN": "Bệnh dạ dày và tá tràng, không đặc hiệu",
+                "TEN_EN": "Disease of stomach and duodenum, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K35-K38",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh ruột thừa",
-        "TEN_EN": "Diseases of appendix"
+        "TEN_EN": "Diseases of appendix",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K35",
+            "TEN": "Viêm ruột thừa cấp",
+            "TEN_EN": "Acute appendicitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K35.0",
+                "TEN": "Viêm ruột thừa với viêm phúc mạc toàn bộ",
+                "TEN_EN": "Acute appendicitis with generalized peritonitis"
+              },
+              {
+                "MA": "K35.1",
+                "TEN": "Viêm ruột thừa cấp với áp xe phúc mạc",
+                "TEN_EN": "Acute appendicitis with peritoneal abscess"
+              },
+              {
+                "MA": "K35.2",
+                "TEN": "Viêm ruột thừa cấp tính kèm viêm phúc mạc toàn bộ",
+                "TEN_EN": "Acute appendicitis with generalized peritonitis"
+              },
+              {
+                "MA": "K35.3",
+                "TEN": "Viêm ruột thừa cấp tính kèm viêm phúc mạc khu trú",
+                "TEN_EN": "Acute appendicitis with localized peritonitis"
+              },
+              {
+                "MA": "K35.8",
+                "TEN": "Viêm ruột thừa cấp tính, khác và không đặc hiệu",
+                "TEN_EN": "Acute appendicitis, other and unspecified"
+              },
+              {
+                "MA": "K35.9",
+                "TEN": "Viêm ruột thừa cấp - không đặc hiệu",
+                "TEN_EN": "Acute appendicitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K36",
+            "TEN": "Viêm ruột thừa khác",
+            "TEN_EN": "Other appendicitis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "K37",
+            "TEN": "Viêm ruột thừa không đặc hiệu",
+            "TEN_EN": "Unspecified appendicitis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "K38",
+            "TEN": "Bệnh khác của ruột thừa",
+            "TEN_EN": "Other diseases of appendix",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K38.0",
+                "TEN": "Tăng sản ở ruột thừa",
+                "TEN_EN": "Hyperplasia of appendix"
+              },
+              {
+                "MA": "K38.1",
+                "TEN": "Sỏi ở ruột thừa",
+                "TEN_EN": "Appendicular concretions"
+              },
+              {
+                "MA": "K38.2",
+                "TEN": "Túi thừa của ruột thừa",
+                "TEN_EN": "Diverticulum of appendix"
+              },
+              {
+                "MA": "K38.3",
+                "TEN": "Dò ruột thừa",
+                "TEN_EN": "Fistula of appendix"
+              },
+              {
+                "MA": "K38.8",
+                "TEN": "Bệnh ruột thừa đặc hiệu khác",
+                "TEN_EN": "Other specified diseases of appendix"
+              },
+              {
+                "MA": "K38.9",
+                "TEN": "Bệnh ruột thừa, không đặc hiệu",
+                "TEN_EN": "Disease of appendix, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K40-K46",
         "MA_TRONG_CHUONG": "",
         "TEN": "Thoát vị",
-        "TEN_EN": "Hernia"
+        "TEN_EN": "Hernia",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K40",
+            "TEN": "Thoát vị bẹn",
+            "TEN_EN": "Inguinal hernia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K40.0",
+                "TEN": "Thoát vị bẹn hai bên, có tắc, không hoại tử",
+                "TEN_EN": "Bilateral inguinal hernia, with obstruction, without gangrene"
+              },
+              {
+                "MA": "K40.1",
+                "TEN": "Thoát vị bẹn hai bên, có hoại tử",
+                "TEN_EN": "Bilateral inguinal hernia, with gangrene"
+              },
+              {
+                "MA": "K40.2",
+                "TEN": "Thoát vị bẹn hai bên, không tắc hay hoại thư",
+                "TEN_EN": "Bilateral inguinal hernia, without obstruction or gangrene"
+              },
+              {
+                "MA": "K40.3",
+                "TEN": "Thoát vị bẹn một bên hay không đặc hiệu, có tắc, không hoại tử",
+                "TEN_EN": "Unilateral or unspecified inguinal hernia, with obstruction, without gangrene"
+              },
+              {
+                "MA": "K40.4",
+                "TEN": "Thoát vị bẹn một bên hay không đặc hiệu, có hoại tử",
+                "TEN_EN": "Unilateral or unspecified inguinal hernia, with gangrene"
+              },
+              {
+                "MA": "K40.9",
+                "TEN": "Thoát vị bẹn một bên hay không đặc hiệu, không tắc hay hoại tử",
+                "TEN_EN": "Unilateral or unspecified inguinal hernia, without obstruction or gangrene"
+              }
+            ]
+          },
+          {
+            "MA": "K41",
+            "TEN": "Thoát vị đùi",
+            "TEN_EN": "Femoral hernia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K41.0",
+                "TEN": "Thoát vị đùi hai bên, có tắc, không hoại tử",
+                "TEN_EN": "Bilateral femoral hernia, with obstruction, without gangrene"
+              },
+              {
+                "MA": "K41.1",
+                "TEN": "Thoát vị đùi hai bên, có hoại tử",
+                "TEN_EN": "Bilateral femoral hernia, with gangrene"
+              },
+              {
+                "MA": "K41.2",
+                "TEN": "Thoát vị đùi hai bên, không tắc hay hoại tử",
+                "TEN_EN": "Bilateral femoral hernia, without obstruction or gangrene"
+              },
+              {
+                "MA": "K41.3",
+                "TEN": "Thoát vị đùi một bên hay không đặc hiệu, có tắc, không hoại tử",
+                "TEN_EN": "Unilateral or unspecified femoral hernia, with obstruction, without gangrene"
+              },
+              {
+                "MA": "K41.4",
+                "TEN": "Thoát vị đùi một bên hay không đặc hiệu, có hoại tử",
+                "TEN_EN": "Unilateral or unspecified femoral hernia, with gangrene"
+              },
+              {
+                "MA": "K41.9",
+                "TEN": "Thoát vị đùi một bên hay không đặc hiệu, không tắc hay hoại tử",
+                "TEN_EN": "Unilateral or unspecified femoral hernia, without obstruction or gangrene"
+              }
+            ]
+          },
+          {
+            "MA": "K42",
+            "TEN": "Thoát vị rốn",
+            "TEN_EN": "Umbilical hernia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K42.0",
+                "TEN": "Thoát vị rốn có tắc, không hoại tử",
+                "TEN_EN": "Umbilical hernia with obstruction, without gangrene"
+              },
+              {
+                "MA": "K42.1",
+                "TEN": "Thoát vị rốn có hoại tử",
+                "TEN_EN": "Umbilical hernia with gangrene"
+              },
+              {
+                "MA": "K42.9",
+                "TEN": "Thoát vị rốn, không tắc hay hoại tử",
+                "TEN_EN": "Umbilical hernia without obstruction or gangrene"
+              }
+            ]
+          },
+          {
+            "MA": "K43",
+            "TEN": "Thoát vị bụng",
+            "TEN_EN": "Ventral hernia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K43.0",
+                "TEN": "Thoát vị qua đường mổ có tắc nghẽn, không hoại thư",
+                "TEN_EN": "Ventral hernia with obstruction, without gangrene"
+              },
+              {
+                "MA": "K43.1",
+                "TEN": "Thoát vị qua đường mổ có hoại thư",
+                "TEN_EN": "Ventral hernia with gangrene"
+              },
+              {
+                "MA": "K43.2",
+                "TEN": "Thoát vị qua đường mổ không tắc hoặc hoại thư",
+                "TEN_EN": "Incisional hernia without obstruction or gangrene"
+              },
+              {
+                "MA": "K43.3",
+                "TEN": "Thoát vị cạnh miệng nối có tắc, không hoại thư",
+                "TEN_EN": "Parastomal hernia with obstruction, without gangrene"
+              },
+              {
+                "MA": "K43.4",
+                "TEN": "Thoát vị cạnh miệng nối có hoại thư",
+                "TEN_EN": "Parastomal hernia with gangrene"
+              },
+              {
+                "MA": "K43.5",
+                "TEN": "Thoát vị cạnh miệng nối không tắc hay hoại thư",
+                "TEN_EN": "Parastomal hernia without obstruction or gangrene"
+              },
+              {
+                "MA": "K43.6",
+                "TEN": "Thoát vị bụng khác và không xác định có tắc nghẽn, không hoại thư",
+                "TEN_EN": "Other and unspecified ventral hernia with obstruction, without gangrene"
+              },
+              {
+                "MA": "K43.7",
+                "TEN": "Thoát vị bụng khác và không xác định có hoại thư",
+                "TEN_EN": "Other and unspecified ventral hernia with gangrene"
+              },
+              {
+                "MA": "K43.9",
+                "TEN": "Thoát vị bụng khác và không đặc hiệu không tắc hay hoại thư",
+                "TEN_EN": "Ventral hernia without obstruction or gangrene"
+              }
+            ]
+          },
+          {
+            "MA": "K44",
+            "TEN": "Thoát vị hoành",
+            "TEN_EN": "Diaphragmatic hernia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K44.0",
+                "TEN": "Thoát vị hoành có tắc, không hoại tử",
+                "TEN_EN": "Diaphragmatic hernia with obstruction, without gangrene"
+              },
+              {
+                "MA": "K44.1",
+                "TEN": "Thoát vị hoành có hoại tử",
+                "TEN_EN": "Diaphragmatic hernia with gangrene"
+              },
+              {
+                "MA": "K44.9",
+                "TEN": "Thoát vị hoành, không tắc hay hoại tử",
+                "TEN_EN": "Diaphragmatic hernia without obstruction or gangrene"
+              }
+            ]
+          },
+          {
+            "MA": "K45",
+            "TEN": "Thoát vị bụng khác",
+            "TEN_EN": "Other abdominal hernia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K45.0",
+                "TEN": "Thoát vị bụng xác định khác có tắc, không hoại thư",
+                "TEN_EN": "Other specified abdominal hernia with obstruction, without gangrene"
+              },
+              {
+                "MA": "K45.1",
+                "TEN": "Thoát vị bụng đặc hiệu khác, có hoại tử",
+                "TEN_EN": "Other specified abdominal hernia with gangrene"
+              },
+              {
+                "MA": "K45.8",
+                "TEN": "Thoát vị bụng đặc hiệu khác, không tắc hay hoại tử",
+                "TEN_EN": "Other specified abdominal hernia without obstruction or gangrene"
+              }
+            ]
+          },
+          {
+            "MA": "K46",
+            "TEN": "Thoát vị bụng không đặc hiệu",
+            "TEN_EN": "Unspecified abdominal hernia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K46.0",
+                "TEN": "Thoát vị bụng không đặc hiệu có tắc, không hoại tử",
+                "TEN_EN": "Unspecified abdominal hernia with obstruction, without gangrene"
+              },
+              {
+                "MA": "K46.1",
+                "TEN": "Thoát vị bụng không đặc hiệu, có hoại tử",
+                "TEN_EN": "Unspecified abdominal hernia with gangrene"
+              },
+              {
+                "MA": "K46.9",
+                "TEN": "Thoát vị bụng không đặc hiệu, không tắc hay hoại tử",
+                "TEN_EN": "Unspecified abdominal hernia without obstruction or gangrene"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K50-K52",
         "MA_TRONG_CHUONG": "",
         "TEN": "Viêm ruột non và đại tràng không do nhiễm trùng",
-        "TEN_EN": "Noninfective enteritis and colitis"
+        "TEN_EN": "Noninfective enteritis and colitis",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K50",
+            "TEN": "Bệnh Crohn (viêm ruột từng vùng)",
+            "TEN_EN": "Crohn s disease [regional enteritis]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K50.0",
+                "TEN": "Bệnh Crohn của ruột non",
+                "TEN_EN": "Crohn s disease of small intestine"
+              },
+              {
+                "MA": "K50.1",
+                "TEN": "Bênh Crohn của đại tràng",
+                "TEN_EN": "Crohn s disease of large intestine"
+              },
+              {
+                "MA": "K50.8",
+                "TEN": "Bệnh Crohn khác",
+                "TEN_EN": "Other Crohn s disease"
+              },
+              {
+                "MA": "K50.9",
+                "TEN": "Bệnh Crohn không đặc hiệu",
+                "TEN_EN": "Crohn s disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K51",
+            "TEN": "Viêm loét đại tràng chảy máu",
+            "TEN_EN": "Ulcerative colitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K51.0",
+                "TEN": "Viêm loét toàn ruột (mãn tính)",
+                "TEN_EN": "Ulcerative (chronic) enterocolitis"
+              },
+              {
+                "MA": "K51.1",
+                "TEN": "Viêm loét hồi - đại tràng(mãn)",
+                "TEN_EN": "Ulcerative (chronic) ileocolitis"
+              },
+              {
+                "MA": "K51.2",
+                "TEN": "Viêm loét trực tràng chảy máu (mạn)",
+                "TEN_EN": "Ulcerative (chronic) proctitis"
+              },
+              {
+                "MA": "K51.3",
+                "TEN": "Viêm loét đại tràng sigma - trực tràng chảy máu (mạn)",
+                "TEN_EN": "Ulcerative (chronic) rectosigmoiditis"
+              },
+              {
+                "MA": "K51.4",
+                "TEN": "Nhiều polyp viêm",
+                "TEN_EN": "Pseudopolyposis of colon"
+              },
+              {
+                "MA": "K51.5",
+                "TEN": "Viêm loét đại tràng chảy máu nửa đại tràng trái ",
+                "TEN_EN": "Mucosal proctocolitis"
+              },
+              {
+                "MA": "K51.8",
+                "TEN": "Viêm loét đại tràng chảy máu phần khác",
+                "TEN_EN": "Other ulcerative colitis"
+              },
+              {
+                "MA": "K51.9",
+                "TEN": "Viêm loét đại tràng chảy máu, không đặc hiệu",
+                "TEN_EN": "Ulcerative colitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K52",
+            "TEN": "Viêm dạ dày-ruột và viêm đại tràng khác không nhiễm trùng khác",
+            "TEN_EN": "Other noninfective gastroenteritis and colitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K52.0",
+                "TEN": "Viêm dạ dày - ruột và đại tràng do tia xạ",
+                "TEN_EN": "Gastroenteritis and colitis due to radiation"
+              },
+              {
+                "MA": "K52.1",
+                "TEN": "Viêm dạ dày - ruột và đại tràng do nhiễm độc",
+                "TEN_EN": "Toxic gastroenteritis and colitis"
+              },
+              {
+                "MA": "K52.2",
+                "TEN": "Viêm dạ dày - ruột và đại tràng do dị ứng và thức ăn",
+                "TEN_EN": "Allergic and dietetic gastroenteritis and colitis"
+              },
+              {
+                "MA": "K52.3",
+                "TEN": "Viêm đại tràng không xác định",
+                "TEN_EN": "Indeterminate colitis"
+              },
+              {
+                "MA": "K52.8",
+                "TEN": "Viêm dạ dày - ruột và đại tràng đặc hiệu khác không do nhiễm trùng",
+                "TEN_EN": "Other specified noninfective gastroenteritis and colitis"
+              },
+              {
+                "MA": "K52.9",
+                "TEN": "Viêm dạ dày - ruột và đại tràng không nhiễm trùng, không đặc hiệu",
+                "TEN_EN": "Noninfective gastroenteritis and colitis, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K55-K64",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh đường ruột khác",
-        "TEN_EN": "Other diseases of intestines"
+        "TEN_EN": "Other diseases of intestines",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K55",
+            "TEN": "Rối loạn mạch máu của ruột",
+            "TEN_EN": "Vascular disorders of intestine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K55.0",
+                "TEN": "Rối loạn mạch máu ruột cấp tính",
+                "TEN_EN": "Acute vascular disorders of intestine"
+              },
+              {
+                "MA": "K55.1",
+                "TEN": "Rối loạn mạch máu ruột mạn",
+                "TEN_EN": "Chronic vascular disorders of intestine"
+              },
+              {
+                "MA": "K55.2",
+                "TEN": "Loạn sản mạch máu đại tràng",
+                "TEN_EN": "Angiodysplasia of colon"
+              },
+              {
+                "MA": "K55.8",
+                "TEN": "Rối loạn mạch máu khác của ruột",
+                "TEN_EN": "Other vascular disorders of intestine"
+              },
+              {
+                "MA": "K55.9",
+                "TEN": "Rối loạn mạch máu ở ruột, không đặc hiệu",
+                "TEN_EN": "Vascular disorder of intestine, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K56",
+            "TEN": "Liệt ruột và tắc ruột không có thoát vị",
+            "TEN_EN": "Paralytic ileus and intestinal obstruction without hernia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K56.0",
+                "TEN": "Liệt ruột",
+                "TEN_EN": "Paralytic ileus"
+              },
+              {
+                "MA": "K56.1",
+                "TEN": "Lồng ruột",
+                "TEN_EN": "Intussusception"
+              },
+              {
+                "MA": "K56.2",
+                "TEN": "Xoắn ruột",
+                "TEN_EN": "Volvulus"
+              },
+              {
+                "MA": "K56.3",
+                "TEN": "Liệt ruột do sỏi",
+                "TEN_EN": "Gallstone ileus"
+              },
+              {
+                "MA": "K56.4",
+                "TEN": "Nghẹt ruột khác",
+                "TEN_EN": "Other impaction of intestine"
+              },
+              {
+                "MA": "K56.5",
+                "TEN": "Dính ruột [thành dải] có tắc nghẽn",
+                "TEN_EN": "Intestinal adhesions [bands] with obstruction"
+              },
+              {
+                "MA": "K56.6",
+                "TEN": "Tắc ruột khác và không xác định",
+                "TEN_EN": "Other and unspecified intestinal obstruction"
+              },
+              {
+                "MA": "K56.7",
+                "TEN": "Liệt ruột, không đặc hiệu",
+                "TEN_EN": "Ileus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K57",
+            "TEN": "Bệnh túi thừa của ruột",
+            "TEN_EN": "Diverticular disease of intestine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K57.0",
+                "TEN": "Bệnh túi thừa của ruột non, có thủng và áp xe",
+                "TEN_EN": "Diverticular disease of small intestine with perforation and abscess"
+              },
+              {
+                "MA": "K57.1",
+                "TEN": "Bệnh túi thừa của ruột non, không thủng hay áp xe",
+                "TEN_EN": "Diverticular disease of small intestine without perforation or abscess"
+              },
+              {
+                "MA": "K57.2",
+                "TEN": "Bệnh túi thừa của đại tràng, có thủng và áp xe",
+                "TEN_EN": "Diverticular disease of large intestine with perforation and abscess"
+              },
+              {
+                "MA": "K57.3",
+                "TEN": "Bệnh túi thừa của đại tràng, không thủng hay áp xe",
+                "TEN_EN": "Diverticular disease of large intestine without perforation or abscess"
+              },
+              {
+                "MA": "K57.4",
+                "TEN": "Bệnh túi thừa của ruột non và đại tràng, có thủng và áp xe",
+                "TEN_EN": "Diverticular disease of both small and large intestine with perforation and abscess"
+              },
+              {
+                "MA": "K57.5",
+                "TEN": "Bệnh túi thừa của cả ruột non và đại tràng, không thủng hay áp xe",
+                "TEN_EN": "Diverticular disease of both small and large intestine without perforation or abscess"
+              },
+              {
+                "MA": "K57.8",
+                "TEN": "Bệnh túi thừa của ruột, vị trí không xác định, có thủng và áp xe",
+                "TEN_EN": "Diverticular disease of intestine, part unspecified, with perforation and abscess"
+              },
+              {
+                "MA": "K57.9",
+                "TEN": "Bệnh túi thừa của ruột, vị trí không xác định, không thủng hay áp xe",
+                "TEN_EN": "Diverticular disease of intestine, part unspecified, without perforation or abscess"
+              }
+            ]
+          },
+          {
+            "MA": "K58",
+            "TEN": "Hội chứng ruột kích thích",
+            "TEN_EN": "Irritable bowel syndrome",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K58.0",
+                "TEN": "Hội chứng ruột kích thích, có tiêu chảy",
+                "TEN_EN": "Irritable bowel syndrome with diarrhoea"
+              },
+              {
+                "MA": "K58.9",
+                "TEN": "Hội chứng ruột kích thích, không tiêu chảy",
+                "TEN_EN": "Irritable bowel syndrome without diarrhoea"
+              }
+            ]
+          },
+          {
+            "MA": "K59",
+            "TEN": "Rối loạn chức năng khác của ruột",
+            "TEN_EN": "Other functional intestinal disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K59.0",
+                "TEN": "Táo bón",
+                "TEN_EN": "Constipation"
+              },
+              {
+                "MA": "K59.1",
+                "TEN": "Tiêu chảy rối loạn chức năng",
+                "TEN_EN": "Functional diarrhoea"
+              },
+              {
+                "MA": "K59.2",
+                "TEN": "Rối loạn ruột do nguyên nhân thần kinh, không phân loại nơi khác",
+                "TEN_EN": "Neurogenic bowel, not elsewhere classified"
+              },
+              {
+                "MA": "K59.3",
+                "TEN": "Phình đại tràng, không phần loại nơi khác",
+                "TEN_EN": "Megacolon, not elsewhere classified"
+              },
+              {
+                "MA": "K59.4",
+                "TEN": "Co thắt hậu môn",
+                "TEN_EN": "Anal spasm"
+              },
+              {
+                "MA": "K59.8",
+                "TEN": "Rối loạn chức năng đặc hiệu khác",
+                "TEN_EN": "Other specified functional intestinal disorders"
+              },
+              {
+                "MA": "K59.9",
+                "TEN": "Rối loạn ruột chức năng, không đặc hiệu",
+                "TEN_EN": "Functional intestinal disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K60",
+            "TEN": "rò vùng hậu môn và trực tràng",
+            "TEN_EN": "Fissure and fistula of anal and rectal regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K60.0",
+                "TEN": "Nứt kẽ hậu môn cấp",
+                "TEN_EN": "Acute anal fissure"
+              },
+              {
+                "MA": "K60.1",
+                "TEN": "Nứt kẽ hậu môn mạn",
+                "TEN_EN": "Chronic anal fissure"
+              },
+              {
+                "MA": "K60.2",
+                "TEN": "Nứt ống hậu môn, không đặc hiệu",
+                "TEN_EN": "Anal fissure, unspecified"
+              },
+              {
+                "MA": "K60.3",
+                "TEN": "Rò hậu môn",
+                "TEN_EN": "Anal fistula"
+              },
+              {
+                "MA": "K60.4",
+                "TEN": "Rò trực tràng",
+                "TEN_EN": "Rectal fistula"
+              },
+              {
+                "MA": "K60.5",
+                "TEN": "Rò hậu môn trực tràng",
+                "TEN_EN": "Anorectal fistula"
+              }
+            ]
+          },
+          {
+            "MA": "K61",
+            "TEN": "áp xe vùng hậu môn - trực tràng",
+            "TEN_EN": "Abscess of anal and rectal regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K61.0",
+                "TEN": "áp xe hậu môn",
+                "TEN_EN": "Anal abscess"
+              },
+              {
+                "MA": "K61.1",
+                "TEN": "áp xe trực tràng",
+                "TEN_EN": "Rectal abscess"
+              },
+              {
+                "MA": "K61.2",
+                "TEN": "áp xe hậu môn trực tràng",
+                "TEN_EN": "Anorectal abscess"
+              },
+              {
+                "MA": "K61.3",
+                "TEN": "áp xe ụ ngồi - trực tràng",
+                "TEN_EN": "Ischiorectal abscess"
+              },
+              {
+                "MA": "K61.4",
+                "TEN": "Áp xe trong cơ thắt hậu môn",
+                "TEN_EN": "Intrasphincteric abscess"
+              }
+            ]
+          },
+          {
+            "MA": "K62",
+            "TEN": "Bệnh khác của hậu môn và trực tràng",
+            "TEN_EN": "Other diseases of anus and rectum",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K62.0",
+                "TEN": "Polip hậu môn",
+                "TEN_EN": "Anal polyp"
+              },
+              {
+                "MA": "K62.1",
+                "TEN": "Polip trực tràng",
+                "TEN_EN": "Rectal polyp"
+              },
+              {
+                "MA": "K62.2",
+                "TEN": "Sa hậu môn",
+                "TEN_EN": "Anal prolapse"
+              },
+              {
+                "MA": "K62.3",
+                "TEN": "Sa trực tràng",
+                "TEN_EN": "Rectal prolapse"
+              },
+              {
+                "MA": "K62.4",
+                "TEN": "Hẹp trực tràng và ống hậu môn",
+                "TEN_EN": "Stenosis of anus and rectum"
+              },
+              {
+                "MA": "K62.5",
+                "TEN": "Xuất huyết hậu môn và trực tràng",
+                "TEN_EN": "Haemorrhage of anus and rectum"
+              },
+              {
+                "MA": "K62.6",
+                "TEN": "Loét hậu môn và trực tràng",
+                "TEN_EN": "Ulcer of anus and rectum"
+              },
+              {
+                "MA": "K62.7",
+                "TEN": "Viêm trực tràng do tia xạ",
+                "TEN_EN": "Radiation proctitis"
+              },
+              {
+                "MA": "K62.8",
+                "TEN": "Bệnh đặc hiệu khác của hậu môn và trực tràng",
+                "TEN_EN": "Other specified diseases of anus and rectum"
+              },
+              {
+                "MA": "K62.9",
+                "TEN": "Bệnh hậu môn và trực tràng, không đặc hiệu",
+                "TEN_EN": "Disease of anus and rectum, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K63",
+            "TEN": "Bệnh khác của ruột",
+            "TEN_EN": "Other diseases of intestine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K63.0",
+                "TEN": "áp xe ruột",
+                "TEN_EN": "Abscess of intestine"
+              },
+              {
+                "MA": "K63.1",
+                "TEN": "Thủng ruột (không có chấn thương)",
+                "TEN_EN": "Perforation of intestine (nontraumatic)"
+              },
+              {
+                "MA": "K63.2",
+                "TEN": "Rò ruột",
+                "TEN_EN": "Fistula of intestine"
+              },
+              {
+                "MA": "K63.3",
+                "TEN": "Loét ruột",
+                "TEN_EN": "Ulcer of intestine"
+              },
+              {
+                "MA": "K63.4",
+                "TEN": "Sa ruột",
+                "TEN_EN": "Enteroptosis"
+              },
+              {
+                "MA": "K63.5",
+                "TEN": "Polyp đại tràng",
+                "TEN_EN": "Polyp of colon"
+              },
+              {
+                "MA": "K63.8",
+                "TEN": "Bệnh đặc hiệu khác của ruột",
+                "TEN_EN": "Other specified diseases of intestine"
+              },
+              {
+                "MA": "K63.9",
+                "TEN": "Bệnh ruột, không đặc hiệu",
+                "TEN_EN": "Disease of intestine, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K64",
+            "TEN": "Trĩ và huyết khối tĩnh mạch qua hậu môn",
+            "TEN_EN": "Other diseases of intestine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K64.0",
+                "TEN": "Trĩ độ I",
+                "TEN_EN": "First degree haemorrhoids"
+              },
+              {
+                "MA": "K64.1",
+                "TEN": "Trĩ độ II",
+                "TEN_EN": "Second degree haemorrhoids"
+              },
+              {
+                "MA": "K64.2",
+                "TEN": "Trĩ độ III",
+                "TEN_EN": "Third degree haemorrhoids"
+              },
+              {
+                "MA": "K64.3",
+                "TEN": "Trĩ độ IV",
+                "TEN_EN": "Fourth degree haemorrhoids"
+              },
+              {
+                "MA": "K64.4",
+                "TEN": "Dãn da do trĩ sót lại",
+                "TEN_EN": "Residual haemorrhoidal skin tags\n"
+              },
+              {
+                "MA": "K64.5",
+                "TEN": "Huyết khối tĩnh mạch quanh hậu môn",
+                "TEN_EN": "Perianal venous thrombosis"
+              },
+              {
+                "MA": "K64.8",
+                "TEN": "Trĩ xác định khác",
+                "TEN_EN": "Other specified haemorrhoids"
+              },
+              {
+                "MA": "K64.9",
+                "TEN": "Trĩ, không đặc hiệu",
+                "TEN_EN": "Haemorrhoids, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K65-K67",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của phúc mạc",
-        "TEN_EN": "Diseases of peritoneum"
+        "TEN_EN": "Diseases of peritoneum",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K65",
+            "TEN": "Viêm phúc mạc",
+            "TEN_EN": "Peritonitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K65.0",
+                "TEN": "Viêm phúc mạc cấp",
+                "TEN_EN": "Acute peritonitis"
+              },
+              {
+                "MA": "K65.8",
+                "TEN": "Viêm phúc mạc khác",
+                "TEN_EN": "Other peritonitis"
+              },
+              {
+                "MA": "K65.9",
+                "TEN": "Viêm phúc mạc, không đặc hiệu",
+                "TEN_EN": "Peritonitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K66",
+            "TEN": "Rối loạn khác của phúc mạc",
+            "TEN_EN": "Other disorders of peritoneum",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K66.0",
+                "TEN": "Dính phúc mạc",
+                "TEN_EN": "Peritoneal adhesions"
+              },
+              {
+                "MA": "K66.1",
+                "TEN": "Cổ trướng máu",
+                "TEN_EN": "Haemoperitoneum"
+              },
+              {
+                "MA": "K66.8",
+                "TEN": "Rối loạn đặc hiệu khác của phúc mạc",
+                "TEN_EN": "Other specified disorders of peritoneum"
+              },
+              {
+                "MA": "K66.9",
+                "TEN": "Rối loạn của phúc mạc, không đặc hiệu",
+                "TEN_EN": "Disorder of peritoneum, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K67",
+            "TEN": "Rối loạn của phúc mạc trong bệnh nhiễm trùng phân loại nơi khác",
+            "TEN_EN": "Disorders of peritoneum in infectious diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K67*",
+                "TEN": "Rối loạn của phúc mạc trong bệnh nhiễm trùng phân loại nơi khác",
+                "TEN_EN": "Disorders of peritoneum in infectious diseases classified elsewhere"
+              },
+              {
+                "MA": "K67.0*",
+                "TEN": "Viêm phúc mạc do Chlamydia (A74.8†)",
+                "TEN_EN": "Chlamydial peritonitis (A74.8†)"
+              },
+              {
+                "MA": "K67.1*",
+                "TEN": "Viêm phúc mạc do lậu cầu (A54.8†)",
+                "TEN_EN": "Gonococcal peritonitis (A54.8†)"
+              },
+              {
+                "MA": "K67.2*",
+                "TEN": "Viêm phúc mạc do giang mai (A52.7†)",
+                "TEN_EN": "Syphilitic peritonitis (A52.7†)"
+              },
+              {
+                "MA": "K67.3*",
+                "TEN": "Viêm phúc mạc do lao (A18.3†)",
+                "TEN_EN": "Tuberculous peritonitis (A18.3†)"
+              },
+              {
+                "MA": "K67.8*",
+                "TEN": "Các rối loạn khác của phúc mạc trong nhiễm trùng đã phân loại nơi khác",
+                "TEN_EN": "Other disorders of peritoneum in infectious diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K70-K77",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của gan",
-        "TEN_EN": "Diseases of liver"
+        "TEN_EN": "Diseases of liver",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K70",
+            "TEN": "Bệnh gan do rượu",
+            "TEN_EN": "Alcoholic liver disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K70.0",
+                "TEN": "Gan nhiễm mỡ do rượu",
+                "TEN_EN": "Alcoholic fatty liver"
+              },
+              {
+                "MA": "K70.1",
+                "TEN": "Viêm gan do rượu",
+                "TEN_EN": "Alcoholic hepatitis"
+              },
+              {
+                "MA": "K70.2",
+                "TEN": "Bệnh xơ hóa gan do rượu",
+                "TEN_EN": "Alcoholic fibrosis and sclerosis of liver"
+              },
+              {
+                "MA": "K70.3",
+                "TEN": "Xơ gan do rượu",
+                "TEN_EN": "Alcoholic cirrhosis of liver"
+              },
+              {
+                "MA": "K70.4",
+                "TEN": "Suy gan do rượu",
+                "TEN_EN": "Alcoholic hepatic failure"
+              },
+              {
+                "MA": "K70.9",
+                "TEN": "Bệnh gan do rượu, không đặc hiệu",
+                "TEN_EN": "Alcoholic liver disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K71",
+            "TEN": "Bệnh gan do độc chất",
+            "TEN_EN": "Toxic liver disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K71.0",
+                "TEN": "Bệnh gan nhiễm độc, có ứ mật",
+                "TEN_EN": "Toxic liver disease with cholestasis"
+              },
+              {
+                "MA": "K71.1",
+                "TEN": "Bệnh gan nhiễm độc có hoại tử gan",
+                "TEN_EN": "Toxic liver disease with hepatic necrosis"
+              },
+              {
+                "MA": "K71.2",
+                "TEN": "Bệnh gan nhiễm độc có viêm gan cấp",
+                "TEN_EN": "Toxic liver disease with acute hepatitis"
+              },
+              {
+                "MA": "K71.3",
+                "TEN": "Bệnh gan nhiễm độc có viêm gan mạn dai dẳng",
+                "TEN_EN": "Toxic liver disease with chronic persistent hepatitis"
+              },
+              {
+                "MA": "K71.4",
+                "TEN": "Bệnh gan nhiễm độc có viêm tiểu thùy gan mạn",
+                "TEN_EN": "Toxic liver disease with chronic lobular hepatitis"
+              },
+              {
+                "MA": "K71.5",
+                "TEN": "Bệnh gan nhiễm độc có viêm gan mạn hoạt động",
+                "TEN_EN": "Toxic liver disease with chronic active hepatitis"
+              },
+              {
+                "MA": "K71.6",
+                "TEN": "Bệnh gan nhiễm độc có viêm gan, không phân loại nơi khác",
+                "TEN_EN": "Toxic liver disease with hepatitis, not elsewhere classified"
+              },
+              {
+                "MA": "K71.7",
+                "TEN": "Bệnh gan nhiễm độc có xơ hóa và xơ gan",
+                "TEN_EN": "Toxic liver disease with fibrosis and cirrhosis of liver"
+              },
+              {
+                "MA": "K71.8",
+                "TEN": "Bệnh gan nhiễm độc có rối loạn khác của gan",
+                "TEN_EN": "Toxic liver disease with other disorders of liver"
+              },
+              {
+                "MA": "K71.9",
+                "TEN": "Bệnh gan nhiễm độc, không đặc hiệu",
+                "TEN_EN": "Toxic liver disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K72",
+            "TEN": "Suy gan, không phân loại nơi khác",
+            "TEN_EN": "Hepatic failure, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K72.0",
+                "TEN": "Suy gan cấp và bán cấp",
+                "TEN_EN": "Acute and subacute hepatic failure"
+              },
+              {
+                "MA": "K72.1",
+                "TEN": "Suy gan mãn",
+                "TEN_EN": "Chronic hepatic failure"
+              },
+              {
+                "MA": "K72.9",
+                "TEN": "Suy gan, không đặc hiệu",
+                "TEN_EN": "Hepatic failure, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K73",
+            "TEN": "Viêm gan mãn, không phân loại nơi khác",
+            "TEN_EN": "Chronic hepatitis, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K73.0",
+                "TEN": "Viêm gan mãn trường diễn, không phân loại nơi khác",
+                "TEN_EN": "Chronic persistent hepatitis, not elsewhere classified"
+              },
+              {
+                "MA": "K73.1",
+                "TEN": "Viêm tiểu thuỳ gan mạn, không phân loại nơi khác",
+                "TEN_EN": "Chronic lobular hepatitis, not elsewhere classified"
+              },
+              {
+                "MA": "K73.2",
+                "TEN": "Viêm gan mãn hoạt động, không phân loại nơi khác",
+                "TEN_EN": "Chronic active hepatitis, not elsewhere classified"
+              },
+              {
+                "MA": "K73.8",
+                "TEN": "Viêm gan mãn khác, không phân loại nơi khác",
+                "TEN_EN": "Other chronic hepatitis, not elsewhere classified"
+              },
+              {
+                "MA": "K73.9",
+                "TEN": "Viêm gan mạn, không đặc hiệu",
+                "TEN_EN": "Chronic hepatitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K74",
+            "TEN": "Gan xơ hóa và xơ gan",
+            "TEN_EN": "Fibrosis and cirrhosis of liver",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K74.0",
+                "TEN": "Gan xơ hóa",
+                "TEN_EN": "Hepatic fibrosis"
+              },
+              {
+                "MA": "K74.1",
+                "TEN": "Gan xơ cứng",
+                "TEN_EN": "Hepatic sclerosis"
+              },
+              {
+                "MA": "K74.2",
+                "TEN": "Gan xơ hóa với gan xơ cứng",
+                "TEN_EN": "Hepatic fibrosis with hepatic sclerosis"
+              },
+              {
+                "MA": "K74.3",
+                "TEN": "Xơ gan mật tiên phát",
+                "TEN_EN": "Primary biliary cirrhosis"
+              },
+              {
+                "MA": "K74.4",
+                "TEN": "Xơ gan mật thứ phát",
+                "TEN_EN": "Secondary biliary cirrhosis"
+              },
+              {
+                "MA": "K74.5",
+                "TEN": "Xơ gan mật không đặc hiệu",
+                "TEN_EN": "Biliary cirrhosis, unspecified"
+              },
+              {
+                "MA": "K74.6",
+                "TEN": "Xơ gan khác và không đặc hiệu",
+                "TEN_EN": "Other and unspecified cirrhosis of liver"
+              },
+              {
+                "MA": "K75",
+                "TEN": "Bệnh viêm gan khác",
+                "TEN_EN": "Other inflammatory liver diseases"
+              }
+            ]
+          },
+          {
+            "MA": "K75.0",
+            "TEN": "áp xe ở gan",
+            "TEN_EN": "Abscess of liver",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K75.1",
+                "TEN": "Viêm tĩnh mạch của tĩnh mạch cửa",
+                "TEN_EN": "Phlebitis of portal vein"
+              },
+              {
+                "MA": "K75.2",
+                "TEN": "Viêm gan tái hoạt động, không đặc hiệu",
+                "TEN_EN": "Nonspecific reactive hepatitis"
+              },
+              {
+                "MA": "K75.3",
+                "TEN": "Viêm gan dạng u hạt, không phân loại nơi khác",
+                "TEN_EN": "Granulomatous hepatitis, not elsewhere classified"
+              },
+              {
+                "MA": "K75.4",
+                "TEN": "Viêm gan tự miễn",
+                "TEN_EN": "Autoimmune hepatitis"
+              },
+              {
+                "MA": "K75.8",
+                "TEN": "Bệnh viêm gan đặc hiệu khác",
+                "TEN_EN": "Other specified inflammatory liver diseases"
+              },
+              {
+                "MA": "K75.9",
+                "TEN": "Bệnh viêm gan, không đặc hiệu",
+                "TEN_EN": "Inflammatory liver disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K76",
+            "TEN": "Bệnh gan khác",
+            "TEN_EN": "Other diseases of liver",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K76.0",
+                "TEN": "Gan (biến đổi) nhiễm mỡ, không phân loại nơi khác",
+                "TEN_EN": "Fatty (change of) liver, not elsewhere classified"
+              },
+              {
+                "MA": "K76.1",
+                "TEN": "Xung huyết thụ động mãn tính ở gan",
+                "TEN_EN": "Chronic passive congestion of liver"
+              },
+              {
+                "MA": "K76.2",
+                "TEN": "Hoại tử xuất huyết trung tâm tiểu thùy gan",
+                "TEN_EN": "Central haemorrhagic necrosis of liver"
+              },
+              {
+                "MA": "K76.3",
+                "TEN": "Nhồi máu gan",
+                "TEN_EN": "Infarction of liver"
+              },
+              {
+                "MA": "K76.4",
+                "TEN": "Bệnh ứ máu xoang gan",
+                "TEN_EN": "Peliosis hepatis"
+              },
+              {
+                "MA": "K76.5",
+                "TEN": "Bệnh tắc tĩnh mạch trên gan",
+                "TEN_EN": "Hepatic veno-occlusive disease"
+              },
+              {
+                "MA": "K76.6",
+                "TEN": "Tăng áp lực tĩnh mạch cửa",
+                "TEN_EN": "Portal hypertension"
+              },
+              {
+                "MA": "K76.7",
+                "TEN": "Hội chứng gan - thận",
+                "TEN_EN": "Hepatorenal syndrome"
+              },
+              {
+                "MA": "K76.8",
+                "TEN": "Bệnh gan đặc hiệu khác",
+                "TEN_EN": "Other specified diseases of liver"
+              },
+              {
+                "MA": "K76.9",
+                "TEN": "Bệnh gan, không đặc hiệu",
+                "TEN_EN": "Liver disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K77",
+            "TEN": "Rối loạn chức năng gan trong bệnh phân loại nơi khác",
+            "TEN_EN": "Liver disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K77*",
+                "TEN": "Rối loạn chức năng gan trong bệnh phân loại nơi khác",
+                "TEN_EN": "Liver disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "K77.0*",
+                "TEN": "Rối loạn chức năng gan trong bệnh nhiễm trùng và nhiễm ký sinh trùng được phân loại nơi khác",
+                "TEN_EN": "Liver disorders in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "K77.8*",
+                "TEN": "Rối loạn chức năng gan trong bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Liver disorders in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K80-K87",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh túi mật, ống mật và tụy",
-        "TEN_EN": "Disorders of gallbladder, biliary tract and pancreas"
+        "TEN_EN": "Disorders of gallbladder, biliary tract and pancreas",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K80",
+            "TEN": "Sỏi mật",
+            "TEN_EN": "Cholelithiasis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K80.0",
+                "TEN": "Sỏi túi mật có viêm túi mật cấp",
+                "TEN_EN": "Calculus of gallbladder with acute cholecystitis"
+              },
+              {
+                "MA": "K80.1",
+                "TEN": "Sỏi túi mật có viêm túi mật khác",
+                "TEN_EN": "Calculus of gallbladder with other cholecystitis"
+              },
+              {
+                "MA": "K80.2",
+                "TEN": "Sỏi túi mật không có viêm túi mật",
+                "TEN_EN": "Calculus of gallbladder without cholecystitis"
+              },
+              {
+                "MA": "K80.3",
+                "TEN": "Sỏi ống mật có viêm đường mật",
+                "TEN_EN": "Calculus of bile duct with cholangitis"
+              },
+              {
+                "MA": "K80.4",
+                "TEN": "Sỏi đường mật có viêm túi mật",
+                "TEN_EN": "Calculus of bile duct with cholecystitis"
+              },
+              {
+                "MA": "K80.5",
+                "TEN": "Sỏi mật không viêm đường mật hay viêm túi mật",
+                "TEN_EN": "Calculus of bile duct without cholangitis or cholecystitis"
+              },
+              {
+                "MA": "K80.8",
+                "TEN": "Sỏi mật khác",
+                "TEN_EN": "Other cholelithiasis"
+              }
+            ]
+          },
+          {
+            "MA": "K81",
+            "TEN": "Viêm túi mật",
+            "TEN_EN": "Cholecystitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K81.0",
+                "TEN": "Viêm túi mật cấp",
+                "TEN_EN": "Acute cholecystitis"
+              },
+              {
+                "MA": "K81.1",
+                "TEN": "Viêm túi mật mạn",
+                "TEN_EN": "Chronic cholecystitis"
+              },
+              {
+                "MA": "K81.8",
+                "TEN": "Viêm túi mật thể khác",
+                "TEN_EN": "Other cholecystitis"
+              },
+              {
+                "MA": "K81.9",
+                "TEN": "Viêm túi mật, không đặc hiệu",
+                "TEN_EN": "Cholecystitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K82",
+            "TEN": "Bệnh khác của túi mật",
+            "TEN_EN": "Other diseases of gallbladder",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K82.0",
+                "TEN": "Tắc túi mật",
+                "TEN_EN": "Obstruction of gallbladder"
+              },
+              {
+                "MA": "K82.1",
+                "TEN": "Tràn dịch túi mật",
+                "TEN_EN": "Hydrops of gallbladder"
+              },
+              {
+                "MA": "K82.2",
+                "TEN": "Thủng túi mật",
+                "TEN_EN": "Perforation of gallbladder"
+              },
+              {
+                "MA": "K82.3",
+                "TEN": "Dò túi mật",
+                "TEN_EN": "Fistula of gallbladder"
+              },
+              {
+                "MA": "K82.4",
+                "TEN": "Tích tụ Cholesterol ở túi mật",
+                "TEN_EN": "Cholesterolosis of gallbladder"
+              },
+              {
+                "MA": "K82.8",
+                "TEN": "Bệnh đặc hiệu khác của túi mật",
+                "TEN_EN": "Other specified diseases of gallbladder"
+              },
+              {
+                "MA": "K82.9",
+                "TEN": "Bệnh của túi mật, không đặc hiệu",
+                "TEN_EN": "Disease of gallbladder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K83",
+            "TEN": "Bệnh khác của đường mật",
+            "TEN_EN": "Other diseases of biliary tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K83.0",
+                "TEN": "Viêm đường mật",
+                "TEN_EN": "Cholangitis"
+              },
+              {
+                "MA": "K83.1",
+                "TEN": "Tắc ống mật",
+                "TEN_EN": "Obstruction of bile duct"
+              },
+              {
+                "MA": "K83.2",
+                "TEN": "Thủng đường mật",
+                "TEN_EN": "Perforation of bile duct"
+              },
+              {
+                "MA": "K83.3",
+                "TEN": "Rò đường mật",
+                "TEN_EN": "Fistula of bile duct"
+              },
+              {
+                "MA": "K83.4",
+                "TEN": "Co thắt cơ vòng Oddi",
+                "TEN_EN": "Spasm of sphincter of Oddi"
+              },
+              {
+                "MA": "K83.5",
+                "TEN": "Nang đường mật",
+                "TEN_EN": "Biliary cyst"
+              },
+              {
+                "MA": "K83.8",
+                "TEN": "Bệnh đặc hiệu khác của đường mật",
+                "TEN_EN": "Other specified diseases of biliary tract"
+              },
+              {
+                "MA": "K83.9",
+                "TEN": "Bệnh đường mật, không đặc hiệu",
+                "TEN_EN": "Disease of biliary tract, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K85",
+            "TEN": "Viêm tụy cấp",
+            "TEN_EN": "Acute pancreatitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K85.0",
+                "TEN": "Viêm tụy cấp tính tự phát",
+                "TEN_EN": "Idiopathic acute pancreatitis"
+              },
+              {
+                "MA": "K85.1",
+                "TEN": "Viêm tụy cấp tính do mật",
+                "TEN_EN": "Biliary acute pancreatitis"
+              },
+              {
+                "MA": "K85.2",
+                "TEN": "Viêm tụy cấp tính do rượu",
+                "TEN_EN": "Alcohol-induced acute pancreatitis"
+              },
+              {
+                "MA": "K85.3",
+                "TEN": "Viêm tụy cấp tính do thuốc",
+                "TEN_EN": "Drug-induced acute pancreatitis"
+              },
+              {
+                "MA": "K85.8",
+                "TEN": "Viêm tụy cấp tính khác",
+                "TEN_EN": "Other acute pancreatitis"
+              },
+              {
+                "MA": "K85.9",
+                "TEN": "Viêm tụy cấp tính, không đặc hiệu",
+                "TEN_EN": "Acute pancreatitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K86",
+            "TEN": "Bệnh tụy khác",
+            "TEN_EN": "Other diseases of pancreas",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K86.0",
+                "TEN": "Viêm tụy mạn do rượu",
+                "TEN_EN": "Alcohol-induced chronic pancreatitis"
+              },
+              {
+                "MA": "K86.1",
+                "TEN": "Viêm tụy mạn thể khác",
+                "TEN_EN": "Other chronic pancreatitis"
+              },
+              {
+                "MA": "K86.2",
+                "TEN": "Nang tụy",
+                "TEN_EN": "Cyst of pancreas"
+              },
+              {
+                "MA": "K86.3",
+                "TEN": "Nang giả tụy",
+                "TEN_EN": "Pseudocyst of pancreas"
+              },
+              {
+                "MA": "K86.8",
+                "TEN": "Bệnh đặc hiệu khác của tụy",
+                "TEN_EN": "Other specified diseases of pancreas"
+              },
+              {
+                "MA": "K86.9",
+                "TEN": "Bệnh tụy, không đặc hiệu",
+                "TEN_EN": "Disease of pancreas, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K87",
+            "TEN": "Rối loạn của túi mật, đường mật và tụy đã được phân loại nơi khác",
+            "TEN_EN": "Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K87*",
+                "TEN": "Rối loạn của túi mật, đường mật và tụy đã được phân loại nơi khác",
+                "TEN_EN": "Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere"
+              },
+              {
+                "MA": "K87.0*",
+                "TEN": "Rối loạn của túi mật và đường mật đã được phân loại ở nơi khác",
+                "TEN_EN": "Disorders of gallbladder and biliary tract in diseases classified elsewhere"
+              },
+              {
+                "MA": "K87.1*",
+                "TEN": "Rối loạn tụy trong phân loại nơi khác",
+                "TEN_EN": "Disorders of pancreas in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "K90-K93",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh khác của hệ tiêu hóa",
-        "TEN_EN": "Other diseases of the digestive system"
+        "TEN_EN": "Other diseases of the digestive system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "K90",
+            "TEN": "Ruột kém hấp thu",
+            "TEN_EN": "Intestinal malabsorption",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K90.0",
+                "TEN": "Bệnh Coeliac",
+                "TEN_EN": "Coeliac disease"
+              },
+              {
+                "MA": "K90.1",
+                "TEN": "Tiêu chảy nhiệt đới",
+                "TEN_EN": "Tropical sprue"
+              },
+              {
+                "MA": "K90.2",
+                "TEN": "Hội chứng quai tới, không phân loại nơi khác",
+                "TEN_EN": "Blind loop syndrome, not elsewhere classified"
+              },
+              {
+                "MA": "K90.3",
+                "TEN": "Tiêu chảy phân mỡ do tụy",
+                "TEN_EN": "Pancreatic steatorrhoea"
+              },
+              {
+                "MA": "K90.4",
+                "TEN": "Kém hấp thụ do không dung nạp, không phân loại nơi khác",
+                "TEN_EN": "Malabsorption due to intolerance, not elsewhere classified"
+              },
+              {
+                "MA": "K90.8",
+                "TEN": "Ruột kém hấp thu khác",
+                "TEN_EN": "Other intestinal malabsorption"
+              },
+              {
+                "MA": "K90.9",
+                "TEN": "Ruột kém hấp thu, không đặc hiệu",
+                "TEN_EN": "Intestinal malabsorption, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K91",
+            "TEN": "Rối loạn tiêu hóa sau phẫu thuật không phân loại nơi khác",
+            "TEN_EN": "Postprocedural disorders of digestive system, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K91.0",
+                "TEN": "Nôn mửa sau phẫu thuật dạ dày - ruột",
+                "TEN_EN": "Vomiting following gastrointestinal surgery"
+              },
+              {
+                "MA": "K91.1",
+                "TEN": "Hội chứng sau phẫu thuật dạ dày",
+                "TEN_EN": "Postgastric surgery syndromes"
+              },
+              {
+                "MA": "K91.2",
+                "TEN": "Kém hấp thu sau phẫu thuật, không phân loại nơi khác",
+                "TEN_EN": "Postsurgical malabsorption, not elsewhere classified"
+              },
+              {
+                "MA": "K91.3",
+                "TEN": "Tắc ruột sau mổ",
+                "TEN_EN": "Postoperative intestinal obstruction"
+              },
+              {
+                "MA": "K91.4",
+                "TEN": "Suy chức năng sau mổ thông đại tràng và mổ thông đường ruột",
+                "TEN_EN": "Colostomy and enterostomy malfunction"
+              },
+              {
+                "MA": "K91.5",
+                "TEN": "Hội chứng sau cắt túi mật",
+                "TEN_EN": "Postcholecystectomy syndrome"
+              },
+              {
+                "MA": "K91.8",
+                "TEN": "Rối loạn sau phẫu thuật khác của hệ tiêu hóa không phân loại nơi khác",
+                "TEN_EN": "Other postprocedural disorders of digestive system, not elsewhere classified"
+              },
+              {
+                "MA": "K91.9",
+                "TEN": "Rối loạn sau phẫu thuật của hệ tiêu hóa, không đặc hiệu",
+                "TEN_EN": "Postprocedural disorder of digestive system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K92",
+            "TEN": "Bệnh khác của hệ tiêu hóa",
+            "TEN_EN": "Other diseases of digestive system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K92.0",
+                "TEN": "Nôn ra máu",
+                "TEN_EN": "Haematemesis"
+              },
+              {
+                "MA": "K92.1",
+                "TEN": "Đi ngoài phân đen",
+                "TEN_EN": "Melaena"
+              },
+              {
+                "MA": "K92.2",
+                "TEN": "Chảy máu tiêu hóa, không đặc hiệu",
+                "TEN_EN": "Gastrointestinal haemorrhage, unspecified"
+              },
+              {
+                "MA": "K92.8",
+                "TEN": "Bệnh hệ tiêu hóa đặc hiệu khác",
+                "TEN_EN": "Other specified diseases of digestive system"
+              },
+              {
+                "MA": "K92.9",
+                "TEN": "Bệnh hệ tiêu hóa, không đặc hiệu",
+                "TEN_EN": "Disease of digestive system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "K93",
+            "TEN": "Rối loạn của cơ quan tiêu hóa khác đã được phân loại ở nơi khác",
+            "TEN_EN": "Disorders of other digestive organs in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "K93*",
+                "TEN": "Rối loạn của cơ quan tiêu hóa khác đã được phân loại ở nơi khác",
+                "TEN_EN": "Disorders of other digestive organs in diseases classified elsewhere"
+              },
+              {
+                "MA": "K93.0*",
+                "TEN": "Bệnh lao ở ruột, phúc mạc và tuyến mạc treo (A18.3†)",
+                "TEN_EN": "Tuberculous disorders of intestines, peritoneum and mesenteric glands (A18.3†)"
+              },
+              {
+                "MA": "K93.1*",
+                "TEN": "Phình đại tràng trong bệnh Chagas (B57.3†)",
+                "TEN_EN": "Megacolon in Chagas disease (B57.3†)"
+              },
+              {
+                "MA": "K93.8*",
+                "TEN": "Rối loạn cơ quan tiêu hóa đặc hiệu khác đã được phân loại ở nơi khác",
+                "TEN_EN": "Disorders of other specified digestive organs in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

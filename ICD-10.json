@@ -13298,67 +13298,2447 @@
         "MA": "F00-F09",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn tâm thần thực tổn bao gồm rối loạn tâm thần triệu chứng",
-        "TEN_EN": "Organic, including symptomatic, mental disorders"
+        "TEN_EN": "Organic, including symptomatic, mental disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F00",
+            "TEN": "Sa sút trí tuệ trong bệnh Alzheimer (G30.-†)",
+            "TEN_EN": "Dementia in Alzheimer s diseaseG30.-",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F00*",
+                "TEN": "Sa sút trí tuệ trong bệnh Alzheimer (G30.-†)",
+                "TEN_EN": "Dementia in Alzheimer s disease G30.-†)"
+              },
+              {
+                "MA": "F00.0*",
+                "TEN": "Sa sút trí tuệ trong bệnh Alzheimer khởi phát sớm (G30.0†)",
+                "TEN_EN": "Dementia in Alzheimer s disease with early onset (G30.0†)"
+              },
+              {
+                "MA": "F00.1*",
+                "TEN": "Sa sút trí tuệ trong bệnh Alzheimer khởi phát muộn (G30.1†)",
+                "TEN_EN": "Dementia in Alzheimer s disease with late onset (G30.1†)"
+              },
+              {
+                "MA": "F00.2*",
+                "TEN": "Sa sút trí tuệ trong bệnh Alzheimer, thể không điển hình hoặc thể hỗn hợp (G30.8†)",
+                "TEN_EN": "Dementia in Alzheimer s disease, atypical or mixed type (G30.8†)"
+              },
+              {
+                "MA": "F00.9*",
+                "TEN": "Sa sút trí tuệ trong bệnh Alzheimer, không xác định (G30.9†)",
+                "TEN_EN": "Dementia in Alzheimer s disease, unspecified (G30.9†)"
+              }
+            ]
+          },
+          {
+            "MA": "F01",
+            "TEN": "Sa sút trí tuệ do nguyên nhân mạch",
+            "TEN_EN": "Vascular dementia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F01.0",
+                "TEN": "Sa sút trí tuệ do nguyên nhân mạch, khởi động cấp",
+                "TEN_EN": "Vascular dementia of acute onset"
+              },
+              {
+                "MA": "F01.1",
+                "TEN": "Sa sút trí tuệ do nhồi máu đa ổ",
+                "TEN_EN": "Multi-infarct dementia"
+              },
+              {
+                "MA": "F01.2",
+                "TEN": "Sa sút trí tuệ do nguyên nhân mạch trong bệnh mạch máu dưới vỏ",
+                "TEN_EN": "Subcortical vascular dementia"
+              },
+              {
+                "MA": "F01.3",
+                "TEN": "Sa sút trí tuệ do nguyên nhân mạch trong bệnh mạch máu hỗn hợp vỏ não và dưới vỏ",
+                "TEN_EN": "Mixed cortical and subcortical vascular dementia"
+              },
+              {
+                "MA": "F01.8",
+                "TEN": "Sa sút trí tuệ do nguyên nhân mạch khác",
+                "TEN_EN": "Other vascular dementia"
+              },
+              {
+                "MA": "F01.9",
+                "TEN": "Sa sút trí tuệ, không biệt định",
+                "TEN_EN": "Vascular dementia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F02",
+            "TEN": "Sa sút trí tuệ trong các bệnh khác đã được xếp loại ở chỗ khác",
+            "TEN_EN": "Dementia in other diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F02*",
+                "TEN": "Sa sút trí tuệ trong các bệnh khác đã được phân loại ở nơi khác",
+                "TEN_EN": "Dementia in other diseases classified elsewhere"
+              },
+              {
+                "MA": "F02.0*",
+                "TEN": "Sa sút trí tuệ trong bệnh Pick (G31.0†)",
+                "TEN_EN": "Dementia in Pick s disease (G31.0†)"
+              },
+              {
+                "MA": "F02.1*",
+                "TEN": "Sa sút trí tuệ trong bệnh Creutzfeldt-Jakob (A81.0†)",
+                "TEN_EN": "Dementia in Creutzfeldt-Jakob disease (A81.0†)"
+              },
+              {
+                "MA": "F02.2*",
+                "TEN": "Sa sút trí tuệ trong bệnh Huntington (G10†)",
+                "TEN_EN": "Dementia in Huntington s disease (G10†)"
+              },
+              {
+                "MA": "F02.3*",
+                "TEN": "Sa sút trí tuệ trong bệnh Parkinson (G20†)",
+                "TEN_EN": "Dementia in Parkinson s disease (G20†)"
+              },
+              {
+                "MA": "F02.4*",
+                "TEN": "Sa sút trí tuệ trong bệnh (HIV) nhiễm virus gây suy giảm miễn dịch ở người (B22.0†)",
+                "TEN_EN": "Dementia in human immunodeficiency virus [HIV] disease (B22.0†)"
+              },
+              {
+                "MA": "F02.8*",
+                "TEN": "Sa sút trí tuệ trong các bệnh lý đặc biệt khác đã được phân loại ở nơi khác",
+                "TEN_EN": "Dementia in other specified diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "F03",
+            "TEN": "Sa sút trí tuệ không biệt định",
+            "TEN_EN": "Unspecified dementia",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F04",
+            "TEN": "Hội chứng quên thực tổn không do rượu và chất tác động tâm thần khác",
+            "TEN_EN": "Organic amnesic syndrome, not induced by alcohol and other psychoative substances",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F05",
+            "TEN": "Sảng không do rượu và chất tác động tâm thần khác",
+            "TEN_EN": "Delirium, not induced by alcohol and other psychoactive substances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F05.0",
+                "TEN": "Sảng không gối lên sa sút trí tuệ, như đã mô tả",
+                "TEN_EN": "Delirium not superimposed on dementia, so described"
+              },
+              {
+                "MA": "F05.1",
+                "TEN": "Sảng gối lên sa sút trí tuệ",
+                "TEN_EN": "Delirium superimposed on dementia"
+              },
+              {
+                "MA": "F05.8",
+                "TEN": "Sảng khác",
+                "TEN_EN": "Other delirium"
+              },
+              {
+                "MA": "F05.9",
+                "TEN": "Sảng, không biệt định",
+                "TEN_EN": "Delirium, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F06",
+            "TEN": "Rối loạn tâm thần khác do tổn thương và rối loạn chức năng não và do bệnh cơ thể",
+            "TEN_EN": "Other mental disorders due to brain damage and dysfunction and to physical disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F06.0",
+                "TEN": "Các ảo giác thực tổn",
+                "TEN_EN": "Organic hallucinosis"
+              },
+              {
+                "MA": "F06.1",
+                "TEN": "Rối loạn căng trương lực thực tổn",
+                "TEN_EN": "Organic catatonic disorder"
+              },
+              {
+                "MA": "F06.2",
+                "TEN": "Rối loạn hoang tưởng thực tổn [giống tâm thần phân liệt]",
+                "TEN_EN": "Organic delusional [schizophrenia-like] disorder"
+              },
+              {
+                "MA": "F06.3",
+                "TEN": "Rối loạn khí sắc [cảm xúc] thực tổn",
+                "TEN_EN": "Organic mood [affective] disorders"
+              },
+              {
+                "MA": "F06.4",
+                "TEN": "Rối loạn lo âu thực tổn",
+                "TEN_EN": "Organic anxiety disorder"
+              },
+              {
+                "MA": "F06.5",
+                "TEN": "Rối loạn phân ly thực tổn",
+                "TEN_EN": "Organic dissociative disorder"
+              },
+              {
+                "MA": "F06.6",
+                "TEN": "Rối loạn cảm xúc không ổn định [suy nhược] thực tổn",
+                "TEN_EN": "Organic emotionally labile [asthenic] disorder"
+              },
+              {
+                "MA": "F06.7",
+                "TEN": "Rối loạn nhận thức nhẹ",
+                "TEN_EN": "Mild cognitive disorder"
+              },
+              {
+                "MA": "F06.8",
+                "TEN": "Các rối loạn tâm thần biệt định khác do tổn thương não, rối loạn chức năng não và bệnh lý cơ thể",
+                "TEN_EN": "Other specified mental disorders due to brain damage and dysfunction and to physical disease"
+              },
+              {
+                "MA": "F06.9",
+                "TEN": "Các rối loạn tâm thần không biệt định do tổn thương não và rối loạn chức năng não và bệnh lý cơ thể",
+                "TEN_EN": "Unspecified mental disorder due to brain damage and dysfunction and to physical disease"
+              }
+            ]
+          },
+          {
+            "MA": "F07",
+            "TEN": "Các rối loạn nhân cách và hành vi do bệnh lý não, tổn thương não và rối loạn chức năng não",
+            "TEN_EN": "Personality and behavioural disorders due to brain disease, damage and dysfunction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F07.0",
+                "TEN": "Rối loạn nhân cách thực tổn",
+                "TEN_EN": "Organic personality disorder"
+              },
+              {
+                "MA": "F07.1",
+                "TEN": "Hội chứng sau viêm não",
+                "TEN_EN": "Postencephalitic syndrome"
+              },
+              {
+                "MA": "F07.2",
+                "TEN": "Hội chứng sau chấn động não",
+                "TEN_EN": "Postconcussional syndrome"
+              },
+              {
+                "MA": "F07.8",
+                "TEN": "Rối loạn nhân cách và hành vi thực tổn khác do bệnh não, tổn thương và rối loạn chức năng não",
+                "TEN_EN": "Other organic personality and behavioural disorders due to brain disease, damage and dysfunction"
+              },
+              {
+                "MA": "F07.9",
+                "TEN": "Rối loạn nhân cách và hành vi thực thể không biệt định do bệnh não, tổn thương và rối loạn chức năng não",
+                "TEN_EN": "Unspecified organic personality and behavioural disorder due to brain disease, damage and dysfunction"
+              }
+            ]
+          },
+          {
+            "MA": "F09",
+            "TEN": "Rối loạn tâm thần thực tổn hoặc triệu chứng không biệt định",
+            "TEN_EN": "Unspecified organic or symptomatic mental disorder",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "F10-F19",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất tác động tâm thần",
-        "TEN_EN": "Mental and behavioural disorders due to psychoative substance use"
+        "TEN_EN": "Mental and behavioural disorders due to psychoative substance use",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F10",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu",
+            "TEN_EN": "Mental and behavioural disorders due to use of alcohol",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F10.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Acute intoxication)"
+              },
+              {
+                "MA": "F10.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Harmful use)"
+              },
+              {
+                "MA": "F10.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Dependence syndrome)"
+              },
+              {
+                "MA": "F10.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Withdrawal state)"
+              },
+              {
+                "MA": "F10.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F10.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Psychotic disorder)"
+              },
+              {
+                "MA": "F10.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Amnesic syndrome)"
+              },
+              {
+                "MA": "F10.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F10.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F10.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng rượu (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of alcohol (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F11",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện",
+            "TEN_EN": "Mental and behavioural disorders due to use of opioids",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F11.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Acute intoxication)"
+              },
+              {
+                "MA": "F11.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Harmful use)"
+              },
+              {
+                "MA": "F11.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Dependence syndrome)"
+              },
+              {
+                "MA": "F11.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Withdrawal state)"
+              },
+              {
+                "MA": "F11.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F11.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Psychotic disorder)"
+              },
+              {
+                "MA": "F11.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Amnesic syndrome)"
+              },
+              {
+                "MA": "F11.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F11.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F11.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các dạng thuốc phiện (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of opioids (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F12",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa",
+            "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F12.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Acute intoxication)"
+              },
+              {
+                "MA": "F12.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Harmful use)"
+              },
+              {
+                "MA": "F12.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Dependence syndrome)"
+              },
+              {
+                "MA": "F12.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Withdrawal state)"
+              },
+              {
+                "MA": "F12.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F12.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Psychotic disorder)"
+              },
+              {
+                "MA": "F12.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Amnesic syndrome)"
+              },
+              {
+                "MA": "F12.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F12.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F12.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cần sa (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cannabinoids (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F13",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an dịu hoặc các thuốc ngủ",
+            "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F13.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Harmful use)"
+              },
+              {
+                "MA": "F13.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Dependence syndrome)"
+              },
+              {
+                "MA": "F13.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Withdrawal state)"
+              },
+              {
+                "MA": "F13.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F13.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Psychotic disorder)"
+              },
+              {
+                "MA": "F13.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Amnesic syndrome)"
+              },
+              {
+                "MA": "F13.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F13.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F13.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of sedatives or hypnotics (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F14",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain",
+            "TEN_EN": "Mental and behavioural disorders due to use of cocaine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F14.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Acute intoxication)"
+              },
+              {
+                "MA": "F14.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Harmful use)"
+              },
+              {
+                "MA": "F14.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Dependence syndrome)"
+              },
+              {
+                "MA": "F14.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Withdrawal state)"
+              },
+              {
+                "MA": "F14.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F14.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Psychotic disorder)"
+              },
+              {
+                "MA": "F14.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Amnesic syndrome)"
+              },
+              {
+                "MA": "F14.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F14.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F14.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng cocain (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of cocaine (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F15",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein",
+            "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F15.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Acute intoxication)"
+              },
+              {
+                "MA": "F15.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Harmful use)"
+              },
+              {
+                "MA": "F15.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Dependence syndrome)"
+              },
+              {
+                "MA": "F15.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Withdrawal state)"
+              },
+              {
+                "MA": "F15.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F15.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Psychotic disorder)"
+              },
+              {
+                "MA": "F15.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Amnesic syndrome)"
+              },
+              {
+                "MA": "F15.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F15.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F15.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of other stimulants, including caffeine (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F16",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác ",
+            "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F16.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Acute intoxication)"
+              },
+              {
+                "MA": "F16.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Harmful use)"
+              },
+              {
+                "MA": "F16.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Dependence syndrome)"
+              },
+              {
+                "MA": "F16.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Withdrawal state)"
+              },
+              {
+                "MA": "F16.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F16.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Psychotic disorder)"
+              },
+              {
+                "MA": "F16.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Amnesic syndrome)"
+              },
+              {
+                "MA": "F16.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F16.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F16.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng các chất gây ảo giác (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of hallucinogens (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F17",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá",
+            "TEN_EN": "Mental and behavioural disorders due to use of tobaco",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F17.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Acute intoxication)"
+              },
+              {
+                "MA": "F17.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Harmful use)"
+              },
+              {
+                "MA": "F17.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Dependence syndrome)"
+              },
+              {
+                "MA": "F17.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Withdrawal state)"
+              },
+              {
+                "MA": "F17.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F17.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Psychotic disorder)"
+              },
+              {
+                "MA": "F17.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Amnesic syndrome)"
+              },
+              {
+                "MA": "F17.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F17.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F17.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of tobaco (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F18",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi",
+            "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F18.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Acute intoxication)"
+              },
+              {
+                "MA": "F18.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Harmful use)"
+              },
+              {
+                "MA": "F18.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Dependence syndrome)"
+              },
+              {
+                "MA": "F18.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Withdrawal state)"
+              },
+              {
+                "MA": "F18.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F18.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Psychotic disorder)"
+              },
+              {
+                "MA": "F18.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Amnesic syndrome)"
+              },
+              {
+                "MA": "F18.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F18.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F18.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to use of volatile solvents (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          },
+          {
+            "MA": "F19",
+            "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác",
+            "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F19.0",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Nhiễm độc cấp)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Acute intoxication)"
+              },
+              {
+                "MA": "F19.1",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Sử dụng gây hại)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Harmful use)"
+              },
+              {
+                "MA": "F19.2",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Hội chứng nghiện)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Dependence syndrome)"
+              },
+              {
+                "MA": "F19.3",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Trạng thái cai)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Withdrawal state)"
+              },
+              {
+                "MA": "F19.4",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Trạng thái cai với mê sảng)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Withdrawal state with delirium)"
+              },
+              {
+                "MA": "F19.5",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Rối loạn tâm thần)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Psychotic disorder)"
+              },
+              {
+                "MA": "F19.6",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Hội chứng quên)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Amnesic syndrome)"
+              },
+              {
+                "MA": "F19.7",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Rối loạn loạn thần di chứng và khởi phát muộn)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Residual and late-onset psychotic disorder)"
+              },
+              {
+                "MA": "F19.8",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Rối loạn tâm thần và hành vi khác)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Other mental and behavioural disorders)"
+              },
+              {
+                "MA": "F19.9",
+                "TEN": "Rối loạn tâm thần và hành vi do sử dụng nhiều loại ma túy và chất tác động tâm thần khác (Rối loạn tâm thần và hành vi không biệt định)",
+                "TEN_EN": "Mental and behavioural disorders due to multiple drug use and of other psychoactive substances (Unspecified mental and behavioural disorder)"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "F20-F29",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tâm thần phân liệt, rối loạn loại phân liệt và các rối loạn hoang tưởng",
-        "TEN_EN": "Schizophrenia, schizotypal and delusional disorders"
+        "TEN_EN": "Schizophrenia, schizotypal and delusional disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F20",
+            "TEN": "Tâm thần phân liệt",
+            "TEN_EN": "Schizophrenia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F20.0",
+                "TEN": "Tâm thần phân liệt thể paranoid",
+                "TEN_EN": "Paranoid schizophrenia"
+              },
+              {
+                "MA": "F20.1",
+                "TEN": "Tâm thần phân liệt thể thanh xuân",
+                "TEN_EN": "Hebephrenic schizophrenia"
+              },
+              {
+                "MA": "F20.2",
+                "TEN": "Tâm thần phân liệt thể căng trương lực",
+                "TEN_EN": "Catatonic schizophrenia"
+              },
+              {
+                "MA": "F20.3",
+                "TEN": "Tâm thần phân liệt thể không biệt định",
+                "TEN_EN": "Undifferentiated schizophrenia"
+              },
+              {
+                "MA": "F20.4",
+                "TEN": "Tâm thần phân liệt thể trầm cảm sau phân liệt",
+                "TEN_EN": "Post-schizophrenic depression"
+              },
+              {
+                "MA": "F20.5",
+                "TEN": "Tâm thần phân liệt thể di chứng",
+                "TEN_EN": "Residual schizophrenia"
+              },
+              {
+                "MA": "F20.6",
+                "TEN": "Tâm thần phân liệt thể đơn thuần",
+                "TEN_EN": "Simple schizophrenia"
+              },
+              {
+                "MA": "F20.8",
+                "TEN": "Các thể tâm thần phân liệt khác",
+                "TEN_EN": "Other schizophrenia"
+              },
+              {
+                "MA": "F20.9",
+                "TEN": "Tâm thần phân liệt thể không đặc hiệu",
+                "TEN_EN": "Schizophrenia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F21",
+            "TEN": "Rối loạn loại phân liệt",
+            "TEN_EN": "Schizotypla disorder",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F22",
+            "TEN": "Rối loạn hoang tưởng dai dẳng",
+            "TEN_EN": "Persistent delusional disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F22.0",
+                "TEN": "Rối loạn hoang tưởng",
+                "TEN_EN": "Delusional disorder"
+              },
+              {
+                "MA": "F22.8",
+                "TEN": "Rối loạn hoang tưởng dai dẳng khác",
+                "TEN_EN": "Other persistent delusional disorders"
+              },
+              {
+                "MA": "F22.9",
+                "TEN": "Rối loạn hoang tưởng dai dẳng không biệt định",
+                "TEN_EN": "Persistent delusional disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F23",
+            "TEN": "Rối loạn loạn thần cấp và nhất thời",
+            "TEN_EN": "Acute and transient psychotic disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F23.0",
+                "TEN": "Rối loạn loạn thần cấp đa dạng không có các triệu chứng của bệnh tâm thần phân liệt",
+                "TEN_EN": "Acute polymorphic psychotic disorder without symptoms of schizophrenia"
+              },
+              {
+                "MA": "F23.1",
+                "TEN": "Rối loạn loạn thần cấp đa dạng với triệu chứng của bệnh tâm thần phân liệt",
+                "TEN_EN": "Acute polymorphic psychotic disorder with symptoms of schizophrenia"
+              },
+              {
+                "MA": "F23.2",
+                "TEN": "Rối loạn loạn thần cấp giống phân liệt",
+                "TEN_EN": "Acute schizophrenia-like psychotic disorder"
+              },
+              {
+                "MA": "F23.3",
+                "TEN": "Các rối loạn loạn thần cấp khác chủ yếu hoang tưởng",
+                "TEN_EN": "Other acute predominantly delusional psychotic disorders"
+              },
+              {
+                "MA": "F23.8",
+                "TEN": "Rối loạn loạn thần cấp và nhất thời khác",
+                "TEN_EN": "Other acute and transient psychotic disorders"
+              },
+              {
+                "MA": "F23.9",
+                "TEN": "Rối loạn loạn thần cấp và nhất thời không biệt định",
+                "TEN_EN": "Acute and transient psychotic disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F24",
+            "TEN": "Rối loạn hoang tưởng cảm ứng",
+            "TEN_EN": "Induced delusional disorder",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F25",
+            "TEN": "Rối loạn phân liệt cảm xúc",
+            "TEN_EN": "Schizoaffective disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F25.0",
+                "TEN": "Rối loạn phân liệt cảm xúc, loại hưng cảm",
+                "TEN_EN": "Schizoaffective disorder, manic type"
+              },
+              {
+                "MA": "F25.1",
+                "TEN": "Rối loạn phân liệt cảm xúc, loại trầm cảm",
+                "TEN_EN": "Schizoaffective disorder, depressive type"
+              },
+              {
+                "MA": "F25.2",
+                "TEN": "Rối loạn phân liệt cảm xúc, loại hỗn hợp",
+                "TEN_EN": "Schizoaffective disorder, mixed type"
+              },
+              {
+                "MA": "F25.8",
+                "TEN": "Rối loạn phân liệt cảm xúc khác",
+                "TEN_EN": "Other schizoaffective disorders"
+              },
+              {
+                "MA": "F25.9",
+                "TEN": "Rối loạn phân liệt cảm xúc không biệt định",
+                "TEN_EN": "Schizoaffective disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F28",
+            "TEN": "Rối loạn loạn thần không thực tổn khác",
+            "TEN_EN": "Other nonorganic psychotic disorders ",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F29",
+            "TEN": "Loạn thần không thực tổn không biệt định",
+            "TEN_EN": "Unspecified nonorganic psychosis",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "F30-F39",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn khí sắc [cảm xúc]",
-        "TEN_EN": "Mood [affective] disorders"
+        "TEN_EN": "Mood [affective] disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F30",
+            "TEN": "Giai đoạn hưng cảm",
+            "TEN_EN": "Manic episode",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F30.0",
+                "TEN": "Hưng cảm nhẹ",
+                "TEN_EN": "Hypomania"
+              },
+              {
+                "MA": "F30.1",
+                "TEN": "Hưng cảm không có các triệu chứng loạn thần",
+                "TEN_EN": "Mania without psychotic symptoms"
+              },
+              {
+                "MA": "F30.2",
+                "TEN": "Hưng cảm với các triệu chứng loạn thần",
+                "TEN_EN": "Mania with psychotic symptoms"
+              },
+              {
+                "MA": "F30.8",
+                "TEN": "Các giai đoạn hưng cảm khác",
+                "TEN_EN": "Other manic episodes"
+              },
+              {
+                "MA": "F30.9",
+                "TEN": "Giai đoạn hưng cảm không đặc hiệu",
+                "TEN_EN": "Manic episode, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F31",
+            "TEN": "Rối loạn cảm xúc lưỡng cực",
+            "TEN_EN": "Bipolar affective disorder",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F31.0",
+                "TEN": "Rối loạn cảm xúc lưỡng cực, hiện tại giai đoạn hưng cảm nhẹ",
+                "TEN_EN": "Bipolar affective disorder, current episode hypomanic"
+              },
+              {
+                "MA": "F31.1",
+                "TEN": "Rối loạn cảm xúc lưỡng cực, hiện tại giai đoạn hưng cảm không có các triệu chứng loạn thần",
+                "TEN_EN": "Bipolar affective disorder, current episode manic without psychotic symptoms"
+              },
+              {
+                "MA": "F31.2",
+                "TEN": "Rối loạn cảm xúc lưỡng cực, hiện tại giai đoạn hưng cảm có các triệu chứng loạn thần",
+                "TEN_EN": "Bipolar affective disorder, current episode manic with psychotic symptoms"
+              },
+              {
+                "MA": "F31.3",
+                "TEN": "Rối loạn cảm xúc lưỡng cực, hiện tại giai đoạn trầm cảm nhẹ hoặc trung bình",
+                "TEN_EN": "Bipolar affective disorder, current episode mild or moderate depression"
+              },
+              {
+                "MA": "F31.4",
+                "TEN": "Rối loạn cảm xúc lưỡng cực, hiện tại giai đoạn trầm cảm nặng không có các triệu chứng loạn thần",
+                "TEN_EN": "Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+              },
+              {
+                "MA": "F31.5",
+                "TEN": "Rối loạn cảm xúc lưỡng cực, hiện tại giai đoạn trầm cảm nặng với các triệu chứng loạn thần",
+                "TEN_EN": "Bipolar affective disorder, current episode severe depression with psychotic symptoms"
+              },
+              {
+                "MA": "F31.6",
+                "TEN": "Rối loạn cảm xúc lưỡng cực, hiện tại giai đoạn hỗn hợp",
+                "TEN_EN": "Bipolar affective disorder, current episode mixed"
+              },
+              {
+                "MA": "F31.7",
+                "TEN": "Rối loạn cảm xúc lưỡng cực, hiện tại thuyên giảm",
+                "TEN_EN": "Bipolar affective disorder, currently in remission"
+              },
+              {
+                "MA": "F31.8",
+                "TEN": "Rối loạn cảm xúc lưỡng cực khác",
+                "TEN_EN": "Other bipolar affective disorders"
+              },
+              {
+                "MA": "F31.9",
+                "TEN": "Rối loạn cảm xúc lưỡng cực không biệt định",
+                "TEN_EN": "Bipolar affective disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F32",
+            "TEN": "Giai đoạn trầm cảm",
+            "TEN_EN": "Depressive episode",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F32.0",
+                "TEN": "Giai đoạn trầm cảm nhẹ",
+                "TEN_EN": "Mild depressive episode"
+              },
+              {
+                "MA": "F32.1",
+                "TEN": "Giai đoạn trầm cảm vừa",
+                "TEN_EN": "Moderate depressive episode"
+              },
+              {
+                "MA": "F32.2",
+                "TEN": "Giai đoạn trầm cảm nặng không có các triệu chứng loạn thần",
+                "TEN_EN": "Severe depressive episode without psychotic symptoms"
+              },
+              {
+                "MA": "F32.3",
+                "TEN": "Giai đoạn trầm cảm nặng với các triệu chứng loạn thần",
+                "TEN_EN": "Severe depressive episode with psychotic symptoms"
+              },
+              {
+                "MA": "F32.8",
+                "TEN": "Giai đoạn trầm cảm khác",
+                "TEN_EN": "Other depressive episodes"
+              },
+              {
+                "MA": "F32.9",
+                "TEN": "Giai đoạn trầm cảm không đặc hiệu",
+                "TEN_EN": "Depressive episode, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F33",
+            "TEN": "Rối loạn trầm cảm tái diễn",
+            "TEN_EN": "Recurrent depressive disorder",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F33.0",
+                "TEN": "Rối loạn trầm cảm tái diễn, hiện tại giai đoạn nhẹ",
+                "TEN_EN": "Recurrent depressive disorder, current episode mild"
+              },
+              {
+                "MA": "F33.1",
+                "TEN": "Rối loạn trầm cảm tái diễn, hiện tại giai đoạn vừa",
+                "TEN_EN": "Recurrent depressive disorder, current episode moderate"
+              },
+              {
+                "MA": "F33.2",
+                "TEN": "Rối loạn trầm cảm tái diễn, hiện tại giai đoạn nặng không có triệu chứng loạn thần",
+                "TEN_EN": "Recurrent depressive disorder, current episode severe without psychotic symptoms"
+              },
+              {
+                "MA": "F33.3",
+                "TEN": "Rối loạn trầm cảm tái diễn, hiện tại giai đoạn nặng với các triệu chứng loạn thần",
+                "TEN_EN": "Recurrent depressive disorder, current episode severe with psychotic symptoms"
+              },
+              {
+                "MA": "F33.4",
+                "TEN": "Rối loạn trầm cảm tái diễn, hiện đang thuyên giảm",
+                "TEN_EN": "Recurrent depressive disorder, currently in remission",
+
+                "DINH_NGHIA": "Bệnh nhân đã có 2 hay nhiều giai đoạn trầm cảm như đã mô tả trong F33.0 - F33.3 trong quá khứ, nhưng đã không còn triệu chứng trầm cảm từ nhiều tháng nay .",
+                "DINH_NGHIA_EN": "The patient has had two or more depressive episodes as described in F33.0-F33.3, in the past, but has been free from depressive symptoms for several months."
+              },
+              {
+                "MA": "F33.8",
+                "TEN": "Rối loạn trầm cảm tái diễn khác",
+                "TEN_EN": "Other recurrent depressive disorders"
+              },
+              {
+                "MA": "F33.9",
+                "TEN": "Rối loạn trầm cảm tái phát, không biệt định",
+                "TEN_EN": "Recurrent depressive disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F34",
+            "TEN": "Rối loạn khí sắc [cảm xúc] dai dẳng",
+            "TEN_EN": "Persistent mood [affective] disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F34.0",
+                "TEN": "Khí sắc chu kỳ",
+                "TEN_EN": "Cyclothymia",
+                "BAO_GOM": "Nhân cách dạng chu kỳ\nNhân cách khí sắc chu kỳ\nRối loạn nhân cách cảm xúc"
+              },
+              {
+                "MA": "F34.1",
+                "TEN": "Loạn khí sắc",
+                "TEN_EN": "Dysthymia"
+              },
+              {
+                "MA": "F34.8",
+                "TEN": "Các rối loạn khí sắc [cảm xúc] dai dẳng khác",
+                "TEN_EN": "Other persistent mood [affective] disorders"
+              },
+              {
+                "MA": "F34.9",
+                "TEN": "Rối loạn khí sắc [cảm xúc] dai dẳng không đặc hiệu",
+                "TEN_EN": "Persistent mood [affective] disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F38",
+            "TEN": "Rối loạn khí sắc [cảm xúc] khác",
+            "TEN_EN": "Other mood [affective] disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F38.0",
+                "TEN": "Các rối loạn khí sắc [cảm xúc] đơn độc khác",
+                "TEN_EN": "Other single mood [affective] disorders"
+              },
+              {
+                "MA": "F38.1",
+                "TEN": "Rối loạn khí sắc [cảm xúc] tái diễn",
+                "TEN_EN": "Other recurrent mood [affective] disorders"
+              },
+              {
+                "MA": "F38.8",
+                "TEN": "Rối loạn khí sắc [cảm xúc] biệt định khác",
+                "TEN_EN": "Other specified mood [affective] disorders"
+              }
+            ]
+          },
+          {
+            "MA": "F39",
+            "TEN": "Rối loạn khí sắc (cảm xúc) biệt định",
+            "TEN_EN": "Unspecified mood (affective) disorder",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "F40-F48",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn bệnh tâm căn có liên quan đến stress và rối loạn dạng cơ thể",
-        "TEN_EN": "Neurotic, stress-related and somatoform disorders"
+        "TEN_EN": "Neurotic, stress-related and somatoform disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F40",
+            "TEN": "Rối loạn lo âu ám ảnh sợ hãi",
+            "TEN_EN": "Phobic anxiety disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F40.0",
+                "TEN": "Ám ảnh sợ khoảng trống",
+                "TEN_EN": "Agoraphobia"
+              },
+              {
+                "MA": "F40.1",
+                "TEN": "Ám ảnh sợ xã hội",
+                "TEN_EN": "Social phobias"
+              },
+              {
+                "MA": "F40.2",
+                "TEN": "Ám ảnh sợ đặc hiệu (riêng lẻ)",
+                "TEN_EN": "Specific (isolated) phobias"
+              },
+              {
+                "MA": "F40.8",
+                "TEN": "Các rối loạn lo âu ám ảnh sợ khác",
+                "TEN_EN": "Other phobic anxiety disorders"
+              },
+              {
+                "MA": "F40.9",
+                "TEN": "Rối loạn lo âu ám ảnh sợ, không biệt định",
+                "TEN_EN": "Phobic anxiety disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F41",
+            "TEN": "Các rối loạn lo âu khác",
+            "TEN_EN": "Other anxiety disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F41.0",
+                "TEN": "Rối loạn hoảng sợ [lo âu kịch phát từng giai đoạn]",
+                "TEN_EN": "Panic disorder [episodic paroxysmal anxiety]"
+              },
+              {
+                "MA": "F41.1",
+                "TEN": "Rối loạn lo âu lan toả",
+                "TEN_EN": "Generalized anxiety disorder"
+              },
+              {
+                "MA": "F41.2",
+                "TEN": "Rối loạn hỗn hợp lo âu và trầm cảm",
+                "TEN_EN": "Mixed anxiety and depressive disorder"
+              },
+              {
+                "MA": "F41.3",
+                "TEN": "Các rối loạn lo âu hỗn hợp khác",
+                "TEN_EN": "Other mixed anxiety disorders"
+              },
+              {
+                "MA": "F41.8",
+                "TEN": "Các rối loạn lo âu biệt định khác",
+                "TEN_EN": "Other specified anxiety disorders"
+              },
+              {
+                "MA": "F41.9",
+                "TEN": "Rối loạn lo âu, không biệt định",
+                "TEN_EN": "Anxiety disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F42",
+            "TEN": "Rối loạn ám ảnh nghi thức",
+            "TEN_EN": "Obsessive-compulsive disorder",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F42.0",
+                "TEN": "Những ý tưởng hoặc nghiền ngẫm ám ảnh chiếm ưu thế",
+                "TEN_EN": "Predominantly obsessional thoughts or ruminations"
+              },
+              {
+                "MA": "F42.1",
+                "TEN": "Các hành vi nghi thức chiếm ưu thế [các nghi thức ám ảnh]",
+                "TEN_EN": "Predominantly compulsive acts [obsessional rituals]"
+              },
+              {
+                "MA": "F42.2",
+                "TEN": "Các ý tưởng và các hành vi ám ảnh hỗn hợp",
+                "TEN_EN": "Mixed obsessional thoughts and acts"
+              },
+              {
+                "MA": "F42.8",
+                "TEN": "Rối loạn ám ảnh nghi thức khác",
+                "TEN_EN": "Other obsessive-compulsive disorders"
+              },
+              {
+                "MA": "F42.9",
+                "TEN": "Rối loạn ám ảnh nghi thức, không biệt định",
+                "TEN_EN": "Obsessive-compulsive disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F43",
+            "TEN": "Phản ứng với stress trầm trọng và rối loạn sự thích ứng",
+            "TEN_EN": "Reaction to severe stress, and adjustment disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F43.0",
+                "TEN": "Phản ứng stress cấp",
+                "TEN_EN": "Acute stress reaction"
+              },
+              {
+                "MA": "F43.1",
+                "TEN": "Rối loạn stress sau sang chấn",
+                "TEN_EN": "Post-traumatic stress disorder"
+              },
+              {
+                "MA": "F43.2",
+                "TEN": "các rối loạn sự thích ứng",
+                "TEN_EN": "Adjustment disorders"
+              },
+              {
+                "MA": "F43.8",
+                "TEN": "Phản ứng khác với stress trầm trọng",
+                "TEN_EN": "Other reactions to severe stress"
+              },
+              {
+                "MA": "F43.9",
+                "TEN": "Phản ứng với stress trầm trọng, không đặc hiệu",
+                "TEN_EN": "Reaction to severe stress, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F44",
+            "TEN": "Các rối loạn phân ly [chuyển di]",
+            "TEN_EN": "Dissociative [conversion] disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F44.0",
+                "TEN": "Quên phân ly",
+                "TEN_EN": "Dissociative amnesia"
+              },
+              {
+                "MA": "F44.1",
+                "TEN": "Trốn nhà phân ly",
+                "TEN_EN": "Dissociative fugue"
+              },
+              {
+                "MA": "F44.2",
+                "TEN": "Sững sờ phân ly",
+                "TEN_EN": "Dissociative stupor"
+              },
+              {
+                "MA": "F44.3",
+                "TEN": "Rối loạn lên đồng và bị xâm nhập",
+                "TEN_EN": "Trance and possession disorders"
+              },
+              {
+                "MA": "F44.4",
+                "TEN": "Rối loạn vận động phân ly",
+                "TEN_EN": "Dissociative motor disorders"
+              },
+              {
+                "MA": "F44.5",
+                "TEN": "Co giật phân ly",
+                "TEN_EN": "Dissociative convulsions"
+              },
+              {
+                "MA": "F44.6",
+                "TEN": "Tê và mất cảm giác phân ly",
+                "TEN_EN": "Dissociative anaesthesia and sensory loss"
+              },
+              {
+                "MA": "F44.7",
+                "TEN": "Rối loạn phân ly [chuyển di] hỗn hợp",
+                "TEN_EN": "Mixed dissociative [conversion] disorders"
+              },
+              {
+                "MA": "F44.8",
+                "TEN": "Rối loạn phân ly [chuyển di] khác",
+                "TEN_EN": "Other dissociative [conversion] disorders"
+              },
+              {
+                "MA": "F44.9",
+                "TEN": "Rối loạn phân ly [chuyển di], không biệt định",
+                "TEN_EN": "Dissociative [conversion] disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F45",
+            "TEN": "Rối loạn dạng cơ thể",
+            "TEN_EN": "Somatoform disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F45.0",
+                "TEN": "Rối loạn cơ thể hóa",
+                "TEN_EN": "Somatization disorder"
+              },
+              {
+                "MA": "F45.1",
+                "TEN": "Rối loạn dạng cơ thể không biệt định",
+                "TEN_EN": "Undifferentiated somatoform disorder"
+              },
+              {
+                "MA": "F45.2",
+                "TEN": "Rối loạn nghi bệnh",
+                "TEN_EN": "Hypochondriacal disorder"
+              },
+              {
+                "MA": "F45.3",
+                "TEN": "Loạn chức năng thần kinh tự trị dạng cơ thể",
+                "TEN_EN": "Somatoform autonomic dysfunction"
+              },
+              {
+                "MA": "F45.4",
+                "TEN": "Rối loạn đau dạng cơ thể dai dẳng",
+                "TEN_EN": "Persistent somatoform pain disorder"
+              },
+              {
+                "MA": "F45.8",
+                "TEN": "Rối loạn dạng cơ thể khác",
+                "TEN_EN": "Other somatoform disorders"
+              },
+              {
+                "MA": "F45.9",
+                "TEN": "Rối loạn dạng cơ thể, không biệt định",
+                "TEN_EN": "Somatoform disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F48",
+            "TEN": "Các rối loạn tâm căn khác",
+            "TEN_EN": "Other neurotic disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F48.0",
+                "TEN": "Bệnh suy nhược thần kinh",
+                "TEN_EN": "Neurasthenia"
+              },
+              {
+                "MA": "F48.1",
+                "TEN": "Hội chứng giải thể nhân cách-tri giác sai thực tại",
+                "TEN_EN": "Depersonalization-derealization syndrome"
+              },
+              {
+                "MA": "F48.8",
+                "TEN": "Rối loạn tâm căn biệt định khác",
+                "TEN_EN": "Other specified neurotic disorders"
+              },
+              {
+                "MA": "F48.9",
+                "TEN": "Rối loạn tâm căn, không biệt định",
+                "TEN_EN": "Neurotic disorder, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "F50-F59",
         "MA_TRONG_CHUONG": "",
         "TEN": "Hội chứng hành vi kết hợp với rối loạn sinh lý và nhân tố cơ thể",
-        "TEN_EN": "Behavioural syndromes associated with physiological disturbances and physical factors"
+        "TEN_EN": "Behavioural syndromes associated with physiological disturbances and physical factors",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F50",
+            "TEN": "Các rối loạn ăn uống",
+            "TEN_EN": "Eating disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F50.0",
+                "TEN": "Chán ăn tâm thần",
+                "TEN_EN": "Anorexia nervosa"
+              },
+              {
+                "MA": "F50.1",
+                "TEN": "Chán ăn tâm thần không điển hình",
+                "TEN_EN": "Atypical anorexia nervosa"
+              },
+              {
+                "MA": "F50.2",
+                "TEN": "Ăn vô độ tâm thần",
+                "TEN_EN": "Bulimia nervosa"
+              },
+              {
+                "MA": "F50.3",
+                "TEN": "Ăn vô độ tâm thần không điển hình",
+                "TEN_EN": "Atypical bulimia nervosa"
+              },
+              {
+                "MA": "F50.4",
+                "TEN": "Chứng ăn nhiều kết hợp với các rối loạn tâm lý khác",
+                "TEN_EN": "Overeating associated with other psychological disturbances"
+              },
+              {
+                "MA": "F50.5",
+                "TEN": "Nôn kết hợp với các rối loạn tâm lý khác",
+                "TEN_EN": "Vomiting associated with other psychological disturbances"
+              },
+              {
+                "MA": "F50.8",
+                "TEN": "Rối loạn ăn uống khác",
+                "TEN_EN": "Other eating disorders"
+              },
+              {
+                "MA": "F50.9",
+                "TEN": "Rối loạn ăn uống, không biệt định",
+                "TEN_EN": "Eating disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F51",
+            "TEN": "Rối loạn giấc ngủ không thực tổn",
+            "TEN_EN": "Nonorganic sleep disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F51.0",
+                "TEN": "Mất ngủ không thực tổn",
+                "TEN_EN": "Nonorganic insomnia"
+              },
+              {
+                "MA": "F51.1",
+                "TEN": "Ngủ nhiều không thực tổn",
+                "TEN_EN": "Nonorganic hypersomnia"
+              },
+              {
+                "MA": "F51.2",
+                "TEN": "Rối loạn nhịp thức ngủ không thực tổn",
+                "TEN_EN": "Nonorganic disorder of the sleep-wake schedule"
+              },
+              {
+                "MA": "F51.3",
+                "TEN": "Chứng miên hành",
+                "TEN_EN": "Sleepwalking [somnambulism]"
+              },
+              {
+                "MA": "F51.4",
+                "TEN": "Hoảng sợ khi ngủ [hoảng sợ ban đêm]",
+                "TEN_EN": "Sleep terrors [night terrors]"
+              },
+              {
+                "MA": "F51.5",
+                "TEN": "Ác mộng",
+                "TEN_EN": "Nightmares"
+              },
+              {
+                "MA": "F51.8",
+                "TEN": "Rối loạn giấc ngủ không thực tổn khác",
+                "TEN_EN": "Other nonorganic sleep disorders"
+              },
+              {
+                "MA": "F51.9",
+                "TEN": "Rối loạn giấc ngủ không thực tổn, không biệt định",
+                "TEN_EN": "Nonorganic sleep disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F52",
+            "TEN": "Loạn chức năng tình dục, không do rối loạn hoặc bệnh thực tổn",
+            "TEN_EN": "Sexual dysfunction, not caused by organic disorder or disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F52.0",
+                "TEN": "Thiếu hoặc mất ham muốn tình dục",
+                "TEN_EN": "Lack or loss of sexual desire"
+              },
+              {
+                "MA": "F52.1",
+                "TEN": "Ghét sợ tình dục và thiếu thích thú tình dục",
+                "TEN_EN": "Sexual aversion and lack of sexual enjoyment"
+              },
+              {
+                "MA": "F52.2",
+                "TEN": "Thất bại trong đáp ứng tình dục",
+                "TEN_EN": "Failure of genital response"
+              },
+              {
+                "MA": "F52.3",
+                "TEN": "Loạn chức năng cực khóai",
+                "TEN_EN": "Orgasmic dysfunction"
+              },
+              {
+                "MA": "F52.4",
+                "TEN": "Phóng tinh sớm",
+                "TEN_EN": "Premature ejaculation"
+              },
+              {
+                "MA": "F52.5",
+                "TEN": "Co thắt âm đạo không do nguyên nhân thực thể",
+                "TEN_EN": "Nonorganic vaginismus"
+              },
+              {
+                "MA": "F52.6",
+                "TEN": "Đau khi giao hợp không thực tổn",
+                "TEN_EN": "Nonorganic dyspareunia"
+              },
+              {
+                "MA": "F52.7",
+                "TEN": "Xu hướng tình dục quá độ",
+                "TEN_EN": "Excessive sexual drive"
+              },
+              {
+                "MA": "F52.8",
+                "TEN": "Loạn chức năng tình dục khác, không do bệnh lý hoặc rối loạn thực tổn",
+                "TEN_EN": "Other sexual dysfunction, not caused by organic disorder or disease"
+              },
+              {
+                "MA": "F52.9",
+                "TEN": "Loạn chức năng tình dục không biệt định khác, không do bệnh lý hoặc rối loạn thực tổn",
+                "TEN_EN": "Unspecified sexual dysfunction, not caused by organic disorder or disease"
+              }
+            ]
+          },
+          {
+            "MA": "F53",
+            "TEN": "Rối loạn hành vi và tâm thần kết hợp với thời kì sinh đẻ, không phân loại ở nơi khác",
+            "TEN_EN": "Mental and behavioural disorders associated with the puerperium, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F53.0",
+                "TEN": "Rối loạn hành vi và tâm thần nhẹ kết hợp với thời kì sinh đẻ, không phân loại nơi khác",
+                "TEN_EN": "Mild mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+              },
+              {
+                "MA": "F53.1",
+                "TEN": "Rối loạn hành vi và tâm thần nặng kết hợp với thời kì sinh đẻ, không phân loại nơi khác",
+                "TEN_EN": "Severe mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+              },
+              {
+                "MA": "F53.8",
+                "TEN": "Các rối loạn hành vi và tâm thần khác kết hợp với thời kì sinh đẻ, không phân loại nơi khác",
+                "TEN_EN": "Other mental and behavioural disorders associated with the puerperium, not elsewhere classified"
+              },
+              {
+                "MA": "F53.9",
+                "TEN": "Rối loạn tâm thần kết hợp với thời kì sinh đẻ, không biệt định",
+                "TEN_EN": "Puerperal mental disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F54",
+            "TEN": "Các nhân tố tâm lý và hành vi kết hợp với rối loạn hoặc các bệnh phân loại ở nơi khác",
+            "TEN_EN": "Psychological and behavioural factors associated with disorders or diseases classified elsewhere",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F55",
+            "TEN": "Lạm dụng các chất không gây nghiện",
+            "TEN_EN": "Abuse of non-dependence-producing substances",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F59",
+            "TEN": "Các hội chứng hành vi ứng xử không biệt định kết hợp với rối loạn sinh lý và yếu tố thể chất ",
+            "TEN_EN": "Unspecified behavioural syndromes associated with physiological disturbances and physical factors",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "F60-F69",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn nhân cách và hành vi ở người trưởng thành",
-        "TEN_EN": "Disorders of adult personality and behaviour"
+        "TEN_EN": "Disorders of adult personality and behaviour",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F60",
+            "TEN": "Rối loạn nhân cách đặc hiệu",
+            "TEN_EN": "Specific personality disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F60.0",
+                "TEN": "Rối loạn nhân cách paranoid",
+                "TEN_EN": "Paranoid personality disorder"
+              },
+              {
+                "MA": "F60.1",
+                "TEN": "Rối loạn nhân cách dạng phân liệt",
+                "TEN_EN": "Schizoid personality disorder"
+              },
+              {
+                "MA": "F60.2",
+                "TEN": "Rối loạn nhân cách chống đối xã hội",
+                "TEN_EN": "Dissocial personality disorder"
+              },
+              {
+                "MA": "F60.3",
+                "TEN": "Rối loạn nhân cách cảm xúc không ổn định",
+                "TEN_EN": "Emotionally unstable personality disorder"
+              },
+              {
+                "MA": "F60.4",
+                "TEN": "Rối loạn nhân cách kịch tính",
+                "TEN_EN": "Histrionic personality disorder"
+              },
+              {
+                "MA": "F60.5",
+                "TEN": "Rối loạn nhân cách ám ảnh nghi thức",
+                "TEN_EN": "Anankastic personality disorder"
+              },
+              {
+                "MA": "F60.6",
+                "TEN": "Rối loạn nhân cách lo âu [tránh né]",
+                "TEN_EN": "Anxious [avoidant] personality disorder"
+              },
+              {
+                "MA": "F60.7",
+                "TEN": "Rối loạn nhân cách phụ thuộc",
+                "TEN_EN": "Dependent personality disorder"
+              },
+              {
+                "MA": "F60.8",
+                "TEN": "Rối loạn nhân cách đặc hiệu khác",
+                "TEN_EN": "Other specific personality disorders"
+              },
+              {
+                "MA": "F60.9",
+                "TEN": "Rối loạn nhân cách, không biệt định",
+                "TEN_EN": "Personality disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F61",
+            "TEN": "Rối loạn nhân cách khác và hỗn hợp",
+            "TEN_EN": "Mixed and other personality disorders",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F62",
+            "TEN": "Biến đổi nhân cách kéo dài, không thể quy cho một tổn thương hay bệnh não",
+            "TEN_EN": "Enduring personality changes, not attributable to brain damage and disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F62.0",
+                "TEN": "Thay đổi nhân cách kéo dài sau một sự kiện thảm họa",
+                "TEN_EN": "Enduring personality change after catastrophic experience"
+              },
+              {
+                "MA": "F62.1",
+                "TEN": "Thay đổi nhân cách kéo dài sau bệnh tâm thần",
+                "TEN_EN": "Enduring personality change after psychiatric illness"
+              },
+              {
+                "MA": "F62.8",
+                "TEN": "Thay đổi nhân cách kéo dài khác",
+                "TEN_EN": "Other enduring personality changes"
+              },
+              {
+                "MA": "F62.9",
+                "TEN": "Thay đổi nhân cách kéo dài không biệt định",
+                "TEN_EN": "Enduring personality change, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F63",
+            "TEN": "Rối loạn thói quen và xung động",
+            "TEN_EN": "Habit and impulse disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F63.0",
+                "TEN": "Đánh bạc bệnh lý",
+                "TEN_EN": "Pathological gambling"
+              },
+              {
+                "MA": "F63.1",
+                "TEN": "Gây cháy bệnh lý",
+                "TEN_EN": "Pathological fire-setting [pyromania]"
+              },
+              {
+                "MA": "F63.2",
+                "TEN": "Trộm cắp bệnh lý",
+                "TEN_EN": "Pathological stealing [kleptomania]"
+              },
+              {
+                "MA": "F63.3",
+                "TEN": "Nhổ tóc",
+                "TEN_EN": "Trichotillomania"
+              },
+              {
+                "MA": "F63.8",
+                "TEN": "Rối loạn thói quen và xung động khác",
+                "TEN_EN": "Other habit and impulse disorders"
+              },
+              {
+                "MA": "F63.9",
+                "TEN": "Rối loạn thói quen và xung động không biệt định",
+                "TEN_EN": "Habit and impulse disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F64",
+            "TEN": "Các rối loạn phân định giới tính",
+            "TEN_EN": "Gender identity disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F64.0",
+                "TEN": "Loạn dục chuyển giới",
+                "TEN_EN": "Transsexualism"
+              },
+              {
+                "MA": "F64.1",
+                "TEN": "Loạn dục cải trang, vai trò kép",
+                "TEN_EN": "Dual-role transvestism"
+              },
+              {
+                "MA": "F64.2",
+                "TEN": "Rối loạn xác định giới tính ở trẻ em",
+                "TEN_EN": "Gender identity disorder of childhood"
+              },
+              {
+                "MA": "F64.8",
+                "TEN": "Rối loạn xác định giới tính khác",
+                "TEN_EN": "Other gender identity disorders"
+              },
+              {
+                "MA": "F64.9",
+                "TEN": "Rối loạn phân định giới tính không biệt định",
+                "TEN_EN": "Gender identity disorder, unspecified",
+                "BAO_GOM": "Rối loạn vai trò giới tính không biệt định khác",
+                "BAO_GOM_EN": "Gender-role disorder NOS"
+              }
+            ]
+          },
+          {
+            "MA": "F65",
+            "TEN": "Rối loạn trong ưa chuộng tình dục",
+            "TEN_EN": "Disorders of sexual preference",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F65.0",
+                "TEN": "Loạn dục đồ vật",
+                "TEN_EN": "Fetishism"
+              },
+              {
+                "MA": "F65.1",
+                "TEN": "Loạn dục cải trang đồ vật",
+                "TEN_EN": "Fetishistic transvestism"
+              },
+              {
+                "MA": "F65.2",
+                "TEN": "Loạn dục phô bày",
+                "TEN_EN": "Exhibitionism"
+              },
+              {
+                "MA": "F65.3",
+                "TEN": "Loạn dục nhìn trộm",
+                "TEN_EN": "Voyeurism"
+              },
+              {
+                "MA": "F65.4",
+                "TEN": "Loạn dục với trẻ em",
+                "TEN_EN": "Paedophilia"
+              },
+              {
+                "MA": "F65.5",
+                "TEN": "Loạn dục gây đau chủ động và bị động",
+                "TEN_EN": "Sadomasochism"
+              },
+              {
+                "MA": "F65.6",
+                "TEN": "Đa rối loạn ưa chuộng tình dục",
+                "TEN_EN": "Multiple disorders of sexual preference"
+              },
+              {
+                "MA": "F65.8",
+                "TEN": "Rối loạn ưa chuộng tình dục khác",
+                "TEN_EN": "Other disorders of sexual preference"
+              },
+              {
+                "MA": "F65.9",
+                "TEN": "Rối loạn ưa chuộng tình dục, không biệt định",
+                "TEN_EN": "Disorder of sexual preference, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F66",
+            "TEN": "Những rối loạn tâm lý và hành vi kết hợp với sự phát triển và định hướng tình dục",
+            "TEN_EN": "Psychological and behavioural disorders associated with sexual development and orientation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F66.0",
+                "TEN": "Rối loạn về sự trưởng thành tình dục",
+                "TEN_EN": "Sexual maturation disorder"
+              },
+              {
+                "MA": "F66.1",
+                "TEN": "Định hướng tình dục loạn trương lực bản thân",
+                "TEN_EN": "Egodystonic sexual orientation"
+              },
+              {
+                "MA": "F66.2",
+                "TEN": "Rối loạn quan hệ tình dục",
+                "TEN_EN": "Sexual relationship disorder"
+              },
+              {
+                "MA": "F66.8",
+                "TEN": "Những rối loạn phát triển tâm lý tình dục khác",
+                "TEN_EN": "Other psychosexual development disorders"
+              },
+              {
+                "MA": "F66.9",
+                "TEN": "Rối loạn phát triển tâm lý tình dục, không biệt định",
+                "TEN_EN": "Psychosexual development disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F68",
+            "TEN": "Rối loạn khác về hành vi và nhân cách ở người trưởng thành",
+            "TEN_EN": "Other disorders of adult personality and behaviour",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F68.0",
+                "TEN": "Hình thành các triệu chứng cơ thể vì lý do tâm lý",
+                "TEN_EN": "Elaboration of physical symptoms for psychological reasons"
+              },
+              {
+                "MA": "F68.1",
+                "TEN": "Dụng ý đưa ra hay giả tạo các triệu chứng hoặc rối loạn hoạt năng cơ thể hoặc tâm lý [rối loạn giả tạo]",
+                "TEN_EN": "Intentional production or feigning of symptoms or disabilities, either physical or psychological [factitious disorder]"
+              },
+              {
+                "MA": "F68.8",
+                "TEN": "Rối loạn biệt định khác về nhân cách và hành vi ở người trưởng thành",
+                "TEN_EN": "Other specified disorders of adult personality and behaviour"
+              }
+            ]
+          },
+          {
+            "MA": "F69",
+            "TEN": "Rối loạn không biệt định về nhân cách và hành vi ở người trưởng thành",
+            "TEN_EN": "Unspecified disorder of adult personality and behaviour",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "F70-F79",
         "MA_TRONG_CHUONG": "",
         "TEN": "Chậm phát triển tâm thần",
-        "TEN_EN": "Mental retardation"
+        "TEN_EN": "Mental retardation",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F70",
+            "TEN": "Chậm phát triển tâm thần nhẹ",
+            "TEN_EN": "Mild mental retardation",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F71",
+            "TEN": "Chậm phát triển tâm thần trung bình",
+            "TEN_EN": "Moderate mental retardation",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F72",
+            "TEN": "Chậm phát triển tâm thần nặng",
+            "TEN_EN": "Severe mental retardation",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F73",
+            "TEN": "Chậm phát triển tâm thần nghiêm trọng",
+            "TEN_EN": "Profound mental retardation",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F78",
+            "TEN": "Chậm phát triển tâm thần khác",
+            "TEN_EN": "Other mental retardation",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F79",
+            "TEN": "Chậm phát triển tâm thần không biệt định",
+            "TEN_EN": "Unspecified mental retardation",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "F80-F89",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn về phát triển tâm lý",
-        "TEN_EN": "Disorders of psychological development"
+        "TEN_EN": "Disorders of psychological development",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F80",
+            "TEN": "Các rối loạn đặc hiệu về phát triển lời nói và ngôn ngữ",
+            "TEN_EN": "Specific developmental disorders of speech and language",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F80.0",
+                "TEN": "Rối loạn đặc hiệu trong sự kết âm",
+                "TEN_EN": "Specific speech articulation disorder"
+              },
+              {
+                "MA": "F80.1",
+                "TEN": "Rối loạn ngôn ngữ biểu hiện",
+                "TEN_EN": "Expressive language disorder"
+              },
+              {
+                "MA": "F80.2",
+                "TEN": "Rối loạn ngôn ngữ tiếp nhận",
+                "TEN_EN": "Receptive language disorder"
+              },
+              {
+                "MA": "F80.3",
+                "TEN": "Vong ngôn mắc phải với động kinh [Landau-Kleffner]",
+                "TEN_EN": "Acquired aphasia with epilepsy [Landau-Kleffner]"
+              },
+              {
+                "MA": "F80.8",
+                "TEN": "Rối loạn phát triển về lời nói và ngôn ngữ khác",
+                "TEN_EN": "Other developmental disorders of speech and language"
+              },
+              {
+                "MA": "F80.9",
+                "TEN": "Rối loạn phát triển về lời nói và ngôn ngữ không đặc hiệu",
+                "TEN_EN": "Developmental disorder of speech and language, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F81",
+            "TEN": "Rối loạn đặc hiệu về phát triển các kỹ năng ở trường",
+            "TEN_EN": "Specific developmental disorders of scholastic skills",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F81.0",
+                "TEN": "Rối loạn đặc hiệu về đọc",
+                "TEN_EN": "Specific reading disorder"
+              },
+              {
+                "MA": "F81.1",
+                "TEN": "Rối loạn đặc hiệu về chính tả",
+                "TEN_EN": "Specific spelling disorder"
+              },
+              {
+                "MA": "F81.2",
+                "TEN": "Rối loạn đặc hiệu về kỹ năng tính toán",
+                "TEN_EN": "Specific disorder of arithmetical skills"
+              },
+              {
+                "MA": "F81.3",
+                "TEN": "Rối loạn hỗn hợp các kỹ năng ở nhà trường",
+                "TEN_EN": "Mixed disorder of scholastic skills"
+              },
+              {
+                "MA": "F81.8",
+                "TEN": "Rối loạn khác về sự phát triển các kỹ năng ở trường",
+                "TEN_EN": "Other developmental disorders of scholastic skills"
+              },
+              {
+                "MA": "F81.9",
+                "TEN": "Rối loạn phát triển của kỹ năng ở trường, không biệt định",
+                "TEN_EN": "Developmental disorder of scholastic skills, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F82",
+            "TEN": "Rối loạn đặc hiệu sự phát triển chức\nnăng vận động",
+            "TEN_EN": "Specific developmental disorder of motor function",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F83",
+            "TEN": "Các rối loạn đặc hiệu hỗn hợp của\nsự phát triển",
+            "TEN_EN": "Mixed specific developmental disorders ",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F84",
+            "TEN": "Rối loạn lan tỏa sự phát triển",
+            "TEN_EN": "Pervasive developmental disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F84.0",
+                "TEN": "Tính tự kỷ ở trẻ em",
+                "TEN_EN": "Childhood autism"
+              },
+              {
+                "MA": "F84.1",
+                "TEN": "Tính tự kỷ không điển hình",
+                "TEN_EN": "Atypical autism"
+              },
+              {
+                "MA": "F84.2",
+                "TEN": "Hội chứng Rett",
+                "TEN_EN": "Rett s syndrome"
+              },
+              {
+                "MA": "F84.3",
+                "TEN": "Rối loạn phân rã khác của trẻ em",
+                "TEN_EN": "Other childhood disintegrative disorder"
+              },
+              {
+                "MA": "F84.4",
+                "TEN": "Rối loạn tăng hoạt động kết hợp với chậm phát triển tâm thần và các động tác định hình",
+                "TEN_EN": "Overactive disorder associated with mental retardation and stereotyped movements"
+              },
+              {
+                "MA": "F84.5",
+                "TEN": "Hội chứng Asperger",
+                "TEN_EN": "Asperger s syndrome"
+              },
+              {
+                "MA": "F84.8",
+                "TEN": "Các rối loạn lan tỏa khác của sự phát triển",
+                "TEN_EN": "Other pervasive developmental disorders"
+              },
+              {
+                "MA": "F84.9",
+                "TEN": "Rối loạn phát triển lan tỏa không biệt định",
+                "TEN_EN": "Pervasive developmental disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F88",
+            "TEN": "Các rối loạn khác của phát triển tâm lý",
+            "TEN_EN": "Other disorders of psychological development",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "F89",
+            "TEN": "Rối loạn không biệt định của phát triển tâm lý",
+            "TEN_EN": "Unspecified disorder of psychological development",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "F90-F98",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn hành vi và cảm xúc thường khởi phát ở tuổi trẻ em và thanh thiếu niên",
-        "TEN_EN": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence"
+        "TEN_EN": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F90",
+            "TEN": "Các rối loạn tăng động",
+            "TEN_EN": "Hyperkinetic disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F90.0",
+                "TEN": "Rối loạn của hoạt động và chú ý",
+                "TEN_EN": "Disturbance of activity and attention"
+              },
+              {
+                "MA": "F90.1",
+                "TEN": "Rối loạn hành vi tăng động",
+                "TEN_EN": "Hyperkinetic conduct disorder"
+              },
+              {
+                "MA": "F90.8",
+                "TEN": "Rối loạn tăng động khác",
+                "TEN_EN": "Other hyperkinetic disorders"
+              },
+              {
+                "MA": "F90.9",
+                "TEN": "Rối loạn tăng động, không biệt định",
+                "TEN_EN": "Hyperkinetic disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F91",
+            "TEN": "Rối loạn hành vi",
+            "TEN_EN": "Conduct disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F91.0",
+                "TEN": "Rối loạn hành vi khu trú trong môi trường gia đình",
+                "TEN_EN": "Conduct disorder confined to the family context"
+              },
+              {
+                "MA": "F91.1",
+                "TEN": "Rối loạn hành vi ở những người kém thích ứng xã hội",
+                "TEN_EN": "Unsocialized conduct disorder"
+              },
+              {
+                "MA": "F91.2",
+                "TEN": "Rối loạn cư xử xã hội hóa",
+                "TEN_EN": "Socialized conduct disorder"
+              },
+              {
+                "MA": "F91.3",
+                "TEN": "Rối loạn hành vi ở những người còn thích ứng xã hội",
+                "TEN_EN": "Oppositional defiant disorder"
+              },
+              {
+                "MA": "F91.8",
+                "TEN": "Các rối loạn hành vi khác",
+                "TEN_EN": "Other conduct disorders"
+              },
+              {
+                "MA": "F91.9",
+                "TEN": "Rối loạn hành vi, không biệt định",
+                "TEN_EN": "Conduct disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F92",
+            "TEN": "Các rối loạn hỗn hợp về hành vi và cảm xúc",
+            "TEN_EN": "Mixed disorders of conduct and emotions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F92.0",
+                "TEN": "Rối loạn hành vi trầm cảm",
+                "TEN_EN": "Depressive conduct disorder"
+              },
+              {
+                "MA": "F92.8",
+                "TEN": "Rối loạn hỗn hợp của hành vi và cảm xúc khác",
+                "TEN_EN": "Other mixed disorders of conduct and emotions"
+              },
+              {
+                "MA": "F92.9",
+                "TEN": "Rối loạn hỗn hợp của hành vi và cảm xúc không biệt định",
+                "TEN_EN": "Mixed disorder of conduct and emotions, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F93",
+            "TEN": "Rối loạn cảm xúc với sự khởi phát đặc biệt ở trẻ em",
+            "TEN_EN": "Emotional disorders with onset specific to childhood",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F93.0",
+                "TEN": "Rối loạn lo âu chia ly ở trẻ em",
+                "TEN_EN": "Separation anxiety disorder of childhood"
+              },
+              {
+                "MA": "F93.1",
+                "TEN": "Rối loạn ám ảnh sợ ở trẻ em",
+                "TEN_EN": "Phobic anxiety disorder of childhood"
+              },
+              {
+                "MA": "F93.2",
+                "TEN": "Rối loạn lo âu xã hội ở trẻ em",
+                "TEN_EN": "Social anxiety disorder of childhood"
+              },
+              {
+                "MA": "F93.3",
+                "TEN": "Rối loạn ganh tỵ đối với anh chị em ruột",
+                "TEN_EN": "Sibling rivalry disorder"
+              },
+              {
+                "MA": "F93.8",
+                "TEN": "Rối loạn cảm xúc khác ở trẻ em",
+                "TEN_EN": "Other childhood emotional disorders"
+              },
+              {
+                "MA": "F93.9",
+                "TEN": "Rối loạn cảm xúc ở tuổi trẻ em, không biệt định",
+                "TEN_EN": "Childhood emotional disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F94",
+            "TEN": "Các rối loạn hoạt động xã hội khởi phát đặc biệt ở tuổi trẻ em và thanh thiếu niên",
+            "TEN_EN": "Disorders of social functioning with onset specific to childhood and adolescence",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F94.0",
+                "TEN": "Không nói chọn lọc",
+                "TEN_EN": "Elective mutism"
+              },
+              {
+                "MA": "F94.1",
+                "TEN": "Rối loạn phản ứng trong sự gắn bó ở tuổi trẻ em",
+                "TEN_EN": "Reactive attachment disorder of childhood"
+              },
+              {
+                "MA": "F94.2",
+                "TEN": "Rối loạn sự gắn bó giải ức chế của trẻ em",
+                "TEN_EN": "Disinhibited attachment disorder of childhood"
+              },
+              {
+                "MA": "F94.8",
+                "TEN": "Rối loạn khác ở trẻ em về hoạt động xã hội",
+                "TEN_EN": "Other childhood disorders of social functioning"
+              },
+              {
+                "MA": "F94.9",
+                "TEN": "Rối loạn hoạt động xã hội ở trẻ em không biệt định",
+                "TEN_EN": "Childhood disorder of social functioning, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F95",
+            "TEN": "Các rối loạn Tic",
+            "TEN_EN": "Tic disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F95.0",
+                "TEN": "Rối loạn Tic nhất thời",
+                "TEN_EN": "Transient tic disorder"
+              },
+              {
+                "MA": "F95.1",
+                "TEN": "Rối loạn Tic vận động hoặc lời nói mãn tính",
+                "TEN_EN": "Chronic motor or vocal tic disorder"
+              },
+              {
+                "MA": "F95.2",
+                "TEN": "Rối loạn kết hợp Tic lời nói với Tic vận động nhiều loại [Hội chứng Tourette]",
+                "TEN_EN": "Combined vocal and multiple motor tic disorder [de la Tourette]"
+              },
+              {
+                "MA": "F95.8",
+                "TEN": "Các rối loạn Tic khác",
+                "TEN_EN": "Other tic disorders"
+              },
+              {
+                "MA": "F95.9",
+                "TEN": "Rối loạn Tic, không biệt định",
+                "TEN_EN": "Tic disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "F98",
+            "TEN": "Các rối loạn tác phong và cảm xúc khác thường khởi phát ở lứa tuổi trẻ em và thanh thiếu niên",
+            "TEN_EN": "Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "F98.0",
+                "TEN": "Đái dầm không thực tổn",
+                "TEN_EN": "Nonorganic enuresis"
+              },
+              {
+                "MA": "F98.1",
+                "TEN": "Ỉa bậy không do thực tổn",
+                "TEN_EN": "Nonorganic encopresis"
+              },
+              {
+                "MA": "F98.2",
+                "TEN": "Rối loạn ăn uống ở trẻ dưới một năm và trẻ em",
+                "TEN_EN": "Feeding disorder of infancy and childhood"
+              },
+              {
+                "MA": "F98.3",
+                "TEN": "Chứng ăn chất không dinh dưỡng ở trẻ dưới một năm và trẻ em",
+                "TEN_EN": "Pica of infancy and childhood"
+              },
+              {
+                "MA": "F98.4",
+                "TEN": "Rối loạn động tác định hình",
+                "TEN_EN": "Stereotyped movement disorders"
+              },
+              {
+                "MA": "F98.5",
+                "TEN": "Nói lắp",
+                "TEN_EN": "Stuttering [stammering]"
+              },
+              {
+                "MA": "F98.6",
+                "TEN": "Nói lúng búng",
+                "TEN_EN": "Cluttering"
+              },
+              {
+                "MA": "F98.8",
+                "TEN": "Rối loạn hành vi cảm xúc biệt định khác, thường khởi phát trong tuổi trẻ em và thanh thiếu niên",
+                "TEN_EN": "Other specified behavioural and emotional disorders with onset usually occurring in childhood and adolescence"
+              },
+              {
+                "MA": "F98.9",
+                "TEN": "Các rối loạn hành vi và cảm xúc biệt không biệt định c, thường khởi phát trong tuổi trẻ em và thanh thiếu niên",
+                "TEN_EN": "Unspecified behavioural and emotional disorders with onset usually occurring in childhood and adolescence"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "F99-F99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn tâm thần không biệt định",
-        "TEN_EN": "Unspecified mental disorder"
+        "TEN_EN": "Unspecified mental disorder",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "F99",
+            "TEN": "Rối loạn tâm thần không biệt định khác",
+            "TEN_EN": "Mental disorder, not otherwise specified",
+            "DANH_SACH_BENH": []
+          }
+        ]
       }
     ]
   },

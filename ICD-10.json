@@ -8116,7 +8116,357 @@
         "MA": "D00-D09",
         "MA_TRONG_CHUONG": "",
         "TEN": "U tân sinh tại chỗ",
-        "TEN_EN": "In situ neoplasms"
+        "TEN_EN": "In situ neoplasms",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D00",
+            "TEN": "Ung thư biểu mô tại chỗ của khoang miệng, thực quản và dạ dày",
+            "TEN_EN": "Carcinoma in situ of oral cavity, oesophagus and stomach",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D00.0",
+                "TEN": "Ung thư biểu mô tại chỗ của của môi khoang miệng và hầu",
+                "TEN_EN": "Carcinoma in situ: Lip, oral cavity and pharynx"
+              },
+              {
+                "MA": "D00.1",
+                "TEN": "Ung thư biểu mô tại chỗ của của thực quản",
+                "TEN_EN": "Carcinoma in situ: Oesophagus"
+              },
+              {
+                "MA": "D00.2",
+                "TEN": "U ác của Dạ dày",
+                "TEN_EN": "Carcinoma in situ: Stomach"
+              }
+            ]
+          },
+          {
+            "MA": "D01",
+            "TEN": "Ung thư biểu mô tại chỗ của cơ quan tiêu hóa khác và không xác định",
+            "TEN_EN": "Carcinoma in situ of other and unspecified digestive organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D01.0",
+                "TEN": "Ung thư biểu mô tại chỗ của đại tràng",
+                "TEN_EN": "Carcinoma in situ: Colon"
+              },
+              {
+                "MA": "D01.1",
+                "TEN": "Ung thư biểu mô tại chỗ nơi nối trực tràng - đại tràng sigma",
+                "TEN_EN": "Carcinoma in situ: Rectosigmoid junction"
+              },
+              {
+                "MA": "D01.2",
+                "TEN": "Ung thư biểu mô tại chỗ của trực tràng",
+                "TEN_EN": "Carcinoma in situ: Rectum"
+              },
+              {
+                "MA": "D01.3",
+                "TEN": "Ung thư biểu mô tại chỗ của hậu môn và ống hậu môn",
+                "TEN_EN": "Carcinoma in situ: Anus and anal canal"
+              },
+              {
+                "MA": "D01.4",
+                "TEN": "Ung thư biểu mô tại chỗ của phần khác và không đặc hiệu của ruột non",
+                "TEN_EN": "Carcinoma in situ: Other and unspecified parts of intestine"
+              },
+              {
+                "MA": "D01.5",
+                "TEN": "Ung thư biểu mô tại chỗ của gan, túi mật và đường dẫn mật",
+                "TEN_EN": "Carcinoma in situ: Liver, gallbladder and bile ducts"
+              },
+              {
+                "MA": "D01.7",
+                "TEN": "Ung thư biểu mô tại chỗ của cơ quan tiêu hóa xác định khác",
+                "TEN_EN": "Carcinoma in situ: Other specified digestive organs"
+              },
+              {
+                "MA": "D01.9",
+                "TEN": "Ung thư biểu mô tại chỗ của cơ quan tiêu hóa không đặc hiệu",
+                "TEN_EN": "Carcinoma in situ: Digestive organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D02",
+            "TEN": "Ung thư biểu mô tại chỗ của tai giữa và hệ hô hấp",
+            "TEN_EN": "Carcinoma in situ of middle ear and respiratory system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D02.0",
+                "TEN": "Ung thư biểu mô tại chỗ của thanh quản",
+                "TEN_EN": "Carcinoma in situ: Larynx"
+              },
+              {
+                "MA": "D02.1",
+                "TEN": "Ung thư biểu mô tại chỗ của khí quản",
+                "TEN_EN": "Carcinoma in situ: Trachea"
+              },
+              {
+                "MA": "D02.2",
+                "TEN": "Ung thư biểu mô tại chỗ của phế quản và phổi",
+                "TEN_EN": "Carcinoma in situ: Bronchus and lung"
+              },
+              {
+                "MA": "D02.3",
+                "TEN": "Ung thư biểu mô tại chỗ của phần khác và hệ hô hấp",
+                "TEN_EN": "Carcinoma in situ: Other parts of respiratory system"
+              },
+              {
+                "MA": "D02.4",
+                "TEN": "Ung thư biểu mô tại chỗ của hệ hô hấp không đặc hiệu",
+                "TEN_EN": "Carcinoma in situ: Respiratory system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D03",
+            "TEN": "U hắc tố tại chỗ",
+            "TEN_EN": "Melanoma in situ",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D03.0",
+                "TEN": "U hắc tố tại chỗ của môi",
+                "TEN_EN": "Melanoma in situ of lip"
+              },
+              {
+                "MA": "D03.1",
+                "TEN": "U hắc tố tại chỗ của mi mắt, bao gồm góc mắt",
+                "TEN_EN": "Melanoma in situ of eyelid, including canthus"
+              },
+              {
+                "MA": "D03.2",
+                "TEN": "U hắc tố tại chỗ của tai và ống ngoài tai",
+                "TEN_EN": "Melanoma in situ of ear and external auricular canal"
+              },
+              {
+                "MA": "D03.3",
+                "TEN": "U hắc tố tại chỗ của phần khác và phần không xác định của mặt",
+                "TEN_EN": "Melanoma in situ of other and unspecified parts of face"
+              },
+              {
+                "MA": "D03.4",
+                "TEN": "U hắc tố tại chỗ của da đầu và cổ",
+                "TEN_EN": "Melanoma in situ of scalp and neck"
+              },
+              {
+                "MA": "D03.5",
+                "TEN": "U hắc tố tại chỗ của thân mình",
+                "TEN_EN": "Melanoma in situ of trunk"
+              },
+              {
+                "MA": "D03.6",
+                "TEN": "U hắc tố tại chỗ của chi trên, bao gồm vai",
+                "TEN_EN": "Melanoma in situ of upper limb, including shoulder"
+              },
+              {
+                "MA": "D03.7",
+                "TEN": "U hắc tố tại chỗ của chi dưới, bao gồm vùng háng",
+                "TEN_EN": "Melanoma in situ of lower limb, including hip"
+              },
+              {
+                "MA": "D03.8",
+                "TEN": "U hắc tố tại chỗ của vị trí khác",
+                "TEN_EN": "Melanoma in situ of other sites"
+              },
+              {
+                "MA": "D03.9",
+                "TEN": "U hắc tố tại chỗ, không đặc hiệu",
+                "TEN_EN": "Melanoma in situ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D04",
+            "TEN": "Ung thư biểu mô tại chỗ của da",
+            "TEN_EN": "Carcinoma in situ of skin",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D04.0",
+                "TEN": "Ung thư biểu mô tại chỗ của da môi",
+                "TEN_EN": "Carcinoma in situ: Skin of lip"
+              },
+              {
+                "MA": "D04.1",
+                "TEN": "Ung thư biểu mô tại chỗ của da mí mắt bao gồm góc mắt",
+                "TEN_EN": "Carcinoma in situ: Skin of eyelid, including canthus"
+              },
+              {
+                "MA": "D04.2",
+                "TEN": "Ung thư biểu mô tại chỗ của da vùng tai và ống tai ngoài",
+                "TEN_EN": "Carcinoma in situ: Skin of ear and external auricular canal"
+              },
+              {
+                "MA": "D04.3",
+                "TEN": "Ung thư biểu mô tại chỗ của da của phần khác và không xác định của mặt",
+                "TEN_EN": "Carcinoma in situ: Skin of other and unspecified parts of face"
+              },
+              {
+                "MA": "D04.4",
+                "TEN": "Ung thư biểu mô tại chỗ của da đầu và cổ",
+                "TEN_EN": "Carcinoma in situ: Skin of scalp and neck"
+              },
+              {
+                "MA": "D04.5",
+                "TEN": "Ung thư biểu mô tại chỗ của da thân mình",
+                "TEN_EN": "Carcinoma in situ: Skin of trunk"
+              },
+              {
+                "MA": "D04.6",
+                "TEN": "Ung thư biểu mô tại chỗ của da chi trên, bao gồm vai",
+                "TEN_EN": "Carcinoma in situ: Skin of upper limb, including shoulder"
+              },
+              {
+                "MA": "D04.7",
+                "TEN": "Ung thư biểu mô tại chỗ của da chi dưới, bao gồm háng",
+                "TEN_EN": "Carcinoma in situ: Skin of lower limb, including hip"
+              },
+              {
+                "MA": "D04.8",
+                "TEN": "Ung thư biểu mô tại chỗ của da ở vị trí khác",
+                "TEN_EN": "Carcinoma in situ: Skin of other sites"
+              },
+              {
+                "MA": "D04.9",
+                "TEN": "Ung thư biểu mô tại chỗ của da, không đặc hiệu",
+                "TEN_EN": "Carcinoma in situ: Skin, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D05",
+            "TEN": "Ung thư biểu mô tại chỗ của vú",
+            "TEN_EN": "Carcinoma in situ of breast",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D05.0",
+                "TEN": "Ung thư biểu mô tiểu thuỳ tại chỗ",
+                "TEN_EN": "Lobular carcinoma in situ"
+              },
+              {
+                "MA": "D05.1",
+                "TEN": "Ung thư biểu mô ống tuyến vú tại chỗ",
+                "TEN_EN": "Intraductal carcinoma in situ"
+              },
+              {
+                "MA": "D05.7",
+                "TEN": "Ung thư biểu mô ống tuyến khác tại chỗ của vú",
+                "TEN_EN": "Other carcinoma in situ of breast"
+              },
+              {
+                "MA": "D05.9",
+                "TEN": "Ung thư biểu mô tại chỗ của vú, không đặc hiệu",
+                "TEN_EN": "Carcinoma in situ of breast, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D06",
+            "TEN": "Ung thư biểu mô tại chỗ của cổ tử cung",
+            "TEN_EN": "Carcinoma in situ of cervix uteri",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D06.0",
+                "TEN": "Ung thư biểu mô tại chỗ của nội mạc",
+                "TEN_EN": "Carcinoma in situ: Endocervix"
+              },
+              {
+                "MA": "D06.1",
+                "TEN": "Ung thư biểu mô tại chỗ của ngoại mạc",
+                "TEN_EN": "Carcinoma in situ: Exocervix"
+              },
+              {
+                "MA": "D06.7",
+                "TEN": "Ung thư biểu mô tại chỗ của phần khác của cổ tử cung",
+                "TEN_EN": "Carcinoma in situ: Other parts of cervix"
+              },
+              {
+                "MA": "D06.9",
+                "TEN": "Ung thư biểu mô tại chỗ của cổ tử cung, không đặc hiệu",
+                "TEN_EN": "Carcinoma in situ: Cervix, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D07",
+            "TEN": "Ung thư biểu mô tại chỗ của cơ quan sinh dục khác và không xác định",
+            "TEN_EN": "Carcinoma in situ of other and unspecified genital organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D07.0",
+                "TEN": "Ung thư biểu mô tại chỗ của nội mạc tử cung",
+                "TEN_EN": "Carcinoma in situ: Endometrium"
+              },
+              {
+                "MA": "D07.1",
+                "TEN": "Ung thư biểu mô tại chỗ của âm hộ",
+                "TEN_EN": "Carcinoma in situ: Vulva"
+              },
+              {
+                "MA": "D07.2",
+                "TEN": "Ung thư biểu mô tại chỗ của âm đạo",
+                "TEN_EN": "Carcinoma in situ: Vagina"
+              },
+              {
+                "MA": "D07.3",
+                "TEN": "Ung thư biểu mô tại chỗ của cơ quan sinh dục nữ khác và không đặc hiệu",
+                "TEN_EN": "Carcinoma in situ: Other and unspecified female genital organs"
+              },
+              {
+                "MA": "D07.4",
+                "TEN": "Ung thư biểu mô tại chỗ của dương vật",
+                "TEN_EN": "Carcinoma in situ: Penis"
+              },
+              {
+                "MA": "D07.5",
+                "TEN": "Ung thư biểu mô tại chỗ của tuyến tiền liệt",
+                "TEN_EN": "Carcinoma in situ: Prostate"
+              },
+              {
+                "MA": "D07.6",
+                "TEN": "Ung thư biểu mô tại chỗ của cơ quan sinh dục nam khác và không đặc hiệu",
+                "TEN_EN": "Carcinoma in situ: Other and unspecified male genital organs"
+              }
+            ]
+          },
+          {
+            "MA": "D09",
+            "TEN": "Ung thư biểu mô tại chỗ ở vị trí khác và không xác định",
+            "TEN_EN": "Carcinoma in situ of other and unspecified sites",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D09.0",
+                "TEN": "Ung thư biểu mô tại chỗ của bàng quang",
+                "TEN_EN": "Carcinoma in situ: Bladder"
+              },
+              {
+                "MA": "D09.1",
+                "TEN": "Ung thư biểu mô tại chỗ của cơ quan tiết niệu khác và không xác định",
+                "TEN_EN": "Carcinoma in situ: Other and unspecified urinary organs"
+              },
+              {
+                "MA": "D09.2",
+                "TEN": "Ung thư biểu mô tại chỗ của mắt",
+                "TEN_EN": "Carcinoma in situ: Eye"
+              },
+              {
+                "MA": "D09.3",
+                "TEN": "Ung thư biểu mô tại chỗ của tuyến giáp và tuyến nội tiết khác",
+                "TEN_EN": "Carcinoma in situ: Thyroid and other endocrine glands"
+              },
+              {
+                "MA": "D09.7",
+                "TEN": "Ung thư biểu mô tại chỗ ở vị trí xác định khác",
+                "TEN_EN": "Carcinoma in situ of other specified sites"
+              },
+              {
+                "MA": "D09.9",
+                "TEN": "Ung thư biểu mô tại chỗ, không xác định",
+                "TEN_EN": "Carcinoma in situ, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "D10-D36",
@@ -9081,7 +9431,485 @@
         "MA": "D37-D48",
         "MA_TRONG_CHUONG": "",
         "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất",
-        "TEN_EN": "Neoplasms of uncertain or unknown behaviour"
+        "TEN_EN": "Neoplasms of uncertain or unknown behaviour",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D37",
+            "TEN": "U tân sinh không rõ hoặc không biết tính chất của khoang miệng và cơ quan tiêu hóa",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D37.0",
+                "TEN": "U tân sinh chưa rõ tính chất của môi, xoang miệng và hầu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Lip, oral cavity and pharynx"
+              },
+              {
+                "MA": "D37.1",
+                "TEN": "U tân sinh chưa rõ tính chất của dạ dày",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Stomach"
+              },
+              {
+                "MA": "D37.2",
+                "TEN": "U tân sinh chưa rõ tính chất của ruột non",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Small intestine"
+              },
+              {
+                "MA": "D37.3",
+                "TEN": "U tân sinh chưa rõ tính chất của ruột thừa",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Appendix"
+              },
+              {
+                "MA": "D37.4",
+                "TEN": "U tân sinh chưa rõ tính chất của đại tràng",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Colon"
+              },
+              {
+                "MA": "D37.5",
+                "TEN": "U tân sinh chưa rõ tính chất của trực tràng",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Rectum"
+              },
+              {
+                "MA": "D37.6",
+                "TEN": "U tân sinh chưa rõ tính chất của gan, túi mật và ống dẫn mật",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Liver, gallbladder and bile ducts"
+              },
+              {
+                "MA": "D37.7",
+                "TEN": "U tân sinh chưa rõ tính chất của cơ quan tiêu hóa khác",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Other digestive organs"
+              },
+              {
+                "MA": "D37.9",
+                "TEN": "U tân sinh chưa rõ tính chất của cơ quan tiêu hóa không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Digestive organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D38",
+            "TEN": "U tân sinh không rõ hoặc không biết tính chất của tai giữa, cơ quan hô hấp và cơ quan trong lồng ngực",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D38.0",
+                "TEN": "U tân sinh chưa rõ tính chất của thanh quản",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Larynx"
+              },
+              {
+                "MA": "D38.1",
+                "TEN": "U tân sinh chưa rõ tính chất của khí quản, phế quản và phổi",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Trachea, bronchus and lung"
+              },
+              {
+                "MA": "D38.2",
+                "TEN": "U tân sinh chưa rõ tính chất màng phổi",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Pleura"
+              },
+              {
+                "MA": "D38.3",
+                "TEN": "U tân sinh chưa rõ tính chất của trung thất",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Mediastinum"
+              },
+              {
+                "MA": "D38.4",
+                "TEN": "U tân sinh chưa rõ tính chất của tuyến ức",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Thymus"
+              },
+              {
+                "MA": "D38.5",
+                "TEN": "U tân sinh chưa rõ tính chất của cơ quan hô hấp khác",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Other respiratory organs"
+              },
+              {
+                "MA": "D38.6",
+                "TEN": "U tân sinh chưa rõ tính chất của cơ quan hô hấp không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Respiratory organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D39",
+            "TEN": "U không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of female genital organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D39.0",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của tử cung",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Uterus"
+              },
+              {
+                "MA": "D39.1",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của buồng trứng",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Ovary"
+              },
+              {
+                "MA": "D39.2",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của nhau (rau) thai",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Placenta"
+              },
+              {
+                "MA": "D39.7",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ khác",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Other female genital organs"
+              },
+              {
+                "MA": "D39.9",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Female genital organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D40",
+            "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nam",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of male genital organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D40.0",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Tiền liệt tuyến",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Prostate"
+              },
+              {
+                "MA": "D40.1",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Tinh hoàn",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Testis"
+              },
+              {
+                "MA": "D40.7",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Các cơ quan sinh dục nam khác",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Other male genital organs"
+              },
+              {
+                "MA": "D40.9",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan sinh dục nam không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Male genital organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D41",
+            "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan tiết niệu",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of urinary organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D41.0",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Thận",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Kidney"
+              },
+              {
+                "MA": "D41.1",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Bể thận",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Renal pelvis"
+              },
+              {
+                "MA": "D41.2",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Niệu quản",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Ureter"
+              },
+              {
+                "MA": "D41.3",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Niệu đạo",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Urethra"
+              },
+              {
+                "MA": "D41.4",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Bàng quang",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Bladder"
+              },
+              {
+                "MA": "D41.7",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan tiết niệu khác",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Other urinary organs"
+              },
+              {
+                "MA": "D41.9",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan tiết niệu không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Urinary organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D42",
+            "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của màng não",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of meninges",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D42.0",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của màng não thuộc não",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Cerebral meninges"
+              },
+              {
+                "MA": "D42.1",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của màng não thuộc tủy sống",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Spinal meninges"
+              },
+              {
+                "MA": "D42.9",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của màng não, không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Meninges, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D43",
+            "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của màng não",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of brain and central nervous system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D43.0",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Não, trên lều não",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Brain, supratentorial"
+              },
+              {
+                "MA": "D43.1",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Não, dưới lều não",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Brain, infratentorial"
+              },
+              {
+                "MA": "D43.2",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Não, không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Brain, unspecified"
+              },
+              {
+                "MA": "D43.3",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Thần kinh sọ",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Cranial nerves"
+              },
+              {
+                "MA": "D43.4",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của tủy sống",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Spinal cord"
+              },
+              {
+                "MA": "D43.7",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Phần khác của hệ thần kinh trung ương",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Other parts of central nervous system"
+              },
+              {
+                "MA": "D43.9",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Hệ thần kinh trung ương, không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Central nervous system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D44",
+            "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của tuyến nội tiết",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D44.0",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến giáp",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Thyroid gland"
+              },
+              {
+                "MA": "D44.1",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến thượng thận",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Adrenal gland"
+              },
+              {
+                "MA": "D44.2",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến cận giáp",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Parathyroid gland"
+              },
+              {
+                "MA": "D44.3",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến yên",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Pituitary gland"
+              },
+              {
+                "MA": "D44.4",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Ống sọ-hầu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Craniopharyngeal duct"
+              },
+              {
+                "MA": "D44.5",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến tùng",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Pineal gland"
+              },
+              {
+                "MA": "D44.6",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Thể cảnh",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Carotid body"
+              },
+              {
+                "MA": "D44.7",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của Thể động mạch chủ và thể cận hạch khác",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Aortic body and other paraganglia"
+              },
+              {
+                "MA": "D44.8",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất liên quan nhiều tuyến nội tiết",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Pluriglandular involvement"
+              },
+              {
+                "MA": "D44.9",
+                "TEN": "U lành của tuyến nội tiết không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Endocrine gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D45",
+            "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất của tuyến nội tiết",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D46",
+            "TEN": "Hội chứng loạn sản tủy xương",
+            "TEN_EN": "Myelodysplastic syndromes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D46.0",
+                "TEN": "Thiếu máu kháng điều trị không có nguyên hồng cầu sắc hình vòng, được xác lập như vậy",
+                "TEN_EN": "Refractory anaemia without sideroblasts, so stated"
+              },
+              {
+                "MA": "D46.1",
+                "TEN": "Thiếu máu kháng điều trị có nguyên hồng cầu hình vòng",
+                "TEN_EN": "Refractory anaemia with sideroblasts"
+              },
+              {
+                "MA": "D46.2",
+                "TEN": "Thiếu máu đề kháng với quá nhiều nguyên bào",
+                "TEN_EN": "Refractory anaemia with excess of blasts"
+              },
+              {
+                "MA": "D46.3",
+                "TEN": "Thiếu máu đề kháng với quá nhiều nguyên bào chuyển dạng",
+                "TEN_EN": "Refractory anaemia with excess of blasts with transformation"
+              },
+              {
+                "MA": "D46.4",
+                "TEN": "Thiếu máu đề kháng, không đặc hiệu",
+                "TEN_EN": "Refractory anaemia, unspecified"
+              },
+              {
+                "MA": "D46.5",
+                "TEN": "Thiếu máu kháng điều trị có loạn sản đa dòng",
+                "TEN_EN": "Refractory anaemia with multi-lineage dysplasia"
+              },
+              {
+                "MA": "D46.6",
+                "TEN": "Hội chứng loạn sản tủy có bất thường nhiễm sắc thể del (5q) đơn độc",
+                "TEN_EN": "Myelodysplastic syndrome with isolated del (5q) chromosomal abnormality"
+              },
+              {
+                "MA": "D46.7",
+                "TEN": "Hội chứng loạn sản tủy xương khác",
+                "TEN_EN": "Other myelodysplastic syndromes",
+
+                "LOAI_TRU": "- bệnh bạch cầu dòng tủy đơn nhân mạn tính (C93.1)",
+                "LOAI_TRU_EN": "- chronic myelomonocytic leukaemia (C93.1)"
+              },
+              {
+                "MA": "D46.9",
+                "TEN": "Hội chứng loạn tủy xương không đặc hiệu",
+                "TEN_EN": "Myelodysplastic syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D47",
+            "TEN": "U tân sinh khác không chắc chắn hoặc không biết sinh chất của mô ulympho, mô tạo huyết và mô liên quan",
+            "TEN_EN": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D47.0",
+                "TEN": "Bệnh dưỡng bào hệ thống không triệu chứng",
+                "TEN_EN": "Histiocytic and mast cell tumours of uncertain and unknown behaviour"
+              },
+              {
+                "MA": "D47.1",
+                "TEN": "Bệnh bạch cầu dòng trung tính mãn tính",
+                "TEN_EN": "Chronic myeloproliferative disease"
+              },
+              {
+                "MA": "D47.2",
+                "TEN": "Bệnh lý gamma globulin đơn dòng chưa xác định ý nghĩa",
+                "TEN_EN": "Monoclonal gammopathy"
+              },
+              {
+                "MA": "D47.3",
+                "TEN": "Bệnh tăng tiểu cầu (xuất huyết) vô căn",
+                "TEN_EN": "Essential (haemorrhagic) thrombocythaemia"
+              },
+              {
+                "MA": "D47.4",
+                "TEN": "Bệnh xơ hóa tủy xương",
+                "TEN_EN": "Osteomyelofibrosis "
+              },
+              {
+                "MA": "D47.5",
+                "TEN": "Bệnh bạch cầu dòng tế bào ưa acid mãn tính [hội chứng tăng bạch cầu ưa acid]",
+                "TEN_EN": "Chronic eosinophilic leukaemia [hypereosinophilic syndrome]"
+              },
+              {
+                "MA": "D47.7",
+                "TEN": "U tân sinh xác định khác, không rõ hoặc không biết tính chất của mô lympho, mô tạo huyết và mô liên quan",
+                "TEN_EN": "Other specified neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue"
+              },
+              {
+                "MA": "D47.9",
+                "TEN": "U tân sinh không đặc hiệu, không chắc chắn hoặc không biết rõ tính chất của mô lympho, mô tạo huyết và mô liên quan",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D48",
+            "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất có vị trí khác và không xác định",
+            "TEN_EN": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D48.0",
+                "TEN": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của xương và sụn khớp",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Bone and articular cartilage"
+              },
+              {
+                "MA": "D48.1",
+                "TEN": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của mô liên kết và mô mềm khác",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Connective and other soft tissue"
+              },
+              {
+                "MA": "D48.2",
+                "TEN": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của thần kinh ngoại biên và hệ thần kinh tự động",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Peripheral nerves and autonomic nervous system"
+              },
+              {
+                "MA": "D48.3",
+                "TEN": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vùng sau phúc mạc",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Retroperitoneum"
+              },
+              {
+                "MA": "D48.4",
+                "TEN": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của phúc mạc",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Peritoneum"
+              },
+              {
+                "MA": "D48.5",
+                "TEN": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của da",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Skin"
+              },
+              {
+                "MA": "D48.6",
+                "TEN": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vú",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Breast"
+              },
+              {
+                "MA": "D48.7",
+                "TEN": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vị trí xác định khác",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Other specified sites"
+              },
+              {
+                "MA": "D48.9",
+                "TEN": "U tân sinh không chắc chắn hoặc không biết tính chất, không đặc hiệu",
+                "TEN_EN": "Neoplasm of uncertain or unknown behaviour: Neoplasm of uncertain or unknown behaviour, unspecified"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -9095,37 +9923,1096 @@
         "MA": "D50-D53",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh thiếu máu dinh dưỡng",
-        "TEN_EN": "Nutritional anaemias"
+        "TEN_EN": "Nutritional anaemias",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D50",
+            "TEN": "Thiếu máu do thiếu sắt",
+            "TEN_EN": "Iron deficiency anaemia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D50.0",
+                "TEN": "Thiếu máu thiếu sắt thứ phát do mất máu (mãn tính)",
+                "TEN_EN": "Iron deficiency anaemia secondary to blood loss (chronic)"
+              },
+              {
+                "MA": "D50.1",
+                "TEN": "Chứng khó nuốt do thiếu sắt",
+                "TEN_EN": "Sideropenic dysphagia"
+              },
+              {
+                "MA": "D50.8",
+                "TEN": "Các thiếu máu thiếu sắt khác",
+                "TEN_EN": "Other iron deficiency anaemias"
+              },
+              {
+                "MA": "D50.9",
+                "TEN": "Thiếu máu thiếu sắt không đặc hiệu",
+                "TEN_EN": "Iron deficiency anaemia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D51",
+            "TEN": "Thiếu máu do thiếu vitamin B12",
+            "TEN_EN": "Vitamin B12 deficiency anaemia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D51.0",
+                "TEN": "Thiếu máu thiếu vitamin B12 do thiếu yếu tố nội",
+                "TEN_EN": "Vitamin B12 deficiency anaemia due to intrinsic factor deficiency"
+              },
+              {
+                "MA": "D51.1",
+                "TEN": "Thiếu vitamin B12 do giảm hấp thu chọn lọc vitamin B12 kèm theo đái protein",
+                "TEN_EN": "Vitamin B12 deficiency anaemia due to selective vitamin B12 malabsorption with proteinuria"
+              },
+              {
+                "MA": "D51.2",
+                "TEN": "Thiếu Transcobalamin II",
+                "TEN_EN": "Transcobalamin II deficiency"
+              },
+              {
+                "MA": "D51.3",
+                "TEN": "Thiếu máu thiếu vitamin B12 khác do dinh dưỡng",
+                "TEN_EN": "Other dietary vitamin B12 deficiency anaemia"
+              },
+              {
+                "MA": "D51.8",
+                "TEN": "Các thiếu máu thiếu vitamin B12 khác",
+                "TEN_EN": "Other vitamin B12 deficiency anaemias"
+              },
+              {
+                "MA": "D51.9",
+                "TEN": "Thiếu máu thiếu vitamin B12 không đặc hiệu",
+                "TEN_EN": "Vitamin B12 deficiency anaemia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D52",
+            "TEN": "Thiếu máu do chế độ dinh dưỡng",
+            "TEN_EN": "Folate deficiency anaemia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D52.0",
+                "TEN": "Thiếu máu thiếu folate do chế độ dinh dưỡng",
+                "TEN_EN": "Dietary folate deficiency anaemia"
+              },
+              {
+                "MA": "D52.1",
+                "TEN": "Thiếu máu thiếu folate do thuốc",
+                "TEN_EN": "Drug-induced folate deficiency anaemia"
+              },
+              {
+                "MA": "D52.8",
+                "TEN": "Các thiếu máu thiếu folate khác",
+                "TEN_EN": "Other folate deficiency anaemias"
+              },
+              {
+                "MA": "D52.9",
+                "TEN": "Thiếu máu thiếu folate không đặc hiệu",
+                "TEN_EN": "Folate deficiency anaemia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D53",
+            "TEN": "Các thiếu máu dinh dưỡng khác",
+            "TEN_EN": "Other nutritional anaemias",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D53.0",
+                "TEN": "Thiếu máu do thiếu protein",
+                "TEN_EN": "Protein deficiency anaemia"
+              },
+              {
+                "MA": "D53.1",
+                "TEN": "Các thiếu máu nguyên hồng cầu khổng lồ khác, chưa được phân loại ở phần khác",
+                "TEN_EN": "Other megaloblastic anaemias, not elsewhere classified"
+              },
+              {
+                "MA": "D53.2",
+                "TEN": "Thiếu máu thiếu vitamin C",
+                "TEN_EN": "Scorbutic anaemia"
+              },
+              {
+                "MA": "D53.8",
+                "TEN": "Các thiếu máu dinh dưỡng đặc hiệu khác",
+                "TEN_EN": "Other specified nutritional anaemias"
+              },
+              {
+                "MA": "D53.9",
+                "TEN": "Thiếu máu dinh dưỡng không đặc hiệu",
+                "TEN_EN": "Nutritional anaemia, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "D55-D59",
         "MA_TRONG_CHUONG": "",
         "TEN": "Thiếu máu tan máu",
-        "TEN_EN": "Haemolytic anaemias"
+        "TEN_EN": "Haemolytic anaemias",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D55",
+            "TEN": "Thiếu máu do rối loạn men",
+            "TEN_EN": "Anaemia due to enzyme disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D55.0",
+                "TEN": "Thiếu máu do thiếu men glucose-6-phosphate dehydrogenase",
+                "TEN_EN": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency"
+              },
+              {
+                "MA": "D55.1",
+                "TEN": "Thiếu máu do các rối loạn chuyển hóa glutathione khác",
+                "TEN_EN": "Anaemia due to other disorders of glutathione metabolism"
+              },
+              {
+                "MA": "D55.2",
+                "TEN": "Thiếu máu do rối loạn các men phân giải glucose",
+                "TEN_EN": "Anaemia due to disorders of glycolytic enzymes"
+              },
+              {
+                "MA": "D55.3",
+                "TEN": "Thiếu máu do rối loạn chuyển hóa nucleotide",
+                "TEN_EN": "Anaemia due to disorders of nucleotide metabolism"
+              },
+              {
+                "MA": "D55.8",
+                "TEN": "Các thiếu máu khác do rối loạn men",
+                "TEN_EN": "Other anaemias due to enzyme disorders"
+              },
+              {
+                "MA": "D55.9",
+                "TEN": "Thiếu máu do rối loạn men, không đặc hiệu",
+                "TEN_EN": "Anaemia due to enzyme disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D56",
+            "TEN": "Bệnh Thalassaemia",
+            "TEN_EN": "Thalassaemia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D56.0",
+                "TEN": "Alpha thalassaemia",
+                "TEN_EN": "Alpha thalassaemia"
+              },
+              {
+                "MA": "D56.1",
+                "TEN": "Beta thalassaemia",
+                "TEN_EN": "Beta thalassaemia"
+              },
+              {
+                "MA": "D56.2",
+                "TEN": "Delta-beta thalassaemia",
+                "TEN_EN": "Delta-beta thalassaemia"
+              },
+              {
+                "MA": "D56.3",
+                "TEN": "Thalassaemia vết",
+                "TEN_EN": "Thalassaemia trait"
+              },
+              {
+                "MA": "D56.4",
+                "TEN": "Tồn tại di truyền huyết sắc tố bào thai [HPFH]",
+                "TEN_EN": "Hereditary persistence of fetal haemoglobin [HPFH]"
+              },
+              {
+                "MA": "D56.8",
+                "TEN": "Các thalassaemias khác",
+                "TEN_EN": "Other thalassaemias"
+              },
+              {
+                "MA": "D56.9",
+                "TEN": "Thalassaemia không đặc hiệu",
+                "TEN_EN": "Thalassaemia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D57",
+            "TEN": "Bệnh hồng cầu liềm",
+            "TEN_EN": "Sickle-cell disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D57.0",
+                "TEN": "Thiếu máu hồng cầu liềm có cơn tan máu",
+                "TEN_EN": "Sickle-cell anaemia with crisis"
+              },
+              {
+                "MA": "D57.1",
+                "TEN": "Thiếu máu hồng cầu liềm không có cơn tan máu",
+                "TEN_EN": "Sickle-cell anaemia without crisis"
+              },
+              {
+                "MA": "D57.2",
+                "TEN": "Di hợp tử kép hồng cầu hình liềm với các Hb bất thường khác",
+                "TEN_EN": "Double heterozygous sickling disorders"
+              },
+              {
+                "MA": "D57.3",
+                "TEN": "Hồng cầu liềm thể nhẹ",
+                "TEN_EN": "Sickle-cell trait"
+              },
+              {
+                "MA": "D57.8",
+                "TEN": "Các rối loạn hồng cầu liềm khác",
+                "TEN_EN": "Other sickle-cell disorders"
+              }
+            ]
+          },
+          {
+            "MA": "D58",
+            "TEN": "Các thiếu máu tan máu di truyền khác",
+            "TEN_EN": "Other hereditary haemolytic anaemias",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D58.0",
+                "TEN": "Hồng cầu hình cầu di truyền",
+                "TEN_EN": "Hereditary spherocytosis"
+              },
+              {
+                "MA": "D58.1",
+                "TEN": "Hồng cầu hình elip di truyền",
+                "TEN_EN": "Hereditary elliptocytosis"
+              },
+              {
+                "MA": "D58.2",
+                "TEN": "Các bệnh huyết sắc tố khác",
+                "TEN_EN": "Other haemoglobinopathies"
+              },
+              {
+                "MA": "D58.8",
+                "TEN": "Các thiếu máu tan máu di truyền không đặc hiệu khác",
+                "TEN_EN": "Other specified hereditary haemolytic anaemias"
+              },
+              {
+                "MA": "D58.9",
+                "TEN": "Thiếu máu tan máu di truyền không đặc hiệu",
+                "TEN_EN": "Hereditary haemolytic anaemia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D59",
+            "TEN": "Thiếu máu tan máu mắc phải",
+            "TEN_EN": "Acquired haemolytic anaemia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D59.0",
+                "TEN": "Thiếu máu tan máu tự miễn dịch do thuốc",
+                "TEN_EN": "Drug-induced autoimmune haemolytic anaemia"
+              },
+              {
+                "MA": "D59.1",
+                "TEN": "Các thiếu máu tan máu tự miễn dịch khác",
+                "TEN_EN": "Other autoimmune haemolytic anaemias"
+              },
+              {
+                "MA": "D59.2",
+                "TEN": "Thiếu máu tan máu do thuốc không phải tự miễn dịch",
+                "TEN_EN": "Drug-induced nonautoimmune haemolytic anaemia"
+              },
+              {
+                "MA": "D59.3",
+                "TEN": "Hội chứng tan máu urê máu cao",
+                "TEN_EN": "Haemolytic-uraemic syndrome"
+              },
+              {
+                "MA": "D59.4",
+                "TEN": "Các thiếu máu tan máu không phải tự miễn dịch khác",
+                "TEN_EN": "Other nonautoimmune haemolytic anaemias"
+              },
+              {
+                "MA": "D59.5",
+                "TEN": "Đái huyết sắc tố kịch phát ban đêm [Hội chứng Marchifava-Micheli]",
+                "TEN_EN": "Paroxysmal nocturnal haemoglobinuria [Marchiafava-Micheli]"
+              },
+              {
+                "MA": "D59.6",
+                "TEN": "Đái huyết sắc tố do tan máu từ những nguyên nhân bên ngoài khác",
+                "TEN_EN": "Haemoglobinuria due to haemolysis from other external causes"
+              },
+              {
+                "MA": "D59.8",
+                "TEN": "Các thiếu máu tan máu mắc phải khác",
+                "TEN_EN": "Other acquired haemolytic anaemias"
+              },
+              {
+                "MA": "D59.9",
+                "TEN": "Thiếu máu tan máu mắc phải không đặc hiệu",
+                "TEN_EN": "Acquired haemolytic anaemia, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "D60-D64",
         "MA_TRONG_CHUONG": "",
         "TEN": "Suy tủy xương và các bệnh thiếu máu khác",
-        "TEN_EN": "Aplastic and other anaemias"
+        "TEN_EN": "Aplastic and other anaemias",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D60",
+            "TEN": "Suy tủy xương một dòng hồng cầu mắc phải (giảm nguyên hồng cầu)",
+            "TEN_EN": "Acquired pure red cell aplasia [erythroblastopenia]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D60.0",
+                "TEN": "Suy tủy xương một dòng hồng cầu mắc phải mãn tính",
+                "TEN_EN": "Chronic acquired pure red cell aplasia"
+              },
+              {
+                "MA": "D60.1",
+                "TEN": "Suy tủy xương một dòng hồng cầu mắc phải thoáng qua",
+                "TEN_EN": "Transient acquired pure red cell aplasia"
+              },
+              {
+                "MA": "D60.8",
+                "TEN": "Suy tủy xương một dòng hồng cầu mắc phải khác",
+                "TEN_EN": "Other acquired pure red cell aplasias"
+              },
+              {
+                "MA": "D60.9",
+                "TEN": "Suy tủy xương một dòng hồng cầu mắc phải không đặc hiệu",
+                "TEN_EN": "Acquired pure red cell aplasia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D61",
+            "TEN": "Các thể suy tủy xương khác",
+            "TEN_EN": "Other aplastic anaemias",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D61.0",
+                "TEN": "Suy tủy xương bẩm sinh",
+                "TEN_EN": "Constitutional aplastic anaemia"
+              },
+              {
+                "MA": "D61.1",
+                "TEN": "Suy tủy xương do thuốc",
+                "TEN_EN": "Drug-induced aplastic anaemia"
+              },
+              {
+                "MA": "D61.2",
+                "TEN": "Suy tủy xương do các nguyên nhân bên ngoài khác",
+                "TEN_EN": "Aplastic anaemia due to other external agents"
+              },
+              {
+                "MA": "D61.3",
+                "TEN": "Suy tủy xương vô căn",
+                "TEN_EN": "Idiopathic aplastic anaemia"
+              },
+              {
+                "MA": "D61.8",
+                "TEN": "Suy tủy xương đặc hiệu khác",
+                "TEN_EN": "Other specified aplastic anaemias"
+              },
+              {
+                "MA": "D61.9",
+                "TEN": "Suy tủy xương không đặc hiệu khác",
+                "TEN_EN": "Aplastic anaemia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D62",
+            "TEN": "Thiếu máu sau chảy máu cấp tính",
+            "TEN_EN": "Acute posthaemorrhagic",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D63",
+            "TEN": "Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác",
+            "TEN_EN": "Anaemia in chronic diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D63*",
+                "TEN": "Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác",
+                "TEN_EN": "Anaemia in chronic diseases classified elsewhere"
+              },
+              {
+                "MA": "D63.0",
+                "TEN": "Thiếu máu trong bệnh ác tính (C00-D48†)",
+                "TEN_EN": "Anaemia in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "D63.8*",
+                "TEN": "Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác",
+                "TEN_EN": "Anaemia in other chronic diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "D64",
+            "TEN": "Các thiếu máu khác",
+            "TEN_EN": "Other anaemias",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D64.0",
+                "TEN": "Thiếu máu nhược sắc có nguyên hồng cầu",
+                "TEN_EN": "Hereditary sideroblastic anaemia"
+              },
+              {
+                "MA": "D64.1",
+                "TEN": "Thiếu máu nguyên hồng cầu sắt thứ phát do bệnh lý",
+                "TEN_EN": "Secondary sideroblastic anaemia due to disease"
+              },
+              {
+                "MA": "D64.2",
+                "TEN": "Thiếu máu nguyên hồng cầu sắt thứ phát do thuốc và độc chất",
+                "TEN_EN": "Secondary sideroblastic anaemia due to drugs and toxins"
+              },
+              {
+                "MA": "D64.3",
+                "TEN": "Các thiếu máu nguyên hồng cầu sắt khác",
+                "TEN_EN": "Other sideroblastic anaemias"
+              },
+              {
+                "MA": "D64.4",
+                "TEN": "Thiếu máu rối loạn sinh sản dòng hồng cầu bẩm sinh",
+                "TEN_EN": "Congenital dyserythropoietic anaemia"
+              },
+              {
+                "MA": "D64.8",
+                "TEN": "Các thiếu máu không đặc hiệu khác",
+                "TEN_EN": "Other specified anaemias"
+              },
+              {
+                "MA": "D64.9",
+                "TEN": "Thiếu máu không đặc hiệu",
+                "TEN_EN": "Anaemia, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "D65-D69",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn đông máu, ban xuất huyết và tình trạng xuất huyết khác",
-        "TEN_EN": "Coagulation defects, purpura and other haemorrhagic conditions"
+        "TEN_EN": "Coagulation defects, purpura and other haemorrhagic conditions",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D65",
+            "TEN": "Đông máu nội mạch rải rác (hội chứng tiêu fibrin)",
+            "TEN_EN": "Disseminated intravascular coagulation (defibrination syndrome)",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D66",
+            "TEN": "Thiếu yếu tố VIII di truyền",
+            "TEN_EN": "Hereditary factor VIII dificiency",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D67",
+            "TEN": "Thiếu yếu tố IX di truyền",
+            "TEN_EN": "Hereditary factor IX dificiency",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D68",
+            "TEN": "Các bất thường đông máu khác",
+            "TEN_EN": "Other coagulation defects",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D68.0",
+                "TEN": "Bệnh Von Willebrand",
+                "TEN_EN": "Von Willebrand s disease"
+              },
+              {
+                "MA": "D68.1",
+                "TEN": "Thiếu yếu tố XI di truyền",
+                "TEN_EN": "Hereditary factor XI deficiency"
+              },
+              {
+                "MA": "D68.2",
+                "TEN": "Thiếu các yếu tố đông máu khác do di truyền",
+                "TEN_EN": "Hereditary deficiency of other clotting factors"
+              },
+              {
+                "MA": "D68.3",
+                "TEN": "Xuất huyết trong khi sử dụng dài ngày các chất chống đông máu",
+                "TEN_EN": "Haemorrhagic disorder due to circulating anticoagulants"
+              },
+              {
+                "MA": "D68.4",
+                "TEN": "Thiếu hụt yếu tố đông máu mắc phải",
+                "TEN_EN": "Acquired coagulation factor deficiency"
+              },
+              {
+                "MA": "D68.5",
+                "TEN": "Bệnh tăng đông máu nguyên phát",
+                "TEN_EN": "Primary Thrombophilia "
+              },
+              {
+                "MA": "D68.6",
+                "TEN": "Bệnh tăng đông máu khác",
+                "TEN_EN": "Other Thrombophilia "
+              },
+              {
+                "MA": "D68.8",
+                "TEN": "Các rối loạn đông máu đặc biệt khác",
+                "TEN_EN": "Other specified coagulation defects"
+              },
+              {
+                "MA": "D68.9",
+                "TEN": "Rối loạn đông máu không đặc hiệu",
+                "TEN_EN": "Coagulation defect, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D69",
+            "TEN": "Ban xuất huyết và các tình trạng xuất huyết khác",
+            "TEN_EN": "Purpura and other haemorrhagic conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D69.0",
+                "TEN": "Ban xuất huyết dị ứng",
+                "TEN_EN": "Allergic purpura"
+              },
+              {
+                "MA": "D69.1",
+                "TEN": "Bất thường chất lượng tiểu cầu",
+                "TEN_EN": "Qualitative platelet defects"
+              },
+              {
+                "MA": "D69.2",
+                "TEN": "Ban xuất huyết không giảm tiểu cầu khác",
+                "TEN_EN": "Other nonthrombocytopenic purpura"
+              },
+              {
+                "MA": "D69.3",
+                "TEN": "Ban xuất huyết giảm tiểu cầu vô căn",
+                "TEN_EN": "Idiopathic thrombocytopenic purpura"
+              },
+              {
+                "MA": "D69.4",
+                "TEN": "Giảm tiểu cầu tiên phát khác",
+                "TEN_EN": "Other primary thrombocytopenia"
+              },
+              {
+                "MA": "D69.5",
+                "TEN": "Giảm tiểu cầu thứ phát",
+                "TEN_EN": "Secondary thrombocytopenia"
+              },
+              {
+                "MA": "D69.6",
+                "TEN": "Giảm tiểu cầu không đặc hiệu",
+                "TEN_EN": "Thrombocytopenia, unspecified"
+              },
+              {
+                "MA": "D69.8",
+                "TEN": "Các tình trạng xuất huyết đặc hiệu khác",
+                "TEN_EN": "Other specified haemorrhagic conditions"
+              },
+              {
+                "MA": "D69.9",
+                "TEN": "Tình trạng xuất huyết không đặc hiệu",
+                "TEN_EN": "Haemorrhagic condition, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "D70-D77",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh khác của máu và cơ quan tạo máu",
-        "TEN_EN": "Other diseases of blood and blood-forming organs"
+        "TEN_EN": "Other diseases of blood and blood-forming organs",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D70",
+            "TEN": "Tình trạng không có bạch cầu hạt",
+            "TEN_EN": "Agranulocytosis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D71",
+            "TEN": "Rối loạn chức năng bạch cầu hạt trung tính",
+            "TEN_EN": "Funtional disorders of polymorphonuclear neutrophils",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "D72",
+            "TEN": "Các rối loạn khác của bạch cầu",
+            "TEN_EN": "Other disorders of white blood cells",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D72.0",
+                "TEN": "Bất thường di truyền của bạch cầu",
+                "TEN_EN": "Genetic anomalies of leukocytes"
+              },
+              {
+                "MA": "D72.1",
+                "TEN": "Tình trạng tăng bạch cầu ưa acid",
+                "TEN_EN": "Eosinophilia"
+              },
+              {
+                "MA": "D72.8",
+                "TEN": "Các rối loạn đặc hiệu khác của bạch cầu",
+                "TEN_EN": "Other specified disorders of white blood cells"
+              },
+              {
+                "MA": "D72.9",
+                "TEN": "Rối loạn bạch cầu không đặc hiệu",
+                "TEN_EN": "Disorder of white blood cells, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D73",
+            "TEN": "Bệnh lý lách",
+            "TEN_EN": "Diseases of spleen",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D73.0",
+                "TEN": "Thiểu năng lách",
+                "TEN_EN": "Hyposplenism"
+              },
+              {
+                "MA": "D73.1",
+                "TEN": "Cường lách",
+                "TEN_EN": "Hypersplenism"
+              },
+              {
+                "MA": "D73.2",
+                "TEN": "Lách to sung huyết mãn tính",
+                "TEN_EN": "Chronic congestive splenomegaly"
+              },
+              {
+                "MA": "D73.3",
+                "TEN": "Áp xe lách",
+                "TEN_EN": "Abscess of spleen"
+              },
+              {
+                "MA": "D73.4",
+                "TEN": "Nang lách",
+                "TEN_EN": "Cyst of spleen"
+              },
+              {
+                "MA": "D73.5",
+                "TEN": "Nhồi máu lách",
+                "TEN_EN": "Infarction of spleen"
+              },
+              {
+                "MA": "D73.8",
+                "TEN": "Các bệnh khác của lách",
+                "TEN_EN": "Other diseases of spleen"
+              },
+              {
+                "MA": "D73.9",
+                "TEN": "Bệnh lách không đặc hiệu",
+                "TEN_EN": "Disease of spleen, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D74",
+            "TEN": "methemoglobin máu",
+            "TEN_EN": "Methaemoglobinaemia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D74.0",
+                "TEN": "methemoglobin máu bẩm sinh",
+                "TEN_EN": "Congenital methaemoglobinaemia"
+              },
+              {
+                "MA": "D74.8",
+                "TEN": "methaemoglobin máu khác",
+                "TEN_EN": "Other methaemoglobinaemias"
+              },
+              {
+                "MA": "D74.9",
+                "TEN": "Methaemoglobin máu không đặc hiệu",
+                "TEN_EN": "Methaemoglobinaemia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D75",
+            "TEN": "Các bệnh máu và cơ quan tạo máu khác",
+            "TEN_EN": "Other diseases of blood and blood-forming organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D75.0",
+                "TEN": "Tăng hồng cầu gia đình",
+                "TEN_EN": "Familial erythrocytosis"
+              },
+              {
+                "MA": "D75.1",
+                "TEN": "Bệnh tăng hồng cầu thứ phát",
+                "TEN_EN": "Secondary polycythaemia"
+              },
+              {
+                "MA": "D75.2",
+                "TEN": "Tăng tiểu cầu tiền phát",
+                "TEN_EN": "Essential thrombocytosis"
+              },
+              {
+                "MA": "D75.8",
+                "TEN": "Các bệnh đặc hiệu khác của máu và cơ quan tạo máu",
+                "TEN_EN": "Other specified diseases of blood and blood-forming organs"
+              },
+              {
+                "MA": "D75.9",
+                "TEN": "Bệnh của máu và cơ quan tạo máu không đặc hiệu",
+                "TEN_EN": "Disease of blood and blood-forming organs, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D76",
+            "TEN": "Các bệnh của tổ chức lympho- liên võng và - (tổ chức bào) mô bào- liên võng xác định khác",
+            "TEN_EN": "Certain diseases involving lymphoreticular tissue and reticulohistiocytic system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D76.0",
+                "TEN": "Bệnh tổ chức bào tế bào langerhans, chưa được phân loại ở phần khác",
+                "TEN_EN": "Langerhans cell histiocytosis, not elsewhere classified"
+              },
+              {
+                "MA": "D76.1",
+                "TEN": "Bệnh tổ chức bào thực bào đơn nhân",
+                "TEN_EN": "Haemophagocytic lymphohistiocytosis"
+              },
+              {
+                "MA": "D76.2",
+                "TEN": "Hội chứng thực bào tế bào máu liên quan đến nhiễm trùng",
+                "TEN_EN": "Haemophagocytic syndrome, infection-associated"
+              },
+              {
+                "MA": "D76.3",
+                "TEN": "Các hội chứng mô bào khác",
+                "TEN_EN": "Other histiocytosis syndromes"
+              }
+            ]
+          },
+          {
+            "MA": "D77",
+            "TEN": "Rối loạn của máu và cơ quan tạo máu trong các bệnh khác ",
+            "TEN_EN": "Other disorders of blood and blood-forming organs in disease classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D77*",
+                "TEN": "Rối loạn của máu và cơ quan tạo máu trong các bệnh khác ",
+                "TEN_EN": "Other disorders of blood and blood-forming organs in disease classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "D80-D89",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn liên quan đến cơ chế miễn dịch",
-        "TEN_EN": "Certain disorders involving the immune mechanism"
+        "TEN_EN": "Certain disorders involving the immune mechanism",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "D80",
+            "TEN": "Thiếu hụt miễn dịch chủ yếu do bất thường kháng thể",
+            "TEN_EN": "Immunodeficiency with predominantly antibody defects",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D80.0",
+                "TEN": "Giảm gammaglobulin máu di truyền",
+                "TEN_EN": "Hereditary hypogammaglobulinaemia"
+              },
+              {
+                "MA": "D80.1",
+                "TEN": "Giảm gammaglobulin máu không có yếu tố gia đình",
+                "TEN_EN": "Nonfamilial hypogammaglobulinaemia"
+              },
+              {
+                "MA": "D80.2",
+                "TEN": "Thiếu hụt immunoglobulin A IgA chọn lọc",
+                "TEN_EN": "Selective deficiency of immunoglobulin A [IgA]"
+              },
+              {
+                "MA": "D80.3",
+                "TEN": "Thiếu hụt immunoglobulin A IgA chọn lọc",
+                "TEN_EN": "Selective deficiency of immunoglobulin G [IgG] subclasses"
+              },
+              {
+                "MA": "D80.4",
+                "TEN": "Thiếu hụt immunoglobulin M [IgM] chọn lọc",
+                "TEN_EN": "Selective deficiency of immunoglobulin M [IgM]"
+              },
+              {
+                "MA": "D80.5",
+                "TEN": "Suy giảm miễn dịch có tăng immunoglobulin M [IgM]",
+                "TEN_EN": "Immunodeficiency with increased immunoglobulin M [IgM]"
+              },
+              {
+                "MA": "D80.6",
+                "TEN": "Thiếu hụt kháng thể với hàm lượng các immunoglobulin giảm ít hoặc tăng ịmmuglobulin máu",
+                "TEN_EN": "Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinaemia"
+              },
+              {
+                "MA": "D80.7",
+                "TEN": "Thiếu hụt gammaglobulin máu thoáng qua ở trẻ nhỏ",
+                "TEN_EN": "Transient hypogammaglobulinaemia of infancy"
+              },
+              {
+                "MA": "D80.8",
+                "TEN": "Suy giảm miễn dịch khác do thiếu kháng thể là chủ yếu",
+                "TEN_EN": "Other immunodeficiencies with predominantly antibody defects"
+              },
+              {
+                "MA": "D80.9",
+                "TEN": "Thiếu hụt miễn dịch do thiếu kháng thể là chủ yếu, không đặc hiệu",
+                "TEN_EN": "Immunodeficiency with predominantly antibody defects, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D81",
+            "TEN": "Suy giảm miễn dịch kết hợp",
+            "TEN_EN": "Combined immunodeficiencies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D81",
+                "TEN": "Suy giảm miễn dịch kết hợp",
+                "TEN_EN": "Combined immunodeficiencies"
+              },
+              {
+                "MA": "D81.0",
+                "TEN": "Suy giảm miễn dịch hỗn hợp nặng [SCID] với loạn sinh liên võng",
+                "TEN_EN": "Severe combined immunodeficiency [SCID] with reticular dysgenesis"
+              },
+              {
+                "MA": "D81.1",
+                "TEN": "Suy giảm miễn dịch hỗn hợp nặng [SCID] với giảm số lượng lympho T và B",
+                "TEN_EN": "Severe combined immunodeficiency [SCID] with low T- and B-cell numbers"
+              },
+              {
+                "MA": "D81.2",
+                "TEN": "Thiếu hụt miễn dịch kết hợp nguy kịch [SCID] với số lượng lympho B thấp hoặc bình thường",
+                "TEN_EN": "Severe combined immunodeficiency [SCID] with low or normal B-cell numbers"
+              },
+              {
+                "MA": "D81.3",
+                "TEN": "Thiếu hụt enzim adenosine deaminase [ADA]",
+                "TEN_EN": "Adenosine deaminase [ADA] deficiency"
+              },
+              {
+                "MA": "D81.4",
+                "TEN": "Hội chứng Nezelof",
+                "TEN_EN": "Nezelof s syndrome"
+              },
+              {
+                "MA": "D81.5",
+                "TEN": "Thiếu hụt emzim purine nucleoside phosphorylase [PNP]",
+                "TEN_EN": "Purine nucleoside phosphorylase [PNP] deficiency"
+              },
+              {
+                "MA": "D81.6",
+                "TEN": "Thiếu hụt phức hợp hoà hợp tổ chức lớp I (MHC I)",
+                "TEN_EN": "Major histocompatibility complex class I deficiency"
+              },
+              {
+                "MA": "D81.7",
+                "TEN": "Thiếu hụt phức hợp hoà hợp tổ chức lớp II (MHC II)",
+                "TEN_EN": "Major histocompatibility complex class II deficiency"
+              },
+              {
+                "MA": "D81.8",
+                "TEN": "Các suy giảm miễn dịch kết hợp khác",
+                "TEN_EN": "Other combined immunodeficiencies"
+              },
+              {
+                "MA": "D81.9",
+                "TEN": "Suy giảm miễn dịch hỗn hợp không đặc hiệu",
+                "TEN_EN": "Combined immunodeficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D82",
+            "TEN": "Suy giảm miễn dịch liên quan đến các bất thường nặng khác",
+            "TEN_EN": "Immunodeficiency associated with other major defects",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D82.0",
+                "TEN": "Hội chứng Wiskott-Aldrich",
+                "TEN_EN": "Wiskott-Aldrich syndrome"
+              },
+              {
+                "MA": "D82.1",
+                "TEN": "Hội chứng Di George s",
+                "TEN_EN": "Di George s syndrome"
+              },
+              {
+                "MA": "D82.2",
+                "TEN": "Suy giảm miễn dịch kèm chứng ngắn chi",
+                "TEN_EN": "Immunodeficiency with short-limbed stature"
+              },
+              {
+                "MA": "D82.3",
+                "TEN": "Suy giảm miễn dịch sau đáp ứng với virus Epstein-Barr bị khuyết thiếu mang tính di truyền",
+                "TEN_EN": "Immunodeficiency following hereditary defective response to Epstein-Barr virus"
+              },
+              {
+                "MA": "D82.4",
+                "TEN": "Hội chứng tăng immunoglobulin E [IgE]",
+                "TEN_EN": "Hyperimmunoglobulin E [IgE] syndrome"
+              },
+              {
+                "MA": "D82.8",
+                "TEN": "Suy giảm miễn dịch liên quan với các bất thường lớn đặc hiệu khác",
+                "TEN_EN": "Immunodeficiency associated with other specified major defects"
+              },
+              {
+                "MA": "D82.9",
+                "TEN": "Suy giảm miễn dịch khiếm khuyết chủ yếu, không đặc hiệu",
+                "TEN_EN": "Immunodeficiency associated with major defect, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D83",
+            "TEN": "Một số các biến thể khác của suy giảm miễn dịch",
+            "TEN_EN": "Common variable immunodeficiency",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D83.0",
+                "TEN": "Suy giảm miễn dịch một số biến thể do bất thường về số lượng và chức năng lympho B",
+                "TEN_EN": "Common variable immunodeficiency with predominant abnormalities of B-cell numbers and function"
+              },
+              {
+                "MA": "D83.1",
+                "TEN": "Suy giảm miễn dịch biến thể chủ yếu do rối loạn điều hoà miễn dịch của lympho T",
+                "TEN_EN": "Common variable immunodeficiency with predominant immunoregulatory T-cell disorders"
+              },
+              {
+                "MA": "D83.2",
+                "TEN": "Suy giảm miễn dịch biến thể phổ biến với tự kháng thể chống lympho B hoặc T",
+                "TEN_EN": "Common variable immunodeficiency with autoantibodies to B- or T-cells"
+              },
+              {
+                "MA": "D83.8",
+                "TEN": "Các suy giảm miễn dịch biến thiên phổ biến khác",
+                "TEN_EN": "Other common variable immunodeficiencies"
+              },
+              {
+                "MA": "D83.9",
+                "TEN": "Suy giảm miễn dịch biến thiên phổ biến không đặc hiệu",
+                "TEN_EN": "Common variable immunodeficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D84",
+            "TEN": "Các suy giảm miễn dịch khác",
+            "TEN_EN": "Other immunodeficiencies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D84.0",
+                "TEN": "Bất thường kháng nguyên chức năng 1 của lymphocyte [LFA-1]",
+                "TEN_EN": "Lymphocyte function antigen-1 [LFA-1] defect"
+              },
+              {
+                "MA": "D84.1",
+                "TEN": "Các bất thường của hệ thống bổ thể",
+                "TEN_EN": "Defects in the complement system"
+              },
+              {
+                "MA": "D84.8",
+                "TEN": "Các suy giảm miễn dịch đặc hiệu khác",
+                "TEN_EN": "Other specified immunodeficiencies"
+              },
+              {
+                "MA": "D84.9",
+                "TEN": "Suy giảm miễn dịch không đặc hiệu",
+                "TEN_EN": "Immunodeficiency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D86",
+            "TEN": "Bệnh sarcoid",
+            "TEN_EN": "Sarcoidosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D86.0",
+                "TEN": "Bệnh sarcoid phổi",
+                "TEN_EN": "Sarcoidosis of lung"
+              },
+              {
+                "MA": "D86.1",
+                "TEN": "Bệnh sarcoid hạch bạch huyết",
+                "TEN_EN": "Sarcoidosis of lymph nodes"
+              },
+              {
+                "MA": "D86.2",
+                "TEN": "Bệnh sarcoid phổi và hạch bạch huyết",
+                "TEN_EN": "Sarcoidosis of lung with sarcoidosis of lymph nodes"
+              },
+              {
+                "MA": "D86.3",
+                "TEN": "Bệnh sarcoid da",
+                "TEN_EN": "Sarcoidosis of skin"
+              },
+              {
+                "MA": "D86.8",
+                "TEN": "Bệnh sarcoid hỗn hợp và tại các khu vực khác",
+                "TEN_EN": "Sarcoidosis of other and combined sites"
+              },
+              {
+                "MA": "D86.9",
+                "TEN": "Bệnh sarcoid không đặc hiệu",
+                "TEN_EN": "Sarcoidosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "D89",
+            "TEN": "Rối loạn liên quan đến cơ chế miễn dịch, chưa phân loại nơi khác",
+            "TEN_EN": "Other disorders involving the immune mechanism, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "D89.0",
+                "TEN": "Tăng gammaglobulin máu đa dòng",
+                "TEN_EN": "Polyclonal hypergammaglobulinaemia"
+              },
+              {
+                "MA": "D89.1",
+                "TEN": "Bệnh kháng thể (tăng globulin) ngưng kết lạnh",
+                "TEN_EN": "Cryoglobulinaemia"
+              },
+              {
+                "MA": "D89.2",
+                "TEN": "Tăng gammaglobulin máu không đặc hiệu",
+                "TEN_EN": "Hypergammaglobulinaemia, unspecified"
+              },
+              {
+                "MA": "D89.3",
+                "TEN": "Hội chứng tái tạo miễn dịch",
+                "TEN_EN": "Immune reconstitution syndrome "
+              },
+              {
+                "MA": "D89.8",
+                "TEN": "Các rối loạn xác định khác liên quan đến cơ chế miễn dịch, chưa được phân loại ở phần khác",
+                "TEN_EN": "Other specified disorders involving the immune mechanism, not elsewhere classified"
+              },
+              {
+                "MA": "D89.9",
+                "TEN": "Rối loạn liên quan đến cơ chế miễn dịch, không đặc hiệu",
+                "TEN_EN": "Disorder involving the immune mechanism, unspecified"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -9139,49 +11026,313 @@
         "MA": "E00-E07",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh tuyến giáp",
-        "TEN_EN": "Disorders of thyroid gland"
+        "TEN_EN": "Disorders of thyroid gland",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "E00",
+            "TEN": "Hội chứng thiếu iod bẩm sinh",
+            "TEN_EN": "Congenital iodine-deficiency syndrome",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E00.0",
+                "TEN": "Hội chứng thiếu iod bẩm sinh, thể thần kinh",
+                "TEN_EN": "Congenital iodine-deficiency syndrome, neurological type"
+              },
+              {
+                "MA": "E00.1",
+                "TEN": "Hội chứng thiếu iod bẩm sinh, thể phù niêm",
+                "TEN_EN": "Congenital iodine-deficiency syndrome, myxoedematous type"
+              },
+              {
+                "MA": "E00.2",
+                "TEN": "Hội chứng thiếu iod bẩm sinh,-thể phối hợp",
+                "TEN_EN": "Congenital iodine-deficiency syndrome, mixed type"
+              },
+              {
+                "MA": "E00.9",
+                "TEN": "Hội chứng thiếu iod bẩm sinh, không đặc hiệu",
+                "TEN_EN": "Congenital iodine-deficiency syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E01",
+            "TEN": "Rối loạn tuyến giáp liên quan đến thiếu iod và bệnh phối hợp",
+            "TEN_EN": "Iodine-deficiency-related thyroid disorders and allied conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E01.0",
+                "TEN": "Bướu giáp lan toả (địa phương) -liên quan đến thiếu iod",
+                "TEN_EN": "Iodine-deficiency-related diffuse (endemic) goitre"
+              },
+              {
+                "MA": "E01.1",
+                "TEN": "Bướu giáp đa nhân (địa phương) do thiếu iod",
+                "TEN_EN": "Iodine-deficiency-related multinodular (endemic) goitre"
+              },
+              {
+                "MA": "E01.2",
+                "TEN": "Bướu giáp (địa phương) do thiếu iod, không đặc hiệu",
+                "TEN_EN": "Iodine-deficiency-related (endemic) goitre, unspecified"
+              },
+              {
+                "MA": "E01.8",
+                "TEN": "Rối loạn tuyến giáp liên quan đến thiếu iod khác và những bệnh phối hợp",
+                "TEN_EN": "Other iodine-deficiency-related thyroid disorders and allied conditions"
+              }
+            ]
+          },
+          {
+            "MA": "E02",
+            "TEN": "Suy giáp do thiếu iod dưới lâm sàng",
+            "TEN_EN": "Subclinical iodine-deficiency hypothyroidism",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "E03",
+            "TEN": "Suy giáp khác",
+            "TEN_EN": "Other hypothyroidism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E03.0",
+                "TEN": "Suy giáp bẩm sinh với bướu lan toả",
+                "TEN_EN": "Congenital hypothyroidism with diffuse goitre"
+              },
+              {
+                "MA": "E03.1",
+                "TEN": "Suy giáp bẩm sinh không có bướu",
+                "TEN_EN": "Congenital hypothyroidism without goitre"
+              },
+              {
+                "MA": "E03.2",
+                "TEN": "Suy giáp do thuốc và chất ngoại sinh khác",
+                "TEN_EN": "Hypothyroidism due to medicaments and other exogenous substances"
+              },
+              {
+                "MA": "E03.3",
+                "TEN": "Suy giáp sau nhiễm trùng",
+                "TEN_EN": "Postinfectious hypothyroidism"
+              },
+              {
+                "MA": "E03.4",
+                "TEN": "Teo tuyến giáp (mắc phải)",
+                "TEN_EN": "Atrophy of thyroid (acquired)"
+              },
+              {
+                "MA": "E03.5",
+                "TEN": "Hôn mê phù niêm",
+                "TEN_EN": "Myxoedema coma"
+              },
+              {
+                "MA": "E03.8",
+                "TEN": "Suy giáp xác định khác",
+                "TEN_EN": "Other specified hypothyroidism"
+              },
+              {
+                "MA": "E03.9",
+                "TEN": "Suy giáp, không đặc hiệu",
+                "TEN_EN": "Hypothyroidism, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E04",
+            "TEN": "Bướu không độc khác",
+            "TEN_EN": "Other nontoxic goitre",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E04.0",
+                "TEN": "Bướu giáp lan toả -không độc",
+                "TEN_EN": "Nontoxic diffuse goitre"
+              },
+              {
+                "MA": "E04.1",
+                "TEN": "Bướu giáp đơn nhân -không độc",
+                "TEN_EN": "Nontoxic single thyroid nodule"
+              },
+              {
+                "MA": "E04.2",
+                "TEN": "Bướu giáp đa nhân -không độc",
+                "TEN_EN": "Nontoxic multinodular goitre"
+              },
+              {
+                "MA": "E04.8",
+                "TEN": "Bướu giáp không độc xác định khác",
+                "TEN_EN": "Other specified nontoxic goitre"
+              },
+              {
+                "MA": "E04.9",
+                "TEN": "bướu giáp không độc, không đặc hiệu",
+                "TEN_EN": "Nontoxic goitre, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E05",
+            "TEN": "Nhiễm độc giáp (cường giáp)",
+            "TEN_EN": "Thyrotoxicosis [hyperthyroidism]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E05.0",
+                "TEN": "Nhiễm độc giáp với bướu lan toả",
+                "TEN_EN": "Thyrotoxicosis with diffuse goitre"
+              },
+              {
+                "MA": "E05.1",
+                "TEN": "Nhiễm độc giáp với bướu giáp đơn nhân độc",
+                "TEN_EN": "Thyrotoxicosis with toxic single thyroid nodule"
+              },
+              {
+                "MA": "E05.2",
+                "TEN": "Nhiễm độc giáp với bướu giáp đa nhân độc",
+                "TEN_EN": "Thyrotoxicosis with toxic multinodular goitre"
+              },
+              {
+                "MA": "E05.3",
+                "TEN": "Nhiễm độc giáp từ mô giáp lạc chỗ",
+                "TEN_EN": "Thyrotoxicosis from ectopic thyroid tissue"
+              },
+              {
+                "MA": "E05.4",
+                "TEN": "Nhiễm độc giáp do dùng thuốc",
+                "TEN_EN": "Thyrotoxicosis factitia"
+              },
+              {
+                "MA": "E05.5",
+                "TEN": "Cơn cường giáp cấp hay cơn bão giáp",
+                "TEN_EN": "Thyroid crisis or storm"
+              },
+              {
+                "MA": "E05.8",
+                "TEN": "Nhiễm độc giáp khác",
+                "TEN_EN": "Other thyrotoxicosis"
+              },
+              {
+                "MA": "E05.9",
+                "TEN": "Nhiễm độc giáp, không đặc hiệu",
+                "TEN_EN": "Thyrotoxicosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E06",
+            "TEN": "Viêm giáp",
+            "TEN_EN": "Thyroiditis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E06.0",
+                "TEN": "Viêm giáp cấp",
+                "TEN_EN": "Acute thyroiditis"
+              },
+              {
+                "MA": "E06.1",
+                "TEN": "Viêm giáp bán cấp",
+                "TEN_EN": "Subacute thyroiditis"
+              },
+              {
+                "MA": "E06.2",
+                "TEN": "Viêm giáp mãn với nhiễm độc giáp thoáng qua",
+                "TEN_EN": "Chronic thyroiditis with transient thyrotoxicosis"
+              },
+              {
+                "MA": "E06.3",
+                "TEN": "Viêm giáp tự miễn",
+                "TEN_EN": "Autoimmune thyroiditis"
+              },
+              {
+                "MA": "E06.4",
+                "TEN": "Viêm giáp do thuốc",
+                "TEN_EN": "Drug-induced thyroiditis"
+              },
+              {
+                "MA": "E06.5",
+                "TEN": "Viêm giáp mãn tính khác",
+                "TEN_EN": "Other chronic thyroiditis"
+              },
+              {
+                "MA": "E06.9",
+                "TEN": "Viêm giáp không đặc hiệu",
+                "TEN_EN": "Thyroiditis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "E07",
+            "TEN": "Các rối loạn khác của tuyến giáp",
+            "TEN_EN": "Other disorders of thyroid",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "E07.0",
+                "TEN": "Tăng tiết calcitonin",
+                "TEN_EN": "Hypersecretion of calcitonin"
+              },
+              {
+                "MA": "E07.1",
+                "TEN": "Rối loạn được xác định khác của tuyến giáp",
+                "TEN_EN": "Dyshormogenetic goitre"
+              },
+              {
+                "MA": "E07.8",
+                "TEN": "Rối loạn được xác định khác của tuyến giáp",
+                "TEN_EN": "Other specified disorders of thyroid"
+              },
+              {
+                "MA": "E07.9",
+                "TEN": "Rối loạn tuyến giáp, không đặc hiệu",
+                "TEN_EN": "Disorder of thyroid, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "E10-E14",
         "MA_TRONG_CHUONG": "",
         "TEN": "Đái tháo đường",
-        "TEN_EN": "Diabetes mellitus"
+        "TEN_EN": "Diabetes mellitus",
+        "DANH_SACH_BENH": []
       },
       {
         "MA": "E15-E16",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn khác về sự điều hoà glucose và bài tiết của tụy nội tiết",
-        "TEN_EN": "Other disorders of glucose regulation and pancreatic internal secretion"
+        "TEN_EN": "Other disorders of glucose regulation and pancreatic internal secretion",
+        "DANH_SACH_BENH": []
       },
       {
         "MA": "E20-E35",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn các tuyến nội tiết khác",
-        "TEN_EN": "Disorders of other endocrine glands"
+        "TEN_EN": "Disorders of other endocrine glands",
+        "DANH_SACH_BENH": []
       },
       {
         "MA": "E40-E46",
         "MA_TRONG_CHUONG": "",
         "TEN": "Suy dinh dưỡng",
-        "TEN_EN": "Malnutrition"
+        "TEN_EN": "Malnutrition",
+        "DANH_SACH_BENH": []
       },
       {
         "MA": "E50-E64",
         "MA_TRONG_CHUONG": "",
         "TEN": "Những bệnh thiếu dinh dưỡng khác",
-        "TEN_EN": "Other nutritional deficiencies"
+        "TEN_EN": "Other nutritional deficiencies",
+        "DANH_SACH_BENH": []
       },
       {
         "MA": "E65-E68",
         "MA_TRONG_CHUONG": "",
         "TEN": "Béo phì và tình trạng thừa dinh dưỡng khác",
-        "TEN_EN": "Obesity and other hyperalimentation"
+        "TEN_EN": "Obesity and other hyperalimentation",
+        "DANH_SACH_BENH": []
       },
       {
         "MA": "E70-E90",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn chuyển hóa",
-        "TEN_EN": "Metabolic disorders"
+        "TEN_EN": "Metabolic disorders",
+        "DANH_SACH_BENH": []
       }
     ]
   },

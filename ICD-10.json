@@ -23143,61 +23143,1601 @@
         "MA": "J00-J06",
         "MA_TRONG_CHUONG": "",
         "TEN": "Nhiễm trùng hô hấp trên cấp",
-        "TEN_EN": "Acute upper respiratory infections"
+        "TEN_EN": "Acute upper respiratory infections",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J00",
+            "TEN": "Viêm mũi họng cấp [cảm thường]",
+            "TEN_EN": "Acute nasopharyngitis [common cold]",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J01",
+            "TEN": "Viêm xoang cấp",
+            "TEN_EN": "Acute sinusitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J01.0",
+                "TEN": "Viêm xoang hàm cấp",
+                "TEN_EN": "Acute maxillary sinusitis"
+              },
+              {
+                "MA": "J01.1",
+                "TEN": "Viêm xoang trán cấp",
+                "TEN_EN": "Acute frontal sinusitis"
+              },
+              {
+                "MA": "J01.2",
+                "TEN": "Viêm xoang sàng cấp",
+                "TEN_EN": "Acute ethmoidal sinusitis"
+              },
+              {
+                "MA": "J01.3",
+                "TEN": "Viêm xoang bướm cấp",
+                "TEN_EN": "Acute sphenoidal sinusitis"
+              },
+              {
+                "MA": "J01.4",
+                "TEN": "Viêm toàn bộ xoang cấp",
+                "TEN_EN": "Acute pansinusitis"
+              },
+              {
+                "MA": "J01.8",
+                "TEN": "Viêm đa xoang cấp tính khác",
+                "TEN_EN": "Other acute sinusitis"
+              },
+              {
+                "MA": "J01.9",
+                "TEN": "Viêm xoang cấp, không phân loại",
+                "TEN_EN": "Acute sinusitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J02",
+            "TEN": "Viêm họng cấp",
+            "TEN_EN": "Acute pharyngitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J02.0",
+                "TEN": "Viêm họng do liên cầu",
+                "TEN_EN": "Streptococcal pharyngitis"
+              },
+              {
+                "MA": "J02.8",
+                "TEN": "Viêm họng cấp do các vi sinh vật khác đã được xác định",
+                "TEN_EN": "Acute pharyngitis due to other specified organisms"
+              },
+              {
+                "MA": "J02.9",
+                "TEN": "Viêm họng cấp, không đặc hiệu",
+                "TEN_EN": "Acute pharyngitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J03",
+            "TEN": "Viêm amyđan cấp",
+            "TEN_EN": "Acute tonsillitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J03.0",
+                "TEN": "Viêm amydan do liên cầu Streptococcus",
+                "TEN_EN": "Streptococcal tonsillitis"
+              },
+              {
+                "MA": "J03.8",
+                "TEN": "Viêm amydan cấp tính do các vi sinh vật khác đã được xác định",
+                "TEN_EN": "Acute tonsillitis due to other specified organisms"
+              },
+              {
+                "MA": "J03.9",
+                "TEN": "Viêm amydan cấp, không phân loại",
+                "TEN_EN": "Acute tonsillitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J04",
+            "TEN": "Viêm thanh quản và khí quản cấp",
+            "TEN_EN": "Acute laryngitis and tracheitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J04.0",
+                "TEN": "Viêm thanh quản cấp",
+                "TEN_EN": "Acute laryngitis"
+              },
+              {
+                "MA": "J04.1",
+                "TEN": "Viêm khí quản cấp",
+                "TEN_EN": "Acute tracheitis"
+              },
+              {
+                "MA": "J04.2",
+                "TEN": "Viêm thanh khí quản cấp",
+                "TEN_EN": "Acute laryngotracheitis"
+              }
+            ]
+          },
+          {
+            "MA": "J05",
+            "TEN": "Viêm thanh quản tắc nghẽn [tắc nghẽn thanh quản] và nắp thanh môn cấp",
+            "TEN_EN": "Acute obstructive laryngitis [croup] and epiglottitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J05.0",
+                "TEN": "Viêm thanh quản tắc nghẽn cấp [CROUP]",
+                "TEN_EN": "Acute obstructive laryngitis [croup]"
+              },
+              {
+                "MA": "J05.1",
+                "TEN": "Viêm nắp thanh môn cấp",
+                "TEN_EN": "Acute epiglottitis"
+              }
+            ]
+          },
+          {
+            "MA": "J06",
+            "TEN": "Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại",
+            "TEN_EN": "Acute upper respiratory infections of multiple and unspecified sites",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J06.0",
+                "TEN": "Viêm họng - thanh quản cấp",
+                "TEN_EN": "Acute laryngopharyngitis"
+              },
+              {
+                "MA": "J06.8",
+                "TEN": "Các Nhiễm trùng đường hô hấp trên cấp khác ở nhiều vị trí",
+                "TEN_EN": "Other acute upper respiratory infections of multiple sites"
+              },
+              {
+                "MA": "J06.9",
+                "TEN": "Nhiễm trùng đường hô hấp trên cấp, không phân loại",
+                "TEN_EN": "Acute upper respiratory infection, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "J09-J18",
         "MA_TRONG_CHUONG": "",
         "TEN": "Cúm và viêm phổi",
-        "TEN_EN": "Influenza and pneumonia"
+        "TEN_EN": "Influenza and pneumonia",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J09",
+            "TEN": "Cúm do virus đã được định danh",
+            "TEN_EN": "Influenza due to certain  identified influenza virus",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J10",
+            "TEN": "Cảm cúm do virus cúm được định danh khác",
+            "TEN_EN": "Influenza due to other identified influenza virus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J10.0",
+                "TEN": "Cảm cúm với viêm phổi, virus cúm được định danh khác",
+                "TEN_EN": "Influenza with pneumonia, other influenza virus identified"
+              },
+              {
+                "MA": "J10.1",
+                "TEN": "Cảm cúm với biểu hiện hô hấp khác, virus cúm được định",
+                "TEN_EN": "Influenza with other respiratory manifestations, other influenza virus identified"
+              },
+              {
+                "MA": "J10.8",
+                "TEN": "Cảm cúm với biểu hiện khác, virus cúm được định danh khác",
+                "TEN_EN": "Influenza with other manifestations, other influenza virus identified"
+              }
+            ]
+          },
+          {
+            "MA": "J11",
+            "TEN": "Cúm, virus không được định danh",
+            "TEN_EN": "Influenza, virus not identified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J11.0",
+                "TEN": "Cúm kèm viêm phổi, virus không được định danh",
+                "TEN_EN": "Influenza with pneumonia, virus not identified"
+              },
+              {
+                "MA": "J11.1",
+                "TEN": "Cúm với các biểu hiện hô hấp khác, virus không được định danh",
+                "TEN_EN": "Influenza with other respiratory manifestations, virus not identified"
+              },
+              {
+                "MA": "J11.8",
+                "TEN": "Cúm với các biểu hiện khác, virus không được định danh",
+                "TEN_EN": "Influenza with other manifestations, virus not identified"
+              }
+            ]
+          },
+          {
+            "MA": "J12",
+            "TEN": "Viêm phổi do virus, chưa được phân loại nơi khác",
+            "TEN_EN": "Viral pneumonia, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J12.0",
+                "TEN": "Viêm phổi do adenovirus",
+                "TEN_EN": "Adenoviral pneumonia"
+              },
+              {
+                "MA": "J12.1",
+                "TEN": "Viêm phổi do virus hợp bào hô hấp",
+                "TEN_EN": "Respiratory syncytial virus pneumonia"
+              },
+              {
+                "MA": "J12.2",
+                "TEN": "Viêm phổi do virus parainfluenza",
+                "TEN_EN": "Parainfluenza virus pneumonia"
+              },
+              {
+                "MA": "J12.3",
+                "TEN": "Viêm phổi do metapneumovirus người",
+                "TEN_EN": "Human metapneumovirus pneumonia"
+              },
+              {
+                "MA": "J12.8",
+                "TEN": "Viêm phổi do virus khác",
+                "TEN_EN": "Other viral pneumonia"
+              },
+              {
+                "MA": "J12.9",
+                "TEN": "Viêm phổi virus, không đặc hiệu",
+                "TEN_EN": "Viral pneumonia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J13",
+            "TEN": "Viêm phổi do virus, chưa được phân loại nơi khác",
+            "TEN_EN": "Viral pneumonia, not elsewhere classified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J14",
+            "TEN": "Viêm phổi do virus, chưa được phân loại nơi khác",
+            "TEN_EN": "Viral pneumonia, not elsewhere classified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J15",
+            "TEN": "Viêm phổi do vi khuẩn, chưa được phân loại nơi khác",
+            "TEN_EN": "Bacterial pneumonia, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J15.0",
+                "TEN": "Viêm phổi do Klebsiella pneumoniae",
+                "TEN_EN": "Pneumonia due to Klebsiella pneumoniae"
+              },
+              {
+                "MA": "J15.1",
+                "TEN": "Viêm phổi do Pseudomonas",
+                "TEN_EN": "Pneumonia due to Pseudomonas"
+              },
+              {
+                "MA": "J15.2",
+                "TEN": "Viêm phổi do tụ cầu Staphylococcus",
+                "TEN_EN": "Pneumonia due to staphylococcus"
+              },
+              {
+                "MA": "J15.3",
+                "TEN": "Viêm phổi do liên cầu, nhóm B",
+                "TEN_EN": "Pneumonia due to streptococcus, group B"
+              },
+              {
+                "MA": "J15.4",
+                "TEN": "Viêm phổi do các liên cầu Streptoccoccus khác",
+                "TEN_EN": "Pneumonia due to other streptococci"
+              },
+              {
+                "MA": "J15.5",
+                "TEN": "Viêm phổi do Escherichia coli",
+                "TEN_EN": "Pneumonia due to Escherichia coli"
+              },
+              {
+                "MA": "J15.6",
+                "TEN": "Viêm phổi do vi khuẩn Gram (-) hiếu khí khác",
+                "TEN_EN": "Pneumonia due to other aerobic Gram-negative bacteria"
+              },
+              {
+                "MA": "J15.7",
+                "TEN": "Viêm phổi do Mycoplasma pneumoniae",
+                "TEN_EN": "Pneumonia due to Mycoplasma pneumoniae"
+              },
+              {
+                "MA": "J15.8",
+                "TEN": "Viêm phổi do vi khuẩn khác",
+                "TEN_EN": "Other bacterial pneumonia"
+              },
+              {
+                "MA": "J15.9",
+                "TEN": "Viêm phổi do vi khuẩn, không phân loại",
+                "TEN_EN": "Bacterial pneumonia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J16",
+            "TEN": "Viêm phổi do tác nhân nhiễm khuẩn khác, chưa được phân loại nơi khác",
+            "TEN_EN": "Pneumonia due to other infectious organisms, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J16.0",
+                "TEN": "Viêm phổi do chlamydia",
+                "TEN_EN": "Chlamydial pneumonia"
+              },
+              {
+                "MA": "J16.8",
+                "TEN": "Viêm phổi do tác nhân nhiễm khuẩn khác",
+                "TEN_EN": "Pneumonia due to other specified infectious organisms"
+              }
+            ]
+          },
+          {
+            "MA": "J17",
+            "TEN": "Viêm phổi trong các bệnh đã được phân loại nơi khác",
+            "TEN_EN": "Pneumonia in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J17*",
+                "TEN": "Viêm phổi trong các bệnh đã được phân loại nơi khác",
+                "TEN_EN": "Pneumonia in diseases classified elsewhere"
+              },
+              {
+                "MA": "J17.0*",
+                "TEN": "Viêm phổi trong các bệnh do vi khuẩn phân loại nơi khác",
+                "TEN_EN": "Pneumonia in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "J17.1*",
+                "TEN": "Viêm phổi trong các bệnh do virus được phân loại nơi khác",
+                "TEN_EN": "Pneumonia in viral diseases classified elsewhere"
+              },
+              {
+                "MA": "J17.2*",
+                "TEN": "Viêm phổi trong do nấm",
+                "TEN_EN": "Pneumonia in mycoses"
+              },
+              {
+                "MA": "J17.3*",
+                "TEN": "Viêm phổi trong bệnh ký sinh trùng",
+                "TEN_EN": "Pneumonia in parasitic diseases"
+              },
+              {
+                "MA": "J17.8*",
+                "TEN": "Viêm phổi trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Pneumonia in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "J18",
+            "TEN": "Viêm phổi, tác nhân không xác định",
+            "TEN_EN": "Pneumonia, organism unspecified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J18.0",
+                "TEN": "Viêm phế quản phổi, không phân loại",
+                "TEN_EN": "Bronchopneumonia, unspecified"
+              },
+              {
+                "MA": "J18.1",
+                "TEN": "Viêm phổi thuỳ, không phân loại",
+                "TEN_EN": "Lobar pneumonia, unspecified"
+              },
+              {
+                "MA": "J18.2",
+                "TEN": "Viêm phổi do nằm lâu ngày, không phân loại",
+                "TEN_EN": "Hypostatic pneumonia, unspecified"
+              },
+              {
+                "MA": "J18.8",
+                "TEN": "Viêm phổi khác, không xác định vi sinh vật",
+                "TEN_EN": "Other pneumonia, organism unspecified"
+              },
+              {
+                "MA": "J18.9",
+                "TEN": "Viêm phổi, không phân loại",
+                "TEN_EN": "Pneumonia, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "J20-J22",
         "MA_TRONG_CHUONG": "",
         "TEN": "Nhiễm trùng đường hô hấp dưới cấp khác",
-        "TEN_EN": "Other acute lower respiratory infections"
+        "TEN_EN": "Other acute lower respiratory infections",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J20",
+            "TEN": "Viêm phế quản cấp",
+            "TEN_EN": "Acute bronchitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J20.0",
+                "TEN": "Viêm phế quản cấp do Mycoplasma pneumoniae",
+                "TEN_EN": "Acute bronchitis due to Mycoplasma pneumoniae"
+              },
+              {
+                "MA": "J20.1",
+                "TEN": "Viêm phế quản cấp do Haemophilus lnfluenzae",
+                "TEN_EN": "Acute bronchitis due to Haemophilus influenzae"
+              },
+              {
+                "MA": "J20.2",
+                "TEN": "Viêm phế quản cấp do streptococcus",
+                "TEN_EN": "Acute bronchitis due to streptococcus"
+              },
+              {
+                "MA": "J20.3",
+                "TEN": "Viêm phế quản cấp do virus coxsackie",
+                "TEN_EN": "Acute bronchitis due to coxsackievirus"
+              },
+              {
+                "MA": "J20.4",
+                "TEN": "Viêm phế quản cấp do virus parainfluenza",
+                "TEN_EN": "Acute bronchitis due to parainfluenza virus"
+              },
+              {
+                "MA": "J20.5",
+                "TEN": "Viêm phế quản cấp do virus hợp bào hô hấp",
+                "TEN_EN": "Acute bronchitis due to respiratory syncytial virus"
+              },
+              {
+                "MA": "J20.6",
+                "TEN": "Viêm phế quản cấp do rhinovirus",
+                "TEN_EN": "Acute bronchitis due to rhinovirus"
+              },
+              {
+                "MA": "J20.7",
+                "TEN": "Viêm phế quản cấp do echovirus",
+                "TEN_EN": "Acute bronchitis due to echovirus"
+              },
+              {
+                "MA": "J20.8",
+                "TEN": "Viêm phế quản cấp do vi sinh vật khác đã được định danh",
+                "TEN_EN": "Acute bronchitis due to other specified organisms"
+              },
+              {
+                "MA": "J20.9",
+                "TEN": "Viêm phế quản cấp, không phân loại",
+                "TEN_EN": "Acute bronchitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J21",
+            "TEN": "Viêm tiểu phế quản cấp",
+            "TEN_EN": "Acute bronchiolitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J21.0",
+                "TEN": "Viêm tiểu phế quản cấp do virus hợp bào hô hấp",
+                "TEN_EN": "Acute bronchiolitis due to respiratory syncytial virus"
+              },
+              {
+                "MA": "J21.1",
+                "TEN": "Viêm tiểu phế quản cấp tính do metapneumovirus người",
+                "TEN_EN": "Acute bronchiolitis due to human metapneumovirus"
+              },
+              {
+                "MA": "J21.8",
+                "TEN": "Viêm tiểu phế quản cấp do vi sinh vật khác đã được định danh",
+                "TEN_EN": "Acute bronchiolitis due to other specified organisms"
+              },
+              {
+                "MA": "J21.9",
+                "TEN": "Viêm tiểu phế quản cấp, không phân loại",
+                "TEN_EN": "Acute bronchiolitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J22",
+            "TEN": "Nhiễm trùng hô hấp dưới cấp không phân loại",
+            "TEN_EN": "Unspecified acute lower respiratory infection",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "J30-J39",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh khác của đường hô hấp trên",
-        "TEN_EN": "Other diseases of upper respiratory tract"
+        "TEN_EN": "Other diseases of upper respiratory tract",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J30",
+            "TEN": "Viêm mũi vận mạch và viêm mũi dị ứng",
+            "TEN_EN": "Vasomotor and allergic rhinitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J30.0",
+                "TEN": "Viêm mũi vận mạch",
+                "TEN_EN": "Vasomotor rhinitis"
+              },
+              {
+                "MA": "J30.1",
+                "TEN": "Viêm mũi dị ứng do phấn hoa",
+                "TEN_EN": "Allergic rhinitis due to pollen"
+              },
+              {
+                "MA": "J30.2",
+                "TEN": "Viêm mũi dị ứng theo mùa khác",
+                "TEN_EN": "Other seasonal allergic rhinitis"
+              },
+              {
+                "MA": "J30.3",
+                "TEN": "Viêm mũi dị ứng khác",
+                "TEN_EN": "Other allergic rhinitis"
+              },
+              {
+                "MA": "J30.4",
+                "TEN": "Viêm mũi dị ứng, không phân loại",
+                "TEN_EN": "Allergic rhinitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J31",
+            "TEN": "Viêm mũi, viêm mũi họng, viêm họng mãn tính",
+            "TEN_EN": "Chronic rhinitis, nasopharyngitis and pharyngitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J31.0",
+                "TEN": "Viêm mũi mãn tính",
+                "TEN_EN": "Chronic rhinitis"
+              },
+              {
+                "MA": "J31.1",
+                "TEN": "Viêm mũi họng mãn tính",
+                "TEN_EN": "Chronic nasopharyngitis"
+              },
+              {
+                "MA": "J31.2",
+                "TEN": "Viêm họng mãn tính",
+                "TEN_EN": "Chronic pharyngitis"
+              }
+            ]
+          },
+          {
+            "MA": "J32",
+            "TEN": "Viêm xoang mãn tính",
+            "TEN_EN": "Chronic sinusitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J32.0",
+                "TEN": "Viêm xoang hàm mãn tính",
+                "TEN_EN": "Chronic maxillary sinusitis"
+              },
+              {
+                "MA": "J32.1",
+                "TEN": "Viêm xoang trán mãn tính",
+                "TEN_EN": "Chronic frontal sinusitis"
+              },
+              {
+                "MA": "J32.2",
+                "TEN": "Viêm xoang sàng mãn tính",
+                "TEN_EN": "Chronic ethmoidal sinusitis"
+              },
+              {
+                "MA": "J32.3",
+                "TEN": "Viêm xoang bướm mãn tính",
+                "TEN_EN": "Chronic sphenoidal sinusitis"
+              },
+              {
+                "MA": "J32.4",
+                "TEN": "Viêm toàn bộ xoang mạn",
+                "TEN_EN": "Chronic pansinusitis"
+              },
+              {
+                "MA": "J32.8",
+                "TEN": "Viêm xoang mãn tính khác",
+                "TEN_EN": "Other chronic sinusitis"
+              },
+              {
+                "MA": "J32.9",
+                "TEN": "Viêm xoang mãn tính, không phân loại",
+                "TEN_EN": "Chronic sinusitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J33",
+            "TEN": "Políp mũi",
+            "TEN_EN": "Nasal polyp",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J33.0",
+                "TEN": "Políp mũi",
+                "TEN_EN": "Polyp of nasal cavity"
+              },
+              {
+                "MA": "J33.1",
+                "TEN": "thoái hóa xoang dạng políp",
+                "TEN_EN": "Polypoid sinus degeneration"
+              },
+              {
+                "MA": "J33.8",
+                "TEN": "Políp của xoang khác",
+                "TEN_EN": "Other polyp of sinus"
+              },
+              {
+                "MA": "J33.9",
+                "TEN": "Políp mũi, không phân loại",
+                "TEN_EN": "Nasal polyp, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J34",
+            "TEN": "Bệnh khác của mũi và xoang",
+            "TEN_EN": "Other disorders of nose and nasal sinuses",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J34.0",
+                "TEN": "Áp xe, nhọt và nhọt tiền đình mũi",
+                "TEN_EN": "Abscess, furuncle and carbuncle of nose"
+              },
+              {
+                "MA": "J34.1",
+                "TEN": "U nang và u nhày của mũi và xoang mũi",
+                "TEN_EN": "Cyst and mucocele of nose and nasal sinus"
+              },
+              {
+                "MA": "J34.2",
+                "TEN": "Lệch vách mũi",
+                "TEN_EN": "Deviated nasal septum"
+              },
+              {
+                "MA": "J34.3",
+                "TEN": "Phì đại cuốn mũi",
+                "TEN_EN": "Hypertrophy of nasal turbinates"
+              },
+              {
+                "MA": "J34.8",
+                "TEN": "Bệnh xác định khác của mũi và xoang",
+                "TEN_EN": "Other specified disorders of nose and nasal sinuses"
+              }
+            ]
+          },
+          {
+            "MA": "J35",
+            "TEN": "Bệnh mãn tính của amyđan và sùi dạng tuyến",
+            "TEN_EN": "Chronic diseases of tonsils and adenoids",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J35.0",
+                "TEN": "Viêm amydan mãn tính",
+                "TEN_EN": "Chronic tonsillitis"
+              },
+              {
+                "MA": "J35.1",
+                "TEN": "Amydan quá phát",
+                "TEN_EN": "Hypertrophy of tonsils"
+              },
+              {
+                "MA": "J35.2",
+                "TEN": "Phì đại VA",
+                "TEN_EN": "Hypertrophy of adenoids"
+              },
+              {
+                "MA": "J35.3",
+                "TEN": "Phì đại amydan",
+                "TEN_EN": "Hypertrophy of tonsils with hypertrophy of adenoids"
+              },
+              {
+                "MA": "J35.8",
+                "TEN": "Bệnh mãn tính khác của amydan và VA",
+                "TEN_EN": "Other chronic diseases of tonsils and adenoids"
+              },
+              {
+                "MA": "J35.9",
+                "TEN": "Bệnh mãn tính của amydan và VA, không đặc hiệu",
+                "TEN_EN": "Chronic disease of tonsils and adenoids, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J36",
+            "TEN": "Áp xe quanh Amydan",
+            "TEN_EN": "Peritonsilllar abscess",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J37",
+            "TEN": "Viêm thanh quản và viêm thanh khí quản mãn tính",
+            "TEN_EN": "Chronic laryngitis and laryngotracheitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J37.0",
+                "TEN": "Viêm thanh quản mãn tính",
+                "TEN_EN": "Chronic laryngitis"
+              },
+              {
+                "MA": "J37.1",
+                "TEN": "Viêm thanh khí quản mạn",
+                "TEN_EN": "Chronic laryngotracheitis"
+              }
+            ]
+          },
+          {
+            "MA": "J38",
+            "TEN": "Bệnh lý của dây thanh âm và thanh quản, không phân loại nơi khác",
+            "TEN_EN": "Diseases of vocal cords and larynx, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J38.0",
+                "TEN": "Liệt dây thanh âm và thanh quản",
+                "TEN_EN": "Paralysis of vocal cords and larynx"
+              },
+              {
+                "MA": "J38.1",
+                "TEN": "Polyp của dây thanh âm và thanh quản",
+                "TEN_EN": "Polyp of vocal cord and larynx"
+              },
+              {
+                "MA": "J38.2",
+                "TEN": "Nốt nhỏ ở dây thanh âm",
+                "TEN_EN": "Nodules of vocal cords"
+              },
+              {
+                "MA": "J38.3",
+                "TEN": "Các bệnh lý khác của dây thanh âm",
+                "TEN_EN": "Other diseases of vocal cords"
+              },
+              {
+                "MA": "J38.4",
+                "TEN": "Phù thanh quản",
+                "TEN_EN": "Oedema of larynx"
+              },
+              {
+                "MA": "J38.5",
+                "TEN": "Co thắt thanh quản",
+                "TEN_EN": "Laryngeal spasm"
+              },
+              {
+                "MA": "J38.6",
+                "TEN": "Hẹp thanh quản",
+                "TEN_EN": "Stenosis of larynx"
+              },
+              {
+                "MA": "J38.7",
+                "TEN": "Các bệnh lý khác của thanh quản",
+                "TEN_EN": "Other diseases of larynx"
+              }
+            ]
+          },
+          {
+            "MA": "J39",
+            "TEN": "Các bệnh khác của đường hô hấp trên",
+            "TEN_EN": "Other diseases of upper respiratory tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J39.0",
+                "TEN": "Áp xe sau họng và áp xe cận họng",
+                "TEN_EN": "Retropharyngeal and parapharyngeal abscess"
+              },
+              {
+                "MA": "J39.1",
+                "TEN": "Áp xe khác của họng",
+                "TEN_EN": "Other abscess of pharynx"
+              },
+              {
+                "MA": "J39.2",
+                "TEN": "Bệnh khác của họng",
+                "TEN_EN": "Other diseases of pharynx"
+              },
+              {
+                "MA": "J39.3",
+                "TEN": "Phản ứng quá mẫn đường hô hấp trên, vị trí không xác định",
+                "TEN_EN": "Upper respiratory tract hypersensitivity reaction, site unspecified"
+              },
+              {
+                "MA": "J39.8",
+                "TEN": "Các bệnh lý xác định khác của đường hô hấp trên",
+                "TEN_EN": "Other specified diseases of upper respiratory tract"
+              },
+              {
+                "MA": "J39.9",
+                "TEN": "Bệnh của đường hô hấp trên, không đặc hiệu",
+                "TEN_EN": "Disease of upper respiratory tract, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "J40-J47",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh hô hấp dưới mãn tính",
-        "TEN_EN": "Chronic lower respiratory diseases"
+        "TEN_EN": "Chronic lower respiratory diseases",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J40",
+            "TEN": "Viêm phế quản không xác định được là cấp hay mãn tính",
+            "TEN_EN": "Bronchitis, not specified as acute or chronic",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J41",
+            "TEN": "Viêm phế quản mãn tính đơn thuần và nhầy mủ",
+            "TEN_EN": "Simple and mucopurulent chronic bronchitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J41.0",
+                "TEN": "Viêm phế quản mãn tính đơn thuần",
+                "TEN_EN": "Simple chronic bronchitis"
+              },
+              {
+                "MA": "J41.1",
+                "TEN": "Viêm phế quản mãn tính nhầy mủ",
+                "TEN_EN": "Mucopurulent chronic bronchitis"
+              },
+              {
+                "MA": "J41.8",
+                "TEN": "Viêm phế quản mãn tính hỗn hợp (đơn thuần và nhầy mủ)",
+                "TEN_EN": "Mixed simple and mucopurulent chronic bronchitis"
+              }
+            ]
+          },
+          {
+            "MA": "J42",
+            "TEN": "Viêm phế quản mãn tính không phân loại",
+            "TEN_EN": "Unspecified chronic bronchitis ",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J43",
+            "TEN": "Giãn phế nang",
+            "TEN_EN": "Emphysema",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J43.0",
+                "TEN": "Hội chứng MacLeod",
+                "TEN_EN": "MacLeod s syndrome"
+              },
+              {
+                "MA": "J43.1",
+                "TEN": "Giãn phế nang toàn tiểu thuỳ",
+                "TEN_EN": "Panlobular emphysema"
+              },
+              {
+                "MA": "J43.2",
+                "TEN": "Giãn phế nang trung tâm tiểu thuỳ",
+                "TEN_EN": "Centrilobular emphysema"
+              },
+              {
+                "MA": "J43.8",
+                "TEN": "Giãn phế nang khác",
+                "TEN_EN": "Other emphysema"
+              },
+              {
+                "MA": "J43.9",
+                "TEN": "Giãn phế nang, không đặc hiệu",
+                "TEN_EN": "Emphysema, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J44",
+            "TEN": "Các bệnh phổi tắc nghẽn mãn tính khác",
+            "TEN_EN": "Other chronic obstructive pulmonary disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J44.0",
+                "TEN": "Bệnh phổi tắc nghẽn mãn tính đợt cấp do bội nhiễm",
+                "TEN_EN": "Chronic obstructive pulmonary disease with acute lower respiratory infection"
+              },
+              {
+                "MA": "J44.1",
+                "TEN": "Bệnh phổi tắc nghẽn mãn tính đợt cấp, không phân loại",
+                "TEN_EN": "Chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+              },
+              {
+                "MA": "J44.8",
+                "TEN": "Bệnh phổi tắc nghẽn mãn tính, phân loại khác",
+                "TEN_EN": "Other specified chronic obstructive pulmonary disease"
+              },
+              {
+                "MA": "J44.9",
+                "TEN": "Bệnh phổi tắc nghẽn mãn tính, không phân loại",
+                "TEN_EN": "Chronic obstructive pulmonary disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J45",
+            "TEN": "Hen [suyễn]",
+            "TEN_EN": "Asthma",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J45.0",
+                "TEN": "Hen chủ yếu do dị ứng",
+                "TEN_EN": "Predominantly allergic asthma"
+              },
+              {
+                "MA": "J45.1",
+                "TEN": "Hen không dị ứng",
+                "TEN_EN": "Nonallergic asthma"
+              },
+              {
+                "MA": "J45.8",
+                "TEN": "Hen hỗn hợp",
+                "TEN_EN": "Mixed asthma"
+              },
+              {
+                "MA": "J45.9",
+                "TEN": "Hen, không phân loại",
+                "TEN_EN": "Asthma, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J46",
+            "TEN": "Cơn hen ác tính",
+            "TEN_EN": "Status asthmaticus",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J47",
+            "TEN": "Dãn phế quản",
+            "TEN_EN": "Bronchiectasis",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "J60-J70",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh phổi do tác nhân bên ngoài",
-        "TEN_EN": "Lung diseases due to external agents"
+        "TEN_EN": "Lung diseases due to external agents",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J60",
+            "TEN": "Bệnh bụi phổi của công nhân ngành than",
+            "TEN_EN": "Coalworker pneumoconsiosis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J61",
+            "TEN": "Bệnh bụi phổi amian và các sợi khóang khác",
+            "TEN_EN": "Pneumoconiosis due to asbestos and other mineral fibres",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J62",
+            "TEN": "Bệnh bụi phổi do bụi silic",
+            "TEN_EN": "Pneumoconiosis due to dust containing silica",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J62.0",
+                "TEN": "Bệnh bụi phổi do bột talc",
+                "TEN_EN": "Pneumoconiosis due to talc dust"
+              },
+              {
+                "MA": "J62.8",
+                "TEN": "Bệnh bụi phổi do bụi khác chứa silic",
+                "TEN_EN": "Pneumoconiosis due to other dust containing silica"
+              }
+            ]
+          },
+          {
+            "MA": "J63",
+            "TEN": "Bệnh bụi phổi do bụi vô cơ khác",
+            "TEN_EN": "Pneumoconiosis due to other inorganic dusts",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J63.0",
+                "TEN": "Nhiễm bụi nhôm (của phổi)",
+                "TEN_EN": "Aluminosis (of lung)"
+              },
+              {
+                "MA": "J63.1",
+                "TEN": "Xơ hóa do quặng bô- xít (của phổi)",
+                "TEN_EN": "Bauxite fibrosis (of lung)"
+              },
+              {
+                "MA": "J63.2",
+                "TEN": "Bụi phổi do beryllium",
+                "TEN_EN": "Berylliosis"
+              },
+              {
+                "MA": "J63.3",
+                "TEN": "Xơ phổi do than chì (của phổi)",
+                "TEN_EN": "Graphite fibrosis (of lung)"
+              },
+              {
+                "MA": "J63.4",
+                "TEN": "Bệnh xơ phổi do sắt",
+                "TEN_EN": "Siderosis"
+              },
+              {
+                "MA": "J63.5",
+                "TEN": "Bệnh xơ phổi do thiếc",
+                "TEN_EN": "Stannosis"
+              },
+              {
+                "MA": "J63.8",
+                "TEN": "Bệnh phổi nghề nghiệp do bụi phổi vô cơ xác định khác",
+                "TEN_EN": "Pneumoconiosis due to other specified inorganic dusts"
+              }
+            ]
+          },
+          {
+            "MA": "J64",
+            "TEN": "Bệnh bụi phổi không phân loại",
+            "TEN_EN": "Unspecified pneumoconiosis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J65",
+            "TEN": "Bệnh bụi phổi kết hợp với lao",
+            "TEN_EN": "Pneumoconiosis associated with tuberculosis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J66",
+            "TEN": "Bệnh đường dẫn khí do bụi hữu cơ đặc biệt khác",
+            "TEN_EN": "Airway disease due to specific organic dust",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J66.0",
+                "TEN": "Bụi phổi bông",
+                "TEN_EN": "Byssinosis"
+              },
+              {
+                "MA": "J66.1",
+                "TEN": "Bệnh Flax - Dresser",
+                "TEN_EN": "Flax-dresser s disease"
+              },
+              {
+                "MA": "J66.2",
+                "TEN": "Bệnh đường hô hấp do ma túy",
+                "TEN_EN": "Cannabinosis"
+              },
+              {
+                "MA": "J66.8",
+                "TEN": "Bệnh đường dẫn bụi khí do bụi hữu cơ đặc biệt khác",
+                "TEN_EN": "Airway disease due to other specific organic dusts"
+              }
+            ]
+          },
+          {
+            "MA": "J67",
+            "TEN": "Viêm phổi tăng cảm do bụi hữu cơ",
+            "TEN_EN": "Hypersensitivity pneumonitis due to organic dust",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J67.0",
+                "TEN": "Bệnh phổi của người nông dân",
+                "TEN_EN": "Farmer s lung"
+              },
+              {
+                "MA": "J67.1",
+                "TEN": "Bệnh phổi do bã mía",
+                "TEN_EN": "Bagassosis"
+              },
+              {
+                "MA": "J67.2",
+                "TEN": "Bệnh phổi ở người nuôi chim",
+                "TEN_EN": "Bird fancier s lung"
+              },
+              {
+                "MA": "J67.3",
+                "TEN": "Bệnh phổi do xơ cây bần",
+                "TEN_EN": "Suberosis"
+              },
+              {
+                "MA": "J67.4",
+                "TEN": "Bệnh phổi của công nhân tiếp xúc với mạch nha bị mốc",
+                "TEN_EN": "Maltworker s lung"
+              },
+              {
+                "MA": "J67.5",
+                "TEN": "Bệnh phổi của công nhân trồng nấm",
+                "TEN_EN": "Mushroom-worker s lung"
+              },
+              {
+                "MA": "J67.6",
+                "TEN": "Bệnh phổi của công nhân bóc vỏ cây thích",
+                "TEN_EN": "Maple-bark-stripper s lung"
+              },
+              {
+                "MA": "J67.7",
+                "TEN": "Bệnh phổi do máy làm ẩm và máy điều hoà không khí",
+                "TEN_EN": "Air-conditioner and humidifier lung"
+              },
+              {
+                "MA": "J67.8",
+                "TEN": "Viêm phổi tăng cảm do bụi hữu cơ khác",
+                "TEN_EN": "Hypersensitivity pneumonitis due to other organic dusts"
+              },
+              {
+                "MA": "J67.9",
+                "TEN": "Viêm phổi tăng cảm do bụi hữu cơ không phân loại",
+                "TEN_EN": "Hypersensitivity pneumonitis due to unspecified organic dust"
+              }
+            ]
+          },
+          {
+            "MA": "J68",
+            "TEN": "Bệnh hô hấp do hít hóa chất, khí, khói và chất bay hơi",
+            "TEN_EN": "Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J68.0",
+                "TEN": "Viêm phế quản và viêm phổi do hóa chất, chất khí, khói và chất bay hơi",
+                "TEN_EN": "Bronchitis and pneumonitis due to chemicals, gases, fumes and vapours"
+              },
+              {
+                "MA": "J68.1",
+                "TEN": "Phù phổi do hóa chất, khí, khói và chất bay hơi",
+                "TEN_EN": "Pulmonary oedema due to chemicals, gases, fumes and vapours"
+              },
+              {
+                "MA": "J68.2",
+                "TEN": "Viêm đường hô hấp trên do hóa chất, khí, khói và chất bay hơi, chưa phân loại nơi khác",
+                "TEN_EN": "Upper respiratory inflammation due to chemicals, gases, fumes and vapours, not elsewhere classified"
+              },
+              {
+                "MA": "J68.3",
+                "TEN": "Bệnh hô hấp cấp và bán cấp khác do hóa chất, khí, khói và chất bay hơi",
+                "TEN_EN": "Other acute and subacute respiratory conditions due to chemicals, gases, fumes and vapours"
+              },
+              {
+                "MA": "J68.4",
+                "TEN": "Bệnh hô hấp mạn do hóa chât, khí, khói và chất bay hơi",
+                "TEN_EN": "Chronic respiratory conditions due to chemicals, gases, fumes and vapours"
+              },
+              {
+                "MA": "J68.8",
+                "TEN": "Bệnh hô hấp khác do hóa chất, khí, khói và chất bay hơi",
+                "TEN_EN": "Other respiratory conditions due to chemicals, gases, fumes and vapours"
+              },
+              {
+                "MA": "J68.9",
+                "TEN": "Bệnh hô hấp không phân loại do hóa chất, khí, khói và chất bay hơi",
+                "TEN_EN": "Unspecified respiratory condition due to chemicals, gases, fumes and vapours"
+              }
+            ]
+          },
+          {
+            "MA": "J69",
+            "TEN": "Viêm phổi do chất rắn và chất lỏng",
+            "TEN_EN": "Pneumonitis due to solids and liquids",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J69.0",
+                "TEN": "Viêm phổi hít phải thức ăn và chất nôn",
+                "TEN_EN": "Pneumonitis due to food and vomit"
+              },
+              {
+                "MA": "J69.1",
+                "TEN": "Viêm phổi hít phải dầu và hương liệu",
+                "TEN_EN": "Pneumonitis due to oils and essences"
+              },
+              {
+                "MA": "J69.8",
+                "TEN": "Viêm phổi hít phải chất rắn và chất lỏng khác",
+                "TEN_EN": "Pneumonitis due to other solids and liquids"
+              }
+            ]
+          },
+          {
+            "MA": "J70",
+            "TEN": "Bệnh hô hấp do tác nhân bên ngoài khác",
+            "TEN_EN": "Respiratory conditions due to other external agents",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J70.0",
+                "TEN": "Biểu hiện cấp tính ở phổi do phóng xạ",
+                "TEN_EN": "Acute pulmonary manifestations due to radiation"
+              },
+              {
+                "MA": "J70.1",
+                "TEN": "Biểu hiện mãn tính và biểu hiện khác ở phổi do phóng xạ",
+                "TEN_EN": "Chronic and other pulmonary manifestations due to radiation"
+              },
+              {
+                "MA": "J70.2",
+                "TEN": "Bệnh phổi mô kẽ cấp tính do thuốc",
+                "TEN_EN": "Acute drug-induced interstitial lung disorders"
+              },
+              {
+                "MA": "J70.3",
+                "TEN": "Bệnh phổi mô kẽ mãn tính do thuốc",
+                "TEN_EN": "Chronic drug-induced interstitial lung disorders"
+              },
+              {
+                "MA": "J70.4",
+                "TEN": "Bệnh phổi mô kẽ do thuốc, không phân loại",
+                "TEN_EN": "Drug-induced interstitial lung disorders, unspecified"
+              },
+              {
+                "MA": "J70.8",
+                "TEN": "Bệnh lý hô hấp do tác nhân bên ngoài xác định khác",
+                "TEN_EN": "Respiratory conditions due to other specified external agents"
+              },
+              {
+                "MA": "J70.9",
+                "TEN": "Bệnh lý hô hấp do các tác nhân bên ngoài không phân loại",
+                "TEN_EN": "Respiratory conditions due to unspecified external agent"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "J80-J84",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh hô hấp khác ảnh hưởng chủ yếu đến mô kẽ",
-        "TEN_EN": "Other respiratory diseases principally affecting the interstitium"
+        "TEN_EN": "Other respiratory diseases principally affecting the interstitium",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J80",
+            "TEN": "Hội chứng suy hô hấp ở người lớn",
+            "TEN_EN": "Adult respiratory distress syndrome",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J81",
+            "TEN": "Phù phổi ",
+            "TEN_EN": "Pulmonary oedema",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J82",
+            "TEN": "Tăng bạch cầu ái toan ở phổi, chưa được phân loại ở nơi khác",
+            "TEN_EN": "Pulmonary eosinophilia, not elsewhere classifed",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J84",
+            "TEN": "Bệnh phổi mô kẽ khác",
+            "TEN_EN": "Other interstitial pulmonary diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J84.0",
+                "TEN": "Bệnh lý phế nang và thành phế nang",
+                "TEN_EN": "Alveolar and parietoalveolar conditions"
+              },
+              {
+                "MA": "J84.1",
+                "TEN": "Bệnh phổi mô kẽ khác có xơ",
+                "TEN_EN": "Other interstitial pulmonary diseases with fibrosis"
+              },
+              {
+                "MA": "J84.8",
+                "TEN": "Bệnh phổi mô kẽ xác định khác",
+                "TEN_EN": "Other specified interstitial pulmonary diseases"
+              },
+              {
+                "MA": "J84.9",
+                "TEN": "Bệnh phổi mô kẽ, không phân loại",
+                "TEN_EN": "Interstitial pulmonary disease, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "J85-J86",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tình trạng nung mủ và hoại tử của đường hô hấp dưới",
-        "TEN_EN": "Suppurative and necrotic conditions of lower respiratory tract"
+        "TEN_EN": "Suppurative and necrotic conditions of lower respiratory tract",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J85",
+            "TEN": "Áp xe phổi và trung thất",
+            "TEN_EN": "Abscess of lung and mediastinum",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J85.0",
+                "TEN": "Hoại thư và hoại tử ở phổi",
+                "TEN_EN": "Gangrene and necrosis of lung"
+              },
+              {
+                "MA": "J85.1",
+                "TEN": "Áp xe phổi có viêm phổi",
+                "TEN_EN": "Abscess of lung with pneumonia"
+              },
+              {
+                "MA": "J85.2",
+                "TEN": "Áp xe phổi không có viêm phổi",
+                "TEN_EN": "Abscess of lung without pneumonia"
+              },
+              {
+                "MA": "J85.3",
+                "TEN": "Áp xe trung thất",
+                "TEN_EN": "Abscess of mediastinum"
+              }
+            ]
+          },
+          {
+            "MA": "J86",
+            "TEN": "Mủ lồng ngực",
+            "TEN_EN": "Pyothorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J86.0",
+                "TEN": "Mủ lồng ngực có lỗ rò",
+                "TEN_EN": "Pyothorax with fistula"
+              },
+              {
+                "MA": "J86.9",
+                "TEN": "Mủ lồng ngực không có lỗ rò",
+                "TEN_EN": "Pyothorax without fistula"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "J90-J94",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh khác của màng phổi",
-        "TEN_EN": "Other diseases of pleura"
+        "TEN_EN": "Other diseases of pleura",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J90",
+            "TEN": "Tràn dịch màng phổi, không phân loại nơi khác",
+            "TEN_EN": "Pleural effusion, not elsewhere classified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "J91",
+            "TEN": "Tràn dịch màng phổi trong bệnh phân loại nơi khác",
+            "TEN_EN": "Pleural effusion incondition classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J91*",
+                "TEN": "Tràn dịch màng phổi trong bệnh phân loại nơi khác",
+                "TEN_EN": "Pleural effusion incondition classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "J92",
+            "TEN": "Mảng màng phổi",
+            "TEN_EN": "Pleural plaque",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J92.0",
+                "TEN": "Mảng màng phổi do amian",
+                "TEN_EN": "Pleural plaque with presence of asbestos"
+              },
+              {
+                "MA": "J92.9",
+                "TEN": "Mảng màng phổi không do amian",
+                "TEN_EN": "Pleural plaque without asbestos"
+              }
+            ]
+          },
+          {
+            "MA": "J93",
+            "TEN": "Tràn khí màng phổi",
+            "TEN_EN": "Pneumothorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J93.0",
+                "TEN": "Tràn khí màng phổi tự phát có van",
+                "TEN_EN": "Spontaneous tension pneumothorax"
+              },
+              {
+                "MA": "J93.1",
+                "TEN": "Các dạng tràn khí màng phổi tự phát khác",
+                "TEN_EN": "Other spontaneous pneumothorax"
+              },
+              {
+                "MA": "J93.8",
+                "TEN": "Các dạng tràn khí màng phổi khác",
+                "TEN_EN": "Other pneumothorax"
+              },
+              {
+                "MA": "J93.9",
+                "TEN": "Tràn khí màng phổi, không phân loại",
+                "TEN_EN": "Pneumothorax, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J94",
+            "TEN": "Các bệnh màng phổi khác",
+            "TEN_EN": "Other pleural conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J94.0",
+                "TEN": "Tràn dịch dưỡng trấp",
+                "TEN_EN": "Chylous effusion"
+              },
+              {
+                "MA": "J94.1",
+                "TEN": "Xơ hóa màng phổi",
+                "TEN_EN": "Fibrothorax"
+              },
+              {
+                "MA": "J94.2",
+                "TEN": "Tràn máu màng phổi",
+                "TEN_EN": "Haemothorax"
+              },
+              {
+                "MA": "J94.8",
+                "TEN": "Các bệnh màng phổi xác định khác",
+                "TEN_EN": "Other specified pleural conditions"
+              },
+              {
+                "MA": "J94.9",
+                "TEN": "Bệnh màng phổi, không phân loại",
+                "TEN_EN": "Pleural condition, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "J95-J99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh lý khác của hệ hô hấp",
-        "TEN_EN": "Other diseases of the respiratory system"
+        "TEN_EN": "Other diseases of the respiratory system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "J95",
+            "TEN": "Các bệnh hô hấp sau can thiệp thủ thuật, chưa phân loại nơi khác",
+            "TEN_EN": "Postprocedural respiratory disorders, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J95.0",
+                "TEN": "Rối loạn chức năng sau khi mở khí quản",
+                "TEN_EN": "Tracheostomy malfunction"
+              },
+              {
+                "MA": "J95.1",
+                "TEN": "Hở van động mạch phổi cấp tính sau phẫu thuật lồng ngực",
+                "TEN_EN": "Acute pulmonary insufficiency following thoracic surgery"
+              },
+              {
+                "MA": "J95.2",
+                "TEN": "Hở van động mạch phổi cấp tính sau phẫu thuật ngoài lồng ngực",
+                "TEN_EN": "Acute pulmonary insufficiency following nonthoracic surgery"
+              },
+              {
+                "MA": "J95.3",
+                "TEN": "Hở van động mạch phổi mãn tính sau phẫu thuật",
+                "TEN_EN": "Chronic pulmonary insufficiency following surgery"
+              },
+              {
+                "MA": "J95.4",
+                "TEN": "Hội chứng Mendelson",
+                "TEN_EN": "Mendelson s syndrome"
+              },
+              {
+                "MA": "J95.5",
+                "TEN": "Hẹp dưới thanh môn sau phẫu thuật",
+                "TEN_EN": "Postprocedural subglottic stenosis"
+              },
+              {
+                "MA": "J95.8",
+                "TEN": "Các bệnh hô hấp sau phẫu thuật khác",
+                "TEN_EN": "Other postprocedural respiratory disorders"
+              },
+              {
+                "MA": "J95.9",
+                "TEN": "Rối loạn hô hấp sau phẫu thuật, không đặc hiệu",
+                "TEN_EN": "Postprocedural respiratory disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J96",
+            "TEN": "Suy hô hấp không phân loại nơi khác",
+            "TEN_EN": "Respiratory failure, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J96.0",
+                "TEN": "Suy hô hấp cấp",
+                "TEN_EN": "Acute respiratory failure"
+              },
+              {
+                "MA": "J96.1",
+                "TEN": "Suy hô hấp mạn",
+                "TEN_EN": "Chronic respiratory failure"
+              },
+              {
+                "MA": "J96.9",
+                "TEN": "Suy hô hấp, không phân loại",
+                "TEN_EN": "Respiratory failure, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J98",
+            "TEN": "Các bệnh hô hấp khác",
+            "TEN_EN": "Other respiratory disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J98.0",
+                "TEN": "Bệnh phế quản, không phân loại nơi khác",
+                "TEN_EN": "Diseases of bronchus, not elsewhere classified"
+              },
+              {
+                "MA": "J98.1",
+                "TEN": "Xẹp phổi",
+                "TEN_EN": "Pulmonary collapse"
+              },
+              {
+                "MA": "J98.2",
+                "TEN": "Giãn phế nang mô kẽ",
+                "TEN_EN": "Interstitial emphysema"
+              },
+              {
+                "MA": "J98.3",
+                "TEN": "Giãn phế nang còn bù",
+                "TEN_EN": "Compensatory emphysema"
+              },
+              {
+                "MA": "J98.4",
+                "TEN": "Các Bệnh khác của phổi",
+                "TEN_EN": "Other disorders of lung"
+              },
+              {
+                "MA": "J98.5",
+                "TEN": "Bệnh của trung thất, không phân loại nơi khác",
+                "TEN_EN": "Diseases of mediastinum, not elsewhere classified"
+              },
+              {
+                "MA": "J98.6",
+                "TEN": "Bệnh của cơ hoành",
+                "TEN_EN": "Disorders of diaphragm"
+              },
+              {
+                "MA": "J98.8",
+                "TEN": "Bệnh hô hấp xác định khác",
+                "TEN_EN": "Other specified respiratory disorders"
+              },
+              {
+                "MA": "J98.9",
+                "TEN": "Bệnh hô hấp, không phân loại",
+                "TEN_EN": "Respiratory disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "J99",
+            "TEN": "Bệnh hô hấp trong các bệnh được phân loại nơi khác",
+            "TEN_EN": "Respiratory disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "J99*",
+                "TEN": "Bệnh hô hấp trong các bệnh được phân loại nơi khác",
+                "TEN_EN": "Respiratory disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "J99.0*",
+                "TEN": "Bệnh phổi dạng thấp (M05.1†)",
+                "TEN_EN": "Rheumatoid lung disease (M05.1†)"
+              },
+              {
+                "MA": "J99.1*",
+                "TEN": "Bệnh hô hấp trong các bệnh mô liên kết lan toả khác",
+                "TEN_EN": "Respiratory disorders in other diffuse connective tissue disorders"
+              },
+              {
+                "MA": "J99.8*",
+                "TEN": "Bệnh hô hấp trong các bệnh được phân loại nơi khác",
+                "TEN_EN": "Respiratory disorders in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

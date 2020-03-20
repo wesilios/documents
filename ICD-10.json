@@ -20604,61 +20604,2532 @@
         "MA": "I00-I02",
         "MA_TRONG_CHUONG": "",
         "TEN": "Thấp khớp cấp",
-        "TEN_EN": "Acute rheumatic fever"
+        "TEN_EN": "Acute rheumatic fever",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I00",
+            "TEN": "Thấp không có tổn thương tim",
+            "TEN_EN": "Rheumatic fever without mention of I00 heart involvement",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I01",
+                "TEN": "Thấp ảnh hưởng đến tim",
+                "TEN_EN": "Rheumatic fever with heart involvement"
+              },
+              {
+                "MA": "I01.0",
+                "TEN": "Viêm màng ngoài tim do thấp cấp",
+                "TEN_EN": "Acute rheumatic pericarditis"
+              },
+              {
+                "MA": "I01.1",
+                "TEN": "Viêm nội tâm mạc cấp do thấp",
+                "TEN_EN": "Acute rheumatic endocarditis"
+              },
+              {
+                "MA": "I01.2",
+                "TEN": "Viêm cơ tim do thấp cấp",
+                "TEN_EN": "Acute rheumatic myocarditis"
+              },
+              {
+                "MA": "I01.8",
+                "TEN": "Bệnh tim cấp khác do thấp",
+                "TEN_EN": "Other acute rheumatic heart disease"
+              },
+              {
+                "MA": "I01.9",
+                "TEN": "Bệnh tim do thấp cấp, không đặc hiệu",
+                "TEN_EN": "Acute rheumatic heart disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I02",
+            "TEN": "Múa giật do thấp",
+            "TEN_EN": "Rheumatic chorea",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I02.0",
+                "TEN": "Múa giật do thấp có ảnh hưởng đến tim",
+                "TEN_EN": "Rheumatic chorea with heart involvement"
+              },
+              {
+                "MA": "I02.9",
+                "TEN": "Múa giật do thấp không ảnh hưởng đến tim",
+                "TEN_EN": "Rheumatic chorea without heart involvement"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I05-I09",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh tim mãn tính do thấp",
-        "TEN_EN": "Chronic rheumatic heart diseases"
+        "TEN_EN": "Chronic rheumatic heart diseases",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I05",
+            "TEN": "Bệnh lý van hai lá do thấp",
+            "TEN_EN": "Rheumatic mitral valve diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I05.0",
+                "TEN": "Hẹp van hai lá",
+                "TEN_EN": "Mitral stenosis"
+              },
+              {
+                "MA": "I05.1",
+                "TEN": "Hở van hai lá do thấp",
+                "TEN_EN": "Rheumatic mitral insufficiency"
+              },
+              {
+                "MA": "I05.2",
+                "TEN": "Hẹp hở van hai lá",
+                "TEN_EN": "Mitral stenosis with insufficiency"
+              },
+              {
+                "MA": "I05.8",
+                "TEN": "Bệnh van hai lá khác",
+                "TEN_EN": "Other mitral valve diseases"
+              },
+              {
+                "MA": "I05.9",
+                "TEN": "Bệnh van hai lá, không đặc hiệu",
+                "TEN_EN": "Mitral valve disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I06",
+            "TEN": "Bệnh van động mạch chủ do thấp",
+            "TEN_EN": "Rheumatic aortic valve diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I06.0",
+                "TEN": "Hẹp van động mạch chủ do thấp",
+                "TEN_EN": "Rheumatic aortic stenosis"
+              },
+              {
+                "MA": "I06.1",
+                "TEN": "Hở van động mạch chủ do thấp",
+                "TEN_EN": "Rheumatic aortic insufficiency"
+              },
+              {
+                "MA": "I06.2",
+                "TEN": "Hẹp Hở van động mạch chủ do thấp",
+                "TEN_EN": "Rheumatic aortic stenosis with insufficiency"
+              },
+              {
+                "MA": "I06.8",
+                "TEN": "Bệnh van động mạch chủ do thấp khác",
+                "TEN_EN": "Other rheumatic aortic valve diseases"
+              },
+              {
+                "MA": "I06.9",
+                "TEN": "Bệnh van động mạch chủ do thấp không đặc hiệu",
+                "TEN_EN": "Rheumatic aortic valve disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I07",
+            "TEN": "Bệnh lý van ba lá do thấp",
+            "TEN_EN": "Rheumatic tricuspid valve diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I07.0",
+                "TEN": "Hẹp van ba lá",
+                "TEN_EN": "Tricuspid stenosis"
+              },
+              {
+                "MA": "I07.1",
+                "TEN": "Hở van ba lá",
+                "TEN_EN": "Tricuspid insufficiency"
+              },
+              {
+                "MA": "I07.2",
+                "TEN": "Hẹp hở van ba lá",
+                "TEN_EN": "Tricuspid stenosis with insufficiency"
+              },
+              {
+                "MA": "I07.8",
+                "TEN": "Bệnh lý khác của van ba lá",
+                "TEN_EN": "Other tricuspid valve diseases"
+              },
+              {
+                "MA": "I07.9",
+                "TEN": "Bệnh lý van ba lá khác không đặc hiệu",
+                "TEN_EN": "Tricuspid valve disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I08",
+            "TEN": "Bệnh lý của nhiều van tim",
+            "TEN_EN": "Multiple valve diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I08.0",
+                "TEN": "Bệnh Lý cả hai lá và van động mạch chủ",
+                "TEN_EN": "Disorders of both mitral and aortic valves"
+              },
+              {
+                "MA": "I08.1",
+                "TEN": "Bệnh cả van hai lá và van ba lá",
+                "TEN_EN": "Disorders of both mitral and tricuspid valves"
+              },
+              {
+                "MA": "I08.2",
+                "TEN": "Bệnh cả van động mạch chủ và van ba lá",
+                "TEN_EN": "Disorders of both aortic and tricuspid valves"
+              },
+              {
+                "MA": "I08.3",
+                "TEN": "Bệnh lý phối hợp van hai lá, van động mạch chủ và van ba lá",
+                "TEN_EN": "Combined disorders of mitral, aortic and tricuspid valves"
+              },
+              {
+                "MA": "I08.8",
+                "TEN": "Bệnh lý nhiều van khác",
+                "TEN_EN": "Other multiple valve diseases"
+              },
+
+              {
+                "MA": "I08.9",
+                "TEN": "Bệnh lý nhiều van khác, không đặc hiệu",
+                "TEN_EN": "Multiple valve disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I09",
+            "TEN": "Các bệnh tim khác do thấp",
+            "TEN_EN": "Other rheumatic heart diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I09.0",
+                "TEN": "Viêm cơ tim do thấp",
+                "TEN_EN": "Rheumatic myocarditis"
+              },
+              {
+                "MA": "I09.1",
+                "TEN": "Bệnh nội tâm mạc do thấp, có tổn thương van không đặc hiệu",
+                "TEN_EN": "Rheumatic diseases of endocardium, valve unspecified"
+              },
+              {
+                "MA": "I09.2",
+                "TEN": "Viêm màng ngoài tim do thấp mãn tính",
+                "TEN_EN": "Chronic rheumatic pericarditis"
+              },
+              {
+                "MA": "I09.8",
+                "TEN": "Các bệnh tim do thấp khác",
+                "TEN_EN": "Other specified rheumatic heart diseases"
+              },
+              {
+                "MA": "I09.9",
+                "TEN": "Bệnh tim do thấp, không đặc hiệu",
+                "TEN_EN": "Rheumatic heart disease, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I10-I15",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh lý tăng huyết áp",
-        "TEN_EN": "Hypertensive diseases"
+        "TEN_EN": "Hypertensive diseases",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I10",
+            "TEN": "Bệnh lý tăng huyết áp",
+            "TEN_EN": "Other rheumatic heart diseases",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "I11",
+            "TEN": "Bệnh tim do tăng huyết áp",
+            "TEN_EN": "Hypertensive heart disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I11.0",
+                "TEN": "Bệnh tim do tăng huyết áp, có suy tim (sung huyết)",
+                "TEN_EN": "Hypertensive heart disease with (congestive) heart failure"
+              },
+              {
+                "MA": "I11.9",
+                "TEN": "Bệnh tim do tăng huyết áp, không suy tim (sung huyết)",
+                "TEN_EN": "Hypertensive heart disease without (congestive) heart failure"
+              }
+            ]
+          },
+          {
+            "MA": "I12",
+            "TEN": "Bệnh thận do tăng huyết áp",
+            "TEN_EN": "Hypertensive renal disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I12.0",
+                "TEN": "Bệnh thận do tăng huyết áp, có suy thận",
+                "TEN_EN": "Hypertensive renal disease with renal failure"
+              },
+              {
+                "MA": "I12.9",
+                "TEN": "Bệnh thận do tăng huyết áp, không suy thận",
+                "TEN_EN": "Hypertensive renal disease without renal failure"
+              }
+            ]
+          },
+          {
+            "MA": "I13",
+            "TEN": "Bệnh tim và thận do tăng huyết áp",
+            "TEN_EN": "Hypertensive heart and renal disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I13.0",
+                "TEN": "Bệnh tim và thận do tăng huyết áp, có suy tim (sung huyết)",
+                "TEN_EN": "Hypertensive heart and renal disease with (congestive) heart failure"
+              },
+              {
+                "MA": "I13.1",
+                "TEN": "Bệnh tim và thận do tăng huyết áp, có suy thận",
+                "TEN_EN": "Hypertensive heart and renal disease with renal failure"
+              },
+              {
+                "MA": "I13.2",
+                "TEN": "Bệnh tim và thận do tăng huyết áp, có suy tim (sung huyết) và suy thận",
+                "TEN_EN": "Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"
+              },
+              {
+                "MA": "I13.9",
+                "TEN": "Bệnh tim và thận do tăng huyết áp, không đặc hiệu",
+                "TEN_EN": "Hypertensive heart and renal disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I15",
+            "TEN": "Tăng huyết áp thứ phát",
+            "TEN_EN": "Secondary hypertension",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I15.0",
+                "TEN": "Tăng huyết áp do nguyên nhân mạch thận",
+                "TEN_EN": "Renovascular hypertension"
+              },
+              {
+                "MA": "I15.1",
+                "TEN": "Tăng huyết áp thứ phát do bệnh thận khác",
+                "TEN_EN": "Hypertension secondary to other renal disorders"
+              },
+              {
+                "MA": "I15.2",
+                "TEN": "Tăng huyết áp thứ phát do rối loạn nội tiết",
+                "TEN_EN": "Hypertension secondary to endocrine disorders"
+              },
+              {
+                "MA": "I15.8",
+                "TEN": "Tăng huyết áp thứ phát khác",
+                "TEN_EN": "Other secondary hypertension"
+              },
+              {
+                "MA": "I15.9",
+                "TEN": "Tăng huyết áp thứ phát không đặc hiệu",
+                "TEN_EN": "Secondary hypertension, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I20-I25",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh tim thiếu máu cục bộ",
-        "TEN_EN": "Ischaemic heart diseases"
+        "TEN_EN": "Ischaemic heart diseases",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I20",
+            "TEN": "Cơn đau thắt ngực",
+            "TEN_EN": "Angina pectoris",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I20.0",
+                "TEN": "Cơn đau thắt ngực không ổn định",
+                "TEN_EN": "Unstable angina"
+              },
+              {
+                "MA": "I20.1",
+                "TEN": "Cơn đau thắt ngực do co thắt mạch",
+                "TEN_EN": "Angina pectoris with documented spasm"
+              },
+              {
+                "MA": "I20.8",
+                "TEN": "Dạng khác của cơn đau thắt ngực",
+                "TEN_EN": "Other forms of angina pectoris"
+              },
+              {
+                "MA": "I20.9",
+                "TEN": "Cơn đau thắt ngực, không đặc hiệu",
+                "TEN_EN": "Angina pectoris, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I21",
+            "TEN": "Nhồi máu cơ tim cấp",
+            "TEN_EN": "Acute myocardial infarction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I21.0",
+                "TEN": "Nhồi máu cơ tim trước vách cấp xuyên thành của thành trước",
+                "TEN_EN": "Acute transmural myocardial infarction of anterior wall"
+              },
+              {
+                "MA": "I21.1",
+                "TEN": "Nhồi máu cơ tim xuyên thành cấp của thành dưới",
+                "TEN_EN": "Acute transmural myocardial infarction of inferior wall"
+              },
+              {
+                "MA": "I21.2",
+                "TEN": "Nhồi máu xuyên thành cấp ở vị trí khác",
+                "TEN_EN": "Acute transmural myocardial infarction of other sites"
+              },
+              {
+                "MA": "I21.3",
+                "TEN": "Nhồi máu cơ tim xuyên thành cấp không rõ vị trí",
+                "TEN_EN": "Acute transmural myocardial infarction of unspecified site"
+              },
+              {
+                "MA": "I21.4",
+                "TEN": "Nhồi máu cơ tim dưới nội tâm mạc cấp",
+                "TEN_EN": "Acute subendocardial myocardial infarction"
+              },
+              {
+                "MA": "I21.9",
+                "TEN": "Nhồi máu cơ tim cấp, không đặc hiệu",
+                "TEN_EN": "Acute myocardial infarction, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I22",
+            "TEN": "Nhồi máu cơ tim tiến triển",
+            "TEN_EN": "Subsequent myocardial infarction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I22.0",
+                "TEN": "Nhồi máu cơ tim tiến triển của thành trước",
+                "TEN_EN": "Subsequent myocardial infarction of anterior wall"
+              },
+              {
+                "MA": "I22.1",
+                "TEN": "Nhồi máu cơ tim tiến triển của thành dưới",
+                "TEN_EN": "Subsequent myocardial infarction of inferior wall"
+              },
+              {
+                "MA": "I22.8",
+                "TEN": "Nhồi máu cơ tim tiến triển ở vị trí khác",
+                "TEN_EN": "Subsequent myocardial infarction of other sites"
+              },
+              {
+                "MA": "I22.9",
+                "TEN": "Nhồi máu cơ tim tiến triển ở vị trí không xác định",
+                "TEN_EN": "Subsequent myocardial infarction of unspecified site"
+              }
+            ]
+          },
+          {
+            "MA": "I23",
+            "TEN": "Một số biến chứng thường gặp sau nhồi máu cơ tim cấp",
+            "TEN_EN": "Certain current complications following acute myocardial infarction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I23.0",
+                "TEN": "Biến chứng tràn máu màng ngoài tim sau nhồi máu cơ tim cấp",
+                "TEN_EN": "Haemopericardium as current complication following acute myocardial infarction"
+              },
+              {
+                "MA": "I23.1",
+                "TEN": "Biến chứng thủng vách liên nhĩ xảy ra sau nhồi máu cơ tim cấp",
+                "TEN_EN": "Atrial septal defect as current complication following acute myocardial infarction"
+              },
+              {
+                "MA": "I23.2",
+                "TEN": "Biến chứng thủng vách liên thất sau nhồi máu cơ tim cấp",
+                "TEN_EN": "Ventricular septal defect as current complication following acute myocardial infarction"
+              },
+              {
+                "MA": "I23.3",
+                "TEN": "Biến chứng nứt thành tim không có tràn máu màng ngoài tim sau nhồi máu cơ tim cấp",
+                "TEN_EN": "Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction"
+              },
+              {
+                "MA": "I23.4",
+                "TEN": "Biến chứng đứt dây chằng van hai lá sau nhồi máu cơ tim cấp",
+                "TEN_EN": "Rupture of chordae tendineae as current complication following acute myocardial infarction"
+              },
+              {
+                "MA": "I23.5",
+                "TEN": "Biến chứng đứt cơ nhú sau nhồi máu cơ tim cấp",
+                "TEN_EN": "Rupture of papillary muscle as current complication following acute myocardial infarction"
+              },
+              {
+                "MA": "I23.6",
+                "TEN": "Biến chứng huyết khối trong buồng tim tâm nhĩ, tiểu nhĩ và tâm thất sau nhồi máu cơ tim cấp",
+                "TEN_EN": "Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+              },
+              {
+                "MA": "I23.8",
+                "TEN": "Biến chứng khác xảy ra sau nhồi máu cơ tim cấp",
+                "TEN_EN": "Other current complications following acute myocardial infarction"
+              }
+            ]
+          },
+          {
+            "MA": "I24",
+            "TEN": "Bệnh tim do thiếu máu cục bộ cấp khác",
+            "TEN_EN": "Other acute ischaemic heart diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I24.0",
+                "TEN": "Huyết khối mạch vành không gây nhồi máu cơ tim",
+                "TEN_EN": "Coronary thrombosis not resulting in myocardial infarction"
+              },
+              {
+                "MA": "I24.1",
+                "TEN": "Hội chứng Dressler",
+                "TEN_EN": "Dressler s syndrome"
+              },
+              {
+                "MA": "I24.8",
+                "TEN": "Dạng khác của bệnh tim thiếu máu cục bộ cấp",
+                "TEN_EN": "Other forms of acute ischaemic heart disease"
+              },
+              {
+                "MA": "I24.9",
+                "TEN": "Bệnh tim do thiếu máu cục bộ cấp, không đặc hiệu",
+                "TEN_EN": "Acute ischaemic heart disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I25",
+            "TEN": "Bệnh tim thiếu máu cục bộ mạn",
+            "TEN_EN": "Chronic ischaemic heart disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I25.0",
+                "TEN": "Bệnh tim mạch do xơ vữa động mạch vành",
+                "TEN_EN": "Atherosclerotic cardiovascular disease, so described"
+              },
+              {
+                "MA": "I25.1",
+                "TEN": "Bệnh tim mạch do xơ vữa động mạch",
+                "TEN_EN": "Atherosclerotic heart disease"
+              },
+              {
+                "MA": "I25.2",
+                "TEN": "Nhồi máu cơ tim cũ",
+                "TEN_EN": "Old myocardial infarction"
+              },
+              {
+                "MA": "I25.3",
+                "TEN": "Phình thành tim",
+                "TEN_EN": "Aneurysm of heart"
+              },
+              {
+                "MA": "I25.4",
+                "TEN": "Phình động mạch vành",
+                "TEN_EN": "Coronary artery aneurysm"
+              },
+              {
+                "MA": "I25.5",
+                "TEN": "Bệnh cơ tim do thiếu máu cục bộ",
+                "TEN_EN": "Ischaemic cardiomyopathy"
+              },
+              {
+                "MA": "I25.6",
+                "TEN": "Thiếu máu cơ tim thầm lặng",
+                "TEN_EN": "Silent myocardial ischaemia"
+              },
+              {
+                "MA": "I25.8",
+                "TEN": "Dạng khác của bệnh tim thiếu máu cục bộ mạn",
+                "TEN_EN": "Other forms of chronic ischaemic heart disease"
+              },
+              {
+                "MA": "I25.9",
+                "TEN": "Bệnh tim thiếu máu cục bộ mạn, không đặc hiệu",
+                "TEN_EN": "Chronic ischaemic heart disease, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I26-I28",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh tim do phổi và bệnh tuần hoàn phổi",
-        "TEN_EN": "Pulmonary heart disease and diseases of pulmonary circulation"
+        "TEN_EN": "Pulmonary heart disease and diseases of pulmonary circulation",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I26",
+            "TEN": "Tắc mạch phổi",
+            "TEN_EN": "Pulmonary embolism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I26.0",
+                "TEN": "Thuyên tắc phổi có tâm phế cấp",
+                "TEN_EN": "Pulmonary embolism with mention of acute cor pulmonale"
+              },
+              {
+                "MA": "I26.9",
+                "TEN": "Thuyên tắc phổi không có tâm phế cấp",
+                "TEN_EN": "Pulmonary embolism without mention of acute cor pulmonale"
+              }
+            ]
+          },
+          {
+            "MA": "I27",
+            "TEN": "Các bệnh tim do phổi khác",
+            "TEN_EN": "Other pulmonary heart diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I27.0",
+                "TEN": "Tăng áp động mạch phổi nguyên phát",
+                "TEN_EN": "Primary pulmonary hypertension"
+              },
+              {
+                "MA": "I27.1",
+                "TEN": "Bệnh tim do gù vẹo cột sống",
+                "TEN_EN": "Kyphoscoliotic heart disease"
+              },
+              {
+                "MA": "I27.2",
+                "TEN": "Tăng huyết áp động mạch phổi thứ phát",
+                "TEN_EN": "Other secondary pulmonary hypertension"
+              },
+              {
+                "MA": "I27.8",
+                "TEN": "Bệnh tim do phổi đã xác định khác",
+                "TEN_EN": "Other specified pulmonary heart diseases"
+              },
+              {
+                "MA": "I27.9",
+                "TEN": "Bệnh tim do phổi, không đặc hiệu",
+                "TEN_EN": "Pulmonary heart disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I28",
+            "TEN": "Bệnh mạch máu phổi khác",
+            "TEN_EN": "Other diseases of pulmonary vessels",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I28.0",
+                "TEN": "Dò động - tĩnh mạch phổi",
+                "TEN_EN": "Arteriovenous fistula of pulmonary vessels"
+              },
+              {
+                "MA": "I28.1",
+                "TEN": "Phình động mạch phổi",
+                "TEN_EN": "Aneurysm of pulmonary artery"
+              },
+              {
+                "MA": "I28.8",
+                "TEN": "Bệnh mạch máu phổi xác định khác",
+                "TEN_EN": "Other specified diseases of pulmonary vessels"
+              },
+              {
+                "MA": "I28.9",
+                "TEN": "Bệnh mạch máu phổi không đặc hiệu",
+                "TEN_EN": "Disease of pulmonary vessels, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I30-I52",
         "MA_TRONG_CHUONG": "",
         "TEN": "Thể bệnh tim khác",
-        "TEN_EN": "Other forms of heart disease"
+        "TEN_EN": "Other forms of heart disease",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I30",
+            "TEN": "Viêm màng ngoài tim cấp",
+            "TEN_EN": "Acute pericarditis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I30.0",
+                "TEN": "Viêm màng ngoài tim cấp, không rõ nguyên nhân, không đặc hiệu",
+                "TEN_EN": "Acute nonspecific idiopathic pericarditis"
+              },
+              {
+                "MA": "I30.1",
+                "TEN": "Viêm màng ngoài tim nhiễm trùng",
+                "TEN_EN": "Infective pericarditis"
+              },
+              {
+                "MA": "I30.8",
+                "TEN": "Các thể khác của viêm màng ngoài tim cấp",
+                "TEN_EN": "Other forms of acute pericarditis"
+              },
+              {
+                "MA": "I30.9",
+                "TEN": "Viêm màng ngoài tim cấp, không đặc hiệu",
+                "TEN_EN": "Acute pericarditis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I31",
+            "TEN": "Các bệnh màng ngoài tim khác",
+            "TEN_EN": "Other diseases of pericardium",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I31.0",
+                "TEN": "Viêm dày dính màng ngoài tim mạn",
+                "TEN_EN": "Chronic adhesive pericarditis"
+              },
+              {
+                "MA": "I31.1",
+                "TEN": "Viêm màng ngoài tim co thắt mạn",
+                "TEN_EN": "Chronic constrictive pericarditis"
+              },
+              {
+                "MA": "I31.2",
+                "TEN": "Tràn máu ngoại tâm mạc, không phân loại nơi khác",
+                "TEN_EN": "Haemopericardium, not elsewhere classified"
+              },
+              {
+                "MA": "I31.3",
+                "TEN": "Tràn dịch màng ngoài tim (không do viêm)",
+                "TEN_EN": "Pericardial effusion (noninflammatory)"
+              },
+              {
+                "MA": "I31.8",
+                "TEN": "Bệnh màng ngoài tim khác",
+                "TEN_EN": "Other specified diseases of pericardium"
+              },
+              {
+                "MA": "I31.9",
+                "TEN": "Bệnh ngoại tâm mạc, không đặc hiệu",
+                "TEN_EN": "Disease of pericardium, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I32",
+            "TEN": "Viêm màng ngoài tim trong bệnh phân loại nơi khác",
+            "TEN_EN": "Pericarditis in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I32*",
+                "TEN": "Viêm màng ngoài tim trong bệnh phân loại nơi khác",
+                "TEN_EN": "Pericarditis in diseases classified elsewhere"
+              },
+              {
+                "MA": "I32.0*",
+                "TEN": "Viêm màng ngoài tim trong bệnh nhiễm khuẩn phân loại nơi khác",
+                "TEN_EN": "Pericarditis in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "I32.1*",
+                "TEN": "Viêm màng ngoài tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác",
+                "TEN_EN": "Pericarditis in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "I32.8*",
+                "TEN": "Viêm màng ngoài tim trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Pericarditis in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "I33",
+            "TEN": "Viêm nội tâm mạc cấp và bán cấp",
+            "TEN_EN": "Acute and subacute endocarditis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I33.0",
+                "TEN": "Viêm nội tâm mạc nhiễm trùng cấp và bán cấp",
+                "TEN_EN": "Acute and subacute infective endocarditis"
+              },
+              {
+                "MA": "I33.9",
+                "TEN": "Viêm nội tâm mạc cấp, không đặc hiệu",
+                "TEN_EN": "Acute endocarditis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I34",
+            "TEN": "Bệnh van hai lá không do thấp",
+            "TEN_EN": "Nonrheumatic mitral valve disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I34.0",
+                "TEN": "Hở (van) hai lá",
+                "TEN_EN": "Mitral (valve) insufficiency"
+              },
+              {
+                "MA": "I34.1",
+                "TEN": "Sa (van) hai lá",
+                "TEN_EN": "Mitral (valve) prolapse"
+              },
+              {
+                "MA": "I34.2",
+                "TEN": "Hẹp (van) hai lá không do thấp",
+                "TEN_EN": "Nonrheumatic mitral (valve) stenosis"
+              },
+              {
+                "MA": "I34.8",
+                "TEN": "Hẹp van hai lá không do thấp khác",
+                "TEN_EN": "Other nonrheumatic mitral valve disorders"
+              },
+              {
+                "MA": "I34.9",
+                "TEN": "Hẹp van hai lá không do thấp",
+                "TEN_EN": "Nonrheumatic mitral valve disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I35",
+            "TEN": "Bệnh van động mạch chủ không do thấp",
+            "TEN_EN": "Nonrheumatic aortic valve disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I35.0",
+                "TEN": "Hẹp (van) động mạch chủ",
+                "TEN_EN": "Aortic (valve) stenosis"
+              },
+              {
+                "MA": "I35.1",
+                "TEN": "Hở (van) động mạch chủ",
+                "TEN_EN": "Aortic (valve) insufficiency"
+              },
+              {
+                "MA": "I35.2",
+                "TEN": "Hẹp hở (van) động mạch chủ",
+                "TEN_EN": "Aortic (valve) stenosis with insufficiency"
+              },
+              {
+                "MA": "I35.8",
+                "TEN": "Bệnh van động mạch chủ khác",
+                "TEN_EN": "Other aortic valve disorders"
+              },
+              {
+                "MA": "I35.9",
+                "TEN": "Bệnh van động mạch chủ, không đặc hiệu",
+                "TEN_EN": "Aortic valve disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I36",
+            "TEN": "Bệnh van ba lá không do thấp",
+            "TEN_EN": "Nonrheumatic tricuspid valve disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I36.0",
+                "TEN": "Hẹp (van) ba lá không do thấp",
+                "TEN_EN": "Nonrheumatic tricuspid (valve) stenosis"
+              },
+              {
+                "MA": "I36.1",
+                "TEN": "Hở (van) ba lá không do thấp",
+                "TEN_EN": "Nonrheumatic tricuspid (valve) insufficiency"
+              },
+              {
+                "MA": "I36.2",
+                "TEN": "Hẹp kèm hở van ba lá không do thấp",
+                "TEN_EN": "Nonrheumatic tricuspid (valve) stenosis with insufficiency"
+              },
+              {
+                "MA": "I36.8",
+                "TEN": "Bệnh van ba lá không do thấp khác",
+                "TEN_EN": "Other nonrheumatic tricuspid valve disorders"
+              },
+              {
+                "MA": "I36.9",
+                "TEN": "Bệnh van ba lá không do thấp khác, không đặc hiệu",
+                "TEN_EN": "Nonrheumatic tricuspid valve disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I37",
+            "TEN": "Bệnh van động mạch phổi",
+            "TEN_EN": "Pulmonary valve disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I37.0",
+                "TEN": "Hẹp van động mạch phổi",
+                "TEN_EN": "Pulmonary valve stenosis"
+              },
+              {
+                "MA": "I37.1",
+                "TEN": "Hở van động mạch phổi",
+                "TEN_EN": "Pulmonary valve insufficiency"
+              },
+              {
+                "MA": "I37.2",
+                "TEN": "Hẹp hở van động mạch phổi",
+                "TEN_EN": "Pulmonary valve stenosis with insufficiency"
+              },
+              {
+                "MA": "I37.8",
+                "TEN": "Bệnh van động mạch phổi khác",
+                "TEN_EN": "Other pulmonary valve disorders"
+              },
+              {
+                "MA": "I37.9",
+                "TEN": "Bệnh van động mạch phổi, không xác định",
+                "TEN_EN": "Pulmonary valve disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I38",
+            "TEN": "Viêm nội tâm mạc, không xác định",
+            "TEN_EN": "Endocarditis, valve unspecified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "I39",
+            "TEN": "Viêm nội tâm mạc và bệnh van tim trong bệnh phân loại nơi khác",
+            "TEN_EN": "Endocarditis and heart valve disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I39*",
+                "TEN": "Viêm nội tâm mạc và bệnh van tim trong bệnh phân loại nơi khác",
+                "TEN_EN": "Endocarditis and heart valve disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "I39.0*",
+                "TEN": "Bệnh van hai lá trong bệnh phân loại nơi khác",
+                "TEN_EN": "Mitral valve disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "I39.1*",
+                "TEN": "Bệnh van động mạch chủ trong bệnh phân loại nơi khác",
+                "TEN_EN": "Aortic valve disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "I39.2*",
+                "TEN": "Bệnh van ba lá trong bệnh phân loại nơi khác",
+                "TEN_EN": "Tricuspid valve disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "I39.3*",
+                "TEN": "Bệnh van động mạch phổi trong bệnh phân loại nơi khác",
+                "TEN_EN": "Pulmonary valve disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "I39.4*",
+                "TEN": "Bệnh của nhiều van trong bệnh phân loại nơi khác",
+                "TEN_EN": "Multiple valve disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "I39.8*",
+                "TEN": "Viêm nội tâm mạc, không xác định van, trong bệnh phân loại nơi khác",
+                "TEN_EN": "Endocarditis, valve unspecified, in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "I40",
+            "TEN": "Viêm cơ tim cấp",
+            "TEN_EN": "Acute myocarditis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I40.0",
+                "TEN": "Viêm cơ tim nhiễm trùng",
+                "TEN_EN": "Infective myocarditis"
+              },
+              {
+                "MA": "I40.1",
+                "TEN": "Viêm cơ tim đơn thuần",
+                "TEN_EN": "Isolated myocarditis"
+              },
+              {
+                "MA": "I40.8",
+                "TEN": "Viêm cơ tim cấp khác",
+                "TEN_EN": "Other acute myocarditis"
+              },
+              {
+                "MA": "I40.9",
+                "TEN": "Viêm cơ tim cấp, không đặc hiệu",
+                "TEN_EN": "Acute myocarditis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I41",
+            "TEN": "Viêm cơ tim trong bệnh phân loại nơi khác",
+            "TEN_EN": "Myocarditis in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I41*",
+                "TEN": "Viêm cơ tim trong bệnh phân loại nơi khác",
+                "TEN_EN": "Myocarditis in diseases classified elsewhere"
+              },
+              {
+                "MA": "I41.0*",
+                "TEN": "Viêm cơ tim trong bệnh nhiễm trùng phân loại nơi khác",
+                "TEN_EN": "Myocarditis in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "I41.1*",
+                "TEN": "Viêm cơ tim trong bệnh do virus phân loại nơi khác",
+                "TEN_EN": "Myocarditis in viral diseases classified elsewhere"
+              },
+              {
+                "MA": "I41.2*",
+                "TEN": "Viêm cơ tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác",
+                "TEN_EN": "Myocarditis in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "I41.8*",
+                "TEN": "Viêm cơ tim trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Myocarditis in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "I42",
+            "TEN": "Bệnh cơ tim",
+            "TEN_EN": "Cardiomyopathy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I42.0",
+                "TEN": "Bệnh cơ tim giãn",
+                "TEN_EN": "Dilated cardiomyopathy"
+              },
+              {
+                "MA": "I42.1",
+                "TEN": "Bệnh cơ tim phì đại có tắc nghẽn",
+                "TEN_EN": "Obstructive hypertrophic cardiomyopathy"
+              },
+              {
+                "MA": "I42.2",
+                "TEN": "Bệnh cơ tim phì đại khác",
+                "TEN_EN": "Other hypertrophic cardiomyopathy"
+              },
+              {
+                "MA": "I42.3",
+                "TEN": "Bệnh cơ-nội tâm mạc (nhiễm bạch cầu ái toan)",
+                "TEN_EN": "Endomyocardial (eosinophilic) disease"
+              },
+              {
+                "MA": "I42.4",
+                "TEN": "Xơ chun nội tâm mạc",
+                "TEN_EN": "Endocardial fibroelastosis"
+              },
+              {
+                "MA": "I42.5",
+                "TEN": "Bệnh lý cơ tim hạn chế",
+                "TEN_EN": "Other restrictive cardiomyopathy"
+              },
+              {
+                "MA": "I42.6",
+                "TEN": "Bệnh cơ tim do rượu",
+                "TEN_EN": "Alcoholic cardiomyopathy"
+              },
+              {
+                "MA": "I42.7",
+                "TEN": "Bệnh cơ tim do thuốc và tác nhân bên ngoài",
+                "TEN_EN": "Cardiomyopathy due to drugs and other external agents"
+              },
+              {
+                "MA": "I42.8",
+                "TEN": "Bệnh cơ tim khác",
+                "TEN_EN": "Other cardiomyopathies"
+              },
+              {
+                "MA": "I42.9",
+                "TEN": "Bệnh cơ tim không đặc hiệu",
+                "TEN_EN": "Cardiomyopathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I43",
+            "TEN": "Bệnh cơ tim trong bệnh phân loại nơi khác",
+            "TEN_EN": "Cardiomyopathy in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I43*",
+                "TEN": "Bệnh cơ tim trong bệnh phân loại nơi khác",
+                "TEN_EN": "Cardiomyopathy in diseases classified elsewhere"
+              },
+              {
+                "MA": "I43.0*",
+                "TEN": "Bệnh cơ tim trong bệnh nhiễm trùng và ký sinh trùng",
+                "TEN_EN": "Cardiomyopathy in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "I43.1*",
+                "TEN": "Bệnh cơ tim trong bệnh chuyển hóa",
+                "TEN_EN": "Cardiomyopathy in metabolic diseases"
+              },
+              {
+                "MA": "I43.2*",
+                "TEN": "Bệnh cơ tim trong các bệnh về dinh dưỡng",
+                "TEN_EN": "Cardiomyopathy in nutritional diseases"
+              },
+              {
+                "MA": "I43.8*",
+                "TEN": "Bệnh cơ tim trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Cardiomyopathy in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "I44",
+            "TEN": "Blốc nhĩ thất và nhánh trái",
+            "TEN_EN": "Atrioventricular and left bundle-branch block",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I44.0",
+                "TEN": "Blốc nhĩ thất độ I",
+                "TEN_EN": "Atrioventricular block, first degree"
+              },
+              {
+                "MA": "I44.1",
+                "TEN": "Blốc nhĩ thất độ II",
+                "TEN_EN": "Atrioventricular block, second degree"
+              },
+              {
+                "MA": "I44.2",
+                "TEN": "Blốc nhĩ thất, hoàn toàn",
+                "TEN_EN": "Atrioventricular block, complete"
+              },
+              {
+                "MA": "I44.3",
+                "TEN": "Blốc nhĩ thất khác và không xác định",
+                "TEN_EN": "Other and unspecified atrioventricular block"
+              },
+              {
+                "MA": "I44.4",
+                "TEN": "Blốc nhánh trước trái",
+                "TEN_EN": "Left anterior fascicular block"
+              },
+              {
+                "MA": "I44.5",
+                "TEN": "Blốc nhánh sau trái",
+                "TEN_EN": "Left posterior fascicular block"
+              },
+              {
+                "MA": "I44.6",
+                "TEN": "Blốc nhánh khác và không xác định",
+                "TEN_EN": "Other and unspecified fascicular block"
+              },
+              {
+                "MA": "I44.7",
+                "TEN": "Blốc nhánh trái không đặc hiệu",
+                "TEN_EN": "Left bundle-branch block, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I45",
+            "TEN": "Rối loạn dẫn truyền khác",
+            "TEN_EN": "Other conduction disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I45.0",
+                "TEN": "Blốc nhánh phải",
+                "TEN_EN": "Right fascicular block"
+              },
+              {
+                "MA": "I45.1",
+                "TEN": "Blốc nhánh phải khác và không xác định",
+                "TEN_EN": "Other and unspecified right bundle-branch block"
+              },
+              {
+                "MA": "I45.2",
+                "TEN": "Blốc hai nhánh",
+                "TEN_EN": "Bifascicular block"
+              },
+              {
+                "MA": "I45.3",
+                "TEN": "Blốc ba nhánh",
+                "TEN_EN": "Trifascicular block"
+              },
+              {
+                "MA": "I45.4",
+                "TEN": "Blốc trong thất không đặc hiệu",
+                "TEN_EN": "Nonspecific intraventricular block"
+              },
+              {
+                "MA": "I45.5",
+                "TEN": "Blốc tim xác định khác",
+                "TEN_EN": "Other specified heart block"
+              },
+              {
+                "MA": "I45.6",
+                "TEN": "Hội chứng kích thích sớm (hội chứng tiền kích thích)",
+                "TEN_EN": "Pre-excitation syndrome"
+              },
+              {
+                "MA": "I45.8",
+                "TEN": "Rối loạn dẫn truyền, xác định khác",
+                "TEN_EN": "Other specified conduction disorders"
+              },
+              {
+                "MA": "I45.9",
+                "TEN": "Rối loạn dẫn truyền không đặc hiệu",
+                "TEN_EN": "Conduction disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I46",
+            "TEN": "Ngưng tim",
+            "TEN_EN": "Cardiac arrest",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I46.0",
+                "TEN": "Ngưng tim với hồi sức thành công",
+                "TEN_EN": "Cardiac arrest with successful resuscitation"
+              },
+              {
+                "MA": "I46.1",
+                "TEN": "Đột tử do tim (được mô tả)",
+                "TEN_EN": "Sudden cardiac death, so described"
+              },
+              {
+                "MA": "I46.9",
+                "TEN": "Ngưng tim không đặc hiệu",
+                "TEN_EN": "Cardiac arrest, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I47",
+            "TEN": "Nhịp nhanh kịch phát",
+            "TEN_EN": "Paroxysmal tachycardia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I47.0",
+                "TEN": "Loạn nhịp thất do cơ chế vòng vào lại",
+                "TEN_EN": "Re-entry ventricular arrhythmia"
+              },
+              {
+                "MA": "I47.1",
+                "TEN": "Nhịp nhanh trên thất",
+                "TEN_EN": "Supraventricular tachycardia"
+              },
+              {
+                "MA": "I47.2",
+                "TEN": "Nhịp nhanh thất",
+                "TEN_EN": "Ventricular tachycardia"
+              },
+              {
+                "MA": "I47.9",
+                "TEN": "Nhịp nhanh kịch phát, không đặc hiệu",
+                "TEN_EN": "Paroxysmal tachycardia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I48",
+            "TEN": "Rung nhĩ và cuồng nhĩ",
+            "TEN_EN": "Paroxysmal tachycardia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I48.0",
+                "TEN": "Rung nhĩ kịch phát",
+                "TEN_EN": "Paroxysmal atrial fibrillation"
+              },
+              {
+                "MA": "I48.1",
+                "TEN": "Rung nhĩ dai dẳng",
+                "TEN_EN": "Persistent atrial fibrillation"
+              },
+              {
+                "MA": "I48.2",
+                "TEN": "Rung nhĩ mãn tính",
+                "TEN_EN": "Chronic atrial fibrillation"
+              },
+              {
+                "MA": "I48.3",
+                "TEN": "Rung nhĩ điển hình",
+                "TEN_EN": "Typical atrial flutter"
+              },
+              {
+                "MA": "I48.4",
+                "TEN": "Cuồng nhĩ không điển hình",
+                "TEN_EN": "Atypical atrial flutter"
+              },
+              {
+                "MA": "I48.9",
+                "TEN": "Rung nhĩ và cuồng nhĩ, không đặc hiệu",
+                "TEN_EN": "Atrial fibrillation and atrial flutter, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I49",
+            "TEN": "Loạn nhịp tim khác",
+            "TEN_EN": "Other cardiac arrhythmias",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I49.0",
+                "TEN": "Rung thất và cuồng thất",
+                "TEN_EN": "Ventricular fibrillation and flutter"
+              },
+              {
+                "MA": "I49.1",
+                "TEN": "Ngoại tâm thu nhĩ",
+                "TEN_EN": "Atrial premature depolarization"
+              },
+              {
+                "MA": "I49.2",
+                "TEN": "Khử cực sớm vùng bộ nối",
+                "TEN_EN": "Junctional premature depolarization"
+              },
+              {
+                "MA": "I49.3",
+                "TEN": "Ngoại tâm thu thất",
+                "TEN_EN": "Ventricular premature depolarization"
+              },
+              {
+                "MA": "I49.4",
+                "TEN": "Khử cực sớm khác và không xác định",
+                "TEN_EN": "Other and unspecified premature depolarization"
+              },
+              {
+                "MA": "I49.5",
+                "TEN": "Hội chứng suy nút xoang",
+                "TEN_EN": "Sick sinus syndrome"
+              },
+              {
+                "MA": "I49.8",
+                "TEN": "Loạn nhịp tim xác định khác",
+                "TEN_EN": "Other specified cardiac arrhythmias"
+              },
+              {
+                "MA": "I49.9",
+                "TEN": "Rối loạn nhịp tim, không đặc hiệu",
+                "TEN_EN": "Cardiac arrhythmia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I50",
+            "TEN": "Suy tim",
+            "TEN_EN": "Heart failure",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I50.0",
+                "TEN": "Suy tim sung huyết",
+                "TEN_EN": "Congestive heart failure"
+              },
+              {
+                "MA": "I50.1",
+                "TEN": "Suy thất trái",
+                "TEN_EN": "Left ventricular failure"
+              },
+              {
+                "MA": "I50.9",
+                "TEN": "Suy tim, không đặc hiệu",
+                "TEN_EN": "Heart failure, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I51",
+            "TEN": "Biến chứng và bệnh lý được xác định là do bệnh tim mạch",
+            "TEN_EN": "Complications and ill-defined descriptions of heart disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I51.0",
+                "TEN": "Thông vách ngăn tim, mắc phải",
+                "TEN_EN": "Cardiac septal defect, acquired"
+              },
+              {
+                "MA": "I51.1",
+                "TEN": "Đứt dây chằng van tim, không có trong phân loại nơi khác",
+                "TEN_EN": "Rupture of chordae tendineae, not elsewhere classified"
+              },
+              {
+                "MA": "I51.2",
+                "TEN": "Đứt cơ nhú, không có trong phân loại nơi khác",
+                "TEN_EN": "Rupture of papillary muscle, not elsewhere classified"
+              },
+              {
+                "MA": "I51.3",
+                "TEN": "Huyết khối trong tim, không phân loại nơi khác",
+                "TEN_EN": "Intracardiac thrombosis, not elsewhere classified"
+              },
+              {
+                "MA": "I51.4",
+                "TEN": "Viêm cơ tim, không đặc hiệu",
+                "TEN_EN": "Myocarditis, unspecified"
+              },
+              {
+                "MA": "I51.5",
+                "TEN": "thoái hóa cơ tim",
+                "TEN_EN": "Myocardial degeneration"
+              },
+              {
+                "MA": "I51.6",
+                "TEN": "Bệnh tim mạch, không đặc hiệu",
+                "TEN_EN": "Cardiovascular disease, unspecified"
+              },
+              {
+                "MA": "I51.7",
+                "TEN": "Tim to",
+                "TEN_EN": "Cardiomegaly"
+              },
+              {
+                "MA": "I51.8",
+                "TEN": "Bệnh lý khác được xác định là bệnh lý của tim",
+                "TEN_EN": "Other ill-defined heart diseases"
+              },
+              {
+                "MA": "I51.9",
+                "TEN": "Bệnh tim, không đặc hiệu",
+                "TEN_EN": "Heart disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I52",
+            "TEN": "Các bệnh lý khác trong các bệnh đã phân loại nơi khác",
+            "TEN_EN": "Other heart disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I52*",
+                "TEN": "Các bệnh lý khác trong các bệnh đã phân loại nơi khác",
+                "TEN_EN": "Other heart disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "I52.0*",
+                "TEN": "Bệnh tim khác trong bệnh nhiễm trùng phân loại nơi khác",
+                "TEN_EN": "Other heart disorders in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "I52.1*",
+                "TEN": "Bệnh tim khác trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác",
+                "TEN_EN": "Other heart disorders in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "I52.8*",
+                "TEN": "Bệnh tim khác trong bệnh khác, phân loại nơi khác",
+                "TEN_EN": "Other heart disorders in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I60-I69",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh mạch máu não",
-        "TEN_EN": "Cerebrovascular diseases"
+        "TEN_EN": "Cerebrovascular diseases",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I60",
+            "TEN": "Xuất huyết dưới màng nhện",
+            "TEN_EN": "Subarachnoid haemorrhage",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I60.0",
+                "TEN": "Xuất huyết dưới màng nhện từ hành cảnh và chỗ chia nhánh động mạch cảnh",
+                "TEN_EN": "Subarachnoid haemorrhage from carotid siphon and bifurcation"
+              },
+              {
+                "MA": "I60.1",
+                "TEN": "Xuất huyết dưới nhện từ động mạch não giữa",
+                "TEN_EN": "Subarachnoid haemorrhage from middle cerebral artery"
+              },
+              {
+                "MA": "I60.2",
+                "TEN": "Xuất huyết dưới nhện từ động mạch thông trước",
+                "TEN_EN": "Subarachnoid haemorrhage from anterior communicating artery"
+              },
+              {
+                "MA": "I60.3",
+                "TEN": "Xuất huyết dưới màng nhện từ động mạch thông sau",
+                "TEN_EN": "Subarachnoid haemorrhage from posterior communicating artery"
+              },
+              {
+                "MA": "I60.4",
+                "TEN": "Xuất huyết dưới nhện từ động mạch sống nền",
+                "TEN_EN": "Subarachnoid haemorrhage from basilar artery"
+              },
+              {
+                "MA": "I60.5",
+                "TEN": "Xuất huyết dưới nhện từ động mạch đốt sống",
+                "TEN_EN": "Subarachnoid haemorrhage from vertebral artery"
+              },
+              {
+                "MA": "I60.6",
+                "TEN": "Xuất huyết dưới nhện từ động mạch nội sọ khác",
+                "TEN_EN": "Subarachnoid haemorrhage from other intracranial arteries"
+              },
+              {
+                "MA": "I60.7",
+                "TEN": "Xuất huyết dưới màng nhện từ động mạch nội sọ, không đặc hiệu",
+                "TEN_EN": "Subarachnoid haemorrhage from intracranial artery, unspecified"
+              },
+              {
+                "MA": "I60.8",
+                "TEN": "Xuất huyết dưới màng nhện khác",
+                "TEN_EN": "Other subarachnoid haemorrhage"
+              },
+              {
+                "MA": "I60.9",
+                "TEN": "Xuất huyết dưới màng nhện, không đặc hiệu",
+                "TEN_EN": "Subarachnoid haemorrhage, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I61",
+            "TEN": "Xuất huyết nội sọ",
+            "TEN_EN": "Intracerebral haemorrhage",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I61.0",
+                "TEN": "Xuất huyết nội sọ tại bán cầu, vùng dưới vỏ",
+                "TEN_EN": "Intracerebral haemorrhage in hemisphere, subcortical"
+              },
+              {
+                "MA": "I61.1",
+                "TEN": "Xuất huyết nội sọ tại bán cầu, vùng vỏ",
+                "TEN_EN": "Intracerebral haemorrhage in hemisphere, cortical"
+              },
+              {
+                "MA": "I61.2",
+                "TEN": "Xuất huyết nội sọ tại bán cầu, không đặc hiệu",
+                "TEN_EN": "Intracerebral haemorrhage in hemisphere, unspecified"
+              },
+              {
+                "MA": "I61.3",
+                "TEN": "Xuất huyết nội sọ tại thân não",
+                "TEN_EN": "Intracerebral haemorrhage in brain stem"
+              },
+              {
+                "MA": "I61.4",
+                "TEN": "Xuất huyết nội sọ tại tiểu não",
+                "TEN_EN": "Intracerebral haemorrhage in cerebellum"
+              },
+              {
+                "MA": "I61.5",
+                "TEN": "Xuất huyết nội sọ, tại não thất",
+                "TEN_EN": "Intracerebral haemorrhage, intraventricular"
+              },
+              {
+                "MA": "I61.6",
+                "TEN": "Xuất huyết nội sọ, tại nhiều nơi",
+                "TEN_EN": "Intracerebral haemorrhage, multiple localized"
+              },
+              {
+                "MA": "I61.8",
+                "TEN": "Xuất huyết nội sọ khác",
+                "TEN_EN": "Other intracerebral haemorrhage"
+              },
+              {
+                "MA": "I61.9",
+                "TEN": "Xuất huyết nội sọ, không đặc hiệu",
+                "TEN_EN": "Intracerebral haemorrhage, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I62",
+            "TEN": "Xuất huyết nội sọ không do chấn thương khác",
+            "TEN_EN": "Other nontraumatic intracranial haemorrhage",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I62.0",
+                "TEN": "Xuất huyết dưới màng cứng (cấp) (không do chấn thương)",
+                "TEN_EN": "Subdural haemorrhage (acute)(nontraumatic)"
+              },
+              {
+                "MA": "I62.1",
+                "TEN": "Xuất huyết ngoài màng cứng, không do chấn thương",
+                "TEN_EN": "Nontraumatic extradural haemorrhage"
+              },
+              {
+                "MA": "I62.9",
+                "TEN": "Xuất huyết nội sọ không do chấn thương, không đặc hiệu",
+                "TEN_EN": "Intracranial haemorrhage (nontraumatic), unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I63",
+            "TEN": "Nhồi máu não",
+            "TEN_EN": "Cerebral infarction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I63.0",
+                "TEN": "Nhồi máu não do huyết khối động mạch trước não",
+                "TEN_EN": "Cerebral infarction due to thrombosis of precerebral arteries"
+              },
+              {
+                "MA": "I63.1",
+                "TEN": "Nhồi máu não do thuyên tắc động mạch trước não",
+                "TEN_EN": "Cerebral infarction due to embolism of precerebral arteries"
+              },
+              {
+                "MA": "I63.2",
+                "TEN": "Nhồi máu não không đặc hiệu do tắc hay hẹp ở động mạch trước não",
+                "TEN_EN": "Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries"
+              },
+              {
+                "MA": "I63.3",
+                "TEN": "Nhồi máu não do huyết khối động mạch não",
+                "TEN_EN": "Cerebral infarction due to thrombosis of cerebral arteries"
+              },
+              {
+                "MA": "I63.4",
+                "TEN": "Nhồi máu não do thuyên tắc động mạch não",
+                "TEN_EN": "Cerebral infarction due to embolism of cerebral arteries"
+              },
+              {
+                "MA": "I63.5",
+                "TEN": "Nhồi máu não không xác định do tắc hay hẹp ở động mạch não",
+                "TEN_EN": "Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries"
+              },
+              {
+                "MA": "I63.6",
+                "TEN": "Nhồi máu não do huyết khối tĩnh mạch não, không sinh mủ",
+                "TEN_EN": "Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+              },
+              {
+                "MA": "I63.8",
+                "TEN": "Nhồi máu não khác",
+                "TEN_EN": "Other cerebral infarction"
+              },
+              {
+                "MA": "I63.9",
+                "TEN": "Nhồi máu não, không đặc hiệu",
+                "TEN_EN": "Cerebral infarction, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I64",
+            "TEN": "Đột quị, không xác định do xuất huyết hay nhồi máu (Tai biến mạch máu não)",
+            "TEN_EN": "Stroke, not specified as haemorrhage or infarction",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "I65",
+            "TEN": "Nghẽn tắc và hẹp động mạch trước não, không dẫn đến nhồi máu não",
+            "TEN_EN": "Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I65.0",
+                "TEN": "Nghẽn tắc và hẹp động mạch đốt sống",
+                "TEN_EN": "Occlusion and stenosis of vertebral artery"
+              },
+              {
+                "MA": "I65.1",
+                "TEN": "Nghẽn tắc và hẹp động mạch nền",
+                "TEN_EN": "Occlusion and stenosis of basilar artery"
+              },
+              {
+                "MA": "I65.2",
+                "TEN": "Nghẽn tắc và hẹp động mạch cảnh",
+                "TEN_EN": "Occlusion and stenosis of carotid artery"
+              },
+              {
+                "MA": "I65.3",
+                "TEN": "Nghẽn tắc và hẹp nhiều động mạch và động mạch trước não hai bên",
+                "TEN_EN": "Occlusion and stenosis of multiple and bilateral precerebral arteries"
+              },
+              {
+                "MA": "I65.8",
+                "TEN": "Nghẽn tắc và hẹp của động mạch trước não khác",
+                "TEN_EN": "Occlusion and stenosis of other precerebral artery"
+              },
+              {
+                "MA": "I65.9",
+                "TEN": "Nghẽn tắc và hẹp của động mạch trước não không xác định",
+                "TEN_EN": "Occlusion and stenosis of unspecified precerebral artery"
+              }
+            ]
+          },
+          {
+            "MA": "I66",
+            "TEN": "Nghẽn tắc và hẹp động mạch não, không dẫn đến nhồi máu não",
+            "TEN_EN": "Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I66.0",
+                "TEN": "Nghẽn tắc và hẹp động mạch não giữa",
+                "TEN_EN": "Occlusion and stenosis of middle cerebral artery"
+              },
+              {
+                "MA": "I66.1",
+                "TEN": "Nghẽn tắc và hẹp động mạch não trước",
+                "TEN_EN": "Occlusion and stenosis of anterior cerebral artery"
+              },
+              {
+                "MA": "I66.2",
+                "TEN": "Nghẽn tắc và hẹp động mạch não sau",
+                "TEN_EN": "Occlusion and stenosis of posterior cerebral artery"
+              },
+              {
+                "MA": "I66.3",
+                "TEN": "Nghẽn tắc và hẹp động mạch tiểu não",
+                "TEN_EN": "Occlusion and stenosis of cerebellar arteries"
+              },
+              {
+                "MA": "I66.4",
+                "TEN": "Nghẽn tắc và hẹp nhiều động mạch não hai bên",
+                "TEN_EN": "Occlusion and stenosis of multiple and bilateral cerebral arteries"
+              },
+              {
+                "MA": "I66.8",
+                "TEN": "Nghẽn tắc và hẹp động mạch não khác",
+                "TEN_EN": "Occlusion and stenosis of other cerebral artery"
+              },
+              {
+                "MA": "I66.9",
+                "TEN": "Nghẽn tắc và hẹp động mạch não, không xác định",
+                "TEN_EN": "Occlusion and stenosis of unspecified cerebral artery"
+              }
+            ]
+          },
+          {
+            "MA": "I67",
+            "TEN": "Bệnh mạch máu não khác",
+            "TEN_EN": "Other cerebrovascular diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I67.0",
+                "TEN": "Tách thành động mạch não, không vỡ",
+                "TEN_EN": "Dissection of cerebral arteries, nonruptured"
+              },
+              {
+                "MA": "I67.1",
+                "TEN": "Phình động mạch não, không vỡ",
+                "TEN_EN": "Cerebral aneurysm, nonruptured"
+              },
+              {
+                "MA": "I67.2",
+                "TEN": "Xơ vữa động mạch não",
+                "TEN_EN": "Cerebral atherosclerosis"
+              },
+              {
+                "MA": "I67.3",
+                "TEN": "Bệnh lý chất trắng não do nguyên nhân mạch máu",
+                "TEN_EN": "Progressive vascular leukoencephalopathy"
+              },
+              {
+                "MA": "I67.4",
+                "TEN": "Bệnh lý não do tăng huyết áp",
+                "TEN_EN": "Hypertensive encephalopathy"
+              },
+              {
+                "MA": "I67.5",
+                "TEN": "Bệnh Moyamoya",
+                "TEN_EN": "Moyamoya disease"
+              },
+              {
+                "MA": "I67.6",
+                "TEN": "Huyết khối không sinh mủ của hệ tĩnh mạch nội sọ",
+                "TEN_EN": "Nonpyogenic thrombosis of intracranial venous system"
+              },
+              {
+                "MA": "I67.7",
+                "TEN": "Viêm động mạch não, không phân loại nơi khác",
+                "TEN_EN": "Cerebral arteritis, not elsewhere classified"
+              },
+              {
+                "MA": "I67.8",
+                "TEN": "Bệnh mạch máu não xác định khác",
+                "TEN_EN": "Other specified cerebrovascular diseases"
+              },
+              {
+                "MA": "I67.9",
+                "TEN": "Bệnh mạch máu não không đặc hiệu",
+                "TEN_EN": "Cerebrovascular disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I68",
+            "TEN": "Bệnh mạch máu não trong bệnh phân loại nơi khác",
+            "TEN_EN": "Cerebrovascular disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I68*",
+                "TEN": "Bệnh mạch máu não trong bệnh phân loại nơi khác",
+                "TEN_EN": "Cerebrovascular disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "I68.0*",
+                "TEN": "Bệnh mạch máu não do thoái hóa dạng bột E85.-",
+                "TEN_EN": "Cerebral amyloid angiopathyE85.-"
+              },
+              {
+                "MA": "I68.1*",
+                "TEN": "Viêm động mạch não trong bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Cerebral arteritis in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "I68.2*",
+                "TEN": "Viêm động mạch não trong bệnh khác phân loại nơi khác",
+                "TEN_EN": "Cerebral arteritis in other diseases classified elsewhere"
+              },
+              {
+                "MA": "I68.8*",
+                "TEN": "Ngập máu tăng ure máu trong bệnh thận mãn tính",
+                "TEN_EN": "Other cerebrovascular disorders in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "I69",
+            "TEN": "Di chứng bệnh mạch máu não",
+            "TEN_EN": "Sequelae of cerebrovascular disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I69.0",
+                "TEN": "Di chứng xuất huyết dưới màng nhện",
+                "TEN_EN": "Sequelae of subarachnoid haemorrhage"
+              },
+              {
+                "MA": "I69.1",
+                "TEN": "Di chứng xuất huyết nội sọ",
+                "TEN_EN": "Sequelae of intracerebral haemorrhage"
+              },
+              {
+                "MA": "I69.2",
+                "TEN": "Di chứng xuất huyết nội sọ không do chấn thương khác",
+                "TEN_EN": "Sequelae of other nontraumatic intracranial haemorrhage"
+              },
+              {
+                "MA": "I69.3",
+                "TEN": "Di chứng nhồi máu não",
+                "TEN_EN": "Sequelae of cerebral infarction"
+              },
+              {
+                "MA": "I69.4",
+                "TEN": "Di chứng đột quỵ, không xác định là xuất huyết hay nhồi máu",
+                "TEN_EN": "Sequelae of stroke, not specified as haemorrhage or infarction"
+              },
+              {
+                "MA": "I69.8",
+                "TEN": "Di chứng bệnh mạch máu não khác và không xác định",
+                "TEN_EN": "Sequelae of other and unspecified cerebrovascular diseases"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I70-I79",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh động mạch, tiểu động mạch và mao mạch",
-        "TEN_EN": "Diseases of arteries, arterioles and capillaries"
+        "TEN_EN": "Diseases of arteries, arterioles and capillaries",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I70",
+            "TEN": "Xơ vữa động mạch",
+            "TEN_EN": "Atherosclerosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I70.0",
+                "TEN": "Xơ vữa động mạch chủ",
+                "TEN_EN": "Atherosclerosis of aorta"
+              },
+              {
+                "MA": "I70.1",
+                "TEN": "Xơ vữa động mạch thận",
+                "TEN_EN": "Atherosclerosis of renal artery"
+              },
+              {
+                "MA": "I70.2",
+                "TEN": "Xơ vữa động mạch ngoại biên",
+                "TEN_EN": "Atherosclerosis of arteries of extremities"
+              },
+              {
+                "MA": "I70.8",
+                "TEN": "Xơ vữa động mạch khác",
+                "TEN_EN": "Atherosclerosis of other arteries"
+              },
+              {
+                "MA": "I70.9",
+                "TEN": "Xơ vữa động mạch, toàn thể và không xác định",
+                "TEN_EN": "Generalized and unspecified atherosclerosis"
+              }
+            ]
+          },
+          {
+            "MA": "I71",
+            "TEN": "Phình và tách thành động mạch chủ",
+            "TEN_EN": "Aortic aneurysm and dissection",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I71.0",
+                "TEN": "Tách thành động mạch chủ (bất kỳ đoạn nào)",
+                "TEN_EN": "Dissection of aorta [any part]"
+              },
+              {
+                "MA": "I71.1",
+                "TEN": "Phình động mạch chủ ngực, vỡ",
+                "TEN_EN": "Thoracic aortic aneurysm, ruptured"
+              },
+              {
+                "MA": "I71.2",
+                "TEN": "Phình động mạch chủ ngực, không vỡ",
+                "TEN_EN": "Thoracic aortic aneurysm, without mention of rupture"
+              },
+              {
+                "MA": "I71.3",
+                "TEN": "Phình động mạch chủ bụng, vỡ",
+                "TEN_EN": "Abdominal aortic aneurysm, ruptured"
+              },
+              {
+                "MA": "I71.4",
+                "TEN": "Phình động mạch chủ bụng, không vỡ",
+                "TEN_EN": "Abdominal aortic aneurysm, without mention of rupture"
+              },
+              {
+                "MA": "I71.5",
+                "TEN": "Phình động mạch chủ ngực-bụng, vỡ",
+                "TEN_EN": "Thoracoabdominal aortic aneurysm, ruptured"
+              },
+              {
+                "MA": "I71.6",
+                "TEN": "Phình động mạch chủ ngực-bụng, không vỡ",
+                "TEN_EN": "Thoracoabdominal aortic aneurysm, without mention of rupture"
+              },
+              {
+                "MA": "I71.8",
+                "TEN": "Phình động mạch chủ, vị trí không xác định, vỡ",
+                "TEN_EN": "Aortic aneurysm of unspecified site, ruptured"
+              },
+              {
+                "MA": "I71.9",
+                "TEN": "Phình động mạch chủ, vị trí không xác định, không vỡ",
+                "TEN_EN": "Aortic aneurysm of unspecified site, without mention of rupture"
+              }
+            ]
+          },
+          {
+            "MA": "I72",
+            "TEN": "Phình và tách động mạch khác",
+            "TEN_EN": "Other aneurysm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I72.0",
+                "TEN": "Phình và tách động mạch cảnh",
+                "TEN_EN": "Aneurysm of carotid artery"
+              },
+              {
+                "MA": "I72.1",
+                "TEN": "Phình và tách động mạch chi trên",
+                "TEN_EN": "Aneurysm of artery of upper extremity"
+              },
+              {
+                "MA": "I72.2",
+                "TEN": "Phình và tách động mạch thận",
+                "TEN_EN": "Aneurysm of renal artery"
+              },
+              {
+                "MA": "I72.3",
+                "TEN": "Phình và tách động mạch chậu",
+                "TEN_EN": "Aneurysm of iliac artery"
+              },
+              {
+                "MA": "I72.4",
+                "TEN": "Phình và tách động mạch chi dưới",
+                "TEN_EN": "Aneurysm of artery of lower extremity"
+              },
+              {
+                "MA": "I72.5",
+                "TEN": "Phình và tách động mạch nền (thân)",
+                "TEN_EN": "Aneurysm and dissection of other precerebral arteries"
+              },
+              {
+                "MA": "I72.6",
+                "TEN": "Phình và tách động mạch đốt sống",
+                "TEN_EN": "Aneurysm and dissection of vertebral artery"
+              },
+              {
+                "MA": "I72.8",
+                "TEN": "Phình và tách động mạch xác định khác",
+                "TEN_EN": "Aneurysm of other specified arteries"
+              },
+              {
+                "MA": "I72.9",
+                "TEN": "Phình và tách động mạch, vị trí không xác định",
+                "TEN_EN": "Aneurysm of unspecified site"
+              }
+            ]
+          },
+          {
+            "MA": "I73",
+            "TEN": "Bệnh mạch máu ngoại biên",
+            "TEN_EN": "Other peripheral vascular diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I73.0",
+                "TEN": "Hội chứng Raynaud",
+                "TEN_EN": "Raynaud s syndrome"
+              },
+              {
+                "MA": "I73.1",
+                "TEN": "Viêm tắc mạch huyết khối [Buerger]",
+                "TEN_EN": "Thromboangiitis obliterans [Buerger]"
+              },
+              {
+                "MA": "I73.8",
+                "TEN": "Bệnh mạch máu ngoại biên xác định khác",
+                "TEN_EN": "Other specified peripheral vascular diseases"
+              },
+              {
+                "MA": "I73.9",
+                "TEN": "Bệnh mạch máu ngoại biên, không đặc hiệu",
+                "TEN_EN": "Peripheral vascular disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I74",
+            "TEN": "Thuyên tắc và huyết khối động mạch",
+            "TEN_EN": "Arterial embolism and thrombosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I74.0",
+                "TEN": "Thuyên tắc và huyết khối động mạch chủ bụng",
+                "TEN_EN": "Embolism and thrombosis of abdominal aorta"
+              },
+              {
+                "MA": "I74.1",
+                "TEN": "Thuyên tắc và huyết khối, đoạn động mạch chủ khác và không xác định",
+                "TEN_EN": "Embolism and thrombosis of other and unspecified parts of aorta"
+              },
+              {
+                "MA": "I74.2",
+                "TEN": "Thuyên tắc và huyết khối động mạch chi trên",
+                "TEN_EN": "Embolism and thrombosis of arteries of upper extremities"
+              },
+              {
+                "MA": "I74.3",
+                "TEN": "Thuyên tắc và huyết khối động mạch chi dưới",
+                "TEN_EN": "Embolism and thrombosis of arteries of lower extremities"
+              },
+              {
+                "MA": "I74.4",
+                "TEN": "Thuyên tắc và huyết khối động mạch chi không đặc hiệu",
+                "TEN_EN": "Embolism and thrombosis of arteries of extremities, unspecified"
+              },
+              {
+                "MA": "I74.5",
+                "TEN": "Thuyên tắc và huyết khối động mạch chậu",
+                "TEN_EN": "Embolism and thrombosis of iliac artery"
+              },
+              {
+                "MA": "I74.8",
+                "TEN": "Thuyên tắc và huyết khối động mạch khác",
+                "TEN_EN": "Embolism and thrombosis of other arteries"
+              },
+              {
+                "MA": "I74.9",
+                "TEN": "Thuyên tắc và huyết khối động mạch, không xác định",
+                "TEN_EN": "Embolism and thrombosis of unspecified artery"
+              }
+            ]
+          },
+          {
+            "MA": "I77",
+            "TEN": "Các bệnh khác của hệ động mạch và tiểu động mạch",
+            "TEN_EN": "Other disorders of arteries and arterioles",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I77.0",
+                "TEN": "Dò động - tĩnh mạch mắc phải",
+                "TEN_EN": "Arteriovenous fistula, acquired"
+              },
+              {
+                "MA": "I77.1",
+                "TEN": "Co hẹp động mạch",
+                "TEN_EN": "Stricture of artery"
+              },
+              {
+                "MA": "I77.2",
+                "TEN": "Vỡ động mạch",
+                "TEN_EN": "Rupture of artery"
+              },
+              {
+                "MA": "I77.3",
+                "TEN": "Loạn sản chun xơ cơ của động mạch",
+                "TEN_EN": "Arterial fibromuscular dysplasia"
+              },
+              {
+                "MA": "I77.4",
+                "TEN": "Hội chứng chèn ép động mạch tạng",
+                "TEN_EN": "Coeliac artery compression syndrome"
+              },
+              {
+                "MA": "I77.5",
+                "TEN": "Hoại tử động mạch",
+                "TEN_EN": "Necrosis of artery"
+              },
+              {
+                "MA": "I77.6",
+                "TEN": "Viêm động mạch, không đặc hiệu",
+                "TEN_EN": "Arteritis, unspecified"
+              },
+              {
+                "MA": "I77.8",
+                "TEN": "Bệnh xác định khác của động mạch và tiểu động mạch",
+                "TEN_EN": "Other specified disorders of arteries and arterioles"
+              },
+              {
+                "MA": "I77.9",
+                "TEN": "Bệnh động mạch và tiểu động mạch, không đặc hiệu",
+                "TEN_EN": "Disorder of arteries and arterioles, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I78",
+            "TEN": "Bệnh của mao mạch",
+            "TEN_EN": "Diseases of capillaries",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I78.0",
+                "TEN": "Dãn mạch di truyền xuất huyết",
+                "TEN_EN": "Hereditary haemorrhagic telangiectasia"
+              },
+              {
+                "MA": "I78.1",
+                "TEN": "Tổn thương mạch máu trên da (Naevus), không tân sinh",
+                "TEN_EN": "Naevus, non-neoplastic"
+              },
+              {
+                "MA": "I78.8",
+                "TEN": "Bệnh khác của mao mạch",
+                "TEN_EN": "Other diseases of capillaries"
+              },
+              {
+                "MA": "I78.9",
+                "TEN": "Bệnh khác của mao mạch, không đặc hiệu",
+                "TEN_EN": "Disease of capillaries, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I79",
+            "TEN": "Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác",
+            "TEN_EN": "Disorders of arteries, arterioles and capillaries in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I79*",
+                "TEN": "Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác",
+                "TEN_EN": "Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+              },
+              {
+                "MA": "I79.0*",
+                "TEN": "Phình động mạch chủ trong bệnh phân loại nơi khác",
+                "TEN_EN": "Aneurysm of aorta in diseases classified elsewhere"
+              },
+              {
+                "MA": "I79.1*",
+                "TEN": "Viêm động mạch chủ trong bệnh phân loại nơi khác",
+                "TEN_EN": "Aortitis in diseases classified elsewhere"
+              },
+              {
+                "MA": "I79.2*",
+                "TEN": "Bệnh lý mạch máu ngoại biên trong bệnh phân loại nơi khác",
+                "TEN_EN": "Peripheral angiopathy in diseases classified elsewhere"
+              },
+              {
+                "MA": "I79.8*",
+                "TEN": "Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I80-I89",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh tĩnh mạch, mạch bạch huyết và hạch bạch huyết không phân loại nơi khác",
-        "TEN_EN": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+        "TEN_EN": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I80",
+            "TEN": "Viêm tĩnh mạch và tắc tĩnh mạch",
+            "TEN_EN": "Phlebitis and thrombophlebitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I80.0",
+                "TEN": "Viêm tĩnh mạch và viêm tắc tĩnh mạch nông ở chi dưới",
+                "TEN_EN": "Phlebitis and thrombophlebitis of superficial vessels of lower extremities"
+              },
+              {
+                "MA": "I80.1",
+                "TEN": "Viêm tĩnh mạch và viêm tắc tĩnh mạch đùi",
+                "TEN_EN": "Phlebitis and thrombophlebitis of femoral vein"
+              },
+              {
+                "MA": "I80.2",
+                "TEN": "Viêm tĩnh mạch và viêm tắc tĩnh mạch của các tĩnh mạch sâu khác ở chi dưới",
+                "TEN_EN": "Phlebitis and thrombophlebitis of other deep vessels of lower extremities"
+              },
+              {
+                "MA": "I80.3",
+                "TEN": "Viêm tĩnh mạch và viêm tắc tĩnh mạch ở chi dưới, không đặc hiệu",
+                "TEN_EN": "Phlebitis and thrombophlebitis of lower extremities, unspecified"
+              },
+              {
+                "MA": "I80.8",
+                "TEN": "Viêm tĩnh mạch và viêm tắc tĩnh mạch ở vị trí khác",
+                "TEN_EN": "Phlebitis and thrombophlebitis of other sites"
+              },
+              {
+                "MA": "I80.9",
+                "TEN": "Viêm tĩnh mạch và viêm tắc tĩnh mạch, vị trí không xác định",
+                "TEN_EN": "Phlebitis and thrombophlebitis of unspecified site"
+              }
+            ]
+          },
+          {
+            "MA": "I81",
+            "TEN": "Huyết khối tĩnh mạch cửa",
+            "TEN_EN": "Portal vein thrombosis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "I82",
+            "TEN": "Các thuyên tắc và huyết khối tĩnh mạch khác",
+            "TEN_EN": "Other venous embolism and thrombosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I82.0",
+                "TEN": "Hội chứng Budd-Chiari",
+                "TEN_EN": "Budd-Chiari syndrome"
+              },
+              {
+                "MA": "I82.1",
+                "TEN": "Viêm tắc tĩnh mạch tái phát (migrans)",
+                "TEN_EN": "Thrombophlebitis migrans"
+              },
+              {
+                "MA": "I82.2",
+                "TEN": "Thuyên tắc và huyết khối tĩnh mạch chủ",
+                "TEN_EN": "Embolism and thrombosis of vena cava"
+              },
+              {
+                "MA": "I82.3",
+                "TEN": "Thuyên tắc và huyết khối tĩnh mạch thận",
+                "TEN_EN": "Embolism and thrombosis of renal vein"
+              },
+              {
+                "MA": "I82.8",
+                "TEN": "Thuyên tắc và huyết khối tĩnh mạch khác",
+                "TEN_EN": "Embolism and thrombosis of other specified veins"
+              },
+              {
+                "MA": "I82.9",
+                "TEN": "Thuyên tắc và huyết khối, không xác định tĩnh mạch",
+                "TEN_EN": "Embolism and thrombosis of unspecified vein"
+              }
+            ]
+          },
+          {
+            "MA": "I83",
+            "TEN": "Dãn tĩnh mạch chi dưới",
+            "TEN_EN": "Varicose veins of lower extremities",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I83.0",
+                "TEN": "Dãn tĩnh mạch chi dưới có loét",
+                "TEN_EN": "Varicose veins of lower extremities with ulcer"
+              },
+              {
+                "MA": "I83.1",
+                "TEN": "Dãn tĩnh mạch chi dưới có viêm",
+                "TEN_EN": "Varicose veins of lower extremities with inflammation"
+              },
+              {
+                "MA": "I83.2",
+                "TEN": "Dãn tĩnh mạch chi dưới có loét và viêm",
+                "TEN_EN": "Varicose veins of lower extremities with both ulcer and inflammation"
+              },
+              {
+                "MA": "I83.9",
+                "TEN": "Dãn tĩnh mạch chi dưới không loét không viêm",
+                "TEN_EN": "Varicose veins of lower extremities without ulcer or inflammation"
+              }
+            ]
+          },
+          {
+            "MA": "I85",
+            "TEN": "Dãn tĩnh mạch thực quản",
+            "TEN_EN": "Oesophageal varices",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I85.0",
+                "TEN": "Dãn tĩnh mạch thực quản có chảy máu",
+                "TEN_EN": "Oesophageal varices with bleeding"
+              },
+              {
+                "MA": "I85.9",
+                "TEN": "Dãn tĩnh mạch thực quản không chảy máu",
+                "TEN_EN": "Oesophageal varices without bleeding"
+              }
+            ]
+          },
+          {
+            "MA": "I86",
+            "TEN": "Dãn tĩnh mạch vị trí khác",
+            "TEN_EN": "Varicose veins of other sites",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I86.0",
+                "TEN": "Dãn tĩnh mạch dưới lưỡi",
+                "TEN_EN": "Sublingual varices"
+              },
+              {
+                "MA": "I86.1",
+                "TEN": "Túi dãn tĩnh mạch bìu",
+                "TEN_EN": "Scrotal varices"
+              },
+              {
+                "MA": "I86.2",
+                "TEN": "Dãn tĩnh mạch chậu",
+                "TEN_EN": "Pelvic varices"
+              },
+              {
+                "MA": "I86.3",
+                "TEN": "Dãn tĩnh mạch âm hộ",
+                "TEN_EN": "Vulval varices"
+              },
+              {
+                "MA": "I86.4",
+                "TEN": "Dãn tĩnh mạch dạ dày",
+                "TEN_EN": "Gastric varices"
+              },
+              {
+                "MA": "I86.8",
+                "TEN": "Dãn tĩnh mạch ở vị trí xác định khác",
+                "TEN_EN": "Varicose veins of other specified sites"
+              }
+            ]
+          },
+          {
+            "MA": "I87",
+            "TEN": "Rối loạn khác của tĩnh mạch",
+            "TEN_EN": "Other disorders of veins",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I87.0",
+                "TEN": "Hội chứng sau huyết khối",
+                "TEN_EN": "Postphlebitic syndrome"
+              },
+              {
+                "MA": "I87.1",
+                "TEN": "Ép tĩnh mạch",
+                "TEN_EN": "Compression of vein"
+              },
+              {
+                "MA": "I87.2",
+                "TEN": "Suy tĩnh mạch (mạn) (ngoại biên)",
+                "TEN_EN": "Venous insufficiency (chronic)(peripheral)"
+              },
+              {
+                "MA": "I87.8",
+                "TEN": "Rối loạn khác tĩnh mạch xác định khác",
+                "TEN_EN": "Other specified disorders of veins"
+              },
+              {
+                "MA": "I87.9",
+                "TEN": "Rối loạn khác tĩnh mạch, không đặc hiệu khác",
+                "TEN_EN": "Disorder of vein, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I88",
+            "TEN": "Viêm hạch bạch huyết không đặc hiệu",
+            "TEN_EN": "Nonspecific lymphadenitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I88.0",
+                "TEN": "Viêm hạch bạch huyết mạc treo không đặc hiệu",
+                "TEN_EN": "Nonspecific mesenteric lymphadenitis"
+              },
+              {
+                "MA": "I88.1",
+                "TEN": "Viêm hạch bạch huyết mạn, ngoại trừ mạc treo",
+                "TEN_EN": "Chronic lymphadenitis, except mesenteric"
+              },
+              {
+                "MA": "I88.8",
+                "TEN": "Viêm hạch bạch huyết không đặc hiệu khác",
+                "TEN_EN": "Other nonspecific lymphadenitis"
+              },
+              {
+                "MA": "I88.9",
+                "TEN": "Viêm hạch bạch huyết không đặc hiệu, không đặc hiệu",
+                "TEN_EN": "Nonspecific lymphadenitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I89",
+            "TEN": "Rối loạn mạch bạch huyết và hạch bạch huyết không nhiễm trùng khác",
+            "TEN_EN": "Other noninfective disorders of lymphatic vessels and lymph nodes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I89.0",
+                "TEN": "Phù bạch huyết, không phân loại nơi khác",
+                "TEN_EN": "Lymphoedema, not elsewhere classified"
+              },
+              {
+                "MA": "I89.1",
+                "TEN": "Viêm mạch bạch huyết",
+                "TEN_EN": "Lymphangitis"
+              },
+              {
+                "MA": "I89.8",
+                "TEN": "Rối loạn mạch bạch huyết và hạch bạch huyết xác định khác không do nhiễm trùng",
+                "TEN_EN": "Other specified noninfective disorders of lymphatic vessels and lymph nodes"
+              },
+              {
+                "MA": "I89.9",
+                "TEN": "Rối loạn mạch bạch huyết và hạch bạch huyết không do nhiễm trùng, không đặc hiệu",
+                "TEN_EN": "Noninfective disorder of lymphatic vessels and lymph nodes, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "I95-I99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Rối loạn khác và không xác định của hệ tuần hoàn",
-        "TEN_EN": "Other and unspecified disorders of the circulatory system"
+        "TEN_EN": "Other and unspecified disorders of the circulatory system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "I95",
+            "TEN": "Huyết áp thấp (hạ huyết áp)",
+            "TEN_EN": "Hypotension",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I95.0",
+                "TEN": "Hạ huyết áp không rõ nguyên nhân",
+                "TEN_EN": "Idiopathic hypotension"
+              },
+              {
+                "MA": "I95.1",
+                "TEN": "Hạ huyết áp thế đứng",
+                "TEN_EN": "Orthostatic hypotension"
+              },
+              {
+                "MA": "I95.2",
+                "TEN": "Hạ huyết áp do thuốc",
+                "TEN_EN": "Hypotension due to drugs"
+              },
+              {
+                "MA": "I95.8",
+                "TEN": "Hạ huyết áp khác",
+                "TEN_EN": "Other hypotension"
+              },
+              {
+                "MA": "I95.9",
+                "TEN": "Hạ huyết áp, không đặc hiệu",
+                "TEN_EN": "Hypotension, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I97",
+            "TEN": "Rối loạn hệ tuần hoàn sau phẫu thuật, chưa phân loại nơi khác",
+            "TEN_EN": "Postprocedural disorders of circulatory system, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I97.0",
+                "TEN": "Hội chứng sau mổ tim",
+                "TEN_EN": "Postcardiotomy syndrome"
+              },
+              {
+                "MA": "I97.1",
+                "TEN": "Rối loạn chức năng khác sau phẫu thuật tim",
+                "TEN_EN": "Other functional disturbances following cardiac surgery"
+              },
+              {
+                "MA": "I97.2",
+                "TEN": "Hội chứng phù hạch bạch huyết sau cắt bỏ tuyến vú",
+                "TEN_EN": "Postmastectomy lymphoedema syndrome"
+              },
+              {
+                "MA": "I97.8",
+                "TEN": "Rối loạn hệ tuần hoàn khác sau phẫu thuật, không phân loại nơi khác",
+                "TEN_EN": "Other postprocedural disorders of circulatory system, not elsewhere classified"
+              },
+              {
+                "MA": "I97.9",
+                "TEN": "Rối loạn hệ tuần hoàn sau phẫu thuật, không đặc hiệu",
+                "TEN_EN": "Postprocedural disorder of circulatory system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "I98",
+            "TEN": "Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác",
+            "TEN_EN": "Other disorders of circulatory system in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "I98*",
+                "TEN": "Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other disorders of circulatory system in diseases classified elsewhere"
+              },
+              {
+                "MA": "I98.0*",
+                "TEN": "Giang mai tim mạch",
+                "TEN_EN": "Cardiovascular syphilis"
+              },
+              {
+                "MA": "I98.1*",
+                "TEN": "Rối loạn tim mạch trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác",
+                "TEN_EN": "Cardiovascular disorders in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "I98.2*",
+                "TEN": "Giãn tĩnh mạch thực quản không chảy máu trong bệnh phân loại nơi khác",
+                "TEN_EN": "Oesophageal varices in diseases classified elsewhere"
+              },
+              {
+                "MA": "I98.3*",
+                "TEN": "Dãn tĩnh mạch thực quản chảy máu trong bệnh phân loại nơi khác",
+                "TEN_EN": "Oesophageal varices with bleeding in diseases classified elsewhere"
+              },
+              {
+                "MA": "I98.8*",
+                "TEN": "Rối loạn hệ tuần hoàn xác định khác trong bệnh phân loại nơi khác",
+                "TEN_EN": "Other specified disorders of circulatory system in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "I99",
+            "TEN": "Rối loạn hệ tuần hoàn khác và không xác định của hệ tuần hoàn",
+            "TEN_EN": "Other and unspecified disorders of circulatory system",
+            "DANH_SACH_BENH": []
+          }
+        ]
       }
     ]
   },

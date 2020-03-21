@@ -49917,67 +49917,4080 @@
         "MA": "T00-T07",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương tác động nhiều vùng cơ thể",
-        "TEN_EN": "Injuries involving multiple body regions"
+        "TEN_EN": "Injuries involving multiple body regions",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T00",
+            "TEN": "Tổn thương nông tác động nhiều vùng cơ thể",
+            "TEN_EN": "Superficial injuries involving multiple body regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T00.0",
+                "TEN": "Tổn thương nông tác động đầu với cổ",
+                "TEN_EN": "Superficial injuries involving head with neck"
+              },
+              {
+                "MA": "T00.1",
+                "TEN": "Tổn thương nông tác động ngực với bụng, lưng dưới và khung chậu",
+                "TEN_EN": "Superficial injuries involving thorax with abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "T00.2",
+                "TEN": "Tổn thương nông tác động nhiều vùng chi trên",
+                "TEN_EN": "Superficial injuries involving multiple regions of upper limb(s)"
+              },
+              {
+                "MA": "T00.3",
+                "TEN": "Tổn thương nông tác động nhiều vùng chi dưới",
+                "TEN_EN": "Superficial injuries involving multiple regions of lower limb(s)"
+              },
+              {
+                "MA": "T00.6",
+                "TEN": "Tổn thương nông tác động nhiều vùng chi trên và chi dưới",
+                "TEN_EN": "Superficial injuries involving multiple regions of upper limb(s) with lower limb(s)"
+              },
+              {
+                "MA": "T00.8",
+                "TEN": "Tổn thương nông tác động kết hợp khác các vùng cơ thể",
+                "TEN_EN": "Superficial injuries involving other combinations of body regions"
+              },
+              {
+                "MA": "T00.9",
+                "TEN": "Nhiều tổn thương nông chưa xác định",
+                "TEN_EN": "Multiple superficial injuries, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T01",
+            "TEN": "Vết thương hở tác động nhiều vùng cơ thể",
+            "TEN_EN": "Open wounds involving multiple body regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T01.0",
+                "TEN": "Vết thương hở tác động đầu với cổ",
+                "TEN_EN": "Open wounds involving head with neck"
+              },
+              {
+                "MA": "T01.1",
+                "TEN": "Vết thương hở tác động ngực với bụng, dưới lưng và khung chậu",
+                "TEN_EN": "Open wounds involving thorax with abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "T01.2",
+                "TEN": "Vết thương hở ở tác động nhiều vùng của chi trên",
+                "TEN_EN": "Open wounds involving multiple regions of upper limb(s)"
+              },
+              {
+                "MA": "T01.3",
+                "TEN": "Vết thương hở tác động của nhiều vùng của chi dưới",
+                "TEN_EN": "Open wounds involving multiple regions of lower limb(s)"
+              },
+              {
+                "MA": "T01.6",
+                "TEN": "Vết thương hở với tác động của nhiều vùng chi trên và chi dưới",
+                "TEN_EN": "Open wounds involving multiple regions of upper limb(s) with lower limb(s)"
+              },
+              {
+                "MA": "T01.8",
+                "TEN": "Vết thương hở tác động kết hợp khác của nhiều vùng cơ thể",
+                "TEN_EN": "Open wounds involving other combinations of body regions"
+              },
+              {
+                "MA": "T01.9",
+                "TEN": "Đa vết thương hở chưa xác định",
+                "TEN_EN": "Multiple open wounds, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T02",
+            "TEN": "Gẫy xương tác động nhiều vùng cơ thể",
+            "TEN_EN": "Fractures involving multiple body regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T02.0",
+                "TEN": "Gẫy xương tác động đầu với cổ",
+                "TEN_EN": "Fractures involving head with neck"
+              },
+              {
+                "MA": "T02.1",
+                "TEN": "Gẫy xương tác động ngực, dưới lưng và khung châu",
+                "TEN_EN": "Fractures involving thorax with lower back and pelvis"
+              },
+              {
+                "MA": "T02.2",
+                "TEN": "Gẫy xương tác động nhiều vùng của một chi trên",
+                "TEN_EN": "Fractures involving multiple regions of one upper limb"
+              },
+              {
+                "MA": "T02.3",
+                "TEN": "Gẫy xương tác động nhiều vùng của một chi dưới",
+                "TEN_EN": "Fractures involving multiple regions of one lower limb"
+              },
+              {
+                "MA": "T02.4",
+                "TEN": "Gẫy xương tác động nhiều vùng của cả hai chi trên",
+                "TEN_EN": "Fractures involving multiple regions of both upper limbs"
+              },
+              {
+                "MA": "T02.5",
+                "TEN": "Gẫy xương tác động nhiều vùng của cả hai chi dưới",
+                "TEN_EN": "Fractures involving multiple regions of both lower limbs"
+              },
+              {
+                "MA": "T02.6",
+                "TEN": "Gẫy xương tác động nhiều vùng của chi trên và chi dưới",
+                "TEN_EN": "Fractures involving multiple regions of upper limb(s) with lower limb(s)"
+              },
+              {
+                "MA": "T02.7",
+                "TEN": "Gẫy xương tác động ngực với lưng dưới và khung chậu với chi",
+                "TEN_EN": "Fractures involving thorax with lower back and pelvis with limb(s)"
+              },
+              {
+                "MA": "T02.8",
+                "TEN": "Gẫy xương tác động kết hợp khác của nhiều vùng cơ thể",
+                "TEN_EN": "Fractures involving other combinations of body regions"
+              },
+              {
+                "MA": "T02.9",
+                "TEN": "Đa gẫy xương, chưa xác định",
+                "TEN_EN": "Multiple fractures, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T03",
+            "TEN": "Sai khớp, bong gân, căng cơ tác động của nhiều vùng cơ thể",
+            "TEN_EN": "Dislocations, sprains and strains involving multiple body regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T03.0",
+                "TEN": "Sai khớp, bong gân, căng cơ tác động của nhiều vùng cơ thể",
+                "TEN_EN": "Dislocations, sprains and strains involving head with neck"
+              },
+              {
+                "MA": "T03.1",
+                "TEN": "Sai khớp, bong gân, căng cơ tác động của ngực với lưng dưới và khung chậu",
+                "TEN_EN": "Dislocations, sprains and strains involving thorax with lower back and pelvis"
+              },
+              {
+                "MA": "T03.2",
+                "TEN": "Sai khớp, bong gân, căng cơ tác động nhiều vùng chi trên",
+                "TEN_EN": "Dislocations, sprains and strains involving multiple regions of upper limb(s)"
+              },
+              {
+                "MA": "T03.3",
+                "TEN": "Sai khớp, bong gân, căng cơ tác động nhiều của vùng chi dưới",
+                "TEN_EN": "Dislocations, sprains and strains involving multiple regions of lower limb(s)"
+              },
+              {
+                "MA": "T03.4",
+                "TEN": "Sai khớp, bong gân, căng cơ tác động của nhiều vùng của chi trên và chi dưới",
+                "TEN_EN": "Dislocations, sprains and strains involving multiple regions of upper limb(s) with lower limb(s)"
+              },
+              {
+                "MA": "T03.8",
+                "TEN": "Sai khớp, bong gân, căng cơ tác động kết hợp khác của các vùng cơ thể",
+                "TEN_EN": "Dislocations, sprains and strains involving other combinations of body regions"
+              },
+              {
+                "MA": "T03.9",
+                "TEN": "Nhiều sai khớp, bong gân, căng cơ chưa xác định",
+                "TEN_EN": "Multiple dislocations, sprains and strains, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T04",
+            "TEN": "Tổn thương dập nát tác động nhiều vùng cơ thể",
+            "TEN_EN": "Crushing injuries involving multiple body regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T04.0",
+                "TEN": "Tổn thương dập nát tác động đầu với cổ",
+                "TEN_EN": "Crushing injuries involving head with neck"
+              },
+              {
+                "MA": "T04.1",
+                "TEN": "Tổn thương dập nát tác động ngực với bụng lưng dưới và khung chậu",
+                "TEN_EN": "Crushing injuries involving thorax with abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "T04.2",
+                "TEN": "Tổn thương giập nát tác động nhiều vùng của chi trên",
+                "TEN_EN": "Crushing injuries involving multiple regions of upper limb(s)"
+              },
+              {
+                "MA": "T04.3",
+                "TEN": "Tổn thương dập nát tác động nhiều vùng các chi dưới",
+                "TEN_EN": "Crushing injuries involving multiple regions of lower limb(s)"
+              },
+              {
+                "MA": "T04.4",
+                "TEN": "Tổn thương dập nát tác động nhiều vùng của các chi trên và các chi dưới",
+                "TEN_EN": "Crushing injuries involving multiple regions of upper limb(s) with lower limb(s)"
+              },
+              {
+                "MA": "T04.7",
+                "TEN": "Tổn thương dập nát của ngực với bụng, lưng dưới và khung chậu với các chi",
+                "TEN_EN": "Crushing injuries of thorax with abdomen, lower back and pelvis with limb(s)"
+              },
+              {
+                "MA": "T04.8",
+                "TEN": "Tổn thương dập nát tác động kết hợp các vùng cơ thể",
+                "TEN_EN": "Crushing injuries involving other combinations of body regions"
+              },
+              {
+                "MA": "T04.9",
+                "TEN": "Đa tổn thương dập nát, chưa xác định",
+                "TEN_EN": "Multiple crushing injuries, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T05",
+            "TEN": "Chấn thương cắt cụt tác động nhiều vùng cơ thể",
+            "TEN_EN": "Traumatic amputations involving multiple body regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T05.0",
+                "TEN": "Chấn thương cắt cụt cả hai bàn tay",
+                "TEN_EN": "Traumatic amputation of both hands"
+              },
+              {
+                "MA": "T05.1",
+                "TEN": "Chấn thương cắt cụt một bàn tay và tay khác (tầm bất kỳ trừ bàn tay)",
+                "TEN_EN": "Traumatic amputation of one hand and other arm [any level, except hand]"
+              },
+              {
+                "MA": "T05.2",
+                "TEN": "Chấn thương cắt cụt cả hai bàn tay (tầm bất kỳ)",
+                "TEN_EN": "Traumatic amputation of both arms [any level]"
+              },
+              {
+                "MA": "T05.3",
+                "TEN": "Chấn thương cắt cụt cả hai bàn chân",
+                "TEN_EN": "Traumatic amputation of both feet"
+              },
+              {
+                "MA": "T05.4",
+                "TEN": "Chấn thương cắt cụt một bàn chân và chân khác (tầm bất kỳ trừ bàn chân)",
+                "TEN_EN": "Traumatic amputation of one foot and other leg [any level, except foot]"
+              },
+              {
+                "MA": "T05.5",
+                "TEN": "Chấn thương cắt cụt cả hai chân (tầm bất kỳ)",
+                "TEN_EN": "Traumatic amputation of both legs [any level]"
+              },
+              {
+                "MA": "T05.6",
+                "TEN": "Chấn thương cắt cụt cả hai chân (tầm bất kỳ)",
+                "TEN_EN": "Traumatic amputation of upper and lower limbs, any combination [any level]"
+              },
+              {
+                "MA": "T05.8",
+                "TEN": "Chấn thương cắt cụt tác động kết hợp khác các vùng cơ thể",
+                "TEN_EN": "Traumatic amputations involving other combinations of body regions"
+              },
+              {
+                "MA": "T05.9",
+                "TEN": "Đa chấn thương cắt cụt chưa xác định",
+                "TEN_EN": "Multiple traumatic amputations, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T06",
+            "TEN": "Tổn thương khác tác động nhiều vùng cơ thể, không xếp loại nơi khác",
+            "TEN_EN": "Other injuries involving multiple body regions, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T06.0",
+                "TEN": "Tổn thương của não và dây thần kinh sọ với tổn thương của dây thần kinh và cột sống tại tầm cổ",
+                "TEN_EN": "Injuries of brain and cranial nerves with injuries of nerves and spinal cord at neck level"
+              },
+              {
+                "MA": "T06.1",
+                "TEN": "Tổn thương dây thần kinh và cột sống tác động nhiều vùng khác",
+                "TEN_EN": "Injuries of nerves and spinal cord involving other multiple body regions"
+              },
+              {
+                "MA": "T06.2",
+                "TEN": "Tổn thương dây thần kinh tác động nhiều vùng cơ thể",
+                "TEN_EN": "Injuries of nerves involving multiple body regions"
+              },
+              {
+                "MA": "T06.3",
+                "TEN": "Tổn thương mạch máu tác động nhiều vùng cơ thể",
+                "TEN_EN": "Injuries of blood vessels involving multiple body regions"
+              },
+              {
+                "MA": "T06.4",
+                "TEN": "Tổn thương cơ và gân tác động nhiều vùng cơ thể",
+                "TEN_EN": "Injuries of muscles and tendons involving multiple body regions"
+              },
+              {
+                "MA": "T06.5",
+                "TEN": "Tổn thương phủ tạng trong lồng ngực với trong ổ bụng và phủ tạng khung chậu",
+                "TEN_EN": "Injuries of intrathoracic organs with intra-abdominal and pelvic organs"
+              },
+              {
+                "MA": "T06.8",
+                "TEN": "Tổn thương xác định khác tác động nhiều vùng cơ thể",
+                "TEN_EN": "Other specified injuries involving multiple body regions"
+              }
+            ]
+          },
+          {
+            "MA": "T07",
+            "TEN": "Đa tổn thương chưa xác định",
+            "TEN_EN": "Unspecified multipe injuries",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "T08-T14",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương phần chưa xác định của thân, các chi hoặc vùng cơ thể",
-        "TEN_EN": "Injuries to unspecified part of trunk, limb or body region"
+        "TEN_EN": "Injuries to unspecified part of trunk, limb or body region",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T08",
+            "TEN": "gẫy cột sống, mức độ chưa xác định",
+            "TEN_EN": "Fracture of spine, level unspecified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T09",
+            "TEN": "Tổn thương khác của cột sống và thân, tầm chưa xác định",
+            "TEN_EN": "Other injuries of spine and trunk, level unspecified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T09.0",
+                "TEN": "Tổn thương nông tại thân, tầm chưa xác định",
+                "TEN_EN": "Superficial injury of trunk, level unspecified"
+              },
+              {
+                "MA": "T09.1",
+                "TEN": "Vết thương hở tại thân, tầm chưa xác định",
+                "TEN_EN": "Open wound of trunk, level unspecified"
+              },
+              {
+                "MA": "T09.2",
+                "TEN": "Sai khớp, bong gân và căng cơ của khớp chưa xác định và dây chằng của thân",
+                "TEN_EN": "Dislocation, sprain and strain of unspecified joint and ligament of trunk"
+              },
+              {
+                "MA": "T09.3",
+                "TEN": "Tổn thương cột sống, tầm chưa xác định",
+                "TEN_EN": "Injury of spinal cord, level unspecified"
+              },
+              {
+                "MA": "T09.4",
+                "TEN": "Tổn thương dây thần kinh chưa xác định, rễ dây thần kinh cột sống và tùng của thân",
+                "TEN_EN": "Injury of unspecified nerve, spinal nerve root and plexus of trunk"
+              },
+              {
+                "MA": "T09.5",
+                "TEN": "Tổn thương chưa xác định cơ và gân của thân",
+                "TEN_EN": "Injury of unspecified muscle and tendon of trunk"
+              },
+              {
+                "MA": "T09.6",
+                "TEN": "Chấn thương cắt cụt của thân, tầm chưa xác định",
+                "TEN_EN": "Traumatic amputation of trunk, level unspecified"
+              },
+              {
+                "MA": "T09.8",
+                "TEN": "Tổn thương khác xác định tại thân, tầm chưa xác định",
+                "TEN_EN": "Other specified injuries of trunk, level unspecified"
+              },
+              {
+                "MA": "T09.9",
+                "TEN": "Tổn thương chưa xác định của thân, tầm chưa xác định",
+                "TEN_EN": "Unspecified injury of trunk, level unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T10",
+            "TEN": "gẫy xương của chi trên, tầm chưa xác định",
+            "TEN_EN": "Fracture of upper limb, level unspecified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T11",
+            "TEN": "Tổn thương khác tại chi trên, tầm chưa xác định",
+            "TEN_EN": "Other injuries of upper limb, level unspecified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T11.0",
+                "TEN": "Tổn thương nông chi trên, tầm chưa xác định",
+                "TEN_EN": "Superficial injury of upper limb, level unspecified"
+              },
+              {
+                "MA": "T11.1",
+                "TEN": "Vết thương hở chi trên, tầm chưa xác định",
+                "TEN_EN": "Open wound of upper limb, level unspecified"
+              },
+              {
+                "MA": "T11.2",
+                "TEN": "Sai khớp, bong gân và căng cơ khớp chưa xác định và dây chằng chi trên, tầm chưa xác định",
+                "TEN_EN": "Dislocation, sprain and strain of unspecified joint and ligament of upper limb, level unspecified"
+              },
+              {
+                "MA": "T11.3",
+                "TEN": "Tổn thương dây thần kinh chưa xác định tại chi trên, tầm chưa xác định",
+                "TEN_EN": "Injury of unspecified nerve of upper limb, level unspecified"
+              },
+              {
+                "MA": "T11.4",
+                "TEN": "Tổn thương mạch máu chưa xác định tại chi trên, tầm chưa xác định",
+                "TEN_EN": "Injury of unspecified blood vessel of upper limb, level unspecified"
+              },
+              {
+                "MA": "T11.5",
+                "TEN": "Tổn thương cơ chưa xác định và gân tại chi trên, tầm chưa xác định",
+                "TEN_EN": "Injury of unspecified muscle and tendon of upper limb, level unspecified"
+              },
+              {
+                "MA": "T11.6",
+                "TEN": "Chấn thương cắt cụt tại chi trên, tầm không xác định",
+                "TEN_EN": "Traumatic amputation of upper limb, level unspecified"
+              },
+              {
+                "MA": "T11.8",
+                "TEN": "Tổn thương khác đã xác định tại chi trên, tầm chưa xác định",
+                "TEN_EN": "Other specified injuries of upper limb, level unspecified"
+              },
+              {
+                "MA": "T11.9",
+                "TEN": "Tổn thương chưa xác định tại chi trên, tầm chưa xác định",
+                "TEN_EN": "Unspecified injury of upper limb, level unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T12",
+            "TEN": "gẫy xương chi dưới, tầm chưa xác định",
+            "TEN_EN": "Fracture of lower limb, level unspecified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T13",
+            "TEN": "Tổn thương khác chi dưới, tầm chưa xác định",
+            "TEN_EN": "Other injuries of lower limb, level unspecified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T13.0",
+                "TEN": "Tổn thương nông chi dưới, tầm chưa xác định",
+                "TEN_EN": "Superficial injury of lower limb, level unspecified"
+              },
+              {
+                "MA": "T13.1",
+                "TEN": "Vết thương hở chi dưới, tầm chưa xác định",
+                "TEN_EN": "Open wound of lower limb, level unspecified"
+              },
+              {
+                "MA": "T13.2",
+                "TEN": "Sai khớp, bong gân và căng cơ khớp chưa xác định và dây chằng chi dưới, tầm chưa xác định",
+                "TEN_EN": "Dislocation, sprain and strain of unspecified joint and ligament of lower limb, level unspecified"
+              },
+              {
+                "MA": "T13.3",
+                "TEN": "Tổn thương dây thần kinh chưa xác định tại chi dưới, tầm chưa xác định",
+                "TEN_EN": "Injury of unspecified nerve of lower limb, level unspecified"
+              },
+              {
+                "MA": "T13.4",
+                "TEN": "Tổn thương mạch máu chưa xác định tại chi dưới, tầm chưa xác định",
+                "TEN_EN": "Injury of unspecified blood vessel of lower limb, level unspecified"
+              },
+              {
+                "MA": "T13.5",
+                "TEN": "Tổn thương cơ bắp chưa xác định và gân tại chi dưới, tầm chưa xác định",
+                "TEN_EN": "Injury of unspecified muscle and tendon of lower limb, level unspecified"
+              },
+              {
+                "MA": "T13.6",
+                "TEN": "Chấn thương cắt cụt tại chi dưới, tầm chưa xác định",
+                "TEN_EN": "Traumatic amputation of lower limb, level unspecified"
+              },
+              {
+                "MA": "T13.8",
+                "TEN": "Tổn thương khác đã xác định tại chi dưới, tầm chưa xác định",
+                "TEN_EN": "Other specified injuries of lower limb, level unspecified"
+              },
+              {
+                "MA": "T13.9",
+                "TEN": "Tổn thương chưa xác định tại chi dưới, tầm chưa xác định",
+                "TEN_EN": "Unspecified injury of lower limb, level unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T14",
+            "TEN": "Tổn thương chưa xác định vùng cơ thể",
+            "TEN_EN": "Injury of unspecified body region",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T14.0",
+                "TEN": "Tổn thương nông tại vùng cơ thể chưa xác định",
+                "TEN_EN": "Superficial injury of unspecified body region"
+              },
+              {
+                "MA": "T14.1",
+                "TEN": "Vết thương hở chưa xác định vùng cơ thể",
+                "TEN_EN": "Open wound of unspecified body region"
+              },
+              {
+                "MA": "T14.2",
+                "TEN": "Gẫy xương chưa xác định vùng cơ thể",
+                "TEN_EN": "Fracture of unspecified body region"
+              },
+              {
+                "MA": "T14.3",
+                "TEN": "Dislocation, sprain and strain of unspecified body region",
+                "TEN_EN": "Dislocation, sprain and strain of unspecified body region"
+              },
+              {
+                "MA": "T14.4",
+                "TEN": "Tổn thương (nhiều) dây thần kinh vùng cơ thể chưa xác định",
+                "TEN_EN": "Injury of nerve(s) of unspecified body region"
+              },
+              {
+                "MA": "T14.5",
+                "TEN": "Tổn thương mạch máu vùng cơ thể chưa xác định",
+                "TEN_EN": "Injury of blood vessel(s) of unspecified body region"
+              },
+              {
+                "MA": "T14.6",
+                "TEN": "Tổn thương gân và cơ bắp cùng cơ thể chưa xác định",
+                "TEN_EN": "Injury of muscles and tendons of unspecified body region"
+              },
+              {
+                "MA": "T14.7",
+                "TEN": "Tổn thương dập nát và chấn thương cắt cụt vùng cơ thể chưa xác định",
+                "TEN_EN": "Crushing injury and traumatic amputation of unspecified body region"
+              },
+              {
+                "MA": "T14.8",
+                "TEN": "Tổn thương khác của vùng cơ thể chưa xác định",
+                "TEN_EN": "Other injuries of unspecified body region"
+              },
+              {
+                "MA": "T14.9",
+                "TEN": "Tổn thương, chưa xác định",
+                "TEN_EN": "Injury, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T15-T19",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tác động của vật lạ vào qua lỗ tự nhiên",
-        "TEN_EN": "Effects of foreign body entering through natural orifice"
+        "TEN_EN": "Effects of foreign body entering through natural orifice",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T15",
+            "TEN": "Vật lạ ngoài mắt",
+            "TEN_EN": "Foreign body on external eye",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T15.0",
+                "TEN": "Vật lạ trong giác mạc",
+                "TEN_EN": "Foreign body in cornea"
+              },
+              {
+                "MA": "T15.1",
+                "TEN": "Vật lạ trong túi kết mạc",
+                "TEN_EN": "Foreign body in conjunctival sac"
+              },
+              {
+                "MA": "T15.8",
+                "TEN": "Vật lạ nơi khác và nhiều phần ở ngoài mắt",
+                "TEN_EN": "Foreign body in other and multiple parts of external eye"
+              },
+              {
+                "MA": "T15.9",
+                "TEN": "Vật lạ ở ngoài mắt, phần chưa xác định",
+                "TEN_EN": "Foreign body on external eye, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T16",
+            "TEN": "Vật lạ ở tai",
+            "TEN_EN": "Foreign body in ear",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T17",
+                "TEN": "Vật lạ tại đường hô hấp",
+                "TEN_EN": "Foreign body in respiratory tract"
+              },
+              {
+                "MA": "T17.0",
+                "TEN": "Vật lạ trong xoang mũi",
+                "TEN_EN": "Foreign body in nasal sinus"
+              },
+              {
+                "MA": "T17.1",
+                "TEN": "Vật lạ trong lỗ ngoài mũi",
+                "TEN_EN": "Foreign body in nostril"
+              },
+              {
+                "MA": "T17.2",
+                "TEN": "Vật lạ trong hầu họng",
+                "TEN_EN": "Foreign body in pharynx"
+              },
+              {
+                "MA": "T17.3",
+                "TEN": "Vật lạ trong thanh quản",
+                "TEN_EN": "Foreign body in larynx"
+              },
+              {
+                "MA": "T17.4",
+                "TEN": "Vật lạ trong khí quản",
+                "TEN_EN": "Foreign body in trachea"
+              },
+              {
+                "MA": "T17.5",
+                "TEN": "Vật lạ trong phế quản",
+                "TEN_EN": "Foreign body in bronchus"
+              },
+              {
+                "MA": "T17.8",
+                "TEN": "Vật lạ nơi khác và nhiều phần của đường hô hấp",
+                "TEN_EN": "Foreign body in other and multiple parts of respiratory tract"
+              },
+              {
+                "MA": "T17.9",
+                "TEN": "Vật lạ trong đường hô hấp, phần chưa xác định",
+                "TEN_EN": "Foreign body in respiratory tract, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T18",
+            "TEN": "Vật lạ trong đường tiêu hóa",
+            "TEN_EN": "Foreign body in alimentary tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T18.0",
+                "TEN": "Vật lạ trong miệng",
+                "TEN_EN": "Foreign body in mouth"
+              },
+              {
+                "MA": "T18.1",
+                "TEN": "Vật lạ trong thực quản",
+                "TEN_EN": "Foreign body in oesophagus"
+              },
+              {
+                "MA": "T18.2",
+                "TEN": "Vật lạ trong dạ dày",
+                "TEN_EN": "Foreign body in stomach"
+              },
+              {
+                "MA": "T18.3",
+                "TEN": "Vật lạ trong ruột non",
+                "TEN_EN": "Foreign body in small intestine"
+              },
+              {
+                "MA": "T18.4",
+                "TEN": "Vật lạ trong ruột",
+                "TEN_EN": "Foreign body in colon"
+              },
+              {
+                "MA": "T18.5",
+                "TEN": "Vật lạ trong hậu môn và trực tràng",
+                "TEN_EN": "Foreign body in anus and rectum"
+              },
+              {
+                "MA": "T18.8",
+                "TEN": "Vật lạ nơi khác và nhiều phần của đường tiêu hóa",
+                "TEN_EN": "Foreign body in other and multiple parts of alimentary tract"
+              },
+              {
+                "MA": "T18.9",
+                "TEN": "Vật lạ trong đường tiêu hóa, chưa xác định",
+                "TEN_EN": "Foreign body in alimentary tract, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T19",
+            "TEN": "Vật lạ đường tiết niệu sinh dục",
+            "TEN_EN": "Foreign body in genitourinary tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T19.0",
+                "TEN": "Vật lạ trong niệu đạo",
+                "TEN_EN": "Foreign body in urethra"
+              },
+              {
+                "MA": "T19.1",
+                "TEN": "Vật lạ trong bàng quang",
+                "TEN_EN": "Foreign body in bladder"
+              },
+              {
+                "MA": "T19.2",
+                "TEN": "Vật lạ trong âm hộ và âm đạo",
+                "TEN_EN": "Foreign body in vulva and vagina"
+              },
+              {
+                "MA": "T19.3",
+                "TEN": "Vật lạ trong tử cung (bất kỳ chỗ nào)",
+                "TEN_EN": "Foreign body in uterus [any part]"
+              },
+              {
+                "MA": "T19.8",
+                "TEN": "Vật lạ nơi khác và nhiều phần của đường tiết niệu sinh dục",
+                "TEN_EN": "Foreign body in other and multiple parts of genitourinary tract"
+              },
+              {
+                "MA": "T19.9",
+                "TEN": "Vật lạ trong đường tiết niệu sinh dục, phần chưa xác định",
+                "TEN_EN": "Foreign body in genitourinary tract, part unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T20-T32",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bỏng và ăn mòn",
-        "TEN_EN": "Burns and corrosions"
+        "TEN_EN": "Burns and corrosions",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T20",
+            "TEN": "Bỏng và ăn mòn tại đầu và cổ",
+            "TEN_EN": "Burn and corrosion of head and neck",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T20.0",
+                "TEN": "Bỏng độ chưa xác định tại đầu và cổ",
+                "TEN_EN": "Burn of unspecified degree of head and neck"
+              },
+              {
+                "MA": "T20.1",
+                "TEN": "Bỏng độ một tại đầu và cổ",
+                "TEN_EN": "Burn of first degree of head and neck"
+              },
+              {
+                "MA": "T20.2",
+                "TEN": "Bỏng độ hai tại đầu và cổ",
+                "TEN_EN": "Burn of second degree of head and neck"
+              },
+              {
+                "MA": "T20.3",
+                "TEN": "Bỏng độ ba tại đầu và cổ",
+                "TEN_EN": "Burn of third degree of head and neck"
+              },
+              {
+                "MA": "T20.4",
+                "TEN": "Ăn mòn độ chưa xác định tại đầu và cổ",
+                "TEN_EN": "Corrosion of unspecified degree of head and neck"
+              },
+              {
+                "MA": "T20.5",
+                "TEN": "Ăn mòn độ một tại đầu và cổ",
+                "TEN_EN": "Corrosion of first degree of head and neck"
+              },
+              {
+                "MA": "T20.6",
+                "TEN": "Ăn mòn độ hai tại đầu và cổ",
+                "TEN_EN": "Corrosion of second degree of head and neck"
+              },
+              {
+                "MA": "T20.7",
+                "TEN": "Ăn mòn độ ba tại đầu và cổ",
+                "TEN_EN": "Corrosion of third degree of head and neck"
+              }
+            ]
+          },
+          {
+            "MA": "T21",
+            "TEN": "Bỏng và ăn mòn tại thân mình",
+            "TEN_EN": "Burn and corrosion of trunk",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T21.0",
+                "TEN": "Bỏng tại thân độ chưa xác định",
+                "TEN_EN": "Burn of unspecified degree of trunk"
+              },
+              {
+                "MA": "T21.1",
+                "TEN": "Bỏng tại thân độ một",
+                "TEN_EN": "Burn of first degree of trunk"
+              },
+              {
+                "MA": "T21.2",
+                "TEN": "Bỏng tại thân độ hai",
+                "TEN_EN": "Burn of second degree of trunk"
+              },
+              {
+                "MA": "T21.3",
+                "TEN": "Bỏng tại thân độ ba",
+                "TEN_EN": "Burn of third degree of trunk"
+              },
+              {
+                "MA": "T21.4",
+                "TEN": "Ăn mòn tại thân mình độ chưa xác định",
+                "TEN_EN": "Corrosion of unspecified degree of trunk"
+              },
+              {
+                "MA": "T21.5",
+                "TEN": "Ăn mòn tại thân mình độ một",
+                "TEN_EN": "Corrosion of first degree of trunk"
+              },
+              {
+                "MA": "T21.6",
+                "TEN": "Ăn mòn tại thân mình độ hai",
+                "TEN_EN": "Corrosion of second degree of trunk"
+              },
+              {
+                "MA": "T21.7",
+                "TEN": "Ăn mòn tại thân mình độ ba",
+                "TEN_EN": "Corrosion of third degree of trunk"
+              }
+            ]
+          },
+          {
+            "MA": "T22",
+            "TEN": "Bỏng và ăn mòn tại vai và chi trên, trừ cổ tay và bàn tay",
+            "TEN_EN": "Burn and corrosion of shoulder and upper limb, except wrist and hand",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T22.0",
+                "TEN": "Bỏng độ chưa xác định của vai và chi trên, trừ cổ tay và bàn tay",
+                "TEN_EN": "Burn of unspecified degree of shoulder and upper limb, except wrist and hand"
+              },
+              {
+                "MA": "T22.1",
+                "TEN": "Bỏng độ một của vai và chi trên, trừ cổ tay và bàn tay",
+                "TEN_EN": "Burn of first degree of shoulder and upper limb, except wrist and hand"
+              },
+              {
+                "MA": "T22.2",
+                "TEN": "Bỏng độ hai của vai và chi trên, trừ cổ tay và bàn tay",
+                "TEN_EN": "Burn of second degree of shoulder and upper limb, except wrist and hand"
+              },
+              {
+                "MA": "T22.3",
+                "TEN": "Bỏng độ ba của vai và chi trên, trừ cổ tay và bàn tay",
+                "TEN_EN": "Burn of third degree of shoulder and upper limb, except wrist and hand"
+              },
+              {
+                "MA": "T22.4",
+                "TEN": "Ăn mòn độ chưa xác định của vai và chi trên, trừ cổ tay và bàn tay",
+                "TEN_EN": "Corrosion of unspecified degree of shoulder and upper limb, except wrist and hand"
+              },
+              {
+                "MA": "T22.5",
+                "TEN": "Ăn mòn độ một của vai và chi trên, trừ cổ tay và bàn tay",
+                "TEN_EN": "Corrosion of first degree of shoulder and upper limb, except wrist and hand"
+              },
+              {
+                "MA": "T22.6",
+                "TEN": "Ăn mòn độ hai của vai và chi trên, trừ cổ tay và bàn tay",
+                "TEN_EN": "Corrosion of second degree of shoulder and upper limb, except wrist and hand"
+              },
+              {
+                "MA": "T22.7",
+                "TEN": "Ăn mòn độ ba của vai và chi trên, trừ cổ tay và bàn tay",
+                "TEN_EN": "Corrosion of third degree of shoulder and upper limb, except wrist and hand"
+              }
+            ]
+          },
+          {
+            "MA": "T23",
+            "TEN": "Bỏng và ăn mòn tại cổ tay và bàn tay",
+            "TEN_EN": "Burn and corrosion of wrist and hand",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T23.0",
+                "TEN": "Bỏng độ chưa xác định của cổ tay và bàn tay",
+                "TEN_EN": "Burn of unspecified degree of wrist and hand"
+              },
+              {
+                "MA": "T23.1",
+                "TEN": "Bỏng độ một của cổ tay và bàn tay",
+                "TEN_EN": "Burn of first degree of wrist and hand"
+              },
+              {
+                "MA": "T23.2",
+                "TEN": "Bỏng độ hai của cổ tay và bàn tay",
+                "TEN_EN": "Burn of second degree of wrist and hand"
+              },
+              {
+                "MA": "T23.3",
+                "TEN": "Bỏng độ ba của cổ tay và bàn tay",
+                "TEN_EN": "Burn of third degree of wrist and hand"
+              },
+              {
+                "MA": "T23.4",
+                "TEN": "Ăn mòn độ chưa xác định của cổ tay và bàn tay",
+                "TEN_EN": "Corrosion of unspecified degree of wrist and hand"
+              },
+              {
+                "MA": "T23.5",
+                "TEN": "Ăn mòn độ một của cổ tay và bàn tay",
+                "TEN_EN": "Corrosion of first degree of wrist and hand"
+              },
+              {
+                "MA": "T23.6",
+                "TEN": "Ăn mòn độ hai của cổ tay và bàn tay",
+                "TEN_EN": "Corrosion of second degree of wrist and hand"
+              },
+              {
+                "MA": "T23.7",
+                "TEN": "Ăn mòn độ ba của cổ tay và bàn tay",
+                "TEN_EN": "Corrosion of third degree of wrist and hand"
+              }
+            ]
+          },
+          {
+            "MA": "T24",
+            "TEN": "Bỏng và ăn mòn tại háng và chi dưới trừ cổ chân và bàn chân",
+            "TEN_EN": "Burn and corrosion of hip and lower limb, except ankle and foot",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T24.0",
+                "TEN": "Bỏng độ chưa xác định tại háng và chi dưới, trừ cổ chân và bàn chân",
+                "TEN_EN": "Burn of unspecified degree of hip and lower limb, except ankle and foot"
+              },
+              {
+                "MA": "T24.1",
+                "TEN": "Bỏng độ một tại háng và chi dưới, trừ cổ chân và bàn chân",
+                "TEN_EN": "Burn of first degree of hip and lower limb, except ankle and foot"
+              },
+              {
+                "MA": "T24.2",
+                "TEN": "Bỏng độ hai tại háng và chi dưới, trừ cổ chân và bàn chân",
+                "TEN_EN": "Burn of second degree of hip and lower limb, except ankle and foot"
+              },
+              {
+                "MA": "T24.3",
+                "TEN": "Bỏng độ ba tại háng và chi dưới, trừ cổ chân và bàn chân",
+                "TEN_EN": "Burn of third degree of hip and lower limb, except ankle and foot"
+              },
+              {
+                "MA": "T24.4",
+                "TEN": "Ăn mòn độ chưa xác định tại háng và chi dưới, trừ cổ chân và bàn chân",
+                "TEN_EN": "Corrosion of unspecified degree of hip and lower limb, except ankle and foot"
+              },
+              {
+                "MA": "T24.5",
+                "TEN": "Ăn mòn độ một tại háng và chi dưới, trừ cổ chân và bàn chân",
+                "TEN_EN": "Corrosion of first degree of hip and lower limb, except ankle and foot"
+              },
+              {
+                "MA": "T24.6",
+                "TEN": "Ăn mòn độ hai tại háng và chi dưới, trừ cổ chân và bàn chân",
+                "TEN_EN": "Corrosion of second degree of hip and lower limb, except ankle and foot"
+              },
+              {
+                "MA": "T24.7",
+                "TEN": "Ăn mòn độ ba tại háng và chi dưới, trừ cổ chân và bàn chân",
+                "TEN_EN": "Corrosion of third degree of hip and lower limb, except ankle and foot"
+              }
+            ]
+          },
+          {
+            "MA": "T25",
+            "TEN": "Bỏng và ăn mòn tại cổ chân và bàn chân",
+            "TEN_EN": "Burn and corrosion of ankle and foot",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T25.0",
+                "TEN": "Bỏng độ chưa xác định tại cổ chân và bàn chân",
+                "TEN_EN": "Burn of unspecified degree of ankle and foot"
+              },
+              {
+                "MA": "T25.1",
+                "TEN": "Bỏng độ một tại cổ chân và bàn chân",
+                "TEN_EN": "Burn of first degree of ankle and foot"
+              },
+              {
+                "MA": "T25.2",
+                "TEN": "Bỏng độ hai tại cổ chân và bàn chân",
+                "TEN_EN": "Burn of second degree of ankle and foot"
+              },
+              {
+                "MA": "T25.3",
+                "TEN": "Bỏng độ ba tại cổ chân và bàn chân",
+                "TEN_EN": "Burn of third degree of ankle and foot"
+              },
+              {
+                "MA": "T25.4",
+                "TEN": "Ăn mòn độ chưa xác định tại cổ chân và bàn chân",
+                "TEN_EN": "Corrosion of unspecified degree of ankle and foot"
+              },
+              {
+                "MA": "T25.5",
+                "TEN": "Ăn mòn độ một tại cổ chân và bàn chân",
+                "TEN_EN": "Corrosion of first degree of ankle and foot"
+              },
+              {
+                "MA": "T25.6",
+                "TEN": "Ăn mòn độ hai tại cổ chân và bàn chân",
+                "TEN_EN": "Corrosion of second degree of ankle and foot"
+              },
+              {
+                "MA": "T25.7",
+                "TEN": "Ăn mòn độ ba tại cổ chân và bàn chân",
+                "TEN_EN": "Corrosion of third degree of ankle and foot"
+              }
+            ]
+          },
+          {
+            "MA": "T26",
+            "TEN": "Bỏng và ăn mòn giới hạn tại mắt và phần phụ của mắt",
+            "TEN_EN": "Burn and corrosion confined to eye and adnexa",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T26.0",
+                "TEN": "Bỏng tại mi mắt và vùng quanh nhãn cầu",
+                "TEN_EN": "Burn of eyelid and periocular area"
+              },
+              {
+                "MA": "T26.1",
+                "TEN": "Bỏng tại giác mạc và túi kết mạc",
+                "TEN_EN": "Burn of cornea and conjunctival sac"
+              },
+              {
+                "MA": "T26.2",
+                "TEN": "Bỏng với hậu quả gây vỡ và phá hủy nhãn cầu",
+                "TEN_EN": "Burn with resulting rupture and destruction of eyeball"
+              },
+              {
+                "MA": "T26.3",
+                "TEN": "Bỏng tại phần khác của mắt và phần phụ của mắt",
+                "TEN_EN": "Burn of other parts of eye and adnexa"
+              },
+              {
+                "MA": "T26.4",
+                "TEN": "Bỏng tại mắt và phần phụ của mắt, phần chưa xác định",
+                "TEN_EN": "Burn of eye and adnexa, part unspecified"
+              },
+              {
+                "MA": "T26.5",
+                "TEN": "Ăn mòn tại mi mắt và vùng quanh nhãn cầu",
+                "TEN_EN": "Corrosion of eyelid and periocular area"
+              },
+              {
+                "MA": "T26.6",
+                "TEN": "Ăn mòn tại giác mạc và túi kết mạc",
+                "TEN_EN": "Corrosion of cornea and conjunctival sac"
+              },
+              {
+                "MA": "T26.7",
+                "TEN": "Ăn mòn với hậu quả gây vỡ và phá hủy nhãn cầu",
+                "TEN_EN": "Corrosion with resulting rupture and destruction of eyeball"
+              },
+              {
+                "MA": "T26.8",
+                "TEN": "Ăn mòn tại phần khác của mắt và phần phụ của mắt",
+                "TEN_EN": "Corrosion of other parts of eye and adnexa"
+              },
+              {
+                "MA": "T26.9",
+                "TEN": "Ăn mòn tại mắt và phần phụ mắt, phần chưa xác định",
+                "TEN_EN": "Corrosion of eye and adnexa, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T27",
+            "TEN": "Bỏng và ăn mòn đường hô hấp",
+            "TEN_EN": "Burn and corrosion of respiratory tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T27.0",
+                "TEN": "Bỏng thanh quản và khí quản",
+                "TEN_EN": "Burn of larynx and trachea"
+              },
+              {
+                "MA": "T27.1",
+                "TEN": "Bỏng tác động thanh quản và khí quản với phổi",
+                "TEN_EN": "Burn involving larynx and trachea with lung"
+              },
+              {
+                "MA": "T27.2",
+                "TEN": "Bỏng phần khác của đường hô hấp",
+                "TEN_EN": "Burn of other parts of respiratory tract"
+              },
+              {
+                "MA": "T27.3",
+                "TEN": "Bỏng đường hô hấp, phần chưa xác định",
+                "TEN_EN": "Burn of respiratory tract, part unspecified"
+              },
+              {
+                "MA": "T27.4",
+                "TEN": "Ăn mòn thanh quản và khí quản",
+                "TEN_EN": "Corrosion of larynx and trachea"
+              },
+              {
+                "MA": "T27.5",
+                "TEN": "Ăn mòn tác động thanh quản và khí quản với phổi",
+                "TEN_EN": "Corrosion involving larynx and trachea with lung"
+              },
+              {
+                "MA": "T27.6",
+                "TEN": "Ăn mòn phần khác của đường hô hấp",
+                "TEN_EN": "Corrosion of other parts of respiratory tract"
+              },
+              {
+                "MA": "T27.7",
+                "TEN": "Ăn mòn đường hô hấp, phần chưa xác định",
+                "TEN_EN": "Corrosion of respiratory tract, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T28",
+            "TEN": "Bỏng và ăn mòn nội tạng khác",
+            "TEN_EN": "Burn and corrosion of other internal organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T28.0",
+                "TEN": "Bỏng tại miệng và hầu họng",
+                "TEN_EN": "Burn of mouth and pharynx"
+              },
+              {
+                "MA": "T28.1",
+                "TEN": "Bỏng tại thực quản",
+                "TEN_EN": "Burn of oesophagus"
+              },
+              {
+                "MA": "T28.2",
+                "TEN": "Bỏng tại phần khác của đường tiêu hóa",
+                "TEN_EN": "Burn of other parts of alimentary tract"
+              },
+              {
+                "MA": "T28.3",
+                "TEN": "Bỏng tại phần trong của đường tiết niệu sinh dục",
+                "TEN_EN": "Burn of internal genitourinary organs"
+              },
+              {
+                "MA": "T28.4",
+                "TEN": "Bỏng nơi khác và các nội tạng chưa xác định",
+                "TEN_EN": "Burn of other and unspecified internal organs"
+              },
+              {
+                "MA": "T28.5",
+                "TEN": "Ăn mòn tại miệng và thanh quản",
+                "TEN_EN": "Corrosion of mouth and pharynx"
+              },
+              {
+                "MA": "T28.6",
+                "TEN": "Ăn mòn tại thực quản",
+                "TEN_EN": "Corrosion of oesophagus"
+              },
+              {
+                "MA": "T28.7",
+                "TEN": "Ăn mòn tại phần khác của đường tiêu hóa",
+                "TEN_EN": "Corrosion of other parts of alimentary tract"
+              },
+              {
+                "MA": "T28.8",
+                "TEN": "Ăn mòn tại phần trong của đường sinh dục, tiết niệu",
+                "TEN_EN": "Corrosion of internal genitourinary organs"
+              },
+              {
+                "MA": "T28.9",
+                "TEN": "Ăn mòn tại nơi khác và các nội tạng chưa xác định",
+                "TEN_EN": "Corrosion of other and unspecified internal organs"
+              }
+            ]
+          },
+          {
+            "MA": "T29",
+            "TEN": "Bỏng và ăn mòn nhiều vùng cơ thể",
+            "TEN_EN": "Burns and corrosions of multiple body regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T29.0",
+                "TEN": "Bỏng nhiều vùng độ chưa xác định",
+                "TEN_EN": "Burns of multiple regions, unspecified degree"
+              },
+              {
+                "MA": "T29.1",
+                "TEN": "Bỏng nhiều vùng, không hơn bỏng độ một đã đề cập",
+                "TEN_EN": "Burns of multiple regions, no more than first-degree burns mentioned"
+              },
+              {
+                "MA": "T29.2",
+                "TEN": "Bỏng nhiều vùng, không hơn bỏng độ hai đã đề cập",
+                "TEN_EN": "Burns of multiple regions, no more than second-degree burns mentioned"
+              },
+              {
+                "MA": "T29.3",
+                "TEN": "Bỏng nhiều vùng, ít nhất có một bỏng độ ba đã đề cập",
+                "TEN_EN": "Burns of multiple regions, at least one burn of third degree mentioned"
+              },
+              {
+                "MA": "T29.4",
+                "TEN": "Ăn mòn nhiều vùng độ chưa xác định",
+                "TEN_EN": "Corrosions of multiple regions, unspecified degree"
+              },
+              {
+                "MA": "T29.5",
+                "TEN": "Ăn mòn nhiều vùng, không hơn ăn mòn độ một đã đề cập",
+                "TEN_EN": "Corrosions of multiple regions, no more than first-degree corrosions mentioned"
+              },
+              {
+                "MA": "T29.6",
+                "TEN": "Ăn mòn nhiều vùng, không hơn ăn mòn độ hai đã đề cập",
+                "TEN_EN": "Corrosions of multiple regions, no more than second-degree corrosions mentioned"
+              },
+              {
+                "MA": "T29.7",
+                "TEN": "Ăn mòn nhiều vùng, ít nhất có một ăn mòn độ ba đã đề cập",
+                "TEN_EN": "Corrosions of multiple regions, at least one corrosion of third degree mentioned"
+              }
+            ]
+          },
+          {
+            "MA": "T30",
+            "TEN": "Bỏng và ăn mòn, vùng cơ thể chưa xác định",
+            "TEN_EN": "Burn and corrosion, body region unspecified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T30.0",
+                "TEN": "Bỏng vùng cơ thể chưa xác định, độ chưa xác định",
+                "TEN_EN": "Burn of unspecified body region, unspecified degree"
+              },
+              {
+                "MA": "T30.1",
+                "TEN": "Bỏng độ một, vùng cơ thể chưa xác định",
+                "TEN_EN": "Burn of first degree, body region unspecified"
+              },
+              {
+                "MA": "T30.2",
+                "TEN": "Bỏng độ hai, vùng cơ thể chưa xác định",
+                "TEN_EN": "Burn of second degree, body region unspecified"
+              },
+              {
+                "MA": "T30.3",
+                "TEN": "Bỏng độ ba, vùng cơ thể chưa xác định",
+                "TEN_EN": "Burn of third degree, body region unspecified"
+              },
+              {
+                "MA": "T30.4",
+                "TEN": "Ăn mòn vùng cơ thể chưa xác định, độ chưa xác định",
+                "TEN_EN": "Corrosion of unspecified body region, unspecified degree"
+              },
+              {
+                "MA": "T30.5",
+                "TEN": "Ăn mòn độ một, vùng cơ thể chưa xác định khác",
+                "TEN_EN": "Corrosion of first degree, body region unspecified"
+              },
+              {
+                "MA": "T30.6",
+                "TEN": "Ăn mòn độ hai, vùng cơ thể chưa xác định",
+                "TEN_EN": "Corrosion of second degree, body region unspecified"
+              },
+              {
+                "MA": "T30.7",
+                "TEN": "Ăn mòn độ ba, vùng cơ thể chưa xác định",
+                "TEN_EN": "Corrosion of third degree, body region unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T31",
+            "TEN": "Bỏng xếp loại tương ứng với mức độ bề mặt cơ thể bị tổn thương",
+            "TEN_EN": "Burns classified according to extent of body surface involved",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T31.0",
+                "TEN": "Bỏng tổn thương ít hơn 10% bề mặt cơ thể",
+                "TEN_EN": "Burns involving less than 10% of body surface"
+              },
+              {
+                "MA": "T31.1",
+                "TEN": "Bỏng tổn thương10-19% bề mặt cơ thể",
+                "TEN_EN": "Burns involving 10-19% of body surface"
+              },
+              {
+                "MA": "T31.2",
+                "TEN": "Bỏng tổn thương 20-29% bề mặt cơ thể",
+                "TEN_EN": "Burns involving 20-29% of body surface"
+              },
+              {
+                "MA": "T31.3",
+                "TEN": "Bỏng tổn thương 30-39% bề mặt cơ thể",
+                "TEN_EN": "Burns involving 30-39% of body surface"
+              },
+              {
+                "MA": "T31.4",
+                "TEN": "Bỏng tổn thương 40-49% bề mặt cơ thể",
+                "TEN_EN": "Burns involving 40-49% of body surface"
+              },
+              {
+                "MA": "T31.5",
+                "TEN": "Bỏng tổn thương 50-59% bề mặt cơ thể",
+                "TEN_EN": "Burns involving 50-59% of body surface"
+              },
+              {
+                "MA": "T31.6",
+                "TEN": "Bỏng tổn thương 60-69% bề mặt cơ thể",
+                "TEN_EN": "Burns involving 60-69% of body surface"
+              },
+              {
+                "MA": "T31.7",
+                "TEN": "Bỏng tổn thương 70-79% bề mặt cơ thể",
+                "TEN_EN": "Burns involving 70-79% of body surface"
+              },
+              {
+                "MA": "T31.8",
+                "TEN": "Bỏng tổn thương 80-89% bề mặt cơ thể",
+                "TEN_EN": "Burns involving 80-89% of body surface"
+              },
+              {
+                "MA": "T31.9",
+                "TEN": "Bỏng tổn thương 90% hoặc hơn, bề mặt cơ thể",
+                "TEN_EN": "Burns involving 90% or more of body surface"
+              }
+            ]
+          },
+          {
+            "MA": "T32",
+            "TEN": "Ăn mòn xếp loại tương ứng với mức độ phụ thuộc phạm vi bề mặt cơ thể bị tổn thương",
+            "TEN_EN": "Corrosions classified according to extent of body surface involved",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T32.0",
+                "TEN": "Ăn mòn tổn thương ít hơn 10% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving less than 10% of body surface"
+              },
+              {
+                "MA": "T32.1",
+                "TEN": "Ăn mòn tổn thương 10-19% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 10-19% of body surface"
+              },
+              {
+                "MA": "T32.2",
+                "TEN": "Ăn mòn tổn thương 20-29% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 20-29% of body surface"
+              },
+              {
+                "MA": "T32.3",
+                "TEN": "Ăn mòn tổn thương 30-39% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 30-39% of body surface"
+              },
+              {
+                "MA": "T32.4",
+                "TEN": "Ăn mòn tổn thương 40-49% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 40-49% of body surface"
+              },
+              {
+                "MA": "T32.5",
+                "TEN": "Ăm mòn tổn thương 50-59% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 50-59% of body surface"
+              },
+              {
+                "MA": "T32.6",
+                "TEN": "Ăn mòn tổn thương 60-69% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 60-69% of body surface"
+              },
+              {
+                "MA": "T32.7",
+                "TEN": "Ăn mòn tổn thương 70-79% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 70-79% of body surface"
+              },
+              {
+                "MA": "T32.8",
+                "TEN": "Ăn mòn tổn thương 80-89% bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 80-89% of body surface"
+              },
+              {
+                "MA": "T32.9",
+                "TEN": "Ăn mòn tổn thương 90% hoặc hơn, bề mặt cơ thể",
+                "TEN_EN": "Corrosions involving 90% or more of body surface"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T33-T35",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương do cóng lạnh",
-        "TEN_EN": "Frostbite"
+        "TEN_EN": "Frostbite",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T33",
+            "TEN": "Tổn thương nông do cóng lạnh",
+            "TEN_EN": "Superficial frostbite",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T33.0",
+                "TEN": "Tổn thương do cóng lạnh tại đầu",
+                "TEN_EN": "Superficial frostbite of head"
+              },
+              {
+                "MA": "T33.1",
+                "TEN": "Tổn thương nông do cóng lạnh tại cổ",
+                "TEN_EN": "Superficial frostbite of neck"
+              },
+              {
+                "MA": "T33.2",
+                "TEN": "Tổn thương nông do cóng lạnh tại ngực",
+                "TEN_EN": "Superficial frostbite of thorax"
+              },
+              {
+                "MA": "T33.3",
+                "TEN": "Tổn thương nông do cóng lạnh tại thành bụng, lưng dưới và khung chậu",
+                "TEN_EN": "Superficial frostbite of abdominal wall, lower back and pelvis"
+              },
+              {
+                "MA": "T33.4",
+                "TEN": "Tổn thương nông do cóng lạnh tại cánh tay",
+                "TEN_EN": "Superficial frostbite of arm"
+              },
+              {
+                "MA": "T33.5",
+                "TEN": "Tổn thương nông do cóng lạnh tại cổ tay và bàn tay",
+                "TEN_EN": "Superficial frostbite of wrist and hand"
+              },
+              {
+                "MA": "T33.6",
+                "TEN": "Tổn thương nông do cóng lạnh tại háng và đùi",
+                "TEN_EN": "Superficial frostbite of hip and thigh"
+              },
+              {
+                "MA": "T33.7",
+                "TEN": "Tổn thương nông do cóng lạnh tại đầu gối và cẳng chân",
+                "TEN_EN": "Superficial frostbite of knee and lower leg"
+              },
+              {
+                "MA": "T33.8",
+                "TEN": "Tổn thương nông do cóng lạnh tại cổ chân và bàn chân",
+                "TEN_EN": "Superficial frostbite of ankle and foot"
+              },
+              {
+                "MA": "T33.9",
+                "TEN": "Tổn thương nông do cóng lạnh tại vị trí khác và chưa xác định",
+                "TEN_EN": "Superficial frostbite of other and unspecified sites"
+              }
+            ]
+          },
+          {
+            "MA": "T34",
+            "TEN": "Tổn thương do cóng lạnh với hoại tử mô",
+            "TEN_EN": "Frostbite with tissue necrosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T34.0",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại đầu",
+                "TEN_EN": "Frostbite with tissue necrosis of head"
+              },
+              {
+                "MA": "T34.1",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại cổ",
+                "TEN_EN": "Frostbite with tissue necrosis of neck"
+              },
+              {
+                "MA": "T34.2",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại ngực",
+                "TEN_EN": "Frostbite with tissue necrosis of thorax"
+              },
+              {
+                "MA": "T34.3",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại thành bụng, lưng dưới và khung chậu",
+                "TEN_EN": "Frostbite with tissue necrosis of abdominal wall, lower back and pelvis"
+              },
+              {
+                "MA": "T34.4",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại cánh tay",
+                "TEN_EN": "Frostbite with tissue necrosis of arm"
+              },
+              {
+                "MA": "T34.5",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại cổ tay và bàn tay",
+                "TEN_EN": "Frostbite with tissue necrosis of wrist and hand"
+              },
+              {
+                "MA": "T34.6",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại háng và đùi",
+                "TEN_EN": "Frostbite with tissue necrosis of hip and thigh"
+              },
+              {
+                "MA": "T34.7",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại đầu gối và cẳng chân",
+                "TEN_EN": "Frostbite with tissue necrosis of knee and lower leg"
+              },
+              {
+                "MA": "T34.8",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô cổ chân và bàn chân",
+                "TEN_EN": "Frostbite with tissue necrosis of ankle and foot"
+              },
+              {
+                "MA": "T34.9",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tại nơi khác và vị trí chưa xác định",
+                "TEN_EN": "Frostbite with tissue necrosis of other and unspecified sites"
+              }
+            ]
+          },
+          {
+            "MA": "T35",
+            "TEN": "Tổn thương do cóng lạnh tác động nhiều vùng cơ thể và chưa xác định",
+            "TEN_EN": "Frostbite involving multiple body regions and unspecified frostbite",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T35.0",
+                "TEN": "Tổn thương do cóng lạnh tác động nhiều vùng cơ thể",
+                "TEN_EN": "Superficial frostbite involving multiple body regions"
+              },
+              {
+                "MA": "T35.1",
+                "TEN": "Tổn thương do cóng lạnh với hoại tử mô tác động nhiều vùng cơ thể",
+                "TEN_EN": "Frostbite with tissue necrosis involving multiple body regions"
+              },
+              {
+                "MA": "T35.2",
+                "TEN": "Tổn thương do cóng lạnh chưa xác định tại đầu và cổ",
+                "TEN_EN": "Unspecified frostbite of head and neck"
+              },
+              {
+                "MA": "T35.3",
+                "TEN": "Tổn thương do cóng lạnh chưa xác định tại ngực, bụng, lưng dưới và khung chậu",
+                "TEN_EN": "Unspecified frostbite of thorax, abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "T35.4",
+                "TEN": "Tổn thương do cóng lạnh chưa xác định tại chi trên",
+                "TEN_EN": "Unspecified frostbite of upper limb"
+              },
+              {
+                "MA": "T35.5",
+                "TEN": "Tổn thương do cóng lạnh chưa xác định tại chi dưới",
+                "TEN_EN": "Unspecified frostbite of lower limb"
+              },
+              {
+                "MA": "T35.6",
+                "TEN": "Tổn thương do cóng lạnh chưa xác định tác động nhiều vùng cơ thể",
+                "TEN_EN": "Unspecified frostbite involving multiple body regions"
+              },
+              {
+                "MA": "T35.7",
+                "TEN": "Tổn thương do cóng lạnh chưa xác định tại vị trí chưa xác định",
+                "TEN_EN": "Unspecified frostbite of unspecified site"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T36-T50",
         "MA_TRONG_CHUONG": "",
         "TEN": "Ngộ độc do thuốc, dược phẩm và chất sinh học",
-        "TEN_EN": "Poisoning by drugs, medicaments and biological substances"
+        "TEN_EN": "Poisoning by drugs, medicaments and biological substances",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T36",
+            "TEN": "Nhiễm độc do dùng kháng sinh toàn thân",
+            "TEN_EN": "Poisoning by systemic antibiotics",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T36.0",
+                "TEN": "Ngộ độc kháng sinh Penicillin",
+                "TEN_EN": "Poisoning: Penicillins"
+              },
+              {
+                "MA": "T36.1",
+                "TEN": "Ngộ độc kháng sinh Cefalosporin và kháng sinh beta-lactam khác",
+                "TEN_EN": "Poisoning: Cefalosporins and other beta-lactam antibiotics"
+              },
+              {
+                "MA": "T36.2",
+                "TEN": "Ngộ độc kháng sinh nhóm Chloramphenicol",
+                "TEN_EN": "Poisoning: Chloramphenicol group"
+              },
+              {
+                "MA": "T36.3",
+                "TEN": "Ngộ độc kháng sinh Macrolid",
+                "TEN_EN": "Poisoning: Macrolides"
+              },
+              {
+                "MA": "T36.4",
+                "TEN": "Ngộ độc kháng sinh Tetracyclin",
+                "TEN_EN": "Poisoning: Tetracyclines"
+              },
+              {
+                "MA": "T36.5",
+                "TEN": "Ngộ độc kháng sinh Aminoglycosid",
+                "TEN_EN": "Poisoning: Aminoglycosides"
+              },
+              {
+                "MA": "T36.6",
+                "TEN": "Ngộ độc kháng sinh Rifamycin",
+                "TEN_EN": "Poisoning: Rifamycins"
+              },
+              {
+                "MA": "T36.7",
+                "TEN": "Ngộ độc kháng sinh chống nấm toàn thân",
+                "TEN_EN": "Poisoning: Antifungal antibiotics, systemically used"
+              },
+              {
+                "MA": "T36.8",
+                "TEN": "Ngộ độc kháng sinh toàn thân khác",
+                "TEN_EN": "Poisoning: Other systemic antibiotics"
+              },
+              {
+                "MA": "T36.9",
+                "TEN": "Ngộ độc kháng sinh toàn thân chưa xác định",
+                "TEN_EN": "Poisoning: Systemic antibiotic, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T37",
+            "TEN": "Nhiễm độc do chất chống nhiễm trùng và chống ký sinh trùng khác dùng toàn thân",
+            "TEN_EN": "Poisoning by other systemic anti-infectives and antiparasitics",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T37.0",
+                "TEN": "Ngộ độc Sulfonamid",
+                "TEN_EN": "Poisoning: Sulfonamides"
+              },
+              {
+                "MA": "T37.1",
+                "TEN": "Ngộ độc thuốc chống mycobacterial",
+                "TEN_EN": "Poisoning: Antimycobacterial drugs"
+              },
+              {
+                "MA": "T37.2",
+                "TEN": "Ngộ độc thuốc chống sốt rét và thuốc tác động trên đơn bào máu khác",
+                "TEN_EN": "Poisoning: Antimalarials and drugs acting on other blood protozoa"
+              },
+              {
+                "MA": "T37.3",
+                "TEN": "Ngộ độc thuốc chống đơn bào khác",
+                "TEN_EN": "Poisoning: Other antiprotozoal drugs"
+              },
+              {
+                "MA": "T37.4",
+                "TEN": "Ngộ độc thuốc chống giun sán",
+                "TEN_EN": "Poisoning: Anthelminthics"
+              },
+              {
+                "MA": "T37.5",
+                "TEN": "Ngộ độc thuốc chống virus",
+                "TEN_EN": "Poisoning: Antiviral drugs"
+              },
+              {
+                "MA": "T37.8",
+                "TEN": "Ngộ độc thuốc chống nhiễm trùng và chống ký sinh trùng khác dùng toàn thân đã xác định",
+                "TEN_EN": "Poisoning: Other specified systemic anti-infectives and antiparasitics"
+              },
+              {
+                "MA": "T37.9",
+                "TEN": "Ngộ độc thuốc chống nhiễm trùng và ký sinh trùng khác dùng toàn thân chưa xác định",
+                "TEN_EN": "Poisoning: Systemic anti-infective and antiparasitic, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T38",
+            "TEN": "Nhiễm độc do nội tiết và chất tổng hợp thay thế và chất đối kháng, không xếp loại ở đâu",
+            "TEN_EN": "Poisoning by hormones and their synthetic substitutes and antagonists, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T38.0",
+                "TEN": "Ngộ độc Glucocorticoid và chất tổng hợp tương tự",
+                "TEN_EN": "Poisoning: Glucocorticoids and synthetic analogues"
+              },
+              {
+                "MA": "T38.1",
+                "TEN": "Ngộ độc Hormon tuyến giáp và chất thay thế",
+                "TEN_EN": "Poisoning: Thyroid hormones and substitutes"
+              },
+              {
+                "MA": "T38.2",
+                "TEN": "Ngộ độc Thuốc chống tuyến giáp",
+                "TEN_EN": "Poisoning: Antithyroid drugs"
+              },
+              {
+                "MA": "T38.3",
+                "TEN": "Ngộ độc Insulin và thuốc hạ đường huyết uống (chống đái tháo đường)",
+                "TEN_EN": "Poisoning: Insulin and oral hypoglycaemic [antidiabetic] drugs"
+              },
+              {
+                "MA": "T38.4",
+                "TEN": "Ngộ độc Thuốc tránh thai uống",
+                "TEN_EN": "Poisoning: Oral contraceptives"
+              },
+              {
+                "MA": "T38.5",
+                "TEN": "Ngộ độc Estrogen và progestogen khác",
+                "TEN_EN": "Poisoning: Other estrogens and progestogens"
+              },
+              {
+                "MA": "T38.6",
+                "TEN": "Ngộ độc thuốc Kháng Gonadotropin, kháng tiestrogen, kháng androgen, không xếp loại ở phần nào khác",
+                "TEN_EN": "Poisoning: Antigonadotrophins, antiestrogens, antiandrogens, not elsewhere classified"
+              },
+              {
+                "MA": "T38.7",
+                "TEN": "Ngộ độc Androgen và sản phẩm đồng hóa tương tự",
+                "TEN_EN": "Poisoning: Androgens and anabolic congeners"
+              },
+              {
+                "MA": "T38.8",
+                "TEN": "Ngộ độc Hormon khác và hormon chưa xác định và chất tổng hợp thay thế",
+                "TEN_EN": "Poisoning: Other and unspecified hormones and their synthetic substitutes"
+              },
+              {
+                "MA": "T38.9",
+                "TEN": "Ngộ độc Hormon đối kháng và chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified hormone antagonists"
+              }
+            ]
+          },
+          {
+            "MA": "T39",
+            "TEN": "Nhiễm độc do thuốc giảm đau không opioid, hạ nhiệt và chống thấp khớp",
+            "TEN_EN": "Poisoning by nonopioid analgesics, antipyretics and antirheumatics",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T39.0",
+                "TEN": "Ngộ độc Salicylat",
+                "TEN_EN": "Poisoning: Salicylates"
+              },
+              {
+                "MA": "T39.1",
+                "TEN": "Ngộ độc chất Dẫn xuất 4- aminophenol",
+                "TEN_EN": "Poisoning: 4-Aminophenol derivatives"
+              },
+              {
+                "MA": "T39.2",
+                "TEN": "Ngộ độc chất Dẫn xuất pyrazolone",
+                "TEN_EN": "Poisoning: Pyrazolone derivatives"
+              },
+              {
+                "MA": "T39.3",
+                "TEN": "Ngộ độc Thuốc chống viêm không steroid (NSAID)khác",
+                "TEN_EN": "Poisoning: Other nonsteroidal anti-inflammatory drugs [NSAID]"
+              },
+              {
+                "MA": "T39.4",
+                "TEN": "Ngộ độc thuốc Chống thấp khớp, không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Antirheumatics, not elsewhere classified"
+              },
+              {
+                "MA": "T39.8",
+                "TEN": "Ngộ độc Thuốc giảm đau không opioid hạ nhiệt khác không xếp loại ở đâu",
+                "TEN_EN": "Poisoning: Other nonopioid analgesics and antipyretics, not elsewhere classified"
+              },
+              {
+                "MA": "T39.9",
+                "TEN": "Ngộ độc Thuốc giảm đau không opioid, hạ nhiệt và trị khớp chưa xác định",
+                "TEN_EN": "Poisoning: Nonopioid analgesic, antipyretic and antirheumatic, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T40",
+            "TEN": "Nhiễm độc do thuốc gây ngủ và gây ảo giác (sinh ảo giác)",
+            "TEN_EN": "Poisoning by narcotics and psychodysleptics [hallucinogens]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T40.0",
+                "TEN": "Ngộ độc Opium (thuốc phiện)",
+                "TEN_EN": "Poisoning: Opium"
+              },
+              {
+                "MA": "T40.1",
+                "TEN": "Ngộ độc Heroin",
+                "TEN_EN": "Poisoning: Heroin"
+              },
+              {
+                "MA": "T40.2",
+                "TEN": "Ngộ độc Thuốc có thuốc phiện khác",
+                "TEN_EN": "Poisoning: Other opioids"
+              },
+              {
+                "MA": "T40.3",
+                "TEN": "Ngộ độc Methadon",
+                "TEN_EN": "Poisoning: Methadone"
+              },
+              {
+                "MA": "T40.4",
+                "TEN": "Ngộ độc Thuốc gây ngủ tổng hợp khác-",
+                "TEN_EN": "Poisoning: Other synthetic narcotics"
+              },
+              {
+                "MA": "T40.5",
+                "TEN": "Ngộ độc Cocain",
+                "TEN_EN": "Poisoning: Cocaine"
+              },
+              {
+                "MA": "T40.6",
+                "TEN": "Ngộ độc Thuốc gây ngủ khác, chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified narcotics"
+              },
+              {
+                "MA": "T40.7",
+                "TEN": "Ngộ độc Cannabis (dẫn xuất)",
+                "TEN_EN": "Poisoning: Cannabis (derivatives)"
+              },
+              {
+                "MA": "T40.8",
+                "TEN": "Ngộ độc Lysergid [LSD]",
+                "TEN_EN": "Poisoning: Lysergide [LSD]"
+              },
+              {
+                "MA": "T40.9",
+                "TEN": "Ngộ độc Thuốc gây ảo giác (sinh ảo giác) khác, chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified psychodysleptics [hallucinogens]"
+              }
+            ]
+          },
+          {
+            "MA": "T41",
+            "TEN": "Nhiễm độc do gây tê và khí trị liệu",
+            "TEN_EN": "Poisoning by anaesthetics and therapeutic gases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T41.0",
+                "TEN": "Ngộ độc do Gây mê đường thở",
+                "TEN_EN": "Poisoning: Inhaled anaesthetics"
+              },
+              {
+                "MA": "T41.1",
+                "TEN": "Ngộ độc do Gây mê đường tĩnh mạch",
+                "TEN_EN": "Poisoning: Intravenous anaesthetics"
+              },
+              {
+                "MA": "T41.2",
+                "TEN": "Ngộ độc do Gây mê toàn thân khác và chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified general anaesthetics"
+              },
+              {
+                "MA": "T41.3",
+                "TEN": "Ngộ độc do Gây mê tại chỗ",
+                "TEN_EN": "Poisoning: Local anaesthetics"
+              },
+              {
+                "MA": "T41.4",
+                "TEN": "Ngộ độc do Gây mê, chưa xác định",
+                "TEN_EN": "Poisoning: Anaesthetic, unspecified"
+              },
+              {
+                "MA": "T41.5",
+                "TEN": "Ngộ độc do Khí trị liệu",
+                "TEN_EN": "Poisoning: Therapeutic gases"
+              }
+            ]
+          },
+          {
+            "MA": "T42",
+            "TEN": "Nhiễm độc do thuốc động kinh, an thần- gây ngủ và chống hội chứng Parkison",
+            "TEN_EN": "Poisoning by antiepileptic, sedative-hypnotic and antiparkinsonism drugs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T42.0",
+                "TEN": "Ngộ độc do Dẫn xuất hydantoin",
+                "TEN_EN": "Poisoning: Hydantoin derivatives"
+              },
+              {
+                "MA": "T42.1",
+                "TEN": "Ngộ độc do Iminostiben",
+                "TEN_EN": "Poisoning: Iminostilbenes"
+              },
+              {
+                "MA": "T42.2",
+                "TEN": "Ngộ độc do Succinimid và oxazoildinedion",
+                "TEN_EN": "Poisoning: Succinimides and oxazolidinediones"
+              },
+              {
+                "MA": "T42.3",
+                "TEN": "Ngộ độc Barbiturat",
+                "TEN_EN": "Poisoning: Barbiturates"
+              },
+              {
+                "MA": "T42.4",
+                "TEN": "Ngộ độc Benzodiazepin",
+                "TEN_EN": "Poisoning: Benzodiazepines"
+              },
+              {
+                "MA": "T42.5",
+                "TEN": "Ngộ độc Hỗn hợp chống động kinh, không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Mixed antiepileptics, not elsewhere classified"
+              },
+              {
+                "MA": "T42.6",
+                "TEN": "Ngộ độc Thuốc chống động kinh an thần gây ngủ khác",
+                "TEN_EN": "Poisoning: Other antiepileptic and sedative-hypnotic drugs"
+              },
+              {
+                "MA": "T42.7",
+                "TEN": "Ngộ độc Thuốc chống động kinh, an thần gây ngủ, chưa xác định",
+                "TEN_EN": "Poisoning: Antiepileptic and sedative-hypnotic drugs, unspecified"
+              },
+              {
+                "MA": "T42.8",
+                "TEN": "Ngộ độc Thuốc chống hội chứng Parkinson và thuốc ức chế trương lực cơ trung tâm khác",
+                "TEN_EN": "Poisoning: Antiparkinsonism drugs and other central muscle-tone depressants"
+              }
+            ]
+          },
+          {
+            "MA": "T43",
+            "TEN": "Nhiễm độc do thuốc hướng tâm thần, không xếp loại ở nơi khác",
+            "TEN_EN": "Poisoning by psychotropic drugs, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T43.0",
+                "TEN": "Ngộ độc thuốc Chống trầm cảm ba vòng và bốn vòng",
+                "TEN_EN": "Poisoning: Tricyclic and tetracyclic antidepressants"
+              },
+              {
+                "MA": "T43.1",
+                "TEN": "Ngộ độc thuốc Chống trầm cảm nhóm ức chế men IMAO",
+                "TEN_EN": "Poisoning: Monoamine-oxidase-inhibitor antidepressants"
+              },
+              {
+                "MA": "T43.2",
+                "TEN": "Ngộ độc thuốc Chống trầm cảm khác và chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified antidepressants"
+              },
+              {
+                "MA": "T43.3",
+                "TEN": "Ngộ độc thuốc Phenothiazin thuốc tâm thần và an thần",
+                "TEN_EN": "Poisoning: Phenothiazine antipsychotics and neuroleptics"
+              },
+              {
+                "MA": "T43.4",
+                "TEN": "Ngộ độc Thuốc an thần butyrophenon và thioxanthen",
+                "TEN_EN": "Poisoning: Butyrophenone and thioxanthene neuroleptics"
+              },
+              {
+                "MA": "T43.5",
+                "TEN": "Ngộ độc Thuốc tâm thần và an thần",
+                "TEN_EN": "Poisoning: Other and unspecified antipsychotics and neuroleptics"
+              },
+              {
+                "MA": "T43.6",
+                "TEN": "Ngộ độc thuốc Kích thích tâm thần có khả năng lạm dụng thuốc",
+                "TEN_EN": "Poisoning: Psychostimulants with abuse potential"
+              },
+              {
+                "MA": "T43.8",
+                "TEN": "Ngộ độc Thuốc tâm thần khác, không xếp loại phần nào",
+                "TEN_EN": "Poisoning: Other psychotropic drugs, not elsewhere classified"
+              },
+              {
+                "MA": "T43.9",
+                "TEN": "Ngộ độc Thuốc hướng tâm thần, chưa xác định",
+                "TEN_EN": "Poisoning: Psychotropic drug, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T44",
+            "TEN": "Nhiễm độc do thuốc tác động chủ yếu hệ thần kinh tự động",
+            "TEN_EN": "Poisoning by drugs primarily affecting the autonomic nervous system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T44.0",
+                "TEN": "Ngộ độc Thuốc kháng cholinesterase",
+                "TEN_EN": "Poisoning: Anticholinesterase agents"
+              },
+              {
+                "MA": "T44.1",
+                "TEN": "Ngộ độc Thuốc giống phó giao cảm khác [cholinergics]",
+                "TEN_EN": "Poisoning: Other parasympathomimetics [cholinergics]"
+              },
+              {
+                "MA": "T44.2",
+                "TEN": "Ngộ độc Thuốc chẹn hạch, chưa xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Ganglionic blocking drugs, not elsewhere classified"
+              },
+              {
+                "MA": "T44.3",
+                "TEN": "Ngộ độc Thuốc hủy phó giao cảm (chống tiết cholin và chống ngộ độc muscarinin) và giảm co cứng, không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Other parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics, not elsewhere classified"
+              },
+              {
+                "MA": "T44.4",
+                "TEN": "Ngộ độc Chủ yếu đối kháng - receptor alpha-adrenalin, không xếp loại nơi khác",
+                "TEN_EN": "Poisoning: Predominantly alpha-adrenoreceptor agonists, not elsewhere classified"
+              },
+              {
+                "MA": "T44.5",
+                "TEN": "Ngộ độc thuốc Chủ yếu đối kháng receptor beta -adrenalin, không xếp loại nơi khác",
+                "TEN_EN": "Poisoning: Predominantly beta-adrenoreceptor agonists, not elsewhere classified"
+              },
+              {
+                "MA": "T44.6",
+                "TEN": "Ngộ độc thuốc Đối kháng receptor alpha adrenalin, không xếp loại nơi khác",
+                "TEN_EN": "Poisoning: Alpha-adrenoreceptor antagonists, not elsewhere classified"
+              },
+              {
+                "MA": "T44.7",
+                "TEN": "Ngộ độc thuốc Đối kháng receptor beta -adrenalin, không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Beta-adrenoreceptor antagonists, not elsewhere classified"
+              },
+              {
+                "MA": "T44.8",
+                "TEN": "Ngộ độc thuốc Tác động trung tâm và thuốc chẹn thần kinh gây tiết adrenalin không xếp loại nơi khác",
+                "TEN_EN": "Poisoning: Centrally acting and adrenergic-neuron-blocking agents, not elsewhere classified"
+              },
+              {
+                "MA": "T44.9",
+                "TEN": "Ngộ độc Thuốc tác động chủ yếu hệ thần kinh tự động khác và chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified drugs primarily affecting the autonomic nervous system"
+              }
+            ]
+          },
+          {
+            "MA": "T45",
+            "TEN": "Ngộ độc do thuốc chủ yếu toàn thân và huyết học, không xếp loại ở phần nào",
+            "TEN_EN": "Poisoning by primarily systemic and haematological agents, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T45.0",
+                "TEN": "Ngộ độc Thuốc chống nôn và chống dị ứng",
+                "TEN_EN": "Poisoning: Antiallergic and antiemetic drugs"
+              },
+              {
+                "MA": "T45.1",
+                "TEN": "Ngộ độc Thuốc chống ung thư và ức chế miễn dịch",
+                "TEN_EN": "Poisoning: Antineoplastic and immunosuppressive drugs"
+              },
+              {
+                "MA": "T45.2",
+                "TEN": "Ngộ độc Vitamin, không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Vitamins, not elsewhere classified"
+              },
+              {
+                "MA": "T45.3",
+                "TEN": "Ngộ độc các Enzym, không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Enzymes, not elsewhere classified"
+              },
+              {
+                "MA": "T45.4",
+                "TEN": "Ngộ độc Sắt và thành phẩm",
+                "TEN_EN": "Poisoning: Iron and its compounds"
+              },
+              {
+                "MA": "T45.5",
+                "TEN": "Ngộ độc thuốc Chống đông máu",
+                "TEN_EN": "Poisoning: Anticoagulants"
+              },
+              {
+                "MA": "T45.6",
+                "TEN": "Ngộ độc Thuốc tác động phân hủy fibrin",
+                "TEN_EN": "Poisoning: Fibrinolysis-affecting drugs"
+              },
+              {
+                "MA": "T45.7",
+                "TEN": "Ngộ độc thuốc Đối kháng chống đông máu, vitamin K, chống đông máu khác",
+                "TEN_EN": "Poisoning: Anticoagulant antagonists, vitamin K and other coagulants"
+              },
+              {
+                "MA": "T45.8",
+                "TEN": "Ngộ độc Thuốc dùng chủ yếu toàn thân và huyết học khác",
+                "TEN_EN": "Poisoning: Other primarily systemic and haematological agents"
+              },
+              {
+                "MA": "T45.9",
+                "TEN": "Ngộ độc Thuốc dùng chủ yếu toàn thân và huyết học chưa xác định",
+                "TEN_EN": "Poisoning: Primarily systemic and haematological agent, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T46",
+            "TEN": "Nhiễm độc do thuốc tác động chủ yếu hệ thống tim mạch",
+            "TEN_EN": "Poisoning by agents primarily affecting the cardiovascular system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T46.0",
+                "TEN": "Ngộ độc Glycosid kích thích tim và thuốc tác dụng tương tự",
+                "TEN_EN": "Poisoning: Cardiac-stimulant glycosides and drugs of similar action"
+              },
+              {
+                "MA": "T46.1",
+                "TEN": "Ngộ độc thuốc Chẹn calci",
+                "TEN_EN": "Poisoning: Calcium-channel blockers"
+              },
+              {
+                "MA": "T46.2",
+                "TEN": "Ngộ độc Thuốc chống loạn nhịp khác, không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Other antidysrhythmic drugs, not elsewhere classified"
+              },
+              {
+                "MA": "T46.3",
+                "TEN": "Ngộ độc Thuốc giãn động mạch vành, không xếp loại ở nơi khác",
+                "TEN_EN": "Poisoning: Coronary vasodilators, not elsewhere classified"
+              },
+              {
+                "MA": "T46.4",
+                "TEN": "Ngộ độc thuốc Ức chế men chuyển đổi angiotensin",
+                "TEN_EN": "Poisoning: Angiotensin-converting-enzyme inhibitors"
+              },
+              {
+                "MA": "T46.5",
+                "TEN": "Ngộ độc Thuốc hạ huyết áp khác, không xếp loại ở nơi khác",
+                "TEN_EN": "Poisoning: Other antihypertensive drugs, not elsewhere classified"
+              },
+              {
+                "MA": "T46.6",
+                "TEN": "Ngộ độc Thuốc hạ lipid máu và chống xơ cứng động mạch",
+                "TEN_EN": "Poisoning: Antihyperlipidaemic and antiarteriosclerotic drugs"
+              },
+              {
+                "MA": "T46.7",
+                "TEN": "Ngộ độc thuốc Giãn động mạch ngoại vi",
+                "TEN_EN": "Poisoning: Peripheral vasodilators"
+              },
+              {
+                "MA": "T46.8",
+                "TEN": "Ngộ độc Thuốc chống giãn tĩnh mạch, kể cả thuốc xơ cứng",
+                "TEN_EN": "Poisoning: Antivaricose drugs, including sclerosing agents"
+              },
+              {
+                "MA": "T46.9",
+                "TEN": "Ngộ độc Thuốc tác động chủ yếu hệ thống tim mạch khác và chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified agents primarily affecting the cardiovascular system"
+              }
+            ]
+          },
+          {
+            "MA": "T47",
+            "TEN": "Nhiễm độc do thuốc tác động chủ yếu trên hệ thống tiêu hóa",
+            "TEN_EN": "Poisoning by agents primarily affecting the gastrointestinal system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T47.0",
+                "TEN": "Ngộ độc Chất đối kháng thụ cảm Histamin H2",
+                "TEN_EN": "Poisoning: Histamine H2-receptor antagonists"
+              },
+              {
+                "MA": "T47.1",
+                "TEN": "Ngộ độc Thuốc chống acid và chống tiết dịch vị khác",
+                "TEN_EN": "Poisoning: Other antacids and anti-gastric-secretion drugs"
+              },
+              {
+                "MA": "T47.2",
+                "TEN": "Ngộ độc thuốc Kích thích nhuận tràng",
+                "TEN_EN": "Poisoning: Stimulant laxatives"
+              },
+              {
+                "MA": "T47.3",
+                "TEN": "Ngộ độc thuốc Nhuận tràng thẩm thấu và muối",
+                "TEN_EN": "Poisoning: Saline and osmotic laxatives"
+              },
+              {
+                "MA": "T47.4",
+                "TEN": "Ngộ độc thuốc Nhuận tràng khác",
+                "TEN_EN": "Poisoning: Other laxatives"
+              },
+              {
+                "MA": "T47.5",
+                "TEN": "Ngộ độc thuốc Lợi tiêu hóa",
+                "TEN_EN": "Poisoning: Digestants"
+              },
+              {
+                "MA": "T47.6",
+                "TEN": "Ngộ độc Thuốc chống ỉa chảy",
+                "TEN_EN": "Poisoning: Antidiarrhoeal drugs"
+              },
+              {
+                "MA": "T47.7",
+                "TEN": "Ngộ độc Chất gây nôn",
+                "TEN_EN": "Poisoning: Emetics"
+              },
+              {
+                "MA": "T47.8",
+                "TEN": "Ngộ độc Thuốc khác tác động chủ yếu trên hệ thống tiêu hóa",
+                "TEN_EN": "Poisoning: Other agents primarily affecting the gastrointestinal system"
+              },
+              {
+                "MA": "T47.9",
+                "TEN": "Ngộ độc Thuốc tác động chủ yếu trên hệ thống tiêu hóa, chưa xác định",
+                "TEN_EN": "Poisoning: Agent primarily affecting the gastrointestinal system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T48",
+            "TEN": "Nhiễm độc bởi thuốc tác động chủ yếu trên cơ trơn và cơ xương và hệ thống hô hấp",
+            "TEN_EN": "Poisoning by agents primarily acting on smooth and skeletal muscles and the respiratory system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T48.0",
+                "TEN": "Ngộ độc Thuốc trợ đẻ",
+                "TEN_EN": "Poisoning: Oxytocic drugs"
+              },
+              {
+                "MA": "T48.1",
+                "TEN": "Ngộ độc Thuốc dãn cơ (thuốc ức chế thần kinh cơ)",
+                "TEN_EN": "Poisoning: Skeletal muscle relaxants [neuromuscular blocking agents]"
+              },
+              {
+                "MA": "T48.2",
+                "TEN": "Ngộ độc Thuốc chủ yếu tác động trên cơ khác và chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified agents primarily acting on muscles"
+              },
+              {
+                "MA": "T48.3",
+                "TEN": "Ngộ độc thuốc Chống ho",
+                "TEN_EN": "Poisoning: Antitussives"
+              },
+              {
+                "MA": "T48.4",
+                "TEN": "Ngộ độc thuốc Long đờm",
+                "TEN_EN": "Poisoning: Expectorants"
+              },
+              {
+                "MA": "T48.5",
+                "TEN": "Ngộ độc Thuốc chống cảm lạnh",
+                "TEN_EN": "Poisoning: Anti-common-cold drugs"
+              },
+              {
+                "MA": "T48.6",
+                "TEN": "Ngộ độc Thuốc trị hen, không xếp loại phần nào",
+                "TEN_EN": "Poisoning: Antiasthmatics, not elsewhere classified"
+              },
+              {
+                "MA": "T48.7",
+                "TEN": "Ngộ độc Thuốc tác động chủ yếu trên hệ hô hấp khác và chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified agents primarily acting on the respiratory system"
+              }
+            ]
+          },
+          {
+            "MA": "T49",
+            "TEN": "Nhiễm độc do thuốc dùng tại chỗ tác động chủ yếu trên da và niêm mạc và do thuốc dùng chữa mắt, tai và răng",
+            "TEN_EN": "Poisoning by topical agents primarily affecting skin and mucous membrane and by ophthalmological, otorhinolaryngological and dental drugs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T49.0",
+                "TEN": "Ngộ độc Thuốc chống nấm, chống nhiễm trùng, chống viêm tại chỗ không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Local antifungal, anti-infective and anti-inflammatory drugs, not elsewhere classified"
+              },
+              {
+                "MA": "T49.1",
+                "TEN": "Ngộ độc Thuốc chống ngứa",
+                "TEN_EN": "Poisoning: Antipruritics"
+              },
+              {
+                "MA": "T49.2",
+                "TEN": "Ngộ độc Thuốc làm săn da tại chỗ và thuốc sát trùng tại chỗ",
+                "TEN_EN": "Poisoning: Local astringents and local detergents"
+              },
+              {
+                "MA": "T49.3",
+                "TEN": "Ngộ độc Thuốc làm mềm da, làm dịu da và bảo vệ da",
+                "TEN_EN": "Poisoning: Emollients, demulcents and protectants"
+              },
+              {
+                "MA": "T49.4",
+                "TEN": "Ngộ độc Thuốc làm tróc lớp sừng, tạo hình lớp sừng và thuốc và các chế phẩm điều trị tóc khác",
+                "TEN_EN": "Poisoning: Keratolytics, keratoplastics and other hair treatment drugs and preparations"
+              },
+              {
+                "MA": "T49.5",
+                "TEN": "Ngộ độc Thuốc và chế phẩm điều trị mắt",
+                "TEN_EN": "Poisoning: Ophthalmological drugs and preparations"
+              },
+              {
+                "MA": "T49.6",
+                "TEN": "Ngộ độc Thuốc và chế phẩm điều trị tai, mũi, họng",
+                "TEN_EN": "Poisoning: Otorhinolaryngological drugs and preparations"
+              },
+              {
+                "MA": "T49.7",
+                "TEN": "Ngộ độc Thuốc nha khoa bôi tại chỗ",
+                "TEN_EN": "Poisoning: Dental drugs, topically applied"
+              },
+              {
+                "MA": "T49.8",
+                "TEN": "Ngộ độc Thuốc dùng tại chỗ khác",
+                "TEN_EN": "Poisoning: Other topical agents"
+              },
+              {
+                "MA": "T49.9",
+                "TEN": "Ngộ độc Thuốc dùng tại chỗ, chưa xác định",
+                "TEN_EN": "Poisoning: Topical agent, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T50",
+            "TEN": "Nhiễm độc do thuốc lợi tiểu và thuốc khác, chưa xác định, thuốc và chất sinh học",
+            "TEN_EN": "Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T50.0",
+                "TEN": "Ngộ độc thuốc Mineralocorticoid và chất đối kháng",
+                "TEN_EN": "Poisoning: Mineralocorticoids and their antagonists"
+              },
+              {
+                "MA": "T50.1",
+                "TEN": "Ngộ độc thuốc Lợi niệu quai tiểu quản thận",
+                "TEN_EN": "Poisoning: Loop [high-ceiling] diuretics"
+              },
+              {
+                "MA": "T50.2",
+                "TEN": "Ngộ độc thuốc Ức chế anhydrase carbonic, benzothladiazid và lợi tiểu khác",
+                "TEN_EN": "Poisoning: Carbonic-anhydrase inhibitors, benzothiadiazides and other diuretics"
+              },
+              {
+                "MA": "T50.3",
+                "TEN": "Ngộ độc Thuốc cân bằng nước, điện giải và nhiệt lượng",
+                "TEN_EN": "Poisoning: Electrolytic, caloric and water-balance agents"
+              },
+              {
+                "MA": "T50.4",
+                "TEN": "Ngộ độc Thuốc tác động chuyển hóa acid uric",
+                "TEN_EN": "Poisoning: Drugs affecting uric acid metabolism"
+              },
+              {
+                "MA": "T50.5",
+                "TEN": "Ngộ độc Thuốc giảm ngon miệng",
+                "TEN_EN": "Poisoning: Appetite depressants"
+              },
+              {
+                "MA": "T50.6",
+                "TEN": "Ngộ độc Thuốc giải độc và tác nhân giải độc, không xếp loại ở phần nào",
+                "TEN_EN": "Poisoning: Antidotes and chelating agents, not elsewhere classified"
+              },
+              {
+                "MA": "T50.7",
+                "TEN": "Ngộ độc Thuốc hồi sức và đối kháng cảm thụ opioid",
+                "TEN_EN": "Poisoning: Analeptics and opioid receptor antagonists"
+              },
+              {
+                "MA": "T50.8",
+                "TEN": "Ngộ độc Thuốc chẩn đoán",
+                "TEN_EN": "Poisoning: Diagnostic agents"
+              },
+              {
+                "MA": "T50.9",
+                "TEN": "Ngộ độc Thuốc dược phẩm và chất sinh học khác và chưa xác định",
+                "TEN_EN": "Poisoning: Other and unspecified drugs, medicaments and biological substances"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T51-T65",
         "MA_TRONG_CHUONG": "",
         "TEN": "Nhiễm độc tố chủ yếu không có nguồn gốc y học",
-        "TEN_EN": "Toxic effects of substances chiefly nonmedicinal as to source"
+        "TEN_EN": "Toxic effects of substances chiefly nonmedicinal as to source",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T51",
+            "TEN": "Ngộ độc cồn",
+            "TEN_EN": "Toxic effect of alcohol",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T51.0",
+                "TEN": "Nhiễm độc Ethanol",
+                "TEN_EN": "Toxic effect: Ethanol"
+              },
+              {
+                "MA": "T51.1",
+                "TEN": "Nhiễm độc Methanol",
+                "TEN_EN": "Toxic effect: Methanol"
+              },
+              {
+                "MA": "T51.2",
+                "TEN": "Nhiễm độc 2-Propanol",
+                "TEN_EN": "Toxic effect: 2-Propanol"
+              },
+              {
+                "MA": "T51.3",
+                "TEN": "Nhiễm độc Dầu fusel (dầu rượu tạp)",
+                "TEN_EN": "Toxic effect: Fusel oil"
+              },
+              {
+                "MA": "T51.8",
+                "TEN": "Nhiễm độc Cồn khác",
+                "TEN_EN": "Toxic effect: Other alcohols"
+              },
+              {
+                "MA": "T51.9",
+                "TEN": "Nhiễm độc Cồn chưa xác định",
+                "TEN_EN": "Toxic effect: Alcohol, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T52",
+            "TEN": "Ngộ độc dung môi hữu cơ",
+            "TEN_EN": "Toxic effect of organic solvents",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T52.0",
+                "TEN": "Nhiễm độc Sản phẩm dầu hoả",
+                "TEN_EN": "Toxic effect: Petroleum products"
+              },
+              {
+                "MA": "T52.1",
+                "TEN": "Nhiễm độc Benzene",
+                "TEN_EN": "Toxic effect: Benzene"
+              },
+              {
+                "MA": "T52.2",
+                "TEN": "Nhiễm độc Chất đồng đẳng của benzen",
+                "TEN_EN": "Toxic effect: Homologues of benzene"
+              },
+              {
+                "MA": "T52.3",
+                "TEN": "Nhiễm độc Glycol",
+                "TEN_EN": "Toxic effect: Glycols"
+              },
+              {
+                "MA": "T52.4",
+                "TEN": "Nhiễm độc Keton",
+                "TEN_EN": "Toxic effect: Ketones"
+              },
+              {
+                "MA": "T52.8",
+                "TEN": "Nhiễm độc Dung môi hữu cơ khác",
+                "TEN_EN": "Toxic effect: Other organic solvents"
+              },
+              {
+                "MA": "T52.9",
+                "TEN": "Nhiễm độc Dung môi hữu cơ chưa xác định",
+                "TEN_EN": "Toxic effect: Organic solvent, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T53",
+            "TEN": "Ngộ độc dẫn xuất halogen của hydrocarbon béo và thơm",
+            "TEN_EN": "Toxic effect of halogen derivatives of aliphatic and aromatic hydrocarbons",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T53.0",
+                "TEN": "Nhiễm độc Carbon tetrachlorid",
+                "TEN_EN": "Toxic effect: Carbon tetrachloride"
+              },
+              {
+                "MA": "T53.1",
+                "TEN": "Nhiễm độc Chloroform",
+                "TEN_EN": "Toxic effect: Chloroform"
+              },
+              {
+                "MA": "T53.2",
+                "TEN": "Nhiễm độc Trichloroethylene",
+                "TEN_EN": "Toxic effect: Trichloroethylene"
+              },
+              {
+                "MA": "T53.3",
+                "TEN": "Nhiễm độc Tetrachloroethylen",
+                "TEN_EN": "Toxic effect: Tetrachloroethylene"
+              },
+              {
+                "MA": "T53.4",
+                "TEN": "Nhiễm độc Dichloromethan",
+                "TEN_EN": "Toxic effect: Dichloromethane"
+              },
+              {
+                "MA": "T53.5",
+                "TEN": "Nhiễm độc Chlorofluorocarbon",
+                "TEN_EN": "Toxic effect: Chlorofluorocarbons"
+              },
+              {
+                "MA": "T53.6",
+                "TEN": "Nhiễm độc Dẫn xuất halogen của hydrocarbon béo",
+                "TEN_EN": "Toxic effect: Other halogen derivatives of aliphatic hydrocarbons"
+              },
+              {
+                "MA": "T53.7",
+                "TEN": "Nhiễm độc Dẫn xuất halogen của hydrocarbon thơm",
+                "TEN_EN": "Toxic effect: Other halogen derivatives of aromatic hydrocarbons"
+              },
+              {
+                "MA": "T53.9",
+                "TEN": "Nhiễm độc Dẫn xuất halogen của hydrocarbon béo và hydrocarbon thơm chưa xác định",
+                "TEN_EN": "Toxic effect: Halogen derivative of aliphatic and aromatic hydrocarbons, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T54",
+            "TEN": "Ngộ độc chất ăn mòn",
+            "TEN_EN": "Toxic effect of corrosive substances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T54.0",
+                "TEN": "Nhiễm độc Phenol và chất đồng đẳng của phenol",
+                "TEN_EN": "Toxic effect: Phenol and phenol homologues"
+              },
+              {
+                "MA": "T54.1",
+                "TEN": "Nhiễm độc Hợp chất hữu cơ ăn mòn khác",
+                "TEN_EN": "Toxic effect: Other corrosive organic compounds"
+              },
+              {
+                "MA": "T54.2",
+                "TEN": "Nhiễm độc Acid ăn mòn và chất giống acid",
+                "TEN_EN": "Toxic effect: Corrosive acids and acid-like substances"
+              },
+              {
+                "MA": "T54.3",
+                "TEN": "Nhiễm độc Kiềm ăn mòn và chất giống kiềm",
+                "TEN_EN": "Toxic effect: Corrosive alkalis and alkali-like substances"
+              },
+              {
+                "MA": "T54.9",
+                "TEN": "Nhiễm độc Chất ăn mòn, chưa xác định",
+                "TEN_EN": "Toxic effect: Corrosive substance, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T55",
+            "TEN": "Tác dụng độc của xà phòng và chất giặt tẩy",
+            "TEN_EN": "Toxic effect of soaps and detergents ",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T56",
+            "TEN": "Ngộ độc kim loại",
+            "TEN_EN": "Toxic effect of metals",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T56.0",
+                "TEN": "Nhiễm độc Chì và hợp chất của chì",
+                "TEN_EN": "Toxic effect: Lead and its compounds"
+              },
+              {
+                "MA": "T56.1",
+                "TEN": "Nhiễm độc Thủy ngân và hợp chất của thủy ngân",
+                "TEN_EN": "Toxic effect: Mercury and its compounds"
+              },
+              {
+                "MA": "T56.2",
+                "TEN": "Nhiễm độc Crôm và hợp chất của Crom",
+                "TEN_EN": "Toxic effect: Chromium and its compounds"
+              },
+              {
+                "MA": "T56.3",
+                "TEN": "Nhiễm độc Dadmi và hợp chất của Dadmi",
+                "TEN_EN": "Toxic effect: Cadmium and its compounds"
+              },
+              {
+                "MA": "T56.4",
+                "TEN": "Nhiễm độc Đồng và hợp chất của Đồng",
+                "TEN_EN": "Toxic effect: Copper and its compounds"
+              },
+              {
+                "MA": "T56.5",
+                "TEN": "Nhiễm độc Kẽm và hợp chất của Kẽm",
+                "TEN_EN": "Toxic effect: Zinc and its compounds"
+              },
+              {
+                "MA": "T56.6",
+                "TEN": "Nhiễm độc Thiếc và hợp chất của Thiếc",
+                "TEN_EN": "Toxic effect: Tin and its compounds"
+              },
+              {
+                "MA": "T56.7",
+                "TEN": "Nhiễm độc Beryllium và hợp chất của Beryllium",
+                "TEN_EN": "Toxic effect: Beryllium and its compounds"
+              },
+              {
+                "MA": "T56.8",
+                "TEN": "Nhiễm độc Kim loại khác",
+                "TEN_EN": "Toxic effect: Other metals"
+              },
+              {
+                "MA": "T56.9",
+                "TEN": "Nhiễm độc Kim loại chưa xác định",
+                "TEN_EN": "Toxic effect: Metal, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T57",
+            "TEN": "Ngộ độc chất vô cơ",
+            "TEN_EN": "Toxic effect of other inorganic substances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T57.0",
+                "TEN": "Nhiễm độc Arsen và hợp chất của Arsen",
+                "TEN_EN": "Toxic effect: Arsenic and its compounds"
+              },
+              {
+                "MA": "T57.1",
+                "TEN": "Nhiễm độc Phospho và hợp chất của Phospho",
+                "TEN_EN": "Toxic effect: Phosphorus and its compounds"
+              },
+              {
+                "MA": "T57.2",
+                "TEN": "Nhiễm độc Manganes và hợp chất của Manganes",
+                "TEN_EN": "Toxic effect: Manganese and its compounds"
+              },
+              {
+                "MA": "T57.3",
+                "TEN": "Nhiễm độc Toxic effect: Hydrogen cyanide",
+                "TEN_EN": "Toxic effect: Hydrogen cyanide"
+              },
+              {
+                "MA": "T57.8",
+                "TEN": "Nhiễm độc Chất vô cơ đã xác định khác",
+                "TEN_EN": "Toxic effect: Other specified inorganic substances"
+              },
+              {
+                "MA": "T57.9",
+                "TEN": "Nhiễm độc Chất vô cơ, chưa xác định",
+                "TEN_EN": "Toxic effect: Inorganic substance, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T58",
+            "TEN": "Ngộ độc carbon monoxide",
+            "TEN_EN": "Toxic effect of carbon monoxide",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T59",
+            "TEN": "Ngộ độc khí khác, khói và hơi",
+            "TEN_EN": "Toxic effect of other gases, fumes and vapours",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T59.0",
+                "TEN": "Nhiễm độc Nitrogen oxid",
+                "TEN_EN": "Toxic effect: Nitrogen oxides"
+              },
+              {
+                "MA": "T59.1",
+                "TEN": "Nhiễm độc Sulfur dioxid",
+                "TEN_EN": "Toxic effect: Sulfur dioxide"
+              },
+              {
+                "MA": "T59.2",
+                "TEN": "Nhiễm độc Formaldehyd",
+                "TEN_EN": "Toxic effect: Formaldehyde"
+              },
+              {
+                "MA": "T59.3",
+                "TEN": "Nhiễm độc hơi Lacrimogenic",
+                "TEN_EN": "Toxic effect: Lacrimogenic gas"
+              },
+              {
+                "MA": "T59.4",
+                "TEN": "Nhiễm độc hơi Chlorin",
+                "TEN_EN": "Toxic effect: Chlorine gas"
+              },
+              {
+                "MA": "T59.5",
+                "TEN": "Nhiễm độc hơi Fluorin và hydrogen fluorid",
+                "TEN_EN": "Toxic effect: Fluorine gas and hydrogen fluoride"
+              },
+              {
+                "MA": "T59.6",
+                "TEN": "Nhiễm độc Hydrogen sulfid",
+                "TEN_EN": "Toxic effect: Hydrogen sulfide"
+              },
+              {
+                "MA": "T59.7",
+                "TEN": "Nhiễm độc Carbon dioxid (CO2)",
+                "TEN_EN": "Toxic effect: Carbon dioxide"
+              },
+              {
+                "MA": "T59.8",
+                "TEN": "Nhiễm độc Khí, khói hơi đã xác định khác",
+                "TEN_EN": "Toxic effect: Other specified gases, fumes and vapours"
+              },
+              {
+                "MA": "T59.9",
+                "TEN": "Nhiễm độc Khí, khói hơi chưa xác định",
+                "TEN_EN": "Toxic effect: Gases, fumes and vapours, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T60",
+            "TEN": "Ngộ độc thuốc trừ sâu",
+            "TEN_EN": "Toxic effect of pesticides",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T60.0",
+                "TEN": "Nhiễm độc Thuốc trừ sâu phosphat hữu cơ và carbamat",
+                "TEN_EN": "Toxic effect: Organophosphate and carbamate insecticides"
+              },
+              {
+                "MA": "T60.1",
+                "TEN": "Nhiễm độc Thuốc diệt côn trùng halogen",
+                "TEN_EN": "Toxic effect: Halogenated insecticides"
+              },
+              {
+                "MA": "T60.2",
+                "TEN": "Nhiễm độc Thuốc diệt côn trùng khác",
+                "TEN_EN": "Toxic effect: Other insecticides"
+              },
+              {
+                "MA": "T60.3",
+                "TEN": "Nhiễm độc Thuốc diệt cỏ và thuốc diệt nấm",
+                "TEN_EN": "Toxic effect: Herbicides and fungicides"
+              },
+              {
+                "MA": "T60.4",
+                "TEN": "Nhiễm độc Thuốc diệt chuột",
+                "TEN_EN": "Toxic effect: Rodenticides"
+              },
+              {
+                "MA": "T60.8",
+                "TEN": "Nhiễm độc Thuốc trừ sâu khác",
+                "TEN_EN": "Toxic effect: Other pesticides"
+              },
+              {
+                "MA": "T60.9",
+                "TEN": "Nhiễm độc Thuốc trừ sâu chưa xác định",
+                "TEN_EN": "Toxic effect: Pesticide, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T61",
+            "TEN": "Ngộ độc các chất độc do ăn đồ biển",
+            "TEN_EN": "Toxic effect of noxious substances eaten as seafood",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T61.0",
+                "TEN": "Nhiễm độc cá Ciguatera",
+                "TEN_EN": "Toxic effect: Ciguatera fish poisoning"
+              },
+              {
+                "MA": "T61.1",
+                "TEN": "Nhiễm độc cá Scombroid",
+                "TEN_EN": "Toxic effect: Scombroid fish poisoning"
+              },
+              {
+                "MA": "T61.2",
+                "TEN": "Nhiễm độc cá khác và sò ốc",
+                "TEN_EN": "Toxic effect: Other fish and shellfish poisoning"
+              },
+              {
+                "MA": "T61.8",
+                "TEN": "Nhiễm độc hải sản khác",
+                "TEN_EN": "Toxic effect: Toxic effect of other seafoods"
+              },
+              {
+                "MA": "T61.9",
+                "TEN": "Nhiễm độc hải sản chưa phân loại nơi khác",
+                "TEN_EN": "Toxic effect: Toxic effect of unspecified seafood"
+              }
+            ]
+          },
+          {
+            "MA": "T62",
+            "TEN": "Ngộ độc chất độc do ăn thực phẩm",
+            "TEN_EN": "Toxic effect of other noxious substances eaten as food",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T62.0",
+                "TEN": "Ngộ độ do ăn Nấm",
+                "TEN_EN": "Toxic effect: Ingested mushrooms"
+              },
+              {
+                "MA": "T62.1",
+                "TEN": "Nhiễm độc do ăn quả Dâu",
+                "TEN_EN": "Toxic effect: Ingested berries"
+              },
+              {
+                "MA": "T62.2",
+                "TEN": "Nhiễm độc do ăn (một phần) các cây khác",
+                "TEN_EN": "Toxic effect: Other ingested (parts of) plant(s)"
+              },
+              {
+                "MA": "T62.8",
+                "TEN": "Nhiễm độc do ăn chất độc khác đã xác định như thực phẩm",
+                "TEN_EN": "Toxic effect: Other specified noxious substances eaten as food"
+              },
+              {
+                "MA": "T62.9",
+                "TEN": "Nhiễm độc do ăn chất độc như thực phẩm chưa xác định",
+                "TEN_EN": "Toxic effect: Noxious substance eaten as food, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T63",
+            "TEN": "Nhiễm độc do tiếp xúc với động vật tiết nọc độc",
+            "TEN_EN": "Toxic effect of contact with venomous animals",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T63.0",
+                "TEN": "Nhiễm độc Nọc độc rắn",
+                "TEN_EN": "Toxic effect: Snake venom"
+              },
+              {
+                "MA": "T63.1",
+                "TEN": "Nhiễm độc Nọc độc của loài bò sát khác",
+                "TEN_EN": "Toxic effect: Venom of other reptiles"
+              },
+              {
+                "MA": "T63.2",
+                "TEN": "Nhiễm độc Nọc độc của bọ cạp",
+                "TEN_EN": "Toxic effect: Venom of scorpion"
+              },
+              {
+                "MA": "T63.3",
+                "TEN": "Nhiễm độc Nọc độc nhện",
+                "TEN_EN": "Toxic effect: Venom of spider"
+              },
+              {
+                "MA": "T63.4",
+                "TEN": "Nhiễm độc Nọc độc của các tiết túc khác",
+                "TEN_EN": "Toxic effect: Venom of other arthropods"
+              },
+              {
+                "MA": "T63.5",
+                "TEN": "Tác dụng độc do tiếp xúc cá",
+                "TEN_EN": "Toxic effect: Toxic effect of contact with fish"
+              },
+              {
+                "MA": "T63.6",
+                "TEN": "Tác dụng độc do tiếp xúc với động vật biển khác",
+                "TEN_EN": "Toxic effect: Toxic effect of contact with other marine animals"
+              },
+              {
+                "MA": "T63.8",
+                "TEN": "Tác dụng độc do tiếp xúc với xúc vật tiết nọc độc khác",
+                "TEN_EN": "Toxic effect: Toxic effect of contact with other venomous animals"
+              },
+              {
+                "MA": "T63.9",
+                "TEN": "Nhiễm độc do tiếp xúc vật tiết nọc độc chưa xác định",
+                "TEN_EN": "Toxic effect: Toxic effect of contact with unspecified venomous animal"
+              }
+            ]
+          },
+          {
+            "MA": "T64",
+            "TEN": "Nhiễm độc do thực phẩm nhiễm aflatoxin và độc tố nấm khác",
+            "TEN_EN": "Toxic effect of aflatoxin and other mycotoxin food contaminants",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T65",
+            "TEN": "Nhiễm độc do chất khác và chưa xác định",
+            "TEN_EN": "Toxic effect of other and unspecified substances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T65.0",
+                "TEN": "Nhiễm độc Cyanid",
+                "TEN_EN": "Toxic effect: Cyanides"
+              },
+              {
+                "MA": "T65.1",
+                "TEN": "Nhiễm độc Strychnin và muối của nó",
+                "TEN_EN": "Toxic effect: Strychnine and its salts"
+              },
+              {
+                "MA": "T65.2",
+                "TEN": "Nhiễm độc Thuốc lá và nicotin",
+                "TEN_EN": "Toxic effect: Tobacco and nicotine"
+              },
+              {
+                "MA": "T65.3",
+                "TEN": "Nhiễm độc Dẫn xuất nitro và amino của benzen và chất đồng đẳng",
+                "TEN_EN": "Toxic effect: Nitroderivatives and aminoderivatives of benzene and its homologues"
+              },
+              {
+                "MA": "T65.4",
+                "TEN": "Nhiễm độc Carbon disulfid",
+                "TEN_EN": "Toxic effect: Carbon disulfide"
+              },
+              {
+                "MA": "T65.5",
+                "TEN": "Nhiễm độc Nitroglycerin và acid nitric và ester khác",
+                "TEN_EN": "Toxic effect: Nitroglycerin and other nitric acids and esters"
+              },
+              {
+                "MA": "T65.6",
+                "TEN": "Nhiễm độc Sơn và thuốc nhuộm, không xếp loại ở nơi khác",
+                "TEN_EN": "Toxic effect: Paints and dyes, not elsewhere classified"
+              },
+              {
+                "MA": "T65.8",
+                "TEN": "Nhiễm độc các chất đã xác định khác",
+                "TEN_EN": "Toxic effect: Toxic effect of other specified substances"
+              },
+              {
+                "MA": "T65.9",
+                "TEN": "Nhiễm độc các chất chưa xác định",
+                "TEN_EN": "Toxic effect: Toxic effect of unspecified substance"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T66-T78",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tác dụng khác và chưa xác định của các nguyên nhân từ bên ngoài",
-        "TEN_EN": "Other and unspecified effects of external causes"
+        "TEN_EN": "Other and unspecified effects of external causes",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T66",
+            "TEN": "Tác dụng chưa xác định của tia xạ",
+            "TEN_EN": "Unspecified effects of radiation",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T67",
+            "TEN": "Tác dụng do nhiệt và ánh sáng",
+            "TEN_EN": "Effects of heat and light",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T67.0",
+                "TEN": "Đột quỵ do nhiệt và say nắng",
+                "TEN_EN": "Heatstroke and sunstroke"
+              },
+              {
+                "MA": "T67.1",
+                "TEN": "Ngất do nhiệt",
+                "TEN_EN": "Heat syncope"
+              },
+              {
+                "MA": "T67.2",
+                "TEN": "Chuột rút do nhiệt",
+                "TEN_EN": "Heat cramp"
+              },
+              {
+                "MA": "T67.3",
+                "TEN": "Suy kiệt do nhiệt, giảm tiết mồ hôi",
+                "TEN_EN": "Heat exhaustion, anhydrotic"
+              },
+              {
+                "MA": "T67.4",
+                "TEN": "Suy kiệt do nhiệt bởi mất muối",
+                "TEN_EN": "Heat exhaustion due to salt depletion"
+              },
+              {
+                "MA": "T67.5",
+                "TEN": "Suy kiệt do nhiệt, chưa xác định",
+                "TEN_EN": "Heat exhaustion, unspecified"
+              },
+              {
+                "MA": "T67.6",
+                "TEN": "Mệt do nhiệt, nhất thời",
+                "TEN_EN": "Heat fatigue, transient"
+              },
+              {
+                "MA": "T67.7",
+                "TEN": "Phù do nhiệt",
+                "TEN_EN": "Heat oedema"
+              },
+              {
+                "MA": "T67.8",
+                "TEN": "Tác động khác của nhiệt và ánh sáng",
+                "TEN_EN": "Other effects of heat and light"
+              },
+              {
+                "MA": "T67.9",
+                "TEN": "Tác động nhiệt và ánh sáng, chưa xác định",
+                "TEN_EN": "Effect of heat and light, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T68",
+            "TEN": "Hạ nhiệt độ",
+            "TEN_EN": "Hypothermia",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T69",
+            "TEN": "Tác dụng khác của giảm nhiệt độ",
+            "TEN_EN": "Other effects of reduced temperature",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T69.0",
+                "TEN": "Ngâm nước bàn tay và bàn chân",
+                "TEN_EN": "Immersion hand and foot"
+              },
+              {
+                "MA": "T69.1",
+                "TEN": "Bệnh cước",
+                "TEN_EN": "Chilblains"
+              },
+              {
+                "MA": "T69.8",
+                "TEN": "Tác dụng xác định khác của hạ nhiệt",
+                "TEN_EN": "Other specified effects of reduced temperature"
+              },
+              {
+                "MA": "T69.9",
+                "TEN": "Tác dụng hạ nhiệt, chưa xác định",
+                "TEN_EN": "Effect of reduced temperature, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T70",
+            "TEN": "Tác động của áp lực không khí và áp lực nước",
+            "TEN_EN": "Effects of air pressure and water pressure",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T70.0",
+                "TEN": "Viêm tai do chấn thương khí áp",
+                "TEN_EN": "Otitic barotrauma"
+              },
+              {
+                "MA": "T70.1",
+                "TEN": "Viêm xoang do chấn thương khí áp",
+                "TEN_EN": "Sinus barotrauma"
+              },
+              {
+                "MA": "T70.2",
+                "TEN": "Tác dụng khác và chưa xác định của độ cao",
+                "TEN_EN": "Other and unspecified effects of high altitude"
+              },
+              {
+                "MA": "T70.3",
+                "TEN": "Bệnh do thùng lặn (bệnh lý do giảm áp)",
+                "TEN_EN": "Caisson disease [decompression sickness]"
+              },
+              {
+                "MA": "T70.4",
+                "TEN": "Tác động của áp lực dịch cao",
+                "TEN_EN": "Effects of high-pressure fluids"
+              },
+              {
+                "MA": "T70.8",
+                "TEN": "Tác động khác của áp lực khí và áp lực nước",
+                "TEN_EN": "Other effects of air pressure and water pressure"
+              },
+              {
+                "MA": "T70.9",
+                "TEN": "Tác động áp lực khí và áp lực nước chưa xác định",
+                "TEN_EN": "Effect of air pressure and water pressure, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T71",
+            "TEN": "Ngạt thở",
+            "TEN_EN": "Asphyxiation",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T73",
+            "TEN": "Tác động của các thiếu hụt khác",
+            "TEN_EN": "Effects of other deprivation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T73.0",
+                "TEN": "Tác động của đói",
+                "TEN_EN": "Effects of hunger"
+              },
+              {
+                "MA": "T73.1",
+                "TEN": "Tác động của khát",
+                "TEN_EN": "Effects of thirst"
+              },
+              {
+                "MA": "T73.2",
+                "TEN": "Kiệt sức do phơi nhiễm",
+                "TEN_EN": "Exhaustion due to exposure"
+              },
+              {
+                "MA": "T73.3",
+                "TEN": "Kiệt sức do cố gắng quá sức",
+                "TEN_EN": "Exhaustion due to excessive exertion"
+              },
+              {
+                "MA": "T73.8",
+                "TEN": "Tác động khác của thiếu hụt",
+                "TEN_EN": "Other effects of deprivation"
+              },
+              {
+                "MA": "T73.9",
+                "TEN": "Tác dụng thiếu hụt chưa xác định",
+                "TEN_EN": "Effect of deprivation, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T74",
+            "TEN": "Hội chứng đối xử sai trái",
+            "TEN_EN": "Maltreatment syndromes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T74.0",
+                "TEN": "Sao nhãng hoặc từ bỏ",
+                "TEN_EN": "Neglect or abandonment"
+              },
+              {
+                "MA": "T74.1",
+                "TEN": "Lạm dụng thể lực",
+                "TEN_EN": "Physical abuse"
+              },
+              {
+                "MA": "T74.2",
+                "TEN": "Lạm dụng tình dục",
+                "TEN_EN": "Sexual abuse"
+              },
+              {
+                "MA": "T74.3",
+                "TEN": "Lạm dụng tâm lý học",
+                "TEN_EN": "Psychological abuse"
+              },
+              {
+                "MA": "T74.8",
+                "TEN": "Hội chứng đối xử sai trái khác",
+                "TEN_EN": "Other maltreatment syndromes"
+              },
+              {
+                "MA": "T74.9",
+                "TEN": "Hội chứng đối xử sai trái, chưa xác định",
+                "TEN_EN": "Maltreatment syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "T75",
+            "TEN": "Tác động của các nguyên nhân bên ngoài khác",
+            "TEN_EN": "Effects of other external causes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T75.0",
+                "TEN": "Tác động của tia chớp sét",
+                "TEN_EN": "Effects of lightning"
+              },
+              {
+                "MA": "T75.1",
+                "TEN": "Đuối và bị nhấn chìm không chết",
+                "TEN_EN": "Drowning and nonfatal submersion"
+              },
+              {
+                "MA": "T75.2",
+                "TEN": "Tác động của chấn động",
+                "TEN_EN": "Effects of vibration"
+              },
+              {
+                "MA": "T75.3",
+                "TEN": "Chuyển động gây bệnh",
+                "TEN_EN": "Motion sickness"
+              },
+              {
+                "MA": "T75.4",
+                "TEN": "Tác động của dòng điện",
+                "TEN_EN": "Effects of electric current"
+              },
+              {
+                "MA": "T75.8",
+                "TEN": "Tác động đã xác định khác của căn nguyên bên ngoài",
+                "TEN_EN": "Other specified effects of external causes"
+              }
+            ]
+          },
+          {
+            "MA": "T78",
+            "TEN": "Tác động phụ không xếp loại ở nơi khác",
+            "TEN_EN": "Adverse effects, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T78.0",
+                "TEN": "Sốc phản vệ do phản ứng phụ của thực phẩm",
+                "TEN_EN": "Anaphylactic shock due to adverse food reaction"
+              },
+              {
+                "MA": "T78.1",
+                "TEN": "Phản ứng phụ khác của thực phẩm không xếp loại ở nơi khác",
+                "TEN_EN": "Other adverse food reactions, not elsewhere classified"
+              },
+              {
+                "MA": "T78.2",
+                "TEN": "Sốc phản vệ, chưa xác định",
+                "TEN_EN": "Anaphylactic shock, unspecified"
+              },
+              {
+                "MA": "T78.3",
+                "TEN": "Phù nề do rối loạn thần kinh huyết quản",
+                "TEN_EN": "Angioneurotic oedema"
+              },
+              {
+                "MA": "T78.4",
+                "TEN": "Dị ứng chưa xác định",
+                "TEN_EN": "Allergy, unspecified"
+              },
+              {
+                "MA": "T78.8",
+                "TEN": "Tác dụng phụ khác, không xếp loại ở nơi khác",
+                "TEN_EN": "Other adverse effects, not elsewhere classified"
+              },
+              {
+                "MA": "T78.9",
+                "TEN": "Tác dụng phụ chưa xác định",
+                "TEN_EN": "Adverse effect, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T79-T79",
         "MA_TRONG_CHUONG": "",
         "TEN": "Một vài biến chứng sớm của chấn thương",
-        "TEN_EN": "Certain early complications of trauma"
+        "TEN_EN": "Certain early complications of trauma",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T79",
+            "TEN": "Một vài biến chứng sớm của chấn thương không xếp loại ở nơi khác",
+            "TEN_EN": "Certain early complications of trauma, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T79.0",
+                "TEN": "Nghẽn mạch không khí (chấn thương)",
+                "TEN_EN": "Air embolism (traumatic)"
+              },
+              {
+                "MA": "T79.1",
+                "TEN": "Nghẽn mạch mỡ (chấn thương)",
+                "TEN_EN": "Fat embolism (traumatic)"
+              },
+              {
+                "MA": "T79.2",
+                "TEN": "Chấn thương thứ phát và chảy máu tái phát",
+                "TEN_EN": "Traumatic secondary and recurrent haemorrhage"
+              },
+              {
+                "MA": "T79.3",
+                "TEN": "Nhiễm trùng vết thương sau chấn thương, không xếp loại ở nơi khác",
+                "TEN_EN": "Post-traumatic wound infection, not elsewhere classified"
+              },
+              {
+                "MA": "T79.4",
+                "TEN": "Choáng chấn thương",
+                "TEN_EN": "Traumatic shock"
+              },
+              {
+                "MA": "T79.5",
+                "TEN": "Vô niệu do chấn thương",
+                "TEN_EN": "Traumatic anuria"
+              },
+              {
+                "MA": "T79.6",
+                "TEN": "Thiếu máu của cơ do chấn thương",
+                "TEN_EN": "Traumatic ischaemia of muscle"
+              },
+              {
+                "MA": "T79.7",
+                "TEN": "Khí thũng do chấn thương",
+                "TEN_EN": "Traumatic subcutaneous emphysema"
+              },
+              {
+                "MA": "T79.8",
+                "TEN": "Biến chứng sớm khác của chấn thương",
+                "TEN_EN": "Other early complications of trauma"
+              },
+              {
+                "MA": "T79.9",
+                "TEN": "Biến chứng sớm chưa xác định của chấn thương",
+                "TEN_EN": "Unspecified early complication of trauma"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T80-T88",
         "MA_TRONG_CHUONG": "",
         "TEN": "Biến chứng phẫu thuật và chăm sóc y tế không xếp loại ở nơi khác",
-        "TEN_EN": "Complications of surgical and medical care, not elsewhere classified"
+        "TEN_EN": "Complications of surgical and medical care, not elsewhere classified",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T80",
+            "TEN": "Biến chứng huyết quản sau tiêm truyền, truyền máu và tiêm thuốc",
+            "TEN_EN": "Complications following infusion, transfusion and therapeutic injection",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T80.0",
+                "TEN": "Nghẽn mạch không khí sau tiêm truyền, truyền máu và tiêm thuốc",
+                "TEN_EN": "Air embolism following infusion, transfusion and therapeutic injection"
+              },
+              {
+                "MA": "T80.1",
+                "TEN": "Biến chứng huyết quản sau tiêm truyền, truyền máu và tiêm thuốc",
+                "TEN_EN": "Vascular complications following infusion, transfusion and therapeutic injection"
+              },
+              {
+                "MA": "T80.2",
+                "TEN": "Nhiễm trùng sau tiêm truyền, truyền máu và tiêm thuốc",
+                "TEN_EN": "Infections following infusion, transfusion and therapeutic injection"
+              },
+              {
+                "MA": "T80.3",
+                "TEN": "Phản ứng tương tác ABO",
+                "TEN_EN": "ABO incompatibility reaction"
+              },
+              {
+                "MA": "T80.4",
+                "TEN": "Phản ứng tương tác Rh",
+                "TEN_EN": "Rh incompatibility reaction"
+              },
+              {
+                "MA": "T80.5",
+                "TEN": "Sốc phản vệ do huyết thanh",
+                "TEN_EN": "Anaphylactic shock due to serum"
+              },
+              {
+                "MA": "T80.6",
+                "TEN": "Phản ứng huyết thanh khác",
+                "TEN_EN": "Other serum reactions"
+              },
+              {
+                "MA": "T80.8",
+                "TEN": "Biến chứng khác sau tiêm truyền, truyền máu và tiêm thuốc",
+                "TEN_EN": "Other complications following infusion, transfusion and therapeutic injection"
+              },
+              {
+                "MA": "T80.9",
+                "TEN": "Biến chứng khác sau tiêm truyền, truyền máu và tiêm thuốc chưa xác định",
+                "TEN_EN": "Unspecified complication following infusion, transfusion and therapeutic injection"
+              }
+            ]
+          },
+          {
+            "MA": "T81",
+            "TEN": "Biến chứng của thủ thuật, không xếp loại ở nơi khác",
+            "TEN_EN": "Complications of procedures, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T81.0",
+                "TEN": "Biến chứng chảy máu và tụ máu do thủ thuật, không xếp loại ở nơi khác",
+                "TEN_EN": "Haemorrhage and haematoma complicating a procedure, not elsewhere classified"
+              },
+              {
+                "MA": "T81.1",
+                "TEN": "Choáng kéo dài hoặc hậu quả từ thủ thuật, không xếp loại ở nơi khác",
+                "TEN_EN": "Shock during or resulting from a procedure, not elsewhere classified"
+              },
+              {
+                "MA": "T81.2",
+                "TEN": "Tai biến thủng và rách trong thủ thuật không xếp loại ở nơi khác",
+                "TEN_EN": "Accidental puncture and laceration during a procedure, not elsewhere classified"
+              },
+              {
+                "MA": "T81.3",
+                "TEN": "Thủng của vết mổ, không xếp loại ở nơi khác",
+                "TEN_EN": "Disruption of operation wound, not elsewhere classified"
+              },
+              {
+                "MA": "T81.4",
+                "TEN": "Nhiễm trùng sau thủ thuật, không xếp loại ở nơi khác",
+                "TEN_EN": "Infection following a procedure, not elsewhere classified"
+              },
+              {
+                "MA": "T81.5",
+                "TEN": "Vật lạ do vô ý để lại trong khoang cơ thể hoặc vết mổ sau khi thủ thuật",
+                "TEN_EN": "Foreign body accidentally left in body cavity or operation wound following a procedure"
+              },
+              {
+                "MA": "T81.6",
+                "TEN": "Phản ứng cấp tính do vật lạ vô ý để lại trong khi thủ thuật",
+                "TEN_EN": "Acute reaction to foreign substance accidentally left during a procedure"
+              },
+              {
+                "MA": "T81.7",
+                "TEN": "Biến chứng huyết quản sau thủ thuật, không xếp loại ở nơi khác",
+                "TEN_EN": "Vascular complications following a procedure, not elsewhere classified"
+              },
+              {
+                "MA": "T81.8",
+                "TEN": "Biến chứng khác của thủ thuật, không xếp loại ở nơi khác",
+                "TEN_EN": "Other complications of procedures, not elsewhere classified"
+              },
+              {
+                "MA": "T81.9",
+                "TEN": "Biến chứng sau thủ thuật chưa xác định",
+                "TEN_EN": "Unspecified complication of procedure"
+              }
+            ]
+          },
+          {
+            "MA": "T82",
+            "TEN": "Biến chứng các thiết bị nhân tạo của tim và huyết quản, cấy và ghép",
+            "TEN_EN": "Complications of cardiac and vascular prosthetic devices, implants and grafts",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T82.0",
+                "TEN": "Biến chứng cơ học của van tim nhân tạo",
+                "TEN_EN": "Mechanical complication of heart valve prosthesis"
+              },
+              {
+                "MA": "T82.1",
+                "TEN": "Biến chứng cơ học của thiết bị điện tử tại tim",
+                "TEN_EN": "Mechanical complication of cardiac electronic device"
+              },
+              {
+                "MA": "T82.2",
+                "TEN": "Biến chứng cơ học của đường thay thế động mạch vành và van ghép",
+                "TEN_EN": "Mechanical complication of coronary artery bypass and valve grafts"
+              },
+              {
+                "MA": "T82.3",
+                "TEN": "Biến chứng cơ học của ghép huyết quản khác",
+                "TEN_EN": "Mechanical complication of other vascular grafts"
+              },
+              {
+                "MA": "T82.4",
+                "TEN": "Biến chứng cơ học của ống thông thẩm tách huyết quản",
+                "TEN_EN": "Mechanical complication of vascular dialysis catheter"
+              },
+              {
+                "MA": "T82.5",
+                "TEN": "Biến chứng cơ học của thiết bị tim mạch và cấy ghép khác",
+                "TEN_EN": "Mechanical complication of other cardiac and vascular devices and implants"
+              },
+              {
+                "MA": "T82.6",
+                "TEN": "Nhiễm trùng và phản ứng viêm do van tim nhân tạo",
+                "TEN_EN": "Infection and inflammatory reaction due to cardiac valve prosthesis"
+              },
+              {
+                "MA": "T82.7",
+                "TEN": "Nhiễm trùng và phản ứng viêm do thiết bị tim mạch cấy ghép khác",
+                "TEN_EN": "Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts"
+              },
+              {
+                "MA": "T82.8",
+                "TEN": "Biến chứng khác của thiết bị tim và huyết quản nhân tạo, cấy và ghép",
+                "TEN_EN": "Other complications of cardiac and vascular prosthetic devices, implants and grafts"
+              },
+              {
+                "MA": "T82.9",
+                "TEN": "Unspecified complication of cardiac and vascular prosthetic device, implant and graft",
+                "TEN_EN": "Unspecified complication of cardiac and vascular prosthetic device, implant and graft"
+              }
+            ]
+          },
+          {
+            "MA": "T83",
+            "TEN": "Biến chứng của thiết bị nhân tạo cơ quan tiết niệu sinh dục, cấy và ghép",
+            "TEN_EN": "Complications of genitourinary prosthetic devices, implants and grafts",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T83.0",
+                "TEN": "Biến chứng cơ học của ống thông nước tiểu",
+                "TEN_EN": "Mechanical complication of urinary (indwelling) catheter"
+              },
+              {
+                "MA": "T83.1",
+                "TEN": "Biến chứng cơ học của thiết bị tiết niệu khác và cấy",
+                "TEN_EN": "Mechanical complication of other urinary devices and implants"
+              },
+              {
+                "MA": "T83.2",
+                "TEN": "Biến chứng cơ học của ghép cơ quan tiết niệu",
+                "TEN_EN": "Mechanical complication of graft of urinary organ"
+              },
+              {
+                "MA": "T83.3",
+                "TEN": "Biến chứng cơ học của thiết bị tránh thai trong tử cung",
+                "TEN_EN": "Mechanical complication of intrauterine contraceptive device"
+              },
+              {
+                "MA": "T83.4",
+                "TEN": "Biến chứng cơ học của thiết bị nhân tạo khác, cấy và ghép trong đường sinh dục",
+                "TEN_EN": "Mechanical complication of other prosthetic devices, implants and grafts in genital tract"
+              },
+              {
+                "MA": "T83.5",
+                "TEN": "Nhiễm trùng và phản ứng viêm do thiết bị nhân tạo cấy và ghép hệ thống tiết niệu",
+                "TEN_EN": "Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system"
+              },
+              {
+                "MA": "T83.6",
+                "TEN": "Nhiễm trùng và phản ứng viêm do thiết bị nhân tạo cấy và ghép đường sinh dục",
+                "TEN_EN": "Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract"
+              },
+              {
+                "MA": "T83.8",
+                "TEN": "Biến chứng của thiết bị nhân tạo tiết niệu sinh dục khác cấy và ghép",
+                "TEN_EN": "Other complications of genitourinary prosthetic devices, implants and grafts"
+              },
+              {
+                "MA": "T83.9",
+                "TEN": "Biến chứng chưa xác định của thiết bị tiết niệu sinh dục nhân tạo, cấy và ghép",
+                "TEN_EN": "Unspecified complication of genitourinary prosthetic device, implant and graft"
+              }
+            ]
+          },
+          {
+            "MA": "T84",
+            "TEN": "Biến chứng của thiết bị chỉnh hình bên trong, cấy và ghép",
+            "TEN_EN": "Complications of internal orthopaedic prosthetic devices, implants and grafts",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T84.0",
+                "TEN": "Biến chứng cơ học của khớp nhân tạo bên trong",
+                "TEN_EN": "Mechanical complication of internal joint prosthesis"
+              },
+              {
+                "MA": "T84.1",
+                "TEN": "Biến chứng cơ học của thiết bị cố định bên trong xương các chi",
+                "TEN_EN": "Mechanical complication of internal fixation device of bones of limb"
+              },
+              {
+                "MA": "T84.2",
+                "TEN": "Biến chứng cơ học của thiết bị cố định bên trong xương khác",
+                "TEN_EN": "Mechanical complication of internal fixation device of other bones"
+              },
+              {
+                "MA": "T84.3",
+                "TEN": "Biến chứng cơ học của thiết bị xương khác cấy và ghép",
+                "TEN_EN": "Mechanical complication of other bone devices, implants and grafts"
+              },
+              {
+                "MA": "T84.4",
+                "TEN": "Biến chứng cơ học của thiết bị chỉnh hình bên trong khác, cấy và ghép",
+                "TEN_EN": "Mechanical complication of other internal orthopaedic devices, implants and grafts"
+              },
+              {
+                "MA": "T84.5",
+                "TEN": "Nhiễm trùng và phản ứng viêm do khớp nhân tạo bên trong",
+                "TEN_EN": "Infection and inflammatory reaction due to internal joint prosthesis"
+              },
+              {
+                "MA": "T84.6",
+                "TEN": "Nhiễm trùng và phản ứng viêm do thiết bị nhân tạo chỉnh hình bên trong (bất kỳ vị trí nào)",
+                "TEN_EN": "Infection and inflammatory reaction due to internal fixation device [any site]"
+              },
+              {
+                "MA": "T84.7",
+                "TEN": "Nhiễm trùng và phản ứng viêm do thiết bị nhân tạo chỉnh hình bên trong khác cấy và ghép",
+                "TEN_EN": "Infection and inflammatory reaction due to other internal orthopaedic prosthetic devices, implants and grafts"
+              },
+              {
+                "MA": "T84.8",
+                "TEN": "Biến chứng khác của thiết bị nhân tạo chỉnh hình bên trong cấy và ghép",
+                "TEN_EN": "Other complications of internal orthopaedic prosthetic devices, implants and grafts"
+              },
+              {
+                "MA": "T84.9",
+                "TEN": "Biến chứng chưa xác định của thiết bị nhân tạo chỉnh hình bên trong, cấy và ghép",
+                "TEN_EN": "Unspecified complication of internal orthopaedic prosthetic device, implant and graft"
+              }
+            ]
+          },
+          {
+            "MA": "T85",
+            "TEN": "Biến chứng của thiết bị nhân tạo bên trong khác, cấy và ghép",
+            "TEN_EN": "Complications of other internal prosthetic devices, implants and grafts",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T85.0",
+                "TEN": "Biến chứng cơ học của (lưu thông) não thất nội sọ chuyển hướng",
+                "TEN_EN": "Mechanical complication of ventricular intracranial (communicating) shunt"
+              },
+              {
+                "MA": "T85.1",
+                "TEN": "Biến chứng cơ học của cấy kích thích điện tử của hệ thần kinh",
+                "TEN_EN": "Mechanical complication of implanted electronic stimulator of nervous system"
+              },
+              {
+                "MA": "T85.2",
+                "TEN": "Biến chứng cơ học của thủy tinh thể trong nội nhãn cầu",
+                "TEN_EN": "Mechanical complication of intraocular lens"
+              },
+              {
+                "MA": "T85.3",
+                "TEN": "Biến chứng cơ học của thiết bị mắt nhân tạo khác cấy và ghép",
+                "TEN_EN": "Mechanical complication of other ocular prosthetic devices, implants and grafts"
+              },
+              {
+                "MA": "T85.4",
+                "TEN": "Biến chứng cơ của vú nhân tạo và ghép",
+                "TEN_EN": "Mechanical complication of breast prosthesis and implant"
+              },
+              {
+                "MA": "T85.5",
+                "TEN": "Biến chứng cơ học của thiết bị nhân tạo dạ dày ruột cấy và ghép",
+                "TEN_EN": "Mechanical complication of gastrointestinal prosthetic devices, implants and grafts"
+              },
+              {
+                "MA": "T85.6",
+                "TEN": "Biến chứng cơ học thiết bị nhân tạo đặc hiệu bên trong khác, cấy và ghép",
+                "TEN_EN": "Mechanical complication of other specified internal prosthetic devices, implants and grafts"
+              },
+              {
+                "MA": "T85.7",
+                "TEN": "Nhiễm trùng và phản ứng viêm do thiết bị nhân tạo bên trong khác cấy và ghép",
+                "TEN_EN": "Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts"
+              },
+              {
+                "MA": "T85.8",
+                "TEN": "Biến chứng khác của thiết bị nhân tạo bên trong cấy và ghép không xếp loại ở nơi khác",
+                "TEN_EN": "Other complications of internal prosthetic devices, implants and grafts, not elsewhere classified"
+              },
+              {
+                "MA": "T85.9",
+                "TEN": "Biến chứng của thiết bị nhân tạo bên trong, cấy và ghép không xác định khác",
+                "TEN_EN": "Unspecified complication of internal prosthetic device, implant and graft"
+              }
+            ]
+          },
+          {
+            "MA": "T86",
+            "TEN": "Thất bại và thải bỏ ghép phủ tạng và tổ chức",
+            "TEN_EN": "Failure and rejection of transplanted organs and tissues",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T86.0",
+                "TEN": "Thải bỏ ghép tủy xương",
+                "TEN_EN": "Bone-marrow transplant rejection"
+              },
+              {
+                "MA": "T86.1",
+                "TEN": "Thất bại và thải bỏ ghép thận",
+                "TEN_EN": "Kidney transplant failure and rejection"
+              },
+              {
+                "MA": "T86.2",
+                "TEN": "Thất bại và thải bỏ ghép tim",
+                "TEN_EN": "Heart transplant failure and rejection"
+              },
+              {
+                "MA": "T86.3",
+                "TEN": "Thất bại và thải bỏ ghép tim phổi",
+                "TEN_EN": "Heart-lung transplant failure and rejection"
+              },
+              {
+                "MA": "T86.4",
+                "TEN": "Thất bại và thải bỏ các ghép phủ tạng và tổ chức khác",
+                "TEN_EN": "Liver transplant failure and rejection"
+              },
+              {
+                "MA": "T86.8",
+                "TEN": "Thất bại và thải bỏ ghép gan",
+                "TEN_EN": "Failure and rejection of other transplanted organs and tissues"
+              },
+              {
+                "MA": "T86.9",
+                "TEN": "Thất bại và thải bỏ ghép phủ tạng và tổ chức chưa xác định",
+                "TEN_EN": "Failure and rejection of unspecified transplanted organ and tissue"
+              }
+            ]
+          },
+          {
+            "MA": "T87",
+            "TEN": "Biến chứng nối lại và cắt cụt",
+            "TEN_EN": "Complications peculiar to reattachment and amputation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T87.0",
+                "TEN": "Biến chứng nối lại (phần của) chi trên",
+                "TEN_EN": "Complications of reattached (part of) upper extremity"
+              },
+              {
+                "MA": "T87.1",
+                "TEN": "Biến chứng nối lại (phần của) chi dưới",
+                "TEN_EN": "Complications of reattached (part of) lower extremity"
+              },
+              {
+                "MA": "T87.2",
+                "TEN": "Biến chứng nối lại phần của cơ thể",
+                "TEN_EN": "Complications of other reattached body part"
+              },
+              {
+                "MA": "T87.3",
+                "TEN": "U thần kinh của mỏm cắt cụt",
+                "TEN_EN": "Neuroma of amputation stump"
+              },
+              {
+                "MA": "T87.4",
+                "TEN": "Nhiễm trùng của mỏm cắt cụt",
+                "TEN_EN": "Infection of amputation stump"
+              },
+              {
+                "MA": "T87.5",
+                "TEN": "Hoại tử của mỏm cắt cụt",
+                "TEN_EN": "Necrosis of amputation stump"
+              },
+              {
+                "MA": "T87.6",
+                "TEN": "Biến chứng khác chưa xác định của mỏm cắt cụt",
+                "TEN_EN": "Other and unspecified complications of amputation stump"
+              }
+            ]
+          },
+          {
+            "MA": "T88",
+            "TEN": "Biến chứng khác của phẫu thuật và chăm sóc y tế không xếp loại ở nơi khác",
+            "TEN_EN": "Other complications of surgical and medical care, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T88.0",
+                "TEN": "Nhiễm trùng sau gây miễn dịch",
+                "TEN_EN": "Infection following immunization"
+              },
+              {
+                "MA": "T88.1",
+                "TEN": "Biến chứng khác sau gây miễn dịch, không xếp loại ở nơi khác",
+                "TEN_EN": "Other complications following immunization, not elsewhere classified"
+              },
+              {
+                "MA": "T88.2",
+                "TEN": "Choáng do gây mê",
+                "TEN_EN": "Shock due to anaesthesia"
+              },
+              {
+                "MA": "T88.3",
+                "TEN": "Sốt cao ác tính do gây mê",
+                "TEN_EN": "Malignant hyperthermia due to anaesthesia"
+              },
+              {
+                "MA": "T88.4",
+                "TEN": "Thất bại hoặc khó đặt khí quản",
+                "TEN_EN": "Failed or difficult intubation"
+              },
+              {
+                "MA": "T88.5",
+                "TEN": "Biến chứng khác của gây mê",
+                "TEN_EN": "Other complications of anaesthesia"
+              },
+              {
+                "MA": "T88.6",
+                "TEN": "Sốc phản vệ do tác dụng phụ của thuốc hoặc dược phẩm thích hợp và sử dụng đúng quy cách",
+                "TEN_EN": "Anaphylactic shock due to adverse effect of correct drug or medicament properly administered"
+              },
+              {
+                "MA": "T88.7",
+                "TEN": "Tác dụng phụ chưa xác định của thuốc hoặc dược phẩm",
+                "TEN_EN": "Unspecified adverse effect of drug or medicament"
+              },
+              {
+                "MA": "T88.8",
+                "TEN": "Biến chứng đã xác định của phẫu thuật và chăm sóc y tế không xếp loại ở nơi khác",
+                "TEN_EN": "Other specified complications of surgical and medical care, not elsewhere classified"
+              },
+              {
+                "MA": "T88.9",
+                "TEN": "Biến chứng phẫu thuật và chăm sóc y tế, chưa xác định",
+                "TEN_EN": "Complication of surgical and medical care, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T90-T98",
         "MA_TRONG_CHUONG": "",
         "TEN": "Di chứng của tổn thương, của nhiễm độc và của hậu quả khác của các nguyên nhân từ bên ngoài",
-        "TEN_EN": "Sequelae of injuries, of poisoning and of other consequences of external causes"
+        "TEN_EN": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "T90",
+            "TEN": "Di chứng tổn thương đầu",
+            "TEN_EN": "Sequelae of injuries of head",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T90.0",
+                "TEN": "Di chứng tổn thương nông ở đầu",
+                "TEN_EN": "Sequelae of superficial injury of head"
+              },
+              {
+                "MA": "T90.1",
+                "TEN": "Di chứng vết thương hở ở đầu",
+                "TEN_EN": "Sequelae of open wound of head"
+              },
+              {
+                "MA": "T90.2",
+                "TEN": "Di chứng gẫy xương sọ và xương mặt",
+                "TEN_EN": "Sequelae of fracture of skull and facial bones"
+              },
+              {
+                "MA": "T90.3",
+                "TEN": "Di chứng tổn thương các dây thần kinh sọ não",
+                "TEN_EN": "Sequelae of injury of cranial nerves"
+              },
+              {
+                "MA": "T90.4",
+                "TEN": "Di chứng tổn thương ở mắt và hố mắt",
+                "TEN_EN": "Sequelae of injury of eye and orbit"
+              },
+              {
+                "MA": "T90.5",
+                "TEN": "Di chứng tổn thương nội sọ",
+                "TEN_EN": "Sequelae of intracranial injury"
+              },
+              {
+                "MA": "T90.8",
+                "TEN": "Di chứng tổn thương khác đã xác định ở đầu",
+                "TEN_EN": "Sequelae of other specified injuries of head"
+              },
+              {
+                "MA": "T90.9",
+                "TEN": "Di chứng tổn thương chưa xác định ở đầu",
+                "TEN_EN": "Sequelae of unspecified injury of head"
+              }
+            ]
+          },
+          {
+            "MA": "T91",
+            "TEN": "Di chứng tổn thương cổ và thân mình",
+            "TEN_EN": "Sequelae of injuries of neck and trunk",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T91.0",
+                "TEN": "Di chứng tổn thương nông và vết thương hở tại cổ và thân",
+                "TEN_EN": "Sequelae of superficial injury and open wound of neck and trunk"
+              },
+              {
+                "MA": "T91.1",
+                "TEN": "Di chứng gẫy xương cột sống",
+                "TEN_EN": "Sequelae of fracture of spine"
+              },
+              {
+                "MA": "T91.2",
+                "TEN": "Di chứng gẫy xương ngực và khung chậu khác",
+                "TEN_EN": "Sequelae of other fracture of thorax and pelvis"
+              },
+              {
+                "MA": "T91.3",
+                "TEN": "Di chứng tổn thương tủy sống",
+                "TEN_EN": "Sequelae of injury of spinal cord"
+              },
+              {
+                "MA": "T91.4",
+                "TEN": "Di chứng tổn thương nội tạng trong lồng ngực",
+                "TEN_EN": "Sequelae of injury of intrathoracic organs"
+              },
+              {
+                "MA": "T91.5",
+                "TEN": "Di chứng tổn thương nội tạng trong bụng và khung chậu",
+                "TEN_EN": "Sequelae of injury of intra-abdominal and pelvic organs"
+              },
+              {
+                "MA": "T91.8",
+                "TEN": "Di chứng tổn thương khác đã xác định tại cổ và thân",
+                "TEN_EN": "Sequelae of other specified injuries of neck and trunk"
+              },
+              {
+                "MA": "T91.9",
+                "TEN": "Di chứng tổn thương chưa xác định tại cổ và thân",
+                "TEN_EN": "Sequelae of unspecified injury of neck and trunk"
+              }
+            ]
+          },
+          {
+            "MA": "T92",
+            "TEN": "Di chứng tổn thương chi trên",
+            "TEN_EN": "Sequelae of injuries of upper limb",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T92.0",
+                "TEN": "Di chứng vết thương hở chi trên-",
+                "TEN_EN": "Sequelae of open wound of upper limb"
+              },
+              {
+                "MA": "T92.1",
+                "TEN": "Di chứng gẫy xương tay",
+                "TEN_EN": "Sequelae of fracture of arm"
+              },
+              {
+                "MA": "T92.2",
+                "TEN": "Di chứng gẫy xương tầm cổ tay và bàn tay",
+                "TEN_EN": "Sequelae of fracture at wrist and hand level"
+              },
+              {
+                "MA": "T92.3",
+                "TEN": "Di chứng sai khớp, bong gân và căng cơ chi trên",
+                "TEN_EN": "Sequelae of dislocation, sprain and strain of upper limb"
+              },
+              {
+                "MA": "T92.4",
+                "TEN": "Di chứng tổn thương dây thần kinh chi trên",
+                "TEN_EN": "Sequelae of injury of nerve of upper limb"
+              },
+              {
+                "MA": "T92.5",
+                "TEN": "Di chứng tổn thương cơ và gân chi trên",
+                "TEN_EN": "Sequelae of injury of muscle and tendon of upper limb"
+              },
+              {
+                "MA": "T92.6",
+                "TEN": "Di chứng tổn thương dập nát và chấn thương cắt cụt chi trên",
+                "TEN_EN": "Sequelae of crushing injury and traumatic amputation of upper limb"
+              },
+              {
+                "MA": "T92.8",
+                "TEN": "Di chứng tổn thương khác đã xác định của chi trên",
+                "TEN_EN": "Sequelae of other specified injuries of upper limb"
+              },
+              {
+                "MA": "T92.9",
+                "TEN": "Di chứng tổn thương chưa xác định của chi trên",
+                "TEN_EN": "Sequelae of unspecified injury of upper limb"
+              }
+            ]
+          },
+          {
+            "MA": "T93",
+            "TEN": "Di chứng tổn thương chi dưới",
+            "TEN_EN": "Sequelae of injuries of lower limb",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T93.0",
+                "TEN": "Di chứng vết thương hở chi dưới",
+                "TEN_EN": "Sequelae of open wound of lower limb"
+              },
+              {
+                "MA": "T93.1",
+                "TEN": "Di chứng gẫy xương đùi",
+                "TEN_EN": "Sequelae of fracture of femur"
+              },
+              {
+                "MA": "T93.2",
+                "TEN": "Di chứng gẫy xương khác chi dưới",
+                "TEN_EN": "Sequelae of other fractures of lower limb"
+              },
+              {
+                "MA": "T93.3",
+                "TEN": "Di chứng sai khớp, bong gân và căng cơ chi dưới",
+                "TEN_EN": "Sequelae of dislocation, sprain and strain of lower limb"
+              },
+              {
+                "MA": "T93.4",
+                "TEN": "Di chứng tổn thương dây thần kinh chi dưới",
+                "TEN_EN": "Sequelae of injury of nerve of lower limb"
+              },
+              {
+                "MA": "T93.5",
+                "TEN": "Di chứng tổn thương cơ và gân chi dưới",
+                "TEN_EN": "Sequelae of injury of muscle and tendon of lower limb"
+              },
+              {
+                "MA": "T93.6",
+                "TEN": "Di chứng tổn thương dập nát và chấn thương cắt cụt chi dưới",
+                "TEN_EN": "Sequelae of crushing injury and traumatic amputation of lower limb"
+              },
+              {
+                "MA": "T93.8",
+                "TEN": "Di chứng tổn thương khác đã xác định của chi dưới",
+                "TEN_EN": "Sequelae of other specified injuries of lower limb"
+              },
+              {
+                "MA": "T93.9",
+                "TEN": "Di chứng tổn thương chưa xác định của chi dưới",
+                "TEN_EN": "Sequelae of unspecified injury of lower limb"
+              }
+            ]
+          },
+          {
+            "MA": "T94",
+            "TEN": "Di chứng tổn thương và chưa xác định vùng cơ thể",
+            "TEN_EN": "Sequelae of injuries involving multiple and unspecified body regions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T94.0",
+                "TEN": "Di chứng tổn thương nhiều vùng cơ thể",
+                "TEN_EN": "Sequelae of injuries involving multiple body regions"
+              },
+              {
+                "MA": "T94.1",
+                "TEN": "Di chứng tổn thương chưa xác định vùng cơ thể",
+                "TEN_EN": "Sequelae of injuries, not specified by body region"
+              }
+            ]
+          },
+          {
+            "MA": "T95",
+            "TEN": "Di chứng bỏng, ăn mòn và tổn thương do cóng lạnh",
+            "TEN_EN": "Sequelae of burns, corrosions and frostbite",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T95.0",
+                "TEN": "Di chứng bỏng, ăn mòn và tổn thương do cóng lạnh tại đầu và cổ",
+                "TEN_EN": "Sequelae of burn, corrosion and frostbite of head and neck"
+              },
+              {
+                "MA": "T95.1",
+                "TEN": "Di chứng bỏng ăn mòn và tổn thương do cóng lạnh tại thân",
+                "TEN_EN": "Sequelae of burn, corrosion and frostbite of trunk"
+              },
+              {
+                "MA": "T95.2",
+                "TEN": "Di chứng bỏng, ăn mòn và tổn thương do cóng lạnh tại chi trên",
+                "TEN_EN": "Sequelae of burn, corrosion and frostbite of upper limb"
+              },
+              {
+                "MA": "T95.3",
+                "TEN": "Di chứng bỏng, ăn mòn và tổn thương do cóng lạnh tại chi dưới",
+                "TEN_EN": "Sequelae of burn, corrosion and frostbite of lower limb"
+              },
+              {
+                "MA": "T95.4",
+                "TEN": "Di chứng bỏng, ăn mòn xếp loại chỉ phụ thuộc phạm vi bề mặt cơ thể tổn thương",
+                "TEN_EN": "Sequelae of burn and corrosion classifiable only according to extent of body surface involved"
+              },
+              {
+                "MA": "T95.8",
+                "TEN": "Di chứng bỏng ăn mòn và tổn thương do cóng lạnh khác đã xác định",
+                "TEN_EN": "Sequelae of other specified burn, corrosion and frostbite"
+              },
+              {
+                "MA": "T95.9",
+                "TEN": "Di chứng bỏng, ăn mòn và tổn thương do cóng lạnh chưa xác định",
+                "TEN_EN": "Sequelae of unspecified burn, corrosion and frostbite"
+              }
+            ]
+          },
+          {
+            "MA": "T96",
+            "TEN": "Di chứng nhiễm độc thuốc, dược phẩm và chất sinh học",
+            "TEN_EN": "Sequelae of poisioning by drugs, medicaments and biological substances",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T97",
+            "TEN": "Di chứng có tác động độc của chất nguồn chủ yếu không phải dược phẩm",
+            "TEN_EN": "Sequelae toxic effects of substances chiefly nonmedicinal as to source",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "T98",
+            "TEN": "Di chứng do tác động khác và chưa xác định của các nguyên nhân từ bên ngoài",
+            "TEN_EN": "Sequelae of other and unspecified effects of external causes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "T98.0",
+                "TEN": "Di chứng do tác động của vật lạ vào qua lỗ tự nhiên",
+                "TEN_EN": "Sequelae of effects of foreign body entering through natural orifice"
+              },
+              {
+                "MA": "T98.1",
+                "TEN": "Di chứng do tác động khác và chưa xác định căn nguyên bên ngoài",
+                "TEN_EN": "Sequelae of other and unspecified effects of external causes"
+              },
+              {
+                "MA": "T98.2",
+                "TEN": "Di chứng của một vài biến chứng sớm của chấn thương",
+                "TEN_EN": "Sequelae of certain early complications of trauma"
+              },
+              {
+                "MA": "T98.3",
+                "TEN": "Di chứng biến chứng phẫu thuật và chăm sóc y tế không xếp loại ở phần khác",
+                "TEN_EN": "Sequelae of complications of surgical and medical care, not elsewhere classified"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

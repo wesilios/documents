@@ -33169,67 +33169,2405 @@
         "MA": "N00-N08",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh cầu thận",
-        "TEN_EN": "Glomerular diseases"
+        "TEN_EN": "Glomerular diseases",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N00",
+            "TEN": "Hội chứng viêm cầu thận cấp",
+            "TEN_EN": "Acute nephritic syndrome",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N01",
+            "TEN": "Hội chứng viêm cầu thận tiến triển nhanh",
+            "TEN_EN": "Rapidly progressive nephritic syndrome",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N02",
+            "TEN": "Đái máu dai dẳng và tái phát",
+            "TEN_EN": "Recurrent and persistent haematuria",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N03",
+            "TEN": "Hội chứng viêm cầu thận mạn",
+            "TEN_EN": "Chronic nephritic syndrome",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N04",
+            "TEN": "Hội chứng thận hư",
+            "TEN_EN": "Nephrotic syndrome",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N05",
+            "TEN": "Hội chứng viêm thận không đặc hiệu",
+            "TEN_EN": "Unspecified nephritic  syndrome",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N06",
+            "TEN": "Protein niệu đơn độc với tổn thương hình thái đặc hiệu",
+            "TEN_EN": "Isolated proteinuria with specified morphological lesion",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N07",
+            "TEN": "Bệnh thận di truyền, chưa phân loại ở nơi khác",
+            "TEN_EN": "Hereditary nephropathy, not elsewhere classified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N08",
+            "TEN": "Biến đổi cầu thận trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Glomerular disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N08*",
+                "TEN": "Biến đổi cầu thận trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Glomerular disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "N08.0*",
+                "TEN": "Biến đổi cầu thận trong bệnh nhiễm khuẩn và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Glomerular disorders in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "N08.1*",
+                "TEN": "Biến đổi cầu thận trong các bệnh tân sinh",
+                "TEN_EN": "Glomerular disorders in neoplastic diseases"
+              },
+              {
+                "MA": "N08.2*",
+                "TEN": "Biến đổi cầu thận trong bệnh máu và các rối loạn liên quan cơ chế miễn dịch",
+                "TEN_EN": "Glomerular disorders in blood diseases and disorders involving the immune mechanism"
+              },
+              {
+                "MA": "N08.3*",
+                "TEN": "Biến đổi cầu thận trong đái tháo đường (nhóm E10-E14 với ký tự thứ tư là  .2†)",
+                "TEN_EN": "Glomerular disorders in diabetes mellitus (E10-E14 with common fourth character .2†)"
+              },
+              {
+                "MA": "N08.4*",
+                "TEN": "Biến đổi cầu thận trong các bệnh nội tiết, dinh dưỡng và chuyển hóa khác",
+                "TEN_EN": "Glomerular disorders in other endocrine, nutritional and metabolic diseases"
+              },
+              {
+                "MA": "N08.5*",
+                "TEN": "Biến đổi cầu thận trong các bệnh mô liên kết hệ thống",
+                "TEN_EN": "Glomerular disorders in systemic connective tissue disorders"
+              },
+              {
+                "MA": "N08.8*",
+                "TEN": "Biến đổi cầu thận trong các bệnh khác đã phân loại nơi khác",
+                "TEN_EN": "Glomerular disorders in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "N10-N16",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh kẽ ống thận",
-        "TEN_EN": "Renal tubulo-interstitial diseases"
+        "TEN_EN": "Renal tubulo-interstitial diseases",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N10",
+            "TEN": "Viêm mô kẽ ống thận cấp",
+            "TEN_EN": "Acute tubulo-interstitial nephritis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N11",
+            "TEN": "Viêm mô kẽ ống thận mạn",
+            "TEN_EN": "Chronic tubulo-interstitial nephritis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N11.0",
+                "TEN": "Viêm thận bể thận mạn do trào ngược không tắc nghẽn",
+                "TEN_EN": "Nonobstructive reflux-associated chronic pyelonephritis"
+              },
+              {
+                "MA": "N11.1",
+                "TEN": "Viêm thận bể thận mạn do tắc nghẽn",
+                "TEN_EN": "Chronic obstructive pyelonephritis"
+              },
+              {
+                "MA": "N11.8",
+                "TEN": "Viêm mô kẽ ống thận mạn khác",
+                "TEN_EN": "Other chronic tubulo-interstitial nephritis"
+              },
+              {
+                "MA": "N11.9",
+                "TEN": "Viêm mô kẽ ống thận mạn, không đặc hiệu",
+                "TEN_EN": "Chronic tubulo-interstitial nephritis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N12",
+            "TEN": "Viêm mô kẽ ống thận, không xác định cấp hay mạn",
+            "TEN_EN": "Tubulo-interstitial nephritis, not specified as acute or chronic",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N13",
+            "TEN": "Bệnh tiết niệu trào ngược và tắc nghẽn",
+            "TEN_EN": "Obstructive and reflux uropathy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N13.0",
+                "TEN": "Thận ứ nước do chít hẹp khúc nối bể thận niệu quản",
+                "TEN_EN": "Hydronephrosis with ureteropelvic junction obstruction"
+              },
+              {
+                "MA": "N13.1",
+                "TEN": "Thận ứ nước do chít hẹp khúc nối bể thận niệu quản chưa được phân loại ở phần khác",
+                "TEN_EN": "Hydronephrosis with ureteral stricture, not elsewhere classified"
+              },
+              {
+                "MA": "N13.2",
+                "TEN": "Thận ứ nước do sỏi thận và niệu quản gây tắc nghẽn",
+                "TEN_EN": "Hydronephrosis with renal and ureteral calculous obstruction"
+              },
+              {
+                "MA": "N13.3",
+                "TEN": "Thận ứ nước khác và không đặc hiệu",
+                "TEN_EN": "Other and unspecified hydronephrosis"
+              },
+              {
+                "MA": "N13.4",
+                "TEN": "Niệu quản ứ nước",
+                "TEN_EN": "Hydroureter"
+              },
+              {
+                "MA": "N13.5",
+                "TEN": "Niệu quản gấp khúc và chít hẹp không gây ứ nước thận",
+                "TEN_EN": "Kinking and stricture of ureter without hydronephrosis"
+              },
+              {
+                "MA": "N13.6",
+                "TEN": "Thận ứ mủ",
+                "TEN_EN": "Pyonephrosis"
+              },
+              {
+                "MA": "N13.7",
+                "TEN": "Bệnh tiết niệu kèm theo trào ngược bàng quang niệu quản",
+                "TEN_EN": "Vesicoureteral-reflux-associated uropathy"
+              },
+              {
+                "MA": "N13.8",
+                "TEN": "Bệnh tiết niệu trào ngược và tắc nghẽn khác",
+                "TEN_EN": "Other obstructive and reflux uropathy"
+              },
+              {
+                "MA": "N13.9",
+                "TEN": "Bệnh tiết niệu trào ngược và tắc nghẽn, không đặc hiệu",
+                "TEN_EN": "Obstructive and reflux uropathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N14",
+            "TEN": "Bệnh ống thận và kẽ ống thận do thuốc và kim loại nặng",
+            "TEN_EN": "Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N14.0",
+                "TEN": "Bệnh thận do thuốc giảm đau",
+                "TEN_EN": "Analgesic nephropathy"
+              },
+              {
+                "MA": "N14.1",
+                "TEN": "Bệnh thận do thuốc, chất sinh học và cách chữa trị khác",
+                "TEN_EN": "Nephropathy induced by other drugs, medicaments and biological substances"
+              },
+              {
+                "MA": "N14.2",
+                "TEN": "Bệnh thận do thuốc, chất sinh học và cách chữa trị không xác định",
+                "TEN_EN": "Nephropathy induced by unspecified drug, medicament or biological substance"
+              },
+              {
+                "MA": "N14.3",
+                "TEN": "Bệnh thận do kim loại nặng",
+                "TEN_EN": "Nephropathy induced by heavy metals"
+              },
+              {
+                "MA": "N14.4",
+                "TEN": "Bệnh thận nhiễm độc, không phân loại nơi khác",
+                "TEN_EN": "Toxic nephropathy, not elsewhere classified"
+              }
+            ]
+          },
+          {
+            "MA": "N15",
+            "TEN": "Các bệnh kẽ ống thận khác",
+            "TEN_EN": "Other renal tubulo-interstitial diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N15.0",
+                "TEN": "Bệnh thận vùng Balkan",
+                "TEN_EN": "Balkan nephropathy"
+              },
+              {
+                "MA": "N15.1",
+                "TEN": "Áp xe thận và quanh thận",
+                "TEN_EN": "Renal and perinephric abscess"
+              },
+              {
+                "MA": "N15.8",
+                "TEN": "Bệnh kẽ ống thận xác định khác",
+                "TEN_EN": "Other specified renal tubulo-interstitial diseases"
+              },
+              {
+                "MA": "N15.9",
+                "TEN": "Bệnh kẽ ống thận không đặc hiệu",
+                "TEN_EN": "Renal tubulo-interstitial disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N16",
+            "TEN": "Biến đổi kẽ ống thận trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Renal tubulo-interstitial disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N16*",
+                "TEN": "Biến đổi kẽ ống thận trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Renal tubulo-interstitial disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "N16.0*",
+                "TEN": "Biến đổi kẽ ống thận trong bệnh nhiễm khuẩn và ký sinh trùng đã được phân loại ở phần khác",
+                "TEN_EN": "Renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "N16.1*",
+                "TEN": "Biến đổi kẽ ống thận trong bệnh tân sinh",
+                "TEN_EN": "Renal tubulo-interstitial disorders in neoplastic diseases"
+              },
+              {
+                "MA": "N16.2*",
+                "TEN": "Biến đổi kẽ ống thận trong các bệnh máu và các rối loạn liên quan đến cơ chế miễn dịch",
+                "TEN_EN": "Renal tubulo-interstitial disorders in blood diseases and disorders involving the immune mechanism"
+              },
+              {
+                "MA": "N16.3*",
+                "TEN": "Biến đổi kẽ ống thận trong các bệnh chuyển hóa",
+                "TEN_EN": "Renal tubulo-interstitial disorders in metabolic diseases"
+              },
+              {
+                "MA": "N16.4*",
+                "TEN": "Biến đổi kẽ ống thận trong các rối loạn mô liên kết hệ thống",
+                "TEN_EN": "Renal tubulo-interstitial disorders in systemic connective tissue disorders"
+              },
+              {
+                "MA": "N16.5*",
+                "TEN": "Biến đổi kẽ ống thận trong thải ghép T86.-",
+                "TEN_EN": "Renal tubulo-interstitial disorders in transplant rejectionT86.-"
+              },
+              {
+                "MA": "N16.8*",
+                "TEN": "Biến đổi kẽ ống thận trong các bệnh khác phân loại nơi khác",
+                "TEN_EN": "Renal tubulo-interstitial disorders in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "N17-N19",
         "MA_TRONG_CHUONG": "",
         "TEN": "Suy thận",
-        "TEN_EN": "Renal failure"
+        "TEN_EN": "Renal failure",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N17",
+            "TEN": "Suy thận cấp",
+            "TEN_EN": "Acute renal failure",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N17.0",
+                "TEN": "Suy thận cấp có hoại tử ống thận",
+                "TEN_EN": "Acute renal failure with tubular necrosis"
+              },
+              {
+                "MA": "N17.1",
+                "TEN": "Suy thận cấp có hoại tử cấp vỏ thận",
+                "TEN_EN": "Acute renal failure with acute cortical necrosis"
+              },
+              {
+                "MA": "N17.2",
+                "TEN": "Suy thận cấp có hoại tử tủy thận",
+                "TEN_EN": "Acute renal failure with medullary necrosis"
+              },
+              {
+                "MA": "N17.8",
+                "TEN": "Suy thận cấp khác",
+                "TEN_EN": "Other acute renal failure"
+              },
+              {
+                "MA": "N17.9",
+                "TEN": "Suy thận cấp không đặc hiệu",
+                "TEN_EN": "Acute renal failure, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N18",
+            "TEN": "Suy thận mãn tính",
+            "TEN_EN": "Chronic renal failure",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N18.0",
+                "TEN": "Bệnh thận giai đoạn cuối",
+                "TEN_EN": "End-stage renal disease"
+              },
+              {
+                "MA": "N18.1",
+                "TEN": "Bệnh thận mạn, giai đoạn 1",
+                "TEN_EN": "Chronic kidney disease, stage 1"
+              },
+              {
+                "MA": "N18.2",
+                "TEN": "Bệnh thận mạn, giai đoạn 2",
+                "TEN_EN": "Chronic kidney disease, stage 2"
+              },
+              {
+                "MA": "N18.3",
+                "TEN": "Bệnh thận mạn, giai đoạn 3",
+                "TEN_EN": "Chronic kidney disease, stage 3"
+              },
+              {
+                "MA": "N18.4",
+                "TEN": "Bệnh thận mạn, giai đoạn 4",
+                "TEN_EN": "Chronic kidney disease, stage 4"
+              },
+              {
+                "MA": "N18.5",
+                "TEN": "Bệnh thận mạn, giai đoạn 5",
+                "TEN_EN": "Chronic kidney disease, stage 5"
+              },
+              {
+                "MA": "N18.8",
+                "TEN": "Suy thận mạn khác",
+                "TEN_EN": "Other chronic renal failure"
+              },
+              {
+                "MA": "N18.9",
+                "TEN": "Suy thận mạn, không đặc hiệu",
+                "TEN_EN": "Chronic renal failure, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N19",
+            "TEN": "Suy thận không xác định",
+            "TEN_EN": "Unspecified kidney failure",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "N20-N23",
         "MA_TRONG_CHUONG": "",
         "TEN": "Sỏi tiết niệu",
-        "TEN_EN": "Urolithiasis"
+        "TEN_EN": "Urolithiasis",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N20",
+            "TEN": "Sỏi thận và niệu quản",
+            "TEN_EN": "Calculus of kidney and ureter",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N20.0",
+                "TEN": "Sỏi thận",
+                "TEN_EN": "Calculus of kidney"
+              },
+              {
+                "MA": "N20.1",
+                "TEN": "Sỏi niệu quản",
+                "TEN_EN": "Calculus of ureter"
+              },
+              {
+                "MA": "N20.2",
+                "TEN": "Sỏi thận và sỏi niệu quản",
+                "TEN_EN": "Calculus of kidney with calculus of ureter"
+              },
+              {
+                "MA": "N20.9",
+                "TEN": "Sỏi tiết niệu, không đặc hiệu",
+                "TEN_EN": "Urinary calculus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N21",
+            "TEN": "Sỏi đường tiết niệu dưới",
+            "TEN_EN": "Calculus of lower urinary tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N21.0",
+                "TEN": "Sỏi bàng quang",
+                "TEN_EN": "Calculus in bladder"
+              },
+              {
+                "MA": "N21.1",
+                "TEN": "Sỏi niệu đạo",
+                "TEN_EN": "Calculus in urethra"
+              },
+              {
+                "MA": "N21.8",
+                "TEN": "Sỏi đường tiết niệu dưới khác",
+                "TEN_EN": "Other lower urinary tract calculus"
+              },
+              {
+                "MA": "N21.9",
+                "TEN": "Sỏi đường tiết niệu dưới, không đặc hiệu",
+                "TEN_EN": "Calculus of lower urinary tract, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N22",
+            "TEN": "Sỏi đường tiết niệu trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Calculus of urinary tract in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N22*",
+                "TEN": "Sỏi đường tiết niệu trong các bệnh đã phân loại nơi khác",
+                "TEN_EN": "Calculus of urinary tract in diseases classified elsewhere"
+              },
+              {
+                "MA": "N22.0*",
+                "TEN": "Sỏi tiết niệu trong bệnh sán máng B65.-",
+                "TEN_EN": "Urinary calculus in schistosomiasis [bilharziasis]B65.-"
+              },
+              {
+                "MA": "N22.8*",
+                "TEN": "Sỏi đường tiết niệu trong các bệnh khác đã phân loại nơi khác",
+                "TEN_EN": "Calculus of urinary tract in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "N23",
+            "TEN": "Cơn đau quặn thận không xác định",
+            "TEN_EN": "Unspecified renal colic",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "N25-N29",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn khác của thận và niệu quản",
-        "TEN_EN": "Other disorders of kidney and ureter"
+        "TEN_EN": "Other disorders of kidney and ureter",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N25",
+            "TEN": "Rối loạn do suy giảm chức năng ống thận",
+            "TEN_EN": "Disorders resulting from impaired renal tubular function",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N25.0",
+                "TEN": "Loạn dưỡng xương do thận",
+                "TEN_EN": "Renal osteodystrophy"
+              },
+              {
+                "MA": "N25.1",
+                "TEN": "Đái tháo nhạt do thận",
+                "TEN_EN": "Nephrogenic diabetes insipidus"
+              },
+              {
+                "MA": "N25.8",
+                "TEN": "Các rối loạn khác do suy giảm chức năng ống thận",
+                "TEN_EN": "Other disorders resulting from impaired renal tubular function"
+              },
+              {
+                "MA": "N25.9",
+                "TEN": "Rối loạn do suy giảm chức năng ống thận, không đặc hiệu",
+                "TEN_EN": "Disorder resulting from impaired renal tubular function, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N26",
+            "TEN": "Thận nhỏ không xác định",
+            "TEN_EN": "Unspecified contracted kidney",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N27",
+            "TEN": "Thận teo nhỏ không rõ nguyên nhân",
+            "TEN_EN": "Small kidney of unknown cause",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N27.0",
+                "TEN": "Thận teo nhỏ, một bên",
+                "TEN_EN": "Small kidney, unilateral"
+              },
+              {
+                "MA": "N27.1",
+                "TEN": "Thận teo nhỏ, hai bên",
+                "TEN_EN": "Small kidney, bilateral"
+              },
+              {
+                "MA": "N27.9",
+                "TEN": "Thận teo nhỏ, không đặc hiệu",
+                "TEN_EN": "Small kidney, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N28",
+            "TEN": "Các biến đổi khác của thận và niệu quản, chưa được phân loại",
+            "TEN_EN": "Other disorders of kidney and ureter, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N28.0",
+                "TEN": "Thiếu máu và nhồi máu thận",
+                "TEN_EN": "Ischaemia and infarction of kidney"
+              },
+              {
+                "MA": "N28.1",
+                "TEN": "Nang thận mắc phải",
+                "TEN_EN": "Cyst of kidney, acquired"
+              },
+              {
+                "MA": "N28.8",
+                "TEN": "Các biến đổi xác định khác của thận và niệu quản",
+                "TEN_EN": "Other specified disorders of kidney and ureter"
+              },
+              {
+                "MA": "N28.9",
+                "TEN": "Biến đổi của thận và niệu quản, không đặc hiệu",
+                "TEN_EN": "Disorder of kidney and ureter, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N29",
+            "TEN": "Các biến đổi khác của thận và niệu quản trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Other disorders of kidney and ureter in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N29*",
+                "TEN": "Các biến đổi khác của thận và niệu quản trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Other disorders of kidney and ureter in diseases classified elsewhere"
+              },
+              {
+                "MA": "N29.0*",
+                "TEN": "Giang mai muộn ở thận (A52.7†)",
+                "TEN_EN": "Late syphilis of kidney (A52.7†)"
+              },
+              {
+                "MA": "N29.1*",
+                "TEN": "Các biến đổi khác của thận và niệu quản trong các bệnh nhiễm khuẩn và ký sinh trùng đã phân loại nơi khác",
+                "TEN_EN": "Other disorders of kidney and ureter in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "N29.8*",
+                "TEN": "Các biến đổi khác của thận và niệu quản trong các bệnh khác phân loại nơi khác",
+                "TEN_EN": "Other disorders of kidney and ureter in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "N30-N39",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh khác của hệ tiết niệu",
-        "TEN_EN": "Other diseases of urinary system"
+        "TEN_EN": "Other diseases of urinary system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N30",
+            "TEN": "Viêm bàng quang",
+            "TEN_EN": "Cystitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N30.0",
+                "TEN": "Viêm bàng quang cấp",
+                "TEN_EN": "Acute cystitis"
+              },
+              {
+                "MA": "N30.1",
+                "TEN": "Viêm bàng quang kẽ (mạn)",
+                "TEN_EN": "Interstitial cystitis (chronic)"
+              },
+              {
+                "MA": "N30.2",
+                "TEN": "Viêm bàng quang mạn khác",
+                "TEN_EN": "Other chronic cystitis"
+              },
+              {
+                "MA": "N30.3",
+                "TEN": "Viêm tam giác bàng quang",
+                "TEN_EN": "Trigonitis"
+              },
+              {
+                "MA": "N30.4",
+                "TEN": "Viêm bàng quang do tia xạ",
+                "TEN_EN": "Irradiation cystitis"
+              },
+              {
+                "MA": "N30.8",
+                "TEN": "Viêm bàng quang khác",
+                "TEN_EN": "Other cystitis"
+              },
+              {
+                "MA": "N30.9",
+                "TEN": "Viêm bàng quang, không đặc hiệu",
+                "TEN_EN": "Cystitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N31",
+            "TEN": "Rối loạn chức năng thần kinh cơ bàng quang, không phân loại nơi khác",
+            "TEN_EN": "Neuromuscular dysfunction of bladder, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N31.0",
+                "TEN": "Bàng quang thần kinh không được ức chế, không phân loại nơi khác",
+                "TEN_EN": "Uninhibited neuropathic bladder, not elsewhere classified"
+              },
+              {
+                "MA": "N31.1",
+                "TEN": "Bàng quang thần kinh phản xạ, không phân loại nơi khác",
+                "TEN_EN": "Reflex neuropathic bladder, not elsewhere classified"
+              },
+              {
+                "MA": "N31.2",
+                "TEN": "Bàng quang thần kinh mất trương lực, không phân loại nơi khác",
+                "TEN_EN": "Flaccid neuropathic bladder, not elsewhere classified"
+              },
+              {
+                "MA": "N31.8",
+                "TEN": "Rối loạn chức năng thần kinh cơ bàng quang khác ",
+                "TEN_EN": "Other neuromuscular dysfunction of bladder"
+              },
+              {
+                "MA": "N31.9",
+                "TEN": "Rối loạn chức năng thần kinh cơ bàng quang, không đặc hiệu",
+                "TEN_EN": "Neuromuscular dysfunction of bladder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N32",
+            "TEN": "Các rối loạn khác của bàng quang",
+            "TEN_EN": "Other disorders of bladder",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N32.0",
+                "TEN": "Chít hẹp cổ bàng quang",
+                "TEN_EN": "Bladder-neck obstruction"
+              },
+              {
+                "MA": "N32.1",
+                "TEN": "Rò bàng quang ruột",
+                "TEN_EN": "Vesicointestinal fistula"
+              },
+              {
+                "MA": "N32.2",
+                "TEN": "Rò bàng quang, không phân loại nơi khác",
+                "TEN_EN": "Vesical fistula, not elsewhere classified"
+              },
+              {
+                "MA": "N32.3",
+                "TEN": "Túi thừa bàng quang",
+                "TEN_EN": "Diverticulum of bladder"
+              },
+              {
+                "MA": "N32.4",
+                "TEN": "Vỡ bàng quang, không do chấn thương",
+                "TEN_EN": "Rupture of bladder, nontraumatic"
+              },
+              {
+                "MA": "N32.8",
+                "TEN": "Các rối loạn xác định khác của bàng quang",
+                "TEN_EN": "Other specified disorders of bladder"
+              },
+              {
+                "MA": "N32.9",
+                "TEN": "Rối loạn bàng quang, không đặc hiệu",
+                "TEN_EN": "Bladder disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N33",
+            "TEN": "Rối loạn bàng quang trong bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Bladder disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N33.0",
+                "TEN": "Lao bàng quang (A18.1†)",
+                "TEN_EN": "Tuberculous cystitis (A18.1†)"
+              },
+              {
+                "MA": "N33.8",
+                "TEN": "Rối loạn bàng quang trong các bệnh khác phân loại nơi khác",
+                "TEN_EN": "Bladder disorders in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "N34",
+            "TEN": "Viêm niệu đạo và hội chứng niệu đạo",
+            "TEN_EN": "Urethritis and urethral syndrome",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N34.0",
+                "TEN": "Áp xe niệu đạo",
+                "TEN_EN": "Urethral abscess"
+              },
+              {
+                "MA": "N34.1",
+                "TEN": "Viêm niệu đạo không đặc hiệu",
+                "TEN_EN": "Nonspecific urethritis"
+              },
+              {
+                "MA": "N34.2",
+                "TEN": "Viêm niệu đạo khác",
+                "TEN_EN": "Other urethritis"
+              },
+              {
+                "MA": "N34.3",
+                "TEN": "Hội chứng niệu đạo, không đặc hiệu",
+                "TEN_EN": "Urethral syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N35",
+            "TEN": "Hẹp niệu đạo",
+            "TEN_EN": "Urethral stricture",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N35.0",
+                "TEN": "Hẹp niệu đạo sau chấn thương",
+                "TEN_EN": "Post-traumatic urethral stricture"
+              },
+              {
+                "MA": "N35.1",
+                "TEN": "Hẹp niệu đạo sau nhiễm khuẩn, không phân loại nơi khác",
+                "TEN_EN": "Postinfective urethral stricture, not elsewhere classified"
+              },
+              {
+                "MA": "N35.8",
+                "TEN": "Hẹp niệu đạo khác",
+                "TEN_EN": "Other urethral stricture"
+              },
+              {
+                "MA": "N35.9",
+                "TEN": "Hẹp niệu đạo, không đặc hiệu",
+                "TEN_EN": "Urethral stricture, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N36",
+            "TEN": "Các biến đổi khác của niệu đạo",
+            "TEN_EN": "Other disorders of urethra",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N36.0",
+                "TEN": "Rò niệu đạo",
+                "TEN_EN": "Urethral fistula"
+              },
+              {
+                "MA": "N36.1",
+                "TEN": "Túi thừa niệu đạo",
+                "TEN_EN": "Urethral diverticulum"
+              },
+              {
+                "MA": "N36.2",
+                "TEN": "Núm niệu đạo",
+                "TEN_EN": "Urethral caruncle"
+              },
+              {
+                "MA": "N36.3",
+                "TEN": "Sa niêm mạc niệu đạo",
+                "TEN_EN": "Prolapsed urethral mucosa"
+              },
+              {
+                "MA": "N36.8",
+                "TEN": "Các biến đổi niệu đạo xác định khác",
+                "TEN_EN": "Other specified disorders of urethra"
+              },
+              {
+                "MA": "N36.9",
+                "TEN": "Biến đổi niệu đạo không đặc hiệu",
+                "TEN_EN": "Urethral disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N37",
+            "TEN": "Biến đổi niệu đạo trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Urethral disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N37*",
+                "TEN": "Biến đổi niệu đạo trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Urethral disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "N37.0*",
+                "TEN": "Viêm niệu đạo trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Urethritis in diseases classified elsewhere"
+              },
+              {
+                "MA": "N37.8*",
+                "TEN": "Biến đổi niệu đạo khác trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Other urethral disorders in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "N39",
+            "TEN": "Biến đổi khác của hệ tiết niệu",
+            "TEN_EN": "Other disorders of urinary system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N39.0",
+                "TEN": "Nhiễm khuẩn hệ tiết niệu, vị trí không đặc hiệu",
+                "TEN_EN": "Urinary tract infection, site not specified"
+              },
+              {
+                "MA": "N39.1",
+                "TEN": "Protein niệu [Tiểu đạm] dai dẳng, không đặc hiệu",
+                "TEN_EN": "Persistent proteinuria, unspecified"
+              },
+              {
+                "MA": "N39.2",
+                "TEN": "Protein niệu [Tiểu đạm] tư thế, không đặc hiệu",
+                "TEN_EN": "Orthostatic proteinuria, unspecified"
+              },
+              {
+                "MA": "N39.3",
+                "TEN": "Tiểu không kiểm soát do Stress",
+                "TEN_EN": "Stress incontinence"
+              },
+              {
+                "MA": "N39.4",
+                "TEN": "Tiểu không kiểm soát xác định khác",
+                "TEN_EN": "Other specified urinary incontinence"
+              },
+              {
+                "MA": "N39.8",
+                "TEN": "Biến đổi xác định khác của hệ tiết niệu",
+                "TEN_EN": "Other specified disorders of urinary system"
+              },
+              {
+                "MA": "N39.9",
+                "TEN": "Biến đổi của hệ tiết niệu, không đặc hiệu",
+                "TEN_EN": "Disorder of urinary system, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "N40-N51",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh cơ quan sinh dục nam",
-        "TEN_EN": "Diseases of male genital organs"
+        "TEN_EN": "Diseases of male genital organs",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N40",
+            "TEN": "Tăng sản tuyến tiền liệt",
+            "TEN_EN": "Hyperplasia of prostate",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N41",
+            "TEN": "Các bệnh viêm tuyến tiền liệt",
+            "TEN_EN": "Inflammatory diseases of prostate",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N41.0",
+                "TEN": "Viêm tuyến tiền liệt cấp",
+                "TEN_EN": "Acute prostatitis"
+              },
+              {
+                "MA": "N41.1",
+                "TEN": "Viêm tuyến tiền liệt mạn",
+                "TEN_EN": "Chronic prostatitis"
+              },
+              {
+                "MA": "N41.2",
+                "TEN": "Áp xe tuyến tiền liệt",
+                "TEN_EN": "Abscess of prostate"
+              },
+              {
+                "MA": "N41.3",
+                "TEN": "Viêm tuyến tiền liệt - bàng quang",
+                "TEN_EN": "Prostatocystitis"
+              },
+              {
+                "MA": "N41.8",
+                "TEN": "Bệnh viêm khác của tuyến tiền liệt",
+                "TEN_EN": "Other inflammatory diseases of prostate"
+              },
+              {
+                "MA": "N41.9",
+                "TEN": "Bệnh viêm tuyến tiền liệt, không đặc hiệu",
+                "TEN_EN": "Inflammatory disease of prostate, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N42",
+            "TEN": "Biến đổi khác của tuyến tiền liệt",
+            "TEN_EN": "Other disorders of prostate",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N42.0",
+                "TEN": "Sỏi tuyến tiền liệt",
+                "TEN_EN": "Calculus of prostate"
+              },
+              {
+                "MA": "N42.1",
+                "TEN": "Sung huyết và chảy máu tuyến tiền liệt",
+                "TEN_EN": "Congestion and haemorrhage of prostate"
+              },
+              {
+                "MA": "N42.2",
+                "TEN": "Teo tuyến tiền liệt",
+                "TEN_EN": "Atrophy of prostate"
+              },
+              {
+                "MA": "N42.3",
+                "TEN": "Loạn sản tuyến tiền liệt",
+                "TEN_EN": "Dysplasia of prostate"
+              },
+              {
+                "MA": "N42.8",
+                "TEN": "Biến đổi xác định khác của tuyến tiền liệt",
+                "TEN_EN": "Other specified disorders of prostate"
+              },
+              {
+                "MA": "N42.9",
+                "TEN": "Biến đổi của tuyến tiền liệt, không đặc hiệu",
+                "TEN_EN": "Disorder of prostate, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N43",
+            "TEN": "Tràn dịch màng tinh và sa tinh",
+            "TEN_EN": "Hydrocele and spermatocele",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N43.0",
+                "TEN": "Tràn dịch màng tinh hoàn nang hóa",
+                "TEN_EN": "Encysted hydrocele"
+              },
+              {
+                "MA": "N43.1",
+                "TEN": "Tràn dịch màng tinh hoàn nhiễm khuẩn",
+                "TEN_EN": "Infected hydrocele"
+              },
+              {
+                "MA": "N43.2",
+                "TEN": "Tràn dịch màng tinh hoàn khác",
+                "TEN_EN": "Other hydrocele"
+              },
+              {
+                "MA": "N43.3",
+                "TEN": "Tràn dịch màng tinh hoàn, không đặc hiệu",
+                "TEN_EN": "Hydrocele, unspecified"
+              },
+              {
+                "MA": "N43.4",
+                "TEN": "Nang mào tinh hoàn",
+                "TEN_EN": "Spermatocele"
+              }
+            ]
+          },
+          {
+            "MA": "N44",
+            "TEN": "Xoắn tinh hoàn",
+            "TEN_EN": "Torsion of testis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N45",
+            "TEN": "Viêm tinh hoàn và viêm mào tinh hoàn",
+            "TEN_EN": "Orchitis and epididymitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N45.0",
+                "TEN": "Viêm tinh hoàn, viêm mào tinh hoàn và viêm tinh hoàn- mào tinh hoàn có áp xe",
+                "TEN_EN": "Orchitis, epididymitis and epididymo-orchitis with abscess"
+              },
+              {
+                "MA": "N45.9",
+                "TEN": "Viêm tinh hoàn, mào tinh hoàn và viêm tinh hoàn- mào tinh hoàn không có áp xe",
+                "TEN_EN": "Orchitis, epididymitis and epididymo-orchitis without abscess"
+              }
+            ]
+          },
+          {
+            "MA": "N46",
+            "TEN": "Vô sinh nam",
+            "TEN_EN": "Male infertility",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N47",
+            "TEN": "Bao quy đầu rộng, hẹp bao quy đầu và nghẹt bao quy đầu",
+            "TEN_EN": "Redundant prepuce, phimosis and paraphimosis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N48",
+            "TEN": "Biến đổi khác của dương vật",
+            "TEN_EN": "Other disorders of penis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N48.0",
+                "TEN": "Bạch sản dương vật",
+                "TEN_EN": "Leukoplakia of penis"
+              },
+              {
+                "MA": "N48.1",
+                "TEN": "Viêm quy đầu - bao quy đầu",
+                "TEN_EN": "Balanoposthitis"
+              },
+              {
+                "MA": "N48.2",
+                "TEN": "Biến đổi viêm khác của dương vật",
+                "TEN_EN": "Other inflammatory disorders of penis"
+              },
+              {
+                "MA": "N48.3",
+                "TEN": "Cương đau dương vật kéo dài",
+                "TEN_EN": "Priapism"
+              },
+              {
+                "MA": "N48.4",
+                "TEN": "Bất lực do nguyên nhân thực thể",
+                "TEN_EN": "Impotence of organic origin"
+              },
+              {
+                "MA": "N48.5",
+                "TEN": "Loét dương vật",
+                "TEN_EN": "Ulcer of penis"
+              },
+              {
+                "MA": "N48.6",
+                "TEN": "Xơ cứng dương vật",
+                "TEN_EN": "Induratio penis plastica"
+              },
+              {
+                "MA": "N48.8",
+                "TEN": "Biến đổi xác định khác của dương vật",
+                "TEN_EN": "Other specified disorders of penis"
+              },
+              {
+                "MA": "N48.9",
+                "TEN": "Biến đổi của dương vật, không đặc hiệu",
+                "TEN_EN": "Disorder of penis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N49",
+            "TEN": "Viêm của cơ quan sinh dục nam, không phân loại nơi khác",
+            "TEN_EN": "Inflammatory disorders of male genital organs, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N49.0",
+                "TEN": "Viêm túi tinh",
+                "TEN_EN": "Inflammatory disorders of seminal vesicle"
+              },
+              {
+                "MA": "N49.1",
+                "TEN": "Viêm thừng tinh, màng tinh và ống tinh",
+                "TEN_EN": "Inflammatory disorders of spermatic cord, tunica vaginalis and vas deferens"
+              },
+              {
+                "MA": "N49.2",
+                "TEN": "Viêm bìu",
+                "TEN_EN": "Inflammatory disorders of scrotum"
+              },
+              {
+                "MA": "N49.8",
+                "TEN": "Viêm của cơ quan sinh dục nam khác",
+                "TEN_EN": "Inflammatory disorders of other specified male genital organs"
+              },
+              {
+                "MA": "N49.9",
+                "TEN": "Viêm cơ quan sinh dục nam không đặc hiệu",
+                "TEN_EN": "Inflammatory disorder of unspecified male genital organ"
+              }
+            ]
+          },
+          {
+            "MA": "N50",
+            "TEN": "Biến đổi khác của cơ quan sinh dục nam",
+            "TEN_EN": "Other disorders of male genital organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N50.0",
+                "TEN": "Teo tinh hoàn",
+                "TEN_EN": "Atrophy of testis"
+              },
+              {
+                "MA": "N50.1",
+                "TEN": "Rối loạn mạch máu của cơ quan sinh dục nam",
+                "TEN_EN": "Vascular disorders of male genital organs"
+              },
+              {
+                "MA": "N50.8",
+                "TEN": "Biến đổi khác của cơ quan sinh dục nam",
+                "TEN_EN": "Other specified disorders of male genital organs"
+              },
+              {
+                "MA": "N50.9",
+                "TEN": "Biến đổi của cơ quan sinh dục nam, không đặc hiệu",
+                "TEN_EN": "Disorder of male genital organs, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N51",
+            "TEN": "Biến đổi cơ quan sinh dục nam trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Disorders of male genital organs in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N51*",
+                "TEN": "Biến đổi cơ quan sinh dục nam trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Disorders of male genital organs in diseases classified elsewhere"
+              },
+              {
+                "MA": "N51.0*",
+                "TEN": "Biến đổi của tuyến tiền liệt trong bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Disorders of prostate in diseases classified elsewhere"
+              },
+              {
+                "MA": "N51.1*",
+                "TEN": "Biến đổi của tinh hoàn và mào tinh hoàn trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Disorders of testis and epididymis in diseases classified elsewhere"
+              },
+              {
+                "MA": "N51.2*",
+                "TEN": "Viêm quy đầu trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Balanitis in diseases classified elsewhere"
+              },
+              {
+                "MA": "N51.8*",
+                "TEN": "Biến đổi khác của cơ quan sinh dục nam trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Other disorders of male genital organs in diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "N60-N64",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các biến đổi của vú",
-        "TEN_EN": "Disorders of breast"
+        "TEN_EN": "Disorders of breast",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N60",
+            "TEN": "Loạn sản vú lành tính",
+            "TEN_EN": "Benign mammary dysplasia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N60.0",
+                "TEN": "Nang đơn vú",
+                "TEN_EN": "Solitary cyst of breast"
+              },
+              {
+                "MA": "N60.1",
+                "TEN": "Nang lan toả vú",
+                "TEN_EN": "Diffuse cystic mastopathy"
+              },
+              {
+                "MA": "N60.2",
+                "TEN": "U xơ tuyến vú",
+                "TEN_EN": "Fibroadenosis of breast"
+              },
+              {
+                "MA": "N60.3",
+                "TEN": "Xơ teo tuyến vú",
+                "TEN_EN": "Fibrosclerosis of breast"
+              },
+              {
+                "MA": "N60.4",
+                "TEN": "Giãn ống tuyến vú",
+                "TEN_EN": "Mammary duct ectasia"
+              },
+              {
+                "MA": "N60.8",
+                "TEN": "Loạn sản lành tính vú khác",
+                "TEN_EN": "Other benign mammary dysplasias"
+              },
+              {
+                "MA": "N60.9",
+                "TEN": "Loạn sản lành tính vú, không đặc hiệu",
+                "TEN_EN": "Benign mammary dysplasia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N61",
+            "TEN": "Viêm vú",
+            "TEN_EN": "Inflammatory disorders of breast",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N62",
+            "TEN": "Vú phì đại",
+            "TEN_EN": "Hypertrophy of breast",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N63",
+            "TEN": "Khối u không xác định ở vú",
+            "TEN_EN": "Unspecified lump in breast",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N64",
+            "TEN": "Biến đổi khác ở vú",
+            "TEN_EN": "Other disorders of breast",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N64.0",
+                "TEN": "Nứt và rò ở núm vú",
+                "TEN_EN": "Fissure and fistula of nipple"
+              },
+              {
+                "MA": "N64.1",
+                "TEN": "Hoại tử mỡ của vú",
+                "TEN_EN": "Fat necrosis of breast"
+              },
+              {
+                "MA": "N64.2",
+                "TEN": "Teo vú",
+                "TEN_EN": "Atrophy of breast"
+              },
+              {
+                "MA": "N64.3",
+                "TEN": "Tiết sữa không liên quan đến sinh đẻ",
+                "TEN_EN": "Galactorrhoea not associated with childbirth"
+              },
+              {
+                "MA": "N64.4",
+                "TEN": "Đau vú",
+                "TEN_EN": "Mastodynia"
+              },
+              {
+                "MA": "N64.5",
+                "TEN": "Dấu hiệu và triệu chứng khác ở vú",
+                "TEN_EN": "Other signs and symptoms in breast"
+              },
+              {
+                "MA": "N64.8",
+                "TEN": "Biến đổi xác định khác của vú",
+                "TEN_EN": "Other specified disorders of breast"
+              },
+              {
+                "MA": "N64.9",
+                "TEN": "Biến đổi của vú, không đặc hiệu",
+                "TEN_EN": "Disorder of breast, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "N70-N77",
         "MA_TRONG_CHUONG": "",
         "TEN": "Viêm cơ quan sinh dục vùng chậu nữ",
-        "TEN_EN": "Inflammatory diseases of female pelvic organs"
+        "TEN_EN": "Inflammatory diseases of female pelvic organs",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N70",
+            "TEN": "Viêm vòi và viêm buồng trứng",
+            "TEN_EN": "Salpingitis and oophoritis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N70.0",
+                "TEN": "Viêm vòi và viêm buồng trứng cấp",
+                "TEN_EN": "Acute salpingitis and oophoritis"
+              },
+              {
+                "MA": "N70.1",
+                "TEN": "Viêm vòi và viêm buồng trứng mạn",
+                "TEN_EN": "Chronic salpingitis and oophoritis"
+              },
+              {
+                "MA": "N70.9",
+                "TEN": "Viêm vòi và buồng trứng, không đặc hiệu",
+                "TEN_EN": "Salpingitis and oophoritis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N71",
+            "TEN": "Viêm tử cung, trừ cổ tử cung",
+            "TEN_EN": "Inflammatory disease of uterus, except cervix",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N71.0",
+                "TEN": "Viêm tử cung cấp",
+                "TEN_EN": "Acute inflammatory disease of uterus"
+              },
+              {
+                "MA": "N71.1",
+                "TEN": "Viêm tử cung mạn",
+                "TEN_EN": "Chronic inflammatory disease of uterus"
+              },
+              {
+                "MA": "N71.9",
+                "TEN": "Viêm tử cung, không đặc hiệu",
+                "TEN_EN": "Inflammatory disease of uterus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N72",
+            "TEN": "Viêm cổ tử cung",
+            "TEN_EN": "Inflammatory disease of cervix uteri",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N73",
+            "TEN": "Các bệnh viêm vùng chậu nữ khác",
+            "TEN_EN": "Other female pelvic inflammatory diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N73.0",
+                "TEN": "Viêm mô cận tử cung và viêm mô tế bào vùng chậu",
+                "TEN_EN": "Acute parametritis and pelvic cellulitis"
+              },
+              {
+                "MA": "N73.1",
+                "TEN": "Viêm mô cận tử cung và viêm mô tế bào vùng chậu mạn",
+                "TEN_EN": "Chronic parametritis and pelvic cellulitis"
+              },
+              {
+                "MA": "N73.2",
+                "TEN": "Viêm mô cận tử cung và viêm mô tế bào vùng chậu không đặc hiệu",
+                "TEN_EN": "Unspecified parametritis and pelvic cellulitis"
+              },
+              {
+                "MA": "N73.3",
+                "TEN": "Viêm phúc mạc vùng chậu nữ cấp",
+                "TEN_EN": "Female acute pelvic peritonitis"
+              },
+              {
+                "MA": "N73.4",
+                "TEN": "Viêm phúc mạc vùng chậu nữ mạn",
+                "TEN_EN": "Female chronic pelvic peritonitis"
+              },
+              {
+                "MA": "N73.5",
+                "TEN": "Viêm phúc mạc vùng chậu nữ, không đặc hiệu",
+                "TEN_EN": "Female pelvic peritonitis, unspecified"
+              },
+              {
+                "MA": "N73.6",
+                "TEN": "Dính phúc mạc vùng chậu nữ",
+                "TEN_EN": "Female pelvic peritoneal adhesions"
+              },
+              {
+                "MA": "N73.8",
+                "TEN": "Các bệnh viêm vùng chậu nữ xác định khác",
+                "TEN_EN": "Other specified female pelvic inflammatory diseases"
+              },
+              {
+                "MA": "N73.9",
+                "TEN": "Viêm vùng chậu nữ, không đặc hiệu",
+                "TEN_EN": "Female pelvic inflammatory disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N74",
+            "TEN": "Viêm vùng chậu nữ trong các bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Female pelvic inflammatory disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N74*",
+                "TEN": "Viêm vùng chậu nữ trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Female pelvic inflammatory disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "N74.0*",
+                "TEN": "Lao cổ tử cung (A18.1†)",
+                "TEN_EN": "Tuberculous infection of cervix uteri (A18.1†)"
+              },
+              {
+                "MA": "N74.1*",
+                "TEN": "Viêm lao vùng chậu nữ (A18.1†)",
+                "TEN_EN": "Female tuberculous pelvic inflammatory disease (A18.1†)"
+              },
+              {
+                "MA": "N74.2*",
+                "TEN": "Viêm giang mai vùng chậu nữ (A51.4†, A52.7†)",
+                "TEN_EN": "Female syphilitic pelvic inflammatory disease (A51.4†, A52.7†)"
+              },
+              {
+                "MA": "N74.3*",
+                "TEN": "Viêm lậu vùng chậu nữ (A54.2†)",
+                "TEN_EN": "Female gonococcal pelvic inflammatory disease (A54.2†)"
+              },
+              {
+                "MA": "N74.4*",
+                "TEN": "Viêm vùng chậu nữ do chlamydia (A56.1†)",
+                "TEN_EN": "Female chlamydial pelvic inflammatory disease (A56.1†)"
+              },
+              {
+                "MA": "N74.8*",
+                "TEN": "Viêm vùng chậu nữ trong các bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Female pelvic inflammatory disorders in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "N75",
+            "TEN": "Bệnh của tuyến Bartholin",
+            "TEN_EN": "Diseases of Bartholin s gland",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N75.0",
+                "TEN": "Nang tuyến Bartholin",
+                "TEN_EN": "Cyst of Bartholin s gland"
+              },
+              {
+                "MA": "N75.1",
+                "TEN": "Áp xe tuyến Bartholin",
+                "TEN_EN": "Abscess of Bartholin s gland"
+              },
+              {
+                "MA": "N75.8",
+                "TEN": "Các bệnh khác của tuyến Bartholin",
+                "TEN_EN": "Other diseases of Bartholin s gland"
+              },
+              {
+                "MA": "N75.9",
+                "TEN": "Bệnh tuyến Bartholin, không đặc hiệu",
+                "TEN_EN": "Disease of Bartholin s gland, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N76",
+            "TEN": "Các viêm khác của âm đạo và âm hộ",
+            "TEN_EN": "Other inflammation of vagina and vulva",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N76.0",
+                "TEN": "Viêm âm đạo cấp",
+                "TEN_EN": "Acute vaginitis"
+              },
+              {
+                "MA": "N76.1",
+                "TEN": "Viêm âm đạo bán cấp và mạn",
+                "TEN_EN": "Subacute and chronic vaginitis"
+              },
+              {
+                "MA": "N76.2",
+                "TEN": "Viêm âm hộ cấp",
+                "TEN_EN": "Acute vulvitis"
+              },
+              {
+                "MA": "N76.3",
+                "TEN": "Viêm âm hộ bán cấp và mạn",
+                "TEN_EN": "Subacute and chronic vulvitis"
+              },
+              {
+                "MA": "N76.4",
+                "TEN": "Áp xe âm hộ",
+                "TEN_EN": "Abscess of vulva"
+              },
+              {
+                "MA": "N76.5",
+                "TEN": "Loét âm đạo",
+                "TEN_EN": "Ulceration of vagina"
+              },
+              {
+                "MA": "N76.6",
+                "TEN": "Loét âm hộ",
+                "TEN_EN": "Ulceration of vulva"
+              },
+              {
+                "MA": "N76.8",
+                "TEN": "Viêm âm đạo và âm hộ xác định khác",
+                "TEN_EN": "Other specified inflammation of vagina and vulva"
+              }
+            ]
+          },
+          {
+            "MA": "N77",
+            "TEN": "Viêm và loét âm đạo, âm hộ trong bệnh đã được phân loại ở phần khác",
+            "TEN_EN": "Vulvovaginal ulceration and inflammation in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N77*",
+                "TEN": "Viêm và loét âm đạo, âm hộ trong bệnh đã được phân loại ở phần khác",
+                "TEN_EN": "Vulvovaginal ulceration and inflammation in diseases classified elsewhere"
+              },
+              {
+                "MA": "N77.0*",
+                "TEN": "Loét âm hộ trong các bệnh nhiễm khuẩn và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Ulceration of vulva in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "N77.1*",
+                "TEN": "Viêm âm đạo, viêm âm hộ và viêm âm đạo âm hộ trong các bệnh nhiễm khuẩn và ký sinh trùng phân loại nơi khác",
+                "TEN_EN": "Vaginitis, vulvitis and vulvovaginitis in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "N77.8*",
+                "TEN": "Viêm và loét âm đạo âm hộ trong các bệnh khác phân loại nơi khác",
+                "TEN_EN": "Vulvovaginal ulceration and inflammation in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "N80-N98",
         "MA_TRONG_CHUONG": "",
         "TEN": "Biến đổi không do viêm của đường sinh dục nữ",
-        "TEN_EN": "Noninflammatory disorders of female genital tract"
+        "TEN_EN": "Noninflammatory disorders of female genital tract",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N80",
+            "TEN": "Bệnh lạc nội mạc tử cung",
+            "TEN_EN": "Endometriosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N80.0",
+                "TEN": "Bệnh lạc nội mạc tử cung",
+                "TEN_EN": "Endometriosis of uterus"
+              },
+              {
+                "MA": "N80.1",
+                "TEN": "Bệnh lạc nội mạc tử cung ở buồng trứng",
+                "TEN_EN": "Endometriosis of ovary"
+              },
+              {
+                "MA": "N80.2",
+                "TEN": "Bệnh lạc nội mạc tử cung ở vòi trứng",
+                "TEN_EN": "Endometriosis of fallopian tube"
+              },
+              {
+                "MA": "N80.3",
+                "TEN": "Bệnh lạc nội mạc tử cung ở phúc mạc chậu",
+                "TEN_EN": "Endometriosis of pelvic peritoneum"
+              },
+              {
+                "MA": "N80.4",
+                "TEN": "Bệnh lạc nội mạc tử cung ở vách trực tràng âm đạo và âm đạo",
+                "TEN_EN": "Endometriosis of rectovaginal septum and vagina"
+              },
+              {
+                "MA": "N80.5",
+                "TEN": "Bệnh lạc nội mạc tử cung ở ruột",
+                "TEN_EN": "Endometriosis of intestine"
+              },
+              {
+                "MA": "N80.6",
+                "TEN": "Bệnh lạc nội mạc tử cung ở sẹo da",
+                "TEN_EN": "Endometriosis in cutaneous scar"
+              },
+              {
+                "MA": "N80.8",
+                "TEN": "Bệnh lạc nội mạc tử cung khác",
+                "TEN_EN": "Other endometriosis"
+              },
+              {
+                "MA": "N80.9",
+                "TEN": "Bệnh lạc nội mạc tử cung, không đặc hiệu",
+                "TEN_EN": "Endometriosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N81",
+            "TEN": "Sa sinh dục nữ",
+            "TEN_EN": "Female genital prolapse",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N81.0",
+                "TEN": "Sa niệu đạo nữ",
+                "TEN_EN": "Female urethrocele"
+              },
+              {
+                "MA": "N81.1",
+                "TEN": "Sa bàng quang",
+                "TEN_EN": "Cystocele"
+              },
+              {
+                "MA": "N81.2",
+                "TEN": "Sa tử cung âm đạo không hoàn toàn",
+                "TEN_EN": "Incomplete uterovaginal prolapse"
+              },
+              {
+                "MA": "N81.3",
+                "TEN": "Sa hoàn toàn tử cung âm đạo",
+                "TEN_EN": "Complete uterovaginal prolapse"
+              },
+              {
+                "MA": "N81.4",
+                "TEN": "Sa tử cung âm đạo, không đặc hiệu",
+                "TEN_EN": "Uterovaginal prolapse, unspecified"
+              },
+              {
+                "MA": "N81.5",
+                "TEN": "Thoát vị ruột trong âm đạo",
+                "TEN_EN": "Vaginal enterocele"
+              },
+              {
+                "MA": "N81.6",
+                "TEN": "Sa trực tràng",
+                "TEN_EN": "Rectocele"
+              },
+              {
+                "MA": "N81.8",
+                "TEN": "Sa sinh dục nữ khác",
+                "TEN_EN": "Other female genital prolapse"
+              },
+              {
+                "MA": "N81.9",
+                "TEN": "Sa sinh dục nữ, không đặc hiệu",
+                "TEN_EN": "Female genital prolapse, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N82",
+            "TEN": "Rò đường sinh dục nữ",
+            "TEN_EN": "Fistulae involving female genital tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N82.0",
+                "TEN": "Rò bàng quang âm đạo",
+                "TEN_EN": "Vesicovaginal fistula"
+              },
+              {
+                "MA": "N82.1",
+                "TEN": "Các rò khác đường tiết niệu sinh dục nữ",
+                "TEN_EN": "Other female urinary-genital tract fistulae"
+              },
+              {
+                "MA": "N82.2",
+                "TEN": "Rò âm đạo vào ruột non",
+                "TEN_EN": "Fistula of vagina to small intestine"
+              },
+              {
+                "MA": "N82.3",
+                "TEN": "Rò âm đạo vào ruột già",
+                "TEN_EN": "Fistula of vagina to large intestine"
+              },
+              {
+                "MA": "N82.4",
+                "TEN": "Các rò đường sinh dục nữ - ruột khác",
+                "TEN_EN": "Other female intestinal-genital tract fistulae"
+              },
+              {
+                "MA": "N82.5",
+                "TEN": "Rò đường sinh dục nữ ra da",
+                "TEN_EN": "Female genital tract-skin fistulae"
+              },
+              {
+                "MA": "N82.8",
+                "TEN": "Các rò đường sinh dục nữ khác",
+                "TEN_EN": "Other female genital tract fistulae"
+              },
+              {
+                "MA": "N82.9",
+                "TEN": "Rò đường sinh dục nữ, không đặc hiệu",
+                "TEN_EN": "Female genital tract fistula, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N83",
+            "TEN": "Các biến đổi không do viêm của buồng trứng, vòi trứng và dây chằng rộng",
+            "TEN_EN": "Noninflammatory disorders of ovary, fallopian tube and broad ligament",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N83.0",
+                "TEN": "U nang nang trứng",
+                "TEN_EN": "Follicular cyst of ovary"
+              },
+              {
+                "MA": "N83.1",
+                "TEN": "U nang hoàng thể",
+                "TEN_EN": "Corpus luteum cyst"
+              },
+              {
+                "MA": "N83.2",
+                "TEN": "Các u nang buồng trứng khác và không đặc hiệu",
+                "TEN_EN": "Other and unspecified ovarian cysts"
+              },
+              {
+                "MA": "N83.3",
+                "TEN": "Teo buồng trứng và vòi trứng mắc phải",
+                "TEN_EN": "Acquired atrophy of ovary and fallopian tube"
+              },
+              {
+                "MA": "N83.4",
+                "TEN": "Thoát vị và sa buồng trứng và vòi trứng",
+                "TEN_EN": "Prolapse and hernia of ovary and fallopian tube"
+              },
+              {
+                "MA": "N83.5",
+                "TEN": "Xoắn buồng trứng, cuống trứng và vòi trứng",
+                "TEN_EN": "Torsion of ovary, ovarian pedicle and fallopian tube"
+              },
+              {
+                "MA": "N83.6",
+                "TEN": "Vòi trứng ứ máu",
+                "TEN_EN": "Haematosalpinx"
+              },
+              {
+                "MA": "N83.7",
+                "TEN": "Ứ máu dây chằng rộng",
+                "TEN_EN": "Haematoma of broad ligament"
+              },
+              {
+                "MA": "N83.8",
+                "TEN": "Các biến đổi không do viêm khác của buồng trứng, vòi trứng và dây chằng rộng",
+                "TEN_EN": "Other noninflammatory disorders of ovary, fallopian tube and broad ligament"
+              },
+              {
+                "MA": "N83.9",
+                "TEN": "Biến đổi không do viêm của buồng trứng, vòi trứng và dây chằng rộng, không đặc hiệu",
+                "TEN_EN": "Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N84",
+            "TEN": "Polyp đường sinh dục nữ",
+            "TEN_EN": "Polyp of female genital tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N84.0",
+                "TEN": "Polyp thân tử cung",
+                "TEN_EN": "Polyp of corpus uteri"
+              },
+              {
+                "MA": "N84.1",
+                "TEN": "Polyp cổ tử cung",
+                "TEN_EN": "Polyp of cervix uteri"
+              },
+              {
+                "MA": "N84.2",
+                "TEN": "Polyp âm đạo",
+                "TEN_EN": "Polyp of vagina"
+              },
+              {
+                "MA": "N84.3",
+                "TEN": "Polyp âm hộ",
+                "TEN_EN": "Polyp of vulva"
+              },
+              {
+                "MA": "N84.8",
+                "TEN": "Polyp các phần khác đường sinh dục nữ",
+                "TEN_EN": "Polyp of other parts of female genital tract"
+              },
+              {
+                "MA": "N84.9",
+                "TEN": "Polyp đường sinh dục nữ, không đặc hiệu",
+                "TEN_EN": "Polyp of female genital tract, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N85",
+            "TEN": "Các biến đổi không do viêm khác của tử cung trừ cổ tử cung",
+            "TEN_EN": "Other noninflammatory disorders of uterus, except cervix",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N85.0",
+                "TEN": "Tăng sản tuyến nội mạc",
+                "TEN_EN": "Endometrial glandular hyperplasia"
+              },
+              {
+                "MA": "N85.1",
+                "TEN": "Tăng sản u tuyến nội mạc tử cung",
+                "TEN_EN": "Endometrial adenomatous hyperplasia"
+              },
+              {
+                "MA": "N85.2",
+                "TEN": "Phì đại tử cung",
+                "TEN_EN": "Hypertrophy of uterus"
+              },
+              {
+                "MA": "N85.3",
+                "TEN": "Bán co tử cung",
+                "TEN_EN": "Subinvolution of uterus"
+              },
+              {
+                "MA": "N85.4",
+                "TEN": "Tư thế lệch của tử cung",
+                "TEN_EN": "Malposition of uterus"
+              },
+              {
+                "MA": "N85.5",
+                "TEN": "Lộn tử cung",
+                "TEN_EN": "Inversion of uterus"
+              },
+              {
+                "MA": "N85.6",
+                "TEN": "Dính trong tử cung",
+                "TEN_EN": "Intrauterine synechiae"
+              },
+              {
+                "MA": "N85.7",
+                "TEN": "Ứ máu tử cung",
+                "TEN_EN": "Haematometra"
+              },
+              {
+                "MA": "N85.8",
+                "TEN": "Biến đổi khác xác định của tử cung không do viêm",
+                "TEN_EN": "Other specified noninflammatory disorders of uterus"
+              },
+              {
+                "MA": "N85.9",
+                "TEN": "Biến đổi của tử cung không do viêm, không đặc hiệu",
+                "TEN_EN": "Noninflammatory disorder of uterus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N86",
+            "TEN": "Xướcvà lộn niêm mạc cổ tử cung",
+            "TEN_EN": "Erosion and ectropion of cervix uteri",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N87",
+            "TEN": "Loạn sản cổ tử cung",
+            "TEN_EN": "Dysplasia of cervix uteri",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N87.0",
+                "TEN": "Loạn sản nhẹ cổ tử cung",
+                "TEN_EN": "Mild cervical dysplasia"
+              },
+              {
+                "MA": "N87.1",
+                "TEN": "Loạn sản vừa cổ tử cung",
+                "TEN_EN": "Moderate cervical dysplasia"
+              },
+              {
+                "MA": "N87.2",
+                "TEN": "Loạn sản nặng cổ tử cung, không phân loại nơi khác",
+                "TEN_EN": "Severe cervical dysplasia, not elsewhere classified"
+              },
+              {
+                "MA": "N87.9",
+                "TEN": "Loạn sản cổ tử cung, không đặc hiệu",
+                "TEN_EN": "Dysplasia of cervix uteri, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N88",
+            "TEN": "Các biến đổi không do viêm khác của cổ tử cung",
+            "TEN_EN": "Other noninflammatory disorders of cervix uteri",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N88.0",
+                "TEN": "Bạch sản cổ tử cung",
+                "TEN_EN": "Leukoplakia of cervix uteri"
+              },
+              {
+                "MA": "N88.1",
+                "TEN": "Rách cũ cổ tử cung",
+                "TEN_EN": "Old laceration of cervix uteri"
+              },
+              {
+                "MA": "N88.2",
+                "TEN": "Hẹp và chít hẹp cổ tử cung",
+                "TEN_EN": "Stricture and stenosis of cervix uteri"
+              },
+              {
+                "MA": "N88.3",
+                "TEN": "Kém hiệu lực cổ tử cung",
+                "TEN_EN": "Incompetence of cervix uteri"
+              },
+              {
+                "MA": "N88.4",
+                "TEN": "Cổ tử cung bị kéo dài do phì đại",
+                "TEN_EN": "Hypertrophic elongation of cervix uteri"
+              },
+              {
+                "MA": "N88.8",
+                "TEN": "Biến đổi không do viêm xác định khác của cổ tử cung",
+                "TEN_EN": "Other specified noninflammatory disorders of cervix uteri"
+              },
+              {
+                "MA": "N88.9",
+                "TEN": "Biến đổi không do viêm của cổ tử cung, không đặc hiệu",
+                "TEN_EN": "Noninflammatory disorder of cervix uteri, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N89",
+            "TEN": "Biến đổi không do viêm khác của âm đạo",
+            "TEN_EN": "Other noninflammatory disorders of vagina",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N89.0",
+                "TEN": "Loạn sản âm đạo nhẹ",
+                "TEN_EN": "Mild vaginal dysplasia"
+              },
+              {
+                "MA": "N89.1",
+                "TEN": "Loạn sản âm đạo vừa",
+                "TEN_EN": "Moderate vaginal dysplasia"
+              },
+              {
+                "MA": "N89.2",
+                "TEN": "Loạn sản âm đạo nặng, không phân loại nơi khác",
+                "TEN_EN": "Severe vaginal dysplasia, not elsewhere classified"
+              },
+              {
+                "MA": "N89.3",
+                "TEN": "Loạn sản âm đạo, không đặc hiệu",
+                "TEN_EN": "Dysplasia of vagina, unspecified"
+              },
+              {
+                "MA": "N89.4",
+                "TEN": "Bạch sản âm đạo",
+                "TEN_EN": "Leukoplakia of vagina"
+              },
+              {
+                "MA": "N89.5",
+                "TEN": "Hẹp và tịt âm đạo",
+                "TEN_EN": "Stricture and atresia of vagina"
+              },
+              {
+                "MA": "N89.6",
+                "TEN": "Vòng màng trinh hẹp",
+                "TEN_EN": "Tight hymenal ring"
+              },
+              {
+                "MA": "N89.7",
+                "TEN": "Ứ máu âm đạo",
+                "TEN_EN": "Haematocolpos"
+              },
+              {
+                "MA": "N89.8",
+                "TEN": "Các biến đổi không do viêm xác định khác của âm đạo",
+                "TEN_EN": "Other specified noninflammatory disorders of vagina"
+              },
+              {
+                "MA": "N89.9",
+                "TEN": "Biến đổi không do viêm của âm đạo, không đặc hiệu",
+                "TEN_EN": "Noninflammatory disorder of vagina, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N90",
+            "TEN": "Biến đổi không do viêm khác của âm hộ và tầng sinh môn",
+            "TEN_EN": "Other noninflammatory disorders of vulva and perineum",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N90.0",
+                "TEN": "Loạn sản nhẹ âm hộ",
+                "TEN_EN": "Mild vulvar dysplasia"
+              },
+              {
+                "MA": "N90.1",
+                "TEN": "Loạn sản vừa âm hộ",
+                "TEN_EN": "Moderate vulvar dysplasia"
+              },
+              {
+                "MA": "N90.2",
+                "TEN": "Loạn sản nặng âm hộ, không phân loại nơi khác",
+                "TEN_EN": "Severe vulvar dysplasia, not elsewhere classified"
+              },
+              {
+                "MA": "N90.3",
+                "TEN": "Loạn sản âm hộ, không đặc hiệu",
+                "TEN_EN": "Dysplasia of vulva, unspecified"
+              },
+              {
+                "MA": "N90.4",
+                "TEN": "Bạch sản âm hộ",
+                "TEN_EN": "Leukoplakia of vulva"
+              },
+              {
+                "MA": "N90.5",
+                "TEN": "Teo âm hộ",
+                "TEN_EN": "Atrophy of vulva"
+              },
+              {
+                "MA": "N90.6",
+                "TEN": "Phì đại âm hộ",
+                "TEN_EN": "Hypertrophy of vulva"
+              },
+              {
+                "MA": "N90.7",
+                "TEN": "Nang âm hộ",
+                "TEN_EN": "Vulvar cyst"
+              },
+              {
+                "MA": "N90.8",
+                "TEN": "Biến đổi không do viêm xác định khác của âm hộ và tầng sinh môn",
+                "TEN_EN": "Other specified noninflammatory disorders of vulva and perineum"
+              },
+              {
+                "MA": "N90.9",
+                "TEN": "Biến đổi không do viêm của âm hộ và tầng sinh môn, không đặc hiệu",
+                "TEN_EN": "Noninflammatory disorder of vulva and perineum, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N91",
+            "TEN": "Vô kinh, thiểu kinh, hiếm kinh",
+            "TEN_EN": "Absent, scanty and rare menstruation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N91.0",
+                "TEN": "Vô kinh nguyên phát",
+                "TEN_EN": "Primary amenorrhoea"
+              },
+              {
+                "MA": "N91.1",
+                "TEN": "Vô kinh thứ phát",
+                "TEN_EN": "Secondary amenorrhoea"
+              },
+              {
+                "MA": "N91.2",
+                "TEN": "Vô kinh, không đặc hiệu",
+                "TEN_EN": "Amenorrhoea, unspecified"
+              },
+              {
+                "MA": "N91.3",
+                "TEN": "Thiểu kinh nguyên phát",
+                "TEN_EN": "Primary oligomenorrhoea"
+              },
+              {
+                "MA": "N91.4",
+                "TEN": "Thiểu kinh thứ phát",
+                "TEN_EN": "Secondary oligomenorrhoea"
+              },
+              {
+                "MA": "N91.5",
+                "TEN": "Thiểu kinh không đặc hiệu",
+                "TEN_EN": "Oligomenorrhoea, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N92",
+            "TEN": "Kinh nguyệt nhiều, hay xuất hiện và không đều",
+            "TEN_EN": "Excessive, frequent and irregular menstruation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N92.0",
+                "TEN": "Kinh nguyệt nhiều và hay xuất hiện với chu kỳ đều",
+                "TEN_EN": "Excessive and frequent menstruation with regular cycle"
+              },
+              {
+                "MA": "N92.1",
+                "TEN": "Kinh nguyệt nhiều và hay xảy ra với chu kỳ không đều",
+                "TEN_EN": "Excessive and frequent menstruation with irregular cycle"
+              },
+              {
+                "MA": "N92.2",
+                "TEN": "Rong kinh lúc dậy thì",
+                "TEN_EN": "Excessive menstruation at puberty"
+              },
+              {
+                "MA": "N92.3",
+                "TEN": "Chảy máu lúc rụng trứng",
+                "TEN_EN": "Ovulation bleeding"
+              },
+              {
+                "MA": "N92.4",
+                "TEN": "Chảy máu nặng lúc tiền mãn kinh",
+                "TEN_EN": "Excessive bleeding in the premenopausal period"
+              },
+              {
+                "MA": "N92.5",
+                "TEN": "Kinh nguyệt không đều khác",
+                "TEN_EN": "Other specified irregular menstruation"
+              },
+              {
+                "MA": "N92.6",
+                "TEN": "Kinh nguyệt không đều, không đặc hiệu",
+                "TEN_EN": "Irregular menstruation, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N93",
+            "TEN": "Chảy máu bất thường khác của tử cung và âm đạo",
+            "TEN_EN": "Other abnormal uterine and vaginal bleeding",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N93.0",
+                "TEN": "Chảy máu sau tiếp xúc và giao hợp",
+                "TEN_EN": "Postcoital and contact bleeding"
+              },
+              {
+                "MA": "N93.8",
+                "TEN": "Chảy máu bất thường xác định khác của tử cung và âm đạo",
+                "TEN_EN": "Other specified abnormal uterine and vaginal bleeding"
+              },
+              {
+                "MA": "N93.9",
+                "TEN": "Chảy máu bất thường của tử cung và âm đạo, không đặc hiệu",
+                "TEN_EN": "Abnormal uterine and vaginal bleeding, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N94",
+            "TEN": "Đau và tình trạng khác liên quan đến cơ quan sinh dục nữ và chu kỳ kinh nguyệt",
+            "TEN_EN": "Pain and other conditions associated with female genital organs and menstrual cycle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N94.0",
+                "TEN": "Đau vừa",
+                "TEN_EN": "Mittelschmerz"
+              },
+              {
+                "MA": "N94.1",
+                "TEN": "Đau lúc giao hợp",
+                "TEN_EN": "Dyspareunia"
+              },
+              {
+                "MA": "N94.2",
+                "TEN": "Co đau âm đạo",
+                "TEN_EN": "Vaginismus"
+              },
+              {
+                "MA": "N94.3",
+                "TEN": "Hội chứng căng thẳng trước khi thấy kinh",
+                "TEN_EN": "Premenstrual tension syndrome"
+              },
+              {
+                "MA": "N94.4",
+                "TEN": "Đau kinh nguyên phát",
+                "TEN_EN": "Primary dysmenorrhoea"
+              },
+              {
+                "MA": "N94.5",
+                "TEN": "Đau kinh thứ phát",
+                "TEN_EN": "Secondary dysmenorrhoea"
+              },
+              {
+                "MA": "N94.6",
+                "TEN": "Đau kinh, không đặc hiệu",
+                "TEN_EN": "Dysmenorrhoea, unspecified"
+              },
+              {
+                "MA": "N94.8",
+                "TEN": "Các tình trạng xác định khác liên quan đến cơ quan sinh dục nữ và chu kỳ kinh nguyệt",
+                "TEN_EN": "Other specified conditions associated with female genital organs and menstrual cycle"
+              },
+              {
+                "MA": "N94.9",
+                "TEN": "Tình trạng không xác định liên quan đến cơ quan sinh dục nữ và chu kỳ kinh nguyệt",
+                "TEN_EN": "Unspecified condition associated with female genital organs and menstrual cycle"
+              }
+            ]
+          },
+          {
+            "MA": "N95",
+            "TEN": "Rối loạn mãn kinh và rối loạn chu mãn kinh",
+            "TEN_EN": "Menopausal and other perimenopausal disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N95.0",
+                "TEN": "Chảy máu sau mãn kinh",
+                "TEN_EN": "Postmenopausal bleeding"
+              },
+              {
+                "MA": "N95.1",
+                "TEN": "Tình trạng mãn kinh nữ",
+                "TEN_EN": "Menopausal and female climacteric states"
+              },
+              {
+                "MA": "N95.2",
+                "TEN": "Viêm teo âm đạo sau mãn kinh",
+                "TEN_EN": "Postmenopausal atrophic vaginitis"
+              },
+              {
+                "MA": "N95.3",
+                "TEN": "Tình trạng liên quan đến mãn kinh nhân tạo",
+                "TEN_EN": "States associated with artificial menopause"
+              },
+              {
+                "MA": "N95.8",
+                "TEN": "Các rối loạn mãn kinh và chu mãn kinh, không đặc hiệu",
+                "TEN_EN": "Other specified menopausal and perimenopausal disorders"
+              },
+              {
+                "MA": "N95.9",
+                "TEN": "Rối loạn mãn kinh và chu mãn kinh, không đặc hiệu",
+                "TEN_EN": "Menopausal and perimenopausal disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N96",
+            "TEN": "Hay sảy thai",
+            "TEN_EN": "Habitual aborter",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "N97",
+            "TEN": "Vô sinh nữ",
+            "TEN_EN": "Female infertility",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N97.0",
+                "TEN": "Vô sinh nữ liên quan đến không rụng trứng",
+                "TEN_EN": "Female infertility associated with anovulation"
+              },
+              {
+                "MA": "N97.1",
+                "TEN": "Vô sinh nữ do nguyên nhân vòi trứng",
+                "TEN_EN": "Female infertility of tubal origin"
+              },
+              {
+                "MA": "N97.2",
+                "TEN": "Vô sinh nữ do nguyên nhân tử cung",
+                "TEN_EN": "Female infertility of uterine origin"
+              },
+              {
+                "MA": "N97.3",
+                "TEN": "Vô sinh nữ do nguyên nhân cổ tử cung",
+                "TEN_EN": "Female infertility of cervical origin"
+              },
+              {
+                "MA": "N97.4",
+                "TEN": "Vô sinh nữ liên quan đến các yếu tố nam",
+                "TEN_EN": "Female infertility associated with male factors"
+              },
+              {
+                "MA": "N97.8",
+                "TEN": "Vô sinh nữ liên quan đến các yếu tố khác",
+                "TEN_EN": "Female infertility of other origin"
+              },
+              {
+                "MA": "N97.9",
+                "TEN": "Vô sinh nữ, không đặc hiệu",
+                "TEN_EN": "Female infertility, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "N98",
+            "TEN": "Biến chứng liên quan đến thụ thai nhân tạo",
+            "TEN_EN": "Complications associated with artificial fertilization",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N98.0",
+                "TEN": "Nhiễm khuẩn liên quan đến thụ tinh nhân tạo",
+                "TEN_EN": "Infection associated with artificial insemination"
+              },
+              {
+                "MA": "N98.1",
+                "TEN": "Cường kích thích các buồng trứng",
+                "TEN_EN": "Hyperstimulation of ovaries"
+              },
+              {
+                "MA": "N98.2",
+                "TEN": "Biến chứng do đưa vào trứng đã thụ tinh trong quá trình thụ tinh trong ống nghiệm",
+                "TEN_EN": "Complications of attempted introduction of fertilized ovum following in vitro fertilization"
+              },
+              {
+                "MA": "N98.3",
+                "TEN": "Biến chứng do đưa phôi vào trong quá trình chuyển phôi",
+                "TEN_EN": "Complications of attempted introduction of embryo in embryo transfer"
+              },
+              {
+                "MA": "N98.8",
+                "TEN": "Biến chứng khác liên quan đến thụ thai nhân tạo",
+                "TEN_EN": "Other complications associated with artificial fertilization"
+              },
+              {
+                "MA": "N98.9",
+                "TEN": "Biến chứng liên quan đến thụ thai nhân tạo, không đặc hiệu",
+                "TEN_EN": "Complication associated with artificial fertilization, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "N99-N99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các rối loạn khác của hệ sinh dục tiết niệu",
-        "TEN_EN": "Other disorders of the genitourinary system"
+        "TEN_EN": "Other disorders of the genitourinary system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "N99",
+            "TEN": "Các rối loạn sau can thiệp của hệ sinh dục tiết niệu không phân loại nơi khác",
+            "TEN_EN": "Postprocedural disorders of genitourinary system, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "N99.0",
+                "TEN": "Suy thận sau can thiệp",
+                "TEN_EN": "Postprocedural renal failure"
+              },
+              {
+                "MA": "N99.1",
+                "TEN": "Hẹp niệu đạo sau can thiệp",
+                "TEN_EN": "Postprocedural urethral stricture"
+              },
+              {
+                "MA": "N99.2",
+                "TEN": "Dính âm đạo sau phẫu thuật",
+                "TEN_EN": "Postoperative adhesions of vagina"
+              },
+              {
+                "MA": "N99.3",
+                "TEN": "Sa vòm âm đạo sau cắt tử cung",
+                "TEN_EN": "Prolapse of vaginal vault after hysterectomy"
+              },
+              {
+                "MA": "N99.4",
+                "TEN": "Dính phúc mạc chậu sau can thiệp",
+                "TEN_EN": "Postprocedural pelvic peritoneal adhesions"
+              },
+              {
+                "MA": "N99.5",
+                "TEN": "Hoạt động kém của các lỗ thông ra ngoài của đường tiết niệu",
+                "TEN_EN": "Malfunction of external stoma of urinary tract"
+              },
+              {
+                "MA": "N99.8",
+                "TEN": "Các rối loạn sau can thiệp khác của hệ sinh dục tiết niệu",
+                "TEN_EN": "Other postprocedural disorders of genitourinary system"
+              },
+              {
+                "MA": "N99.9",
+                "TEN": "Rối loạn sau can thiệp của hệ sinh dục tiết niệu, không đặc hiệu",
+                "TEN_EN": "Postprocedural disorder of genitourinary system, unspecified"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

@@ -40440,67 +40440,3787 @@
         "MA": "Q00-Q07",
         "MA_TRONG_CHUONG": "",
         "TEN": "Dị tật bẩm sinh hệ thần kinh trung ương",
-        "TEN_EN": "Congenital malformations of the nervous system"
+        "TEN_EN": "Congenital malformations of the nervous system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q00",
+            "TEN": "Dị tật không não và các dị tật tương tự",
+            "TEN_EN": "Anencephaly and similar malformations",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q00.0",
+                "TEN": "Tật không có não",
+                "TEN_EN": "Anencephaly"
+              },
+              {
+                "MA": "Q00.1",
+                "TEN": "Tật nứt sọ-cột sống",
+                "TEN_EN": "Craniorachischisis"
+              },
+              {
+                "MA": "Q00.2",
+                "TEN": "Tật Thoát vị não chẩm",
+                "TEN_EN": "Iniencephaly"
+              }
+            ]
+          },
+          {
+            "MA": "Q01",
+            "TEN": "Thoát vị não",
+            "TEN_EN": "Encephalocele",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q01.0",
+                "TEN": "Thoát vị não thuỳ trán",
+                "TEN_EN": "Frontal encephalocele"
+              },
+              {
+                "MA": "Q01.1",
+                "TEN": "Thoát vị não qua vùng mũi trán",
+                "TEN_EN": "Nasofrontal encephalocele"
+              },
+              {
+                "MA": "Q01.2",
+                "TEN": "Thoát vị não vùng chẩm",
+                "TEN_EN": "Occipital encephalocele"
+              },
+              {
+                "MA": "Q01.8",
+                "TEN": "Thoát vị não ở những vị trí khác",
+                "TEN_EN": "Encephalocele of other sites"
+              },
+              {
+                "MA": "Q01.9",
+                "TEN": "Thoát vị não không đặc hiệu",
+                "TEN_EN": "Encephalocele, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q02",
+            "TEN": "Tật đầu nhỏ",
+            "TEN_EN": "Microcephaly",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "Q03",
+            "TEN": "Não úng thủy bẩm sinh",
+            "TEN_EN": "Congenital hydrocephalus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q03.0",
+                "TEN": "Dị tật kênh Sylvius",
+                "TEN_EN": "Malformations of aqueduct of Sylvius"
+              },
+              {
+                "MA": "Q03.1",
+                "TEN": "Khuyết lỗ Magendie và Luschka",
+                "TEN_EN": "Atresia of foramina of Magendie and Luschka"
+              },
+              {
+                "MA": "Q03.8",
+                "TEN": "Não úng thủy bẩm sinh khác",
+                "TEN_EN": "Other congenital hydrocephalus"
+              },
+              {
+                "MA": "Q03.9",
+                "TEN": "Não úng thủy bẩm sinh, không đặc hiệu",
+                "TEN_EN": "Congenital hydrocephalus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q04",
+            "TEN": "Dị tật bẩm sinh khác của não",
+            "TEN_EN": "Other congenital malformations of brain",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q04.0",
+                "TEN": "Các dị tật bẩm sinh thể chai",
+                "TEN_EN": "Congenital malformations of corpus callosum"
+              },
+              {
+                "MA": "Q04.1",
+                "TEN": "Tật không khứu não",
+                "TEN_EN": "Arhinencephaly"
+              },
+              {
+                "MA": "Q04.2",
+                "TEN": "Tật toàn bộ não trước",
+                "TEN_EN": "Holoprosencephaly"
+              },
+              {
+                "MA": "Q04.3",
+                "TEN": "Khuyết tật khác của não",
+                "TEN_EN": "Other reduction deformities of brain"
+              },
+              {
+                "MA": "Q04.4",
+                "TEN": "Loạn sản vách ngăn thần kinh thị giác",
+                "TEN_EN": "Septo-optic dysplasia"
+              },
+              {
+                "MA": "Q04.5",
+                "TEN": "Tật não to",
+                "TEN_EN": "Megalencephaly"
+              },
+              {
+                "MA": "Q04.6",
+                "TEN": "Nang nước não bẩm sinh",
+                "TEN_EN": "Congenital cerebral cysts"
+              },
+              {
+                "MA": "Q04.8",
+                "TEN": "Dị tật bẩm sinh đặc hiệu khác của não",
+                "TEN_EN": "Other specified congenital malformations of brain"
+              },
+              {
+                "MA": "Q04.9",
+                "TEN": "Dị tật bẩm sinh não, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of brain, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q05",
+            "TEN": "Nứt đốt sống",
+            "TEN_EN": "Spina bifida",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q05.0",
+                "TEN": "Nứt đốt sống cổ với não úng thủy",
+                "TEN_EN": "Cervical spina bifida with hydrocephalus"
+              },
+              {
+                "MA": "Q05.1",
+                "TEN": "Nứt đốt sống ngực với não úng thủy",
+                "TEN_EN": "Thoracic spina bifida with hydrocephalus"
+              },
+              {
+                "MA": "Q05.2",
+                "TEN": "Nứt đốt sống thắt lưng với não úng thủy",
+                "TEN_EN": "Lumbar spina bifida with hydrocephalus"
+              },
+              {
+                "MA": "Q05.3",
+                "TEN": "Nứt đốt cùng cụt với não úng thủy",
+                "TEN_EN": "Sacral spina bifida with hydrocephalus"
+              },
+              {
+                "MA": "Q05.4",
+                "TEN": "Nứt đốt sống không đặc hiệu với não úng thủy",
+                "TEN_EN": "Unspecified spina bifida with hydrocephalus"
+              },
+              {
+                "MA": "Q05.5",
+                "TEN": "Nứt đốt sống cổ không có não úng thủy",
+                "TEN_EN": "Cervical spina bifida without hydrocephalus"
+              },
+              {
+                "MA": "Q05.6",
+                "TEN": "Nứt đốt sống ngực không có não úng thủy",
+                "TEN_EN": "Thoracic spina bifida without hydrocephalus"
+              },
+              {
+                "MA": "Q05.7",
+                "TEN": "Nứt đốt sống thắt lưng không có não úng thủy",
+                "TEN_EN": "Lumbar spina bifida without hydrocephalus"
+              },
+              {
+                "MA": "Q05.8",
+                "TEN": "Nứt đốt cùng cụt không có não úng thủy",
+                "TEN_EN": "Sacral spina bifida without hydrocephalus"
+              },
+              {
+                "MA": "Q05.9",
+                "TEN": "Nứt đốt sống không đặc hiệu",
+                "TEN_EN": "Spina bifida, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q06",
+            "TEN": "Các dị tật bẩm sinh khác của tủy sống",
+            "TEN_EN": "Other congenital malformations of spinal cord",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q06.0",
+                "TEN": "Tật không có tủy sống",
+                "TEN_EN": "Amyelia"
+              },
+              {
+                "MA": "Q06.1",
+                "TEN": "Thiểu sản và loạn sản thừng cột sống",
+                "TEN_EN": "Hypoplasia and dysplasia of spinal cord"
+              },
+              {
+                "MA": "Q06.2",
+                "TEN": "Dị tật bẩm sinh dọc tủy sống",
+                "TEN_EN": "Diastematomyelia"
+              },
+              {
+                "MA": "Q06.3",
+                "TEN": "Các dị tật bẩm sinh khác ở vùng đuôi ngựa",
+                "TEN_EN": "Other congenital cauda equina malformations"
+              },
+              {
+                "MA": "Q06.4",
+                "TEN": "Ứ nước ống nội tủy",
+                "TEN_EN": "Hydromyelia"
+              },
+              {
+                "MA": "Q06.8",
+                "TEN": "Dị tật bẩm sinh tủy sống đặc hiệu khác",
+                "TEN_EN": "Other specified congenital malformations of spinal cord"
+              },
+              {
+                "MA": "Q06.9",
+                "TEN": "Dị tật bẩm sinh của thừng tủy sống, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of spinal cord, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q07",
+            "TEN": "Dị tật bẩm sinh khác của hệ thần kinh",
+            "TEN_EN": "Other congenital malformations of nervous system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q07.0",
+                "TEN": "Hội chứng Arnold Chiari",
+                "TEN_EN": "Arnold-Chiari syndrome"
+              },
+              {
+                "MA": "Q07.8",
+                "TEN": "Dị tật bẩm sinh của hệ thần kinh đặc hiệu khác",
+                "TEN_EN": "Other specified congenital malformations of nervous system"
+              },
+              {
+                "MA": "Q07.9",
+                "TEN": "Dị tật bẩm sinh hệ thần kinh, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of nervous system, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q10-Q18",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các dị tật bẩm sinh ở mắt, tai, mặt và cổ",
-        "TEN_EN": "Congenital malformations of eye, ear, face and neck"
+        "TEN_EN": "Congenital malformations of eye, ear, face and neck",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q10",
+            "TEN": "Các dị tật bẩm sinh của mi mắt, ổ mắt và bộ máy bài tiết nước mắt",
+            "TEN_EN": "Congenital malformations of eyelid, lacrimal apparatus and orbit",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q10.0",
+                "TEN": "Sụp mí bẩm sinh",
+                "TEN_EN": "Congenital ptosis"
+              },
+              {
+                "MA": "Q10.1",
+                "TEN": "Lộn mí bẩm sinh",
+                "TEN_EN": "Congenital ectropion"
+              },
+              {
+                "MA": "Q10.2",
+                "TEN": "Quặm bẩm sinh",
+                "TEN_EN": "Congenital entropion"
+              },
+              {
+                "MA": "Q10.3",
+                "TEN": "Các dị tật mí mắt bẩm sinh khác",
+                "TEN_EN": "Other congenital malformations of eyelid"
+              },
+              {
+                "MA": "Q10.4",
+                "TEN": "Không có hoặc vô sản bộ phận liên quan đến nước mắt",
+                "TEN_EN": "Absence and agenesis of lacrimal apparatus"
+              },
+              {
+                "MA": "Q10.5",
+                "TEN": "Hẹp hoặc chít hẹp bẩm sinh ống dẫn lệ",
+                "TEN_EN": "Congenital stenosis and stricture of lacrimal duct"
+              },
+              {
+                "MA": "Q10.6",
+                "TEN": "Các dị tật bẩm sinh khác của ống dẫn lệ",
+                "TEN_EN": "Other congenital malformations of lacrimal apparatus"
+              },
+              {
+                "MA": "Q10.7",
+                "TEN": "Dị tật bẩm sinh hố mắt",
+                "TEN_EN": "Congenital malformation of orbit"
+              }
+            ]
+          },
+          {
+            "MA": "Q11",
+            "TEN": "Các dị tật không có mắt, mắt bé, mắt to",
+            "TEN_EN": "Anophthalmos, microphthalmos and macrophthalmos",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q11.0",
+                "TEN": "Nhãn cầu dạng túi",
+                "TEN_EN": "Cystic eyeball"
+              },
+              {
+                "MA": "Q11.1",
+                "TEN": "Các tật không có mắt khác",
+                "TEN_EN": "Other anophthalmos"
+              },
+              {
+                "MA": "Q11.2",
+                "TEN": "Dị tật mắt bé",
+                "TEN_EN": "Microphthalmos"
+              },
+              {
+                "MA": "Q11.3",
+                "TEN": "Dị tật mắt to",
+                "TEN_EN": "Macrophthalmos"
+              }
+            ]
+          },
+          {
+            "MA": "Q12",
+            "TEN": "Các dị tật bẩm sinh của thủy tinh thể",
+            "TEN_EN": "Congenital lens malformations",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q12.0",
+                "TEN": "Đục thủy tinh thể bẩm sinh",
+                "TEN_EN": "Congenital cataract"
+              },
+              {
+                "MA": "Q12.1",
+                "TEN": "Lệch thủy tinh thể bẩm sinh",
+                "TEN_EN": "Congenital displaced lens"
+              },
+              {
+                "MA": "Q12.2",
+                "TEN": "Khuyết thủy tinh thể",
+                "TEN_EN": "Coloboma of lens"
+              },
+              {
+                "MA": "Q12.3",
+                "TEN": "Thiếu thủy tinh thể bẩm sinh",
+                "TEN_EN": "Congenital aphakia"
+              },
+              {
+                "MA": "Q12.4",
+                "TEN": "Thủy tinh thể hình cầu",
+                "TEN_EN": "Spherophakia"
+              },
+              {
+                "MA": "Q12.8",
+                "TEN": "Các dị tật bẩm sinh khác của thủy tinh thể",
+                "TEN_EN": "Other congenital lens malformations"
+              },
+              {
+                "MA": "Q12.9",
+                "TEN": "Các dị tật thủy tinh thể bẩm sinh không đặc hiệu",
+                "TEN_EN": "Congenital lens malformation, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q13",
+            "TEN": "Dị tật bẩm sinh phần trước mắt",
+            "TEN_EN": "Congenital malformations of anterior segment of eye",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q13.0",
+                "TEN": "Tật khuyết mống mắt",
+                "TEN_EN": "Coloboma of iris"
+              },
+              {
+                "MA": "Q13.1",
+                "TEN": "Tật không có mống mắt",
+                "TEN_EN": "Absence of iris"
+              },
+              {
+                "MA": "Q13.2",
+                "TEN": "Các dị tật bẩm sinh khác của mống mắt",
+                "TEN_EN": "Other congenital malformations of iris"
+              },
+              {
+                "MA": "Q13.3",
+                "TEN": "Đục giác mạc bẩm sinh",
+                "TEN_EN": "Congenital corneal opacity"
+              },
+              {
+                "MA": "Q13.4",
+                "TEN": "Các dị tật bẩm sinh khác của giác mạc",
+                "TEN_EN": "Other congenital corneal malformations"
+              },
+              {
+                "MA": "Q13.5",
+                "TEN": "Củng mạc xanh",
+                "TEN_EN": "Blue sclera"
+              },
+              {
+                "MA": "Q13.8",
+                "TEN": "Các dị tật bẩm sinh khác ở phần trước của mắt",
+                "TEN_EN": "Other congenital malformations of anterior segment of eye"
+              },
+              {
+                "MA": "Q13.9",
+                "TEN": "Dị tật bẩm sinh phần trước không đặc hiệu",
+                "TEN_EN": "Congenital malformation of anterior segment of eye, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q14",
+            "TEN": "Các dị tật bẩm sinh phần sau của mắt",
+            "TEN_EN": "Congenital malformations of posterior segment of eye",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q14.0",
+                "TEN": "Dị tật bẩm sinh thủy tinh dịch",
+                "TEN_EN": "Congenital malformation of vitreous humour"
+              },
+              {
+                "MA": "Q14.1",
+                "TEN": "Dị tật bẩm sinh võng mạc",
+                "TEN_EN": "Congenital malformation of retina"
+              },
+              {
+                "MA": "Q14.2",
+                "TEN": "Dị tật bẩm sinh đĩa thị giác",
+                "TEN_EN": "Congenital malformation of optic disc"
+              },
+              {
+                "MA": "Q14.3",
+                "TEN": "Dị tật bẩm sinh màng mạch",
+                "TEN_EN": "Congenital malformation of choroid"
+              },
+              {
+                "MA": "Q14.8",
+                "TEN": "Các dị tật bẩm sinh khác ở phần sau của mắt",
+                "TEN_EN": "Other congenital malformations of posterior segment of eye"
+              },
+              {
+                "MA": "Q14.9",
+                "TEN": "Dị tật bẩm sinh không đặc hiệu ở phần sau của mắt",
+                "TEN_EN": "Congenital malformation of posterior segment of eye, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q15",
+            "TEN": "Các dị tật bẩm sinh khác của mắt",
+            "TEN_EN": "Other congenital malformations of eye",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q15.0",
+                "TEN": "Glocom (tăng nhãn áp) bẩm sinh",
+                "TEN_EN": "Congenital glaucoma"
+              },
+              {
+                "MA": "Q15.8",
+                "TEN": "Các dị tật bẩm sinh mắt đặc hiệu khác",
+                "TEN_EN": "Other specified congenital malformations of eye"
+              },
+              {
+                "MA": "Q15.9",
+                "TEN": "Dị tật bẩm sinh mắt không đặc hiệu",
+                "TEN_EN": "Congenital malformation of eye, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q16",
+            "TEN": "Các dị tật ở tai gây ảnh hưởng tới thính lực",
+            "TEN_EN": "Congenital malformations of ear causing impairment of hearing",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q16.0",
+                "TEN": "Dị tật thiếu tai ngoài bẩm sinh",
+                "TEN_EN": "Congenital absence of (ear) auricle"
+              },
+              {
+                "MA": "Q16.1",
+                "TEN": "Thiếu, teo hoặc chít hẹp bẩm sinh ống tai ngoài",
+                "TEN_EN": "Congenital absence, atresia and stricture of auditory canal (external)"
+              },
+              {
+                "MA": "Q16.2",
+                "TEN": "Không có vòi Eustache",
+                "TEN_EN": "Absence of eustachian tube"
+              },
+              {
+                "MA": "Q16.3",
+                "TEN": "Dị tật bẩm sinh các xương con của tai",
+                "TEN_EN": "Congenital malformation of ear ossicles"
+              },
+              {
+                "MA": "Q16.4",
+                "TEN": "Các dị tật bẩm sinh của tai giữa",
+                "TEN_EN": "Other congenital malformations of middle ear"
+              },
+              {
+                "MA": "Q16.5",
+                "TEN": "Dị tật bẩm sinh tai trong",
+                "TEN_EN": "Congenital malformation of inner ear"
+              },
+              {
+                "MA": "Q16.9",
+                "TEN": "Dị tật bẩm sinh ở tai gây ảnh hưởng tới thính lực không đặc hiệu",
+                "TEN_EN": "Congenital malformation of ear causing impairment of hearing, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q17",
+            "TEN": "Các dị tật bẩm sinh khác ở tai",
+            "TEN_EN": "Other congenital malformations of ear",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q17.0",
+                "TEN": "Dị tật thừa ở vành tai",
+                "TEN_EN": "Accessory auricle"
+              },
+              {
+                "MA": "Q17.1",
+                "TEN": "Dị tật tai to",
+                "TEN_EN": "Macrotia"
+              },
+              {
+                "MA": "Q17.2",
+                "TEN": "Dị tật tai bé",
+                "TEN_EN": "Microtia"
+              },
+              {
+                "MA": "Q17.3",
+                "TEN": "Tật tai có hình dị thường",
+                "TEN_EN": "Other misshapen ear"
+              },
+              {
+                "MA": "Q17.4",
+                "TEN": "Tật tai ở vị trí bất thường",
+                "TEN_EN": "Misplaced ear"
+              },
+              {
+                "MA": "Q17.5",
+                "TEN": "Tật tai nhô",
+                "TEN_EN": "Prominent ear"
+              },
+              {
+                "MA": "Q17.8",
+                "TEN": "Những dị tật bẩm sinh đặc hiệu khác của tai",
+                "TEN_EN": "Other specified congenital malformations of ear"
+              },
+              {
+                "MA": "Q17.9",
+                "TEN": "Dị tật bẩm sinh tai không đặc hiệu",
+                "TEN_EN": "Congenital malformation of ear, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q18",
+            "TEN": "Các dị tật bẩm sinh khác của mặt và cổ",
+            "TEN_EN": "Other congenital malformations of face and neck",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q18.0",
+                "TEN": "Tạo xoang, lỗ rò và nang nứt kẽ mang",
+                "TEN_EN": "Sinus, fistula and cyst of branchial cleft"
+              },
+              {
+                "MA": "Q18.1",
+                "TEN": "Xoang và mang trước tai",
+                "TEN_EN": "Preauricular sinus and cyst"
+              },
+              {
+                "MA": "Q18.2",
+                "TEN": "Dị tật khe hở mang khác",
+                "TEN_EN": "Other branchial cleft malformations"
+              },
+              {
+                "MA": "Q18.3",
+                "TEN": "Màng da cổ",
+                "TEN_EN": "Webbing of neck"
+              },
+              {
+                "MA": "Q18.4",
+                "TEN": "Tật mồm rộng",
+                "TEN_EN": "Macrostomia"
+              },
+              {
+                "MA": "Q18.5",
+                "TEN": "Tật mồm nhỏ",
+                "TEN_EN": "Microstomia"
+              },
+              {
+                "MA": "Q18.6",
+                "TEN": "Môi to",
+                "TEN_EN": "Macrocheilia"
+              },
+              {
+                "MA": "Q18.7",
+                "TEN": "Môi nhỏ",
+                "TEN_EN": "Microcheilia"
+              },
+              {
+                "MA": "Q18.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác ở mặt và cổ",
+                "TEN_EN": "Other specified congenital malformations of face and neck"
+              },
+              {
+                "MA": "Q18.9",
+                "TEN": "Dị tật bẩm sinh ở mặt và cổ, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of face and neck, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q20-Q28",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các dị tật bẩm sinh của hệ thống tuần hoàn",
-        "TEN_EN": "Congenital malformations of the circulatory system"
+        "TEN_EN": "Congenital malformations of the circulatory system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q20",
+            "TEN": "Các dị tật bẩm sinh của các buồng tim và bộ phận nối",
+            "TEN_EN": "Congenital malformations of cardiac chambers and connections",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q20.0",
+                "TEN": "Thân động mạch chung",
+                "TEN_EN": "Common arterial trunk"
+              },
+              {
+                "MA": "Q20.1",
+                "TEN": "Thất phải hai đường ra",
+                "TEN_EN": "Double outlet right ventricle"
+              },
+              {
+                "MA": "Q20.2",
+                "TEN": "Thất trái hai đường ra",
+                "TEN_EN": "Double outlet left ventricle"
+              },
+              {
+                "MA": "Q20.3",
+                "TEN": "Phần nối thất - động mạch không phù hợp",
+                "TEN_EN": "Discordant ventriculoarterial connection"
+              },
+              {
+                "MA": "Q20.4",
+                "TEN": "Thất hai đường vào",
+                "TEN_EN": "Double inlet ventricle"
+              },
+              {
+                "MA": "Q20.5",
+                "TEN": "Phần nối nhĩ - thất không phù hợp",
+                "TEN_EN": "Discordant atrioventricular connection"
+              },
+              {
+                "MA": "Q20.6",
+                "TEN": "Đồng phân của tiểu nhĩ",
+                "TEN_EN": "Isomerism of atrial appendages"
+              },
+              {
+                "MA": "Q20.8",
+                "TEN": "Các dị tật bẩm sinh khác của các buồng tim và phần nối",
+                "TEN_EN": "Other congenital malformations of cardiac chambers and connections"
+              }
+            ]
+          },
+          {
+            "MA": "Q20.9",
+            "TEN": "Dị tật bẩm sinh của các buồng tim và các phần nối, không đặc hiệu",
+            "TEN_EN": "Congenital malformation of cardiac chambers and connections, unspecified"
+          },
+          {
+            "MA": "Q21",
+            "TEN": "Các dị tật bẩm sinh của vách tim",
+            "TEN_EN": "Congenital malformations of cardiac septa",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q21.0",
+                "TEN": "Thông liên thất",
+                "TEN_EN": "Ventricular septal defect"
+              },
+              {
+                "MA": "Q21.1",
+                "TEN": "Thông liên nhĩ",
+                "TEN_EN": "Atrial septal defect"
+              },
+              {
+                "MA": "Q21.2",
+                "TEN": "Thông vách nhĩ thất",
+                "TEN_EN": "Atrioventricular septal defect"
+              },
+              {
+                "MA": "Q21.3",
+                "TEN": "Tứ chứng Fallot",
+                "TEN_EN": "Tetralogy of Fallot"
+              },
+              {
+                "MA": "Q21.4",
+                "TEN": "Thông vách động mạch chủ - phổi",
+                "TEN_EN": "Aortopulmonary septal defect"
+              },
+              {
+                "MA": "Q21.8",
+                "TEN": "Những dị tật bẩm sinh khác của vách tim",
+                "TEN_EN": "Other congenital malformations of cardiac septa"
+              },
+              {
+                "MA": "Q21.9",
+                "TEN": "Những dị tật bẩm sinh khác của vách tim, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of cardiac septum, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q22",
+            "TEN": "Các dị tật bẩm sinh của van ba lá và động mạch phổi",
+            "TEN_EN": "Congenital malformations of pulmonary and tricuspid valves",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q22.0",
+                "TEN": "Teo van động mạch phổi",
+                "TEN_EN": "Pulmonary valve atresia"
+              },
+              {
+                "MA": "Q22.1",
+                "TEN": "Hẹp van động mạch phổi bẩm sinh",
+                "TEN_EN": "Congenital pulmonary valve stenosis"
+              },
+              {
+                "MA": "Q22.2",
+                "TEN": "Hở van động mạch phổi bẩm sinh",
+                "TEN_EN": "Congenital pulmonary valve insufficiency"
+              },
+              {
+                "MA": "Q22.3",
+                "TEN": "Các dị tật bẩm sinh khác của van động mạch phổi",
+                "TEN_EN": "Other congenital malformations of pulmonary valve"
+              },
+              {
+                "MA": "Q22.4",
+                "TEN": "Hẹp van ba lá bẩm sinh",
+                "TEN_EN": "Congenital tricuspid stenosis"
+              },
+              {
+                "MA": "Q22.5",
+                "TEN": "Dị tật Ebstein",
+                "TEN_EN": "Ebstein s anomaly"
+              },
+              {
+                "MA": "Q22.6",
+                "TEN": "Hội chứng tim phải thiểu sản",
+                "TEN_EN": "Hypoplastic right heart syndrome"
+              },
+              {
+                "MA": "Q22.8",
+                "TEN": "Các dị tật bẩm sinh khác của van ba lá",
+                "TEN_EN": "Other congenital malformations of tricuspid valve"
+              },
+              {
+                "MA": "Q22.9",
+                "TEN": "Dị tật bẩm sinh van ba lá, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of tricuspid valve, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q23",
+            "TEN": "Các dị tật bẩm sinh của van hai lá và động mạch chủ",
+            "TEN_EN": "Congenital malformations of aortic and mitral valves",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q23.0",
+                "TEN": "Hẹp van động mạch chủ bẩm sinh",
+                "TEN_EN": "Congenital stenosis of aortic valve"
+              },
+              {
+                "MA": "Q23.1",
+                "TEN": "Hở van động mạch chủ bẩm sinh",
+                "TEN_EN": "Congenital insufficiency of aortic valve"
+              },
+              {
+                "MA": "Q23.2",
+                "TEN": "Hẹp van hai lá bẩm sinh",
+                "TEN_EN": "Congenital mitral stenosis"
+              },
+              {
+                "MA": "Q23.3",
+                "TEN": "Hở van hai lá bẩm sinh",
+                "TEN_EN": "Congenital mitral insufficiency"
+              },
+              {
+                "MA": "Q23.4",
+                "TEN": "Hội chứng tim trái thiểu sản",
+                "TEN_EN": "Hypoplastic left heart syndrome"
+              },
+              {
+                "MA": "Q23.8",
+                "TEN": "Các dị tật bẩm sinh khác của van hai lá và động mạch chủ",
+                "TEN_EN": "Other congenital malformations of aortic and mitral valves"
+              },
+              {
+                "MA": "Q23.9",
+                "TEN": "Dị tật bẩm sinh của van hai lá và động mạch chủ, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of aortic and mitral valves, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q24",
+            "TEN": "Các dị tật bẩm sinh khác của tim",
+            "TEN_EN": "Other congenital malformations of heart",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q24.0",
+                "TEN": "Tim sang phải",
+                "TEN_EN": "Dextrocardia"
+              },
+              {
+                "MA": "Q24.1",
+                "TEN": "Tim bên trái",
+                "TEN_EN": "Laevocardia"
+              },
+              {
+                "MA": "Q24.2",
+                "TEN": "Nhĩ ba buồng",
+                "TEN_EN": "Cor triatriatum"
+              },
+              {
+                "MA": "Q24.3",
+                "TEN": "Hẹp phễu động mạch phổi",
+                "TEN_EN": "Pulmonary infundibular stenosis"
+              },
+              {
+                "MA": "Q24.4",
+                "TEN": "Hẹp dưới van động mạch chủ bẩm sinh",
+                "TEN_EN": "Congenital subaortic stenosis"
+              },
+              {
+                "MA": "Q24.5",
+                "TEN": "Dị tật của mạch vành",
+                "TEN_EN": "Malformation of coronary vessels"
+              },
+              {
+                "MA": "Q24.6",
+                "TEN": "Nghẽn tim bẩm sinh",
+                "TEN_EN": "Congenital heart block"
+              },
+              {
+                "MA": "Q24.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của tim",
+                "TEN_EN": "Other specified congenital malformations of heart"
+              },
+              {
+                "MA": "Q24.9",
+                "TEN": "Các dị tật bẩm sinh của tim, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of heart, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q25",
+            "TEN": "Các dị tật bẩm sinh của các động mạch lớn",
+            "TEN_EN": "Congenital malformations of great arteries",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q25.0",
+                "TEN": "Còn ống động mạch",
+                "TEN_EN": "Patent ductus arteriosus"
+              },
+              {
+                "MA": "Q25.1",
+                "TEN": "Hẹp eo động mạch chủ",
+                "TEN_EN": "Coarctation of aorta"
+              },
+              {
+                "MA": "Q25.2",
+                "TEN": "Teo động mạch chủ",
+                "TEN_EN": "Atresia of aorta"
+              },
+              {
+                "MA": "Q25.3",
+                "TEN": "Hẹp động mạch chủ",
+                "TEN_EN": "Stenosis of aorta"
+              },
+              {
+                "MA": "Q25.4",
+                "TEN": "Các dị tật bẩm sinh khác của động mạch chủ",
+                "TEN_EN": "Other congenital malformations of aorta"
+              },
+              {
+                "MA": "Q25.5",
+                "TEN": "Teo động mạch phổi",
+                "TEN_EN": "Atresia of pulmonary artery"
+              },
+              {
+                "MA": "Q25.6",
+                "TEN": "Hẹp động mạch phổi",
+                "TEN_EN": "Stenosis of pulmonary artery"
+              },
+              {
+                "MA": "Q25.7",
+                "TEN": "Các dị tật bẩm sinh khác của động mạch phổi",
+                "TEN_EN": "Other congenital malformations of pulmonary artery"
+              },
+              {
+                "MA": "Q25.8",
+                "TEN": "Các dị tật bẩm sinh khác của động mạch lớn",
+                "TEN_EN": "Other congenital malformations of great arteries"
+              },
+              {
+                "MA": "Q25.9",
+                "TEN": "Dị tật bẩm sinh của các động mạch lớn, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of great arteries, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q26",
+            "TEN": "Các dị tật bẩm sinh của các tĩnh mạch lớn",
+            "TEN_EN": "Congenital malformations of great veins",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q26.0",
+                "TEN": "Hẹp tĩnh mạch chủ bẩm sinh",
+                "TEN_EN": "Congenital stenosis of vena cava"
+              },
+              {
+                "MA": "Q26.1",
+                "TEN": "Còn tĩnh mạch chủ trên trái",
+                "TEN_EN": "Persistent left superior vena cava"
+              },
+              {
+                "MA": "Q26.2",
+                "TEN": "Hồi lưu tĩnh mạch phổi bất thường hoàn toàn",
+                "TEN_EN": "Total anomalous pulmonary venous connection"
+              },
+              {
+                "MA": "Q26.3",
+                "TEN": "Hồi lưu tĩnh mạch phổi bất thường một phần",
+                "TEN_EN": "Partial anomalous pulmonary venous connection"
+              },
+              {
+                "MA": "Q26.4",
+                "TEN": "Hồi lưu tĩnh mạch phổi bất thường, không đặc hiệu",
+                "TEN_EN": "Anomalous pulmonary venous connection, unspecified"
+              },
+              {
+                "MA": "Q26.5",
+                "TEN": "Hồi lưu tĩnh mạch phổi bất thường",
+                "TEN_EN": "Anomalous portal venous connection"
+              },
+              {
+                "MA": "Q26.6",
+                "TEN": "Rò động mạch gan - tĩnh mạch cửa",
+                "TEN_EN": "Portal vein-hepatic artery fistula"
+              },
+              {
+                "MA": "Q26.8",
+                "TEN": "Các dị tật bẩm sinh khác của các tĩnh mạch lớn",
+                "TEN_EN": "Other congenital malformations of great veins"
+              },
+              {
+                "MA": "Q26.9",
+                "TEN": "Dị tật bẩm sinh của các tĩnh mạch lớn, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of great vein, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q27",
+            "TEN": "Các dị tật bẩm sinh khác của hệ thống mạch máu ngoại biên",
+            "TEN_EN": "Other congenital malformations of peripheral vascular system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q27.0",
+                "TEN": "Không có hoặc thiểu sản động mạch rốn bẩm sinh",
+                "TEN_EN": "Congenital absence and hypoplasia of umbilical artery"
+              },
+              {
+                "MA": "Q27.1",
+                "TEN": "Hẹp động mạch thận bẩm sinh",
+                "TEN_EN": "Congenital renal artery stenosis"
+              },
+              {
+                "MA": "Q27.2",
+                "TEN": "Các dị tật bẩm sinh khác của động mạch thận",
+                "TEN_EN": "Other congenital malformations of renal artery"
+              },
+              {
+                "MA": "Q27.3",
+                "TEN": "Dị tật động - tĩnh mạch ngoại biên",
+                "TEN_EN": "Peripheral arteriovenous malformation"
+              },
+              {
+                "MA": "Q27.4",
+                "TEN": "Dãn tĩnh mạch bẩm sinh",
+                "TEN_EN": "Congenital phlebectasia"
+              },
+              {
+                "MA": "Q27.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của hệ thống mạch ngoại biên",
+                "TEN_EN": "Other specified congenital malformations of peripheral vascular system"
+              },
+              {
+                "MA": "Q27.9",
+                "TEN": "Dị tật bẩm sinh của hệ thống mạch ngoại biên, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of peripheral vascular system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q28",
+            "TEN": "Các dị tật bẩm sinh khác của hệ thống tuần hoàn",
+            "TEN_EN": "Other congenital malformations of circulatory system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q28.0",
+                "TEN": "Dị tật động - tĩnh mạch của các mạch máu trước não",
+                "TEN_EN": "Arteriovenous malformation of precerebral vessels"
+              },
+              {
+                "MA": "Q28.1",
+                "TEN": "Các dị tật khác của các mạch máu trước não",
+                "TEN_EN": "Other malformations of precerebral vessels"
+              },
+              {
+                "MA": "Q28.2",
+                "TEN": "Dị tật động - tĩnh mạch của các mạch máu não",
+                "TEN_EN": "Arteriovenous malformation of cerebral vessels"
+              },
+              {
+                "MA": "Q28.3",
+                "TEN": "Các dị tật khác của các mạch máu não",
+                "TEN_EN": "Other malformations of cerebral vessels"
+              },
+              {
+                "MA": "Q28.8",
+                "TEN": "Những dị tật đặc hiệu khác của hệ tuần hoàn",
+                "TEN_EN": "Other specified congenital malformations of circulatory system"
+              },
+              {
+                "MA": "Q28.9",
+                "TEN": "Dị tật bẩm sinh hệ tuần hoàn, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of circulatory system, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q30-Q34",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bất thường bẩm sinh của bộ máy hô hấp",
-        "TEN_EN": "Congenital malformations of the respiratory system"
+        "TEN_EN": "Congenital malformations of the respiratory system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q30",
+            "TEN": "Các bất thường-bẩm sinh ở mũi",
+            "TEN_EN": "Congenital malformations of nose",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q30.0",
+                "TEN": "Teo lỗ mũi",
+                "TEN_EN": "Choanal atresia"
+              },
+              {
+                "MA": "Q30.1",
+                "TEN": "Bất sản và kém phát triển mũi",
+                "TEN_EN": "Agenesis and underdevelopment of nose"
+              },
+              {
+                "MA": "Q30.2",
+                "TEN": "Mũi có rãnh, có lõm hoặc nứt kẽ",
+                "TEN_EN": "Fissured, notched and cleft nose"
+              },
+              {
+                "MA": "Q30.3",
+                "TEN": "Thủng vách mũi bẩm sinh",
+                "TEN_EN": "Congenital perforated nasal septum"
+              },
+              {
+                "MA": "Q30.8",
+                "TEN": "Các dị tật bẩm sinh khác ở mũi",
+                "TEN_EN": "Other congenital malformations of nose"
+              },
+              {
+                "MA": "Q30.9",
+                "TEN": "Bất thường bẩm sinh ở mũi, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of nose, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q31",
+            "TEN": "Các bất thường bẩm sinh của thanh quản",
+            "TEN_EN": "Congenital malformations of larynx",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q31.0",
+                "TEN": "Màng thanh quản",
+                "TEN_EN": "Web of larynx"
+              },
+              {
+                "MA": "Q31.1",
+                "TEN": "Hẹp vùng hạ thanh môn bẩm sinh",
+                "TEN_EN": "Congenital subglottic stenosis"
+              },
+              {
+                "MA": "Q31.2",
+                "TEN": "Thiểu sản thanh quản",
+                "TEN_EN": "Laryngeal hypoplasia"
+              },
+              {
+                "MA": "Q31.3",
+                "TEN": "Thoát vị thanh quản",
+                "TEN_EN": "Laryngocele"
+              },
+              {
+                "MA": "Q31.5",
+                "TEN": "Nhuyễn cơ thanh quản bẩm sinh",
+                "TEN_EN": "Congenital laryngomalacia"
+              },
+              {
+                "MA": "Q31.8",
+                "TEN": "Các dị tật bẩm sinh khác của thanh quản",
+                "TEN_EN": "Other congenital malformations of larynx"
+              },
+              {
+                "MA": "Q31.9",
+                "TEN": "Bất thường thanh quản bẩm sinh, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of larynx, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q32",
+            "TEN": "Các bất thường bẩm sinh ở khí quản và phế quản",
+            "TEN_EN": "Congenital malformations of trachea and bronchus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q32.0",
+                "TEN": "Nhuyễn khí quản bẩm sinh",
+                "TEN_EN": "Congenital tracheomalacia"
+              },
+              {
+                "MA": "Q32.1",
+                "TEN": "Các bất thường khác của khí quản",
+                "TEN_EN": "Other congenital malformations of trachea"
+              },
+              {
+                "MA": "Q32.2",
+                "TEN": "Nhuyễn phế quản bẩm sinh",
+                "TEN_EN": "Congenital bronchomalacia"
+              },
+              {
+                "MA": "Q32.3",
+                "TEN": "Hẹp phế quản bẩm sinh",
+                "TEN_EN": "Congenital stenosis of bronchus"
+              },
+              {
+                "MA": "Q32.4",
+                "TEN": "Các bất thường bẩm sinh khác của phế quản",
+                "TEN_EN": "Other congenital malformations of bronchus"
+              }
+            ]
+          },
+          {
+            "MA": "Q33",
+            "TEN": "Các dị tật bẩm sinh của phổi",
+            "TEN_EN": "Congenital malformations of lung",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q33.0",
+                "TEN": "Nang phổi bẩm sinh",
+                "TEN_EN": "Congenital cystic lung"
+              },
+              {
+                "MA": "Q33.1",
+                "TEN": "Phổi có thùy phụ",
+                "TEN_EN": "Accessory lobe of lung"
+              },
+              {
+                "MA": "Q33.2",
+                "TEN": "Phổi biệt lập",
+                "TEN_EN": "Sequestration of lung"
+              },
+              {
+                "MA": "Q33.3",
+                "TEN": "Bất sản phổi",
+                "TEN_EN": "Agenesis of lung"
+              },
+              {
+                "MA": "Q33.4",
+                "TEN": "Giãn phế quản bẩm sinh",
+                "TEN_EN": "Congenital bronchiectasis"
+              },
+              {
+                "MA": "Q33.5",
+                "TEN": "Lạc chỗ của một tổ chức khác tại phổi",
+                "TEN_EN": "Ectopic tissue in lung"
+              },
+              {
+                "MA": "Q33.6",
+                "TEN": "Thiểu sản và loạn sản phổi",
+                "TEN_EN": "Hypoplasia and dysplasia of lung"
+              },
+              {
+                "MA": "Q33.8",
+                "TEN": "Các bất thường bẩm sinh khác của phổi",
+                "TEN_EN": "Other congenital malformations of lung"
+              },
+              {
+                "MA": "Q33.9",
+                "TEN": "Các dị tật bẩm sinh khác của phổi không đặc hiệu",
+                "TEN_EN": "Congenital malformation of lung, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q34",
+            "TEN": "Các bất thường bẩm sinh khác của bộ máy hô hấp",
+            "TEN_EN": "Other congenital malformations of respiratory system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q34.0",
+                "TEN": "Bất thường ở màng phổi",
+                "TEN_EN": "Anomaly of pleura"
+              },
+              {
+                "MA": "Q34.1",
+                "TEN": "Kén trung thất bẩm sinh",
+                "TEN_EN": "Congenital cyst of mediastinum"
+              },
+              {
+                "MA": "Q34.8",
+                "TEN": "Các dị tật đường hô hấp bẩm sinh đặc hiệu khác",
+                "TEN_EN": "Other specified congenital malformations of respiratory system"
+              },
+              {
+                "MA": "Q34.9",
+                "TEN": "Bất thường bẩm sinh bộ máy hô hấp không đặc hiệu",
+                "TEN_EN": "Congenital malformation of respiratory system, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q35-Q37",
         "MA_TRONG_CHUONG": "",
         "TEN": "Khe hở môi và khe hở vòm miệng",
-        "TEN_EN": "Cleft lip and cleft palate"
+        "TEN_EN": "Cleft lip and cleft palate",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q35",
+            "TEN": "Khe hở vòm miệng",
+            "TEN_EN": "Cleft palate",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q35.1",
+                "TEN": "Khe hở vòm miệng cứng",
+                "TEN_EN": "Cleft hard palate"
+              },
+              {
+                "MA": "Q35.3",
+                "TEN": "Khe hở vòm miệng mềm",
+                "TEN_EN": "Cleft soft palate"
+              },
+              {
+                "MA": "Q35.5",
+                "TEN": "Khe hở vòm miệng cứng và mềm",
+                "TEN_EN": "Cleft hard palate with cleft soft palate"
+              },
+              {
+                "MA": "Q35.7",
+                "TEN": "Khe hở lưỡi gà",
+                "TEN_EN": "Cleft uvula"
+              },
+              {
+                "MA": "Q35.9",
+                "TEN": "Khe hở vòm miệng, không đặc hiệu, một bên",
+                "TEN_EN": "Cleft palate, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q36",
+            "TEN": "Khe hở môi",
+            "TEN_EN": "Cleft lip",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q36.0",
+                "TEN": "Khe hở môi, hai bên",
+                "TEN_EN": "Cleft lip, bilateral"
+              },
+              {
+                "MA": "Q36.1",
+                "TEN": "Khe hở giữa môi",
+                "TEN_EN": "Cleft lip, median"
+              },
+              {
+                "MA": "Q36.9",
+                "TEN": "Khe hở môi, một bên",
+                "TEN_EN": "Cleft lip, unilateral"
+              }
+            ]
+          },
+          {
+            "MA": "Q37",
+            "TEN": "Khe hở vòm miệng cùng với khe hở môi",
+            "TEN_EN": "Cleft palate with cleft lip",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q37.0",
+                "TEN": "Khe hở vòm miệng cứng và môi, hai bên",
+                "TEN_EN": "Cleft hard palate with bilateral cleft lip"
+              },
+              {
+                "MA": "Q37.1",
+                "TEN": "Khe hở vòm miệng cứng và môi, một bên",
+                "TEN_EN": "Cleft hard palate with unilateral cleft lip"
+              },
+              {
+                "MA": "Q37.2",
+                "TEN": "Khe hở vòm miệng mềm và môi, hai bên",
+                "TEN_EN": "Cleft soft palate with bilateral cleft lip"
+              },
+              {
+                "MA": "Q37.3",
+                "TEN": "Khe hở vòm miệng mềm và môi, một bên",
+                "TEN_EN": "Cleft soft palate with unilateral cleft lip"
+              },
+              {
+                "MA": "Q37.4",
+                "TEN": "Khe hở vòm miệng cứng, mềm và môi, hai bên",
+                "TEN_EN": "Cleft hard and soft palate with bilateral cleft lip"
+              },
+              {
+                "MA": "Q37.5",
+                "TEN": "Khe hở vòm miệng cứng, mềm và môi, một bên",
+                "TEN_EN": "Cleft hard and soft palate with unilateral cleft lip"
+              },
+              {
+                "MA": "Q37.8",
+                "TEN": "Khe hở vòm miệng không xác định và khe hở môi hai bên",
+                "TEN_EN": "Unspecified cleft palate with bilateral cleft lip"
+              },
+              {
+                "MA": "Q37.9",
+                "TEN": "Khe hở vòm miệng không xác định và khe hở môi một bên",
+                "TEN_EN": "Unspecified cleft palate with unilateral cleft lip"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q38-Q45",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các dị tật bẩm sinh khác của hệ tiêu hóa",
-        "TEN_EN": "Other congenital malformations of the digestive system"
+        "TEN_EN": "Other congenital malformations of the digestive system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q38",
+            "TEN": "Các dị tật bẩm sinh khác của lưỡi, miệng và họng",
+            "TEN_EN": "Other congenital malformations of tongue, mouth and pharynx",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q38.0",
+                "TEN": "Các dị tật bẩm sinh của môi, không phân loại ở mục khác",
+                "TEN_EN": "Congenital malformations of lips, not elsewhere classified"
+              },
+              {
+                "MA": "Q38.1",
+                "TEN": "Dính lưỡi",
+                "TEN_EN": "Ankyloglossia"
+              },
+              {
+                "MA": "Q38.2",
+                "TEN": "Lưỡi to",
+                "TEN_EN": "Macroglossia"
+              },
+              {
+                "MA": "Q38.3",
+                "TEN": "Các dị tật bẩm sinh khác của lưỡi",
+                "TEN_EN": "Other congenital malformations of tongue"
+              },
+              {
+                "MA": "Q38.4",
+                "TEN": "Các dị tật bẩm sinh của các tuyến và ống dẫn nước bọt",
+                "TEN_EN": "Congenital malformations of salivary glands and ducts"
+              },
+              {
+                "MA": "Q38.5",
+                "TEN": "Các dị tật bẩm sinh của vòm miệng, không phân loại ở mục khác",
+                "TEN_EN": "Congenital malformations of palate, not elsewhere classified"
+              },
+              {
+                "MA": "Q38.6",
+                "TEN": "Các dị tật bẩm sinh khác của miệng",
+                "TEN_EN": "Other congenital malformations of mouth"
+              },
+              {
+                "MA": "Q38.7",
+                "TEN": "Túi họng",
+                "TEN_EN": "Pharyngeal pouch"
+              },
+              {
+                "MA": "Q38.8",
+                "TEN": "Các dị tật bẩm sinh khác của họng",
+                "TEN_EN": "Other congenital malformations of pharynx"
+              }
+            ]
+          },
+          {
+            "MA": "Q39",
+            "TEN": "Các dị tật bẩm sinh của thực quản",
+            "TEN_EN": "Congenital malformations of oesophagus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q39.0",
+                "TEN": "Teo thực quản không có đường rò",
+                "TEN_EN": "Atresia of oesophagus without fistula"
+              },
+              {
+                "MA": "Q39.1",
+                "TEN": "Teo thực quản có đường rò thực quản - khí quản",
+                "TEN_EN": "Atresia of oesophagus with tracheo-oesophageal fistula"
+              },
+              {
+                "MA": "Q39.2",
+                "TEN": "Đường rò thực quản - khí quản bẩm sinh, không có, teo thực quản",
+                "TEN_EN": "Congenital tracheo-oesophageal fistula without atresia"
+              },
+              {
+                "MA": "Q39.3",
+                "TEN": "Hẹp và hẹp khít thực quản bẩm sinh",
+                "TEN_EN": "Congenital stenosis and stricture of oesophagus"
+              },
+              {
+                "MA": "Q39.4",
+                "TEN": "Màng ngăn thực quản",
+                "TEN_EN": "Oesophageal web"
+              },
+              {
+                "MA": "Q39.5",
+                "TEN": "Dãn thực quản bẩm sinh",
+                "TEN_EN": "Congenital dilatation of oesophagus"
+              },
+              {
+                "MA": "Q39.6",
+                "TEN": "Túi thừa thực quản",
+                "TEN_EN": "Diverticulum of oesophagus"
+              },
+              {
+                "MA": "Q39.8",
+                "TEN": "Các dị tật bẩm sinh khác của thực quản",
+                "TEN_EN": "Other congenital malformations of oesophagus"
+              },
+              {
+                "MA": "Q39.9",
+                "TEN": "Dị tật bẩm sinh của thực quản, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of oesophagus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q40",
+            "TEN": "Các dị tật bẩm sinh khác của đường tiêu hóa trên",
+            "TEN_EN": "Other congenital malformations of upper alimentary tract",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q40.0",
+                "TEN": "Hẹp phù đại môn vị bẩm sinh",
+                "TEN_EN": "Congenital hypertrophic pyloric stenosis"
+              },
+              {
+                "MA": "Q40.1",
+                "TEN": "Thoát vị khe thực quản bẩm sinh",
+                "TEN_EN": "Congenital hiatus hernia"
+              },
+              {
+                "MA": "Q40.2",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của dạ dày",
+                "TEN_EN": "Other specified congenital malformations of stomach"
+              },
+              {
+                "MA": "Q40.3",
+                "TEN": "Dị tật bẩm sinh của dạ dày không đặc hiệu",
+                "TEN_EN": "Congenital malformation of stomach, unspecified"
+              },
+              {
+                "MA": "Q40.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của đường tiêu hóa trên",
+                "TEN_EN": "Other specified congenital malformations of upper alimentary tract"
+              },
+              {
+                "MA": "Q40.9",
+                "TEN": "Dị tật bẩm sinh không đặc hiệu của đường tiêu hóa trên",
+                "TEN_EN": "Congenital malformation of upper alimentary tract, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q41",
+            "TEN": "Không có, teo và hẹp bẩm sinh tiểu tràng",
+            "TEN_EN": "Congenital absence, atresia and stenosis of small intestine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q41.0",
+                "TEN": "Không có, teo và hẹp hành tá tràng bẩm sinh",
+                "TEN_EN": "Congenital absence, atresia and stenosis of duodenum"
+              },
+              {
+                "MA": "Q41.1",
+                "TEN": "Không có, teo và hẹp hỗng tràng bẩm sinh",
+                "TEN_EN": "Congenital absence, atresia and stenosis of jejunum"
+              },
+              {
+                "MA": "Q41.2",
+                "TEN": "Không có, teo và hẹp hồi tràng bẩm sinh",
+                "TEN_EN": "Congenital absence, atresia and stenosis of ileum"
+              },
+              {
+                "MA": "Q41.8",
+                "TEN": "Không có, teo và hẹp mọt phần tiểu tràng xác định khác bẩm sinh",
+                "TEN_EN": "Congenital absence, atresia and stenosis of other specified parts of small intestine"
+              },
+              {
+                "MA": "Q41.9",
+                "TEN": "Không có, teo và hẹp tiểu tràng phần không đặc hiệu",
+                "TEN_EN": "Congenital absence, atresia and stenosis of small intestine, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q42",
+            "TEN": "Không có, teo và hẹp bẩm sinh đại tràng",
+            "TEN_EN": "Congenital absence, atresia and stenosis of large intestine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q42.0",
+                "TEN": "Không có, teo và hẹp bẩm sinh trực tràng có đường rò",
+                "TEN_EN": "Congenital absence, atresia and stenosis of rectum with fistula"
+              },
+              {
+                "MA": "Q42.1",
+                "TEN": "Không có, teo và hẹp bẩm sinh trực tràng không có đường rò",
+                "TEN_EN": "Congenital absence, atresia and stenosis of rectum without fistula"
+              },
+              {
+                "MA": "Q42.2",
+                "TEN": "Không có, teo và hẹp bẩm sinh hậu môn có đường rò",
+                "TEN_EN": "Congenital absence, atresia and stenosis of anus with fistula"
+              },
+              {
+                "MA": "Q42.3",
+                "TEN": "Không có, teo và hẹp bẩm sinh hậu môn không có đường rò",
+                "TEN_EN": "Congenital absence, atresia and stenosis of anus without fistula"
+              },
+              {
+                "MA": "Q42.8",
+                "TEN": "Không có, teo và hẹp bẩm sinh các phần khác của đại tràng",
+                "TEN_EN": "Congenital absence, atresia and stenosis of other parts of large intestine"
+              },
+              {
+                "MA": "Q42.9",
+                "TEN": "Không có, teo và hẹp bẩm sinh đại tràng, phần không đặc hiệu",
+                "TEN_EN": "Congenital absence, atresia and stenosis of large intestine, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q43",
+            "TEN": "Các dị tật bẩm sinh khác của ruột",
+            "TEN_EN": "Other congenital malformations of intestine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q43.0",
+                "TEN": "Túi thừa Meckel",
+                "TEN_EN": "Meckel s diverticulum"
+              },
+              {
+                "MA": "Q43.1",
+                "TEN": "Bệnh Hirschsprung",
+                "TEN_EN": "Hirschsprung s disease"
+              },
+              {
+                "MA": "Q43.2",
+                "TEN": "Các rối loạn chức năng bẩm sinh khác của ruột kết",
+                "TEN_EN": "Other congenital functional disorders of colon"
+              },
+              {
+                "MA": "Q43.3",
+                "TEN": "Các dị tật cố định bẩm sinh ở ruột",
+                "TEN_EN": "Congenital malformations of intestinal fixation"
+              },
+              {
+                "MA": "Q43.4",
+                "TEN": "Ruột đôi",
+                "TEN_EN": "Duplication of intestine"
+              },
+              {
+                "MA": "Q43.5",
+                "TEN": "Hậu môn lạc chỗ",
+                "TEN_EN": "Ectopic anus"
+              },
+              {
+                "MA": "Q43.6",
+                "TEN": "Đường rò bẩm sinh của hậu môn và trực tràng",
+                "TEN_EN": "Congenital fistula of rectum and anus"
+              },
+              {
+                "MA": "Q43.7",
+                "TEN": "Tồn tại ổ nhớp",
+                "TEN_EN": "Persistent cloaca"
+              },
+              {
+                "MA": "Q43.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của ruột",
+                "TEN_EN": "Other specified congenital malformations of intestine"
+              },
+              {
+                "MA": "Q43.9",
+                "TEN": "Dị tật bẩm sinh ruột, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of intestine, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q44",
+            "TEN": "Các dị tật bẩm sinh của túi mật, đường mật và gan",
+            "TEN_EN": "Congenital malformations of gallbladder, bile ducts and liver",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q44.0",
+                "TEN": "Không phát triển, bất sản và giảm sản túi mật",
+                "TEN_EN": "Agenesis, aplasia and hypoplasia of gallbladder"
+              },
+              {
+                "MA": "Q44.1",
+                "TEN": "Các dị tật bẩm sinh khác của túi mật",
+                "TEN_EN": "Other congenital malformations of gallbladder"
+              },
+              {
+                "MA": "Q44.2",
+                "TEN": "Teo đường mật",
+                "TEN_EN": "Atresia of bile ducts"
+              },
+              {
+                "MA": "Q44.3",
+                "TEN": "Hẹp và hẹp khít bẩm sinh khác của đường mật",
+                "TEN_EN": "Congenital stenosis and stricture of bile ducts"
+              },
+              {
+                "MA": "Q44.4",
+                "TEN": "U nang ống mật chủ",
+                "TEN_EN": "Choledochal cyst"
+              },
+              {
+                "MA": "Q44.5",
+                "TEN": "Các dị tật bẩm sinh khác của đường mật",
+                "TEN_EN": "Other congenital malformations of bile ducts"
+              },
+              {
+                "MA": "Q44.6",
+                "TEN": "Các bệnh nang của gan",
+                "TEN_EN": "Cystic disease of liver"
+              },
+              {
+                "MA": "Q44.7",
+                "TEN": "Các dị tật bẩm sinh khác của gan",
+                "TEN_EN": "Other congenital malformations of liver"
+              }
+            ]
+          },
+          {
+            "MA": "Q45",
+            "TEN": "Các dị tật bẩm sinh khác của hệ tiêu hóa",
+            "TEN_EN": "Other congenital malformations of digestive system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q45.0",
+                "TEN": "Không phát triển, bất sản và giảm sản tụy",
+                "TEN_EN": "Agenesis, aplasia and hypoplasia of pancreas"
+              },
+              {
+                "MA": "Q45.1",
+                "TEN": "Tụy hình vòng",
+                "TEN_EN": "Annular pancreas"
+              },
+              {
+                "MA": "Q45.2",
+                "TEN": "Nang tụy bẩm sinh",
+                "TEN_EN": "Congenital pancreatic cyst"
+              },
+              {
+                "MA": "Q45.3",
+                "TEN": "Các dị tật bẩm sinh khác của tụy và ống tụy",
+                "TEN_EN": "Other congenital malformations of pancreas and pancreatic duct"
+              },
+              {
+                "MA": "Q45.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của hệ tiêu hóa",
+                "TEN_EN": "Other specified congenital malformations of digestive system"
+              },
+              {
+                "MA": "Q45.9",
+                "TEN": "Dị tật bẩm sinh của hệ tiêu hóa, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of digestive system, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q50-Q56",
         "MA_TRONG_CHUONG": "",
         "TEN": "Dị tật bẩm sinh của cơ quan sinh dục",
-        "TEN_EN": "Congenital malformations of genital organs"
+        "TEN_EN": "Congenital malformations of genital organs",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q50",
+            "TEN": "Những dị tật bẩm sinh của buồng trứng, vòi trứng và dây chằng rộng",
+            "TEN_EN": "Congenital malformations of ovaries, fallopian tubes and broad ligaments",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q50.0",
+                "TEN": "Không có buồng trứng bẩm sinh",
+                "TEN_EN": "Congenital absence of ovary"
+              },
+              {
+                "MA": "Q50.1",
+                "TEN": "Nang buồng trứng",
+                "TEN_EN": "Developmental ovarian cyst"
+              },
+              {
+                "MA": "Q50.2",
+                "TEN": "Xoắn bẩm sinh của buồng trứng",
+                "TEN_EN": "Congenital torsion of ovary"
+              },
+              {
+                "MA": "Q50.3",
+                "TEN": "Những dị tật bẩm sinh khác của buồng trứng",
+                "TEN_EN": "Other congenital malformations of ovary"
+              },
+              {
+                "MA": "Q50.4",
+                "TEN": "Nang bào thai của vòi trứng",
+                "TEN_EN": "Embryonic cyst of fallopian tube"
+              },
+              {
+                "MA": "Q50.5",
+                "TEN": "Nang nguồn gốc bào thai của dây chằng rộng",
+                "TEN_EN": "Embryonic cyst of broad ligament"
+              },
+              {
+                "MA": "Q50.6",
+                "TEN": "Những dị tật bẩm sinh khác của vòi trứng và dây chằng rộng",
+                "TEN_EN": "Other congenital malformations of fallopian tube and broad ligament"
+              }
+            ]
+          },
+          {
+            "MA": "Q51",
+            "TEN": "Dị tật bẩm sinh của tử cung và cổ tử cung",
+            "TEN_EN": "Congenital malformations of uterus and cervix",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q51.0",
+                "TEN": "Bất sản và ngừng phát triển của tử cung",
+                "TEN_EN": "Agenesis and aplasia of uterus"
+              },
+              {
+                "MA": "Q51.1",
+                "TEN": "Tử cung đôi với cổ tử cung và âm đạo đôi",
+                "TEN_EN": "Doubling of uterus with doubling of cervix and vagina"
+              },
+              {
+                "MA": "Q51.2",
+                "TEN": "Các loại tử cung đôi khác",
+                "TEN_EN": "Other doubling of uterus"
+              },
+              {
+                "MA": "Q51.3",
+                "TEN": "Tử cung hai sừng",
+                "TEN_EN": "Bicornate uterus"
+              },
+              {
+                "MA": "Q51.4",
+                "TEN": "Tử cung một sừng",
+                "TEN_EN": "Unicornate uterus"
+              },
+              {
+                "MA": "Q51.5",
+                "TEN": "Bất sản và ngừng phát triển của cổ tử cung",
+                "TEN_EN": "Agenesis and aplasia of cervix"
+              },
+              {
+                "MA": "Q51.6",
+                "TEN": "Nang nguồn gốc bào thai của cổ tử cung",
+                "TEN_EN": "Embryonic cyst of cervix"
+              },
+              {
+                "MA": "Q51.7",
+                "TEN": "Rò bẩm sinh giữa tử cung với ống tiêu hóa và đường tiết niệu",
+                "TEN_EN": "Congenital fistulae between uterus and digestive and urinary tracts"
+              },
+              {
+                "MA": "Q51.8",
+                "TEN": "Các dị tật bẩm sinh khác của tử cung và cổ tử cung",
+                "TEN_EN": "Other congenital malformations of uterus and cervix"
+              },
+              {
+                "MA": "Q51.9",
+                "TEN": "Dị tật bẩm sinh của tử cung và cổ tử cung không đặc hiệu",
+                "TEN_EN": "Congenital malformation of uterus and cervix, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q52",
+            "TEN": "Các dị tật bẩm sinh khác của cơ quan sinh dục nữ",
+            "TEN_EN": "Other congenital malformations of female genitalia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q52.0",
+                "TEN": "Không có âm đạo bẩm sinh",
+                "TEN_EN": "Congenital absence of vagina"
+              },
+              {
+                "MA": "Q52.1",
+                "TEN": "Âm đạo đôi",
+                "TEN_EN": "Doubling of vagina"
+              },
+              {
+                "MA": "Q52.2",
+                "TEN": "Rò trực tràng âm đạo bẩm sinh",
+                "TEN_EN": "Congenital rectovaginal fistula"
+              },
+              {
+                "MA": "Q52.3",
+                "TEN": "Màng trinh không thủng",
+                "TEN_EN": "Imperforate hymen"
+              },
+              {
+                "MA": "Q52.4",
+                "TEN": "Các dị tật bẩm sinh khác của âm đạo",
+                "TEN_EN": "Other congenital malformations of vagina"
+              },
+              {
+                "MA": "Q52.5",
+                "TEN": "Dính môi lớn",
+                "TEN_EN": "Fusion of labia"
+              },
+              {
+                "MA": "Q52.6",
+                "TEN": "Dị tật bẩm sinh của âm vật",
+                "TEN_EN": "Congenital malformation of clitoris"
+              },
+              {
+                "MA": "Q52.7",
+                "TEN": "Các dị tật bẩm sinh khác của âm hộ",
+                "TEN_EN": "Other congenital malformations of vulva"
+              },
+              {
+                "MA": "Q52.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của cơ quan sinh dục nữ",
+                "TEN_EN": "Other specified congenital malformations of female genitalia"
+              },
+              {
+                "MA": "Q52.9",
+                "TEN": "Dị tật bẩm sinh của cơ quan sinh dục nữ không đặc hiệu",
+                "TEN_EN": "Congenital malformation of female genitalia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q53",
+            "TEN": "Tinh hoàn lạc chỗ",
+            "TEN_EN": "Undescended testicle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q53.0",
+                "TEN": "Tinh hoàn ẩn",
+                "TEN_EN": "Ectopic testis"
+              },
+              {
+                "MA": "Q53.1",
+                "TEN": "Tinh hoàn chưa xuống bìu một bên",
+                "TEN_EN": "Undescended testicle, unilateral"
+              },
+              {
+                "MA": "Q53.2",
+                "TEN": "Tinh hoàn chưa xuống bìu hai bên",
+                "TEN_EN": "Undescended testicle, bilateral"
+              },
+              {
+                "MA": "Q53.9",
+                "TEN": "Tinh hoàn chưa xuống bìu, không đặc hiệu",
+                "TEN_EN": "Undescended testicle, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q54",
+            "TEN": "Lỗ đái lệnh thấp",
+            "TEN_EN": "Hypospadias",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q54.0",
+                "TEN": "Lỗ đái thấp thể quy đầu",
+                "TEN_EN": "Hypospadias, balanic"
+              },
+              {
+                "MA": "Q54.1",
+                "TEN": "Lỗ đái lệch thấp thể dương vật",
+                "TEN_EN": "Hypospadias, penile"
+              },
+              {
+                "MA": "Q54.2",
+                "TEN": "Lỗ đái lệch thấp thể dương vật - bìu",
+                "TEN_EN": "Hypospadias, penoscrotal"
+              },
+              {
+                "MA": "Q54.3",
+                "TEN": "Lỗ đái lệch thấp ở tầng sinh môn",
+                "TEN_EN": "Hypospadias, perineal"
+              },
+              {
+                "MA": "Q54.4",
+                "TEN": "Cong dương vật bẩm sinh",
+                "TEN_EN": "Congenital chordee"
+              },
+              {
+                "MA": "Q54.8",
+                "TEN": "Các thể lỗ đái lệch thấp khác",
+                "TEN_EN": "Other hypospadias"
+              },
+              {
+                "MA": "Q54.9",
+                "TEN": "Lỗ đái lệch thấp không đặc hiệu",
+                "TEN_EN": "Hypospadias, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q55",
+            "TEN": "Các dị tật bẩm sinh khác của cơ quan sinh dục nam",
+            "TEN_EN": "Other congenital malformations of male genital organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q55.0",
+                "TEN": "Không có hoặc bất sản tinh hoàn",
+                "TEN_EN": "Absence and aplasia of testis"
+              },
+              {
+                "MA": "Q55.1",
+                "TEN": "Giảm sản tinh hoàn và bìu",
+                "TEN_EN": "Hypoplasia of testis and scrotum"
+              },
+              {
+                "MA": "Q55.2",
+                "TEN": "Các dị tật bẩm sinh khác của tinh hoàn và bìu",
+                "TEN_EN": "Other congenital malformations of testis and scrotum"
+              },
+              {
+                "MA": "Q55.3",
+                "TEN": "Teo ống dẫn tinh",
+                "TEN_EN": "Atresia of vas deferens"
+              },
+              {
+                "MA": "Q55.4",
+                "TEN": "Các dị tật bẩm sinh khác của ống dẫn tinh, mào tinh, túi tinh và tuyến tiền liệt",
+                "TEN_EN": "Other congenital malformations of vas deferens, epididymis, seminal vesicles and prostate"
+              },
+              {
+                "MA": "Q55.5",
+                "TEN": "Thiếu và bất sản dương vật bẩm sinh",
+                "TEN_EN": "Congenital absence and aplasia of penis"
+              },
+              {
+                "MA": "Q55.6",
+                "TEN": "Dị tật bẩm sinh khác của dương vật",
+                "TEN_EN": "Other congenital malformations of penis"
+              },
+              {
+                "MA": "Q55.8",
+                "TEN": "Dị tật bẩm sinh đặc hiệu khác của cơ quan sinh dục nam",
+                "TEN_EN": "Other specified congenital malformations of male genital organs"
+              },
+              {
+                "MA": "Q55.9",
+                "TEN": "Dị tật bẩm sinh của cơ quan sinh dục nam không đặc hiệu",
+                "TEN_EN": "Congenital malformation of male genital organ, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q56",
+            "TEN": "Không xác định giới tính và hội chứng giả lưỡng giới",
+            "TEN_EN": "Indeterminate sex and pseudohermaphroditism",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q56.0",
+                "TEN": "Hội chứng lưỡng giới, không phân loại nơi khác",
+                "TEN_EN": "Hermaphroditism, not elsewhere classified"
+              },
+              {
+                "MA": "Q56.1",
+                "TEN": "Hội chứng lưỡng giới giả nam, không phân loại nơi khác",
+                "TEN_EN": "Male pseudohermaphroditism, not elsewhere classified"
+              },
+              {
+                "MA": "Q56.2",
+                "TEN": "Hội chứng lưỡng giới giả nữ không phân loại ở chỗ khác",
+                "TEN_EN": "Female pseudohermaphroditism, not elsewhere classified"
+              },
+              {
+                "MA": "Q56.3",
+                "TEN": "Hội chứng lưỡng giới giả không đặc hiệu",
+                "TEN_EN": "Pseudohermaphroditism, unspecified"
+              },
+              {
+                "MA": "Q56.4",
+                "TEN": "không đặc hiệu giới tính không đặc hiệu",
+                "TEN_EN": "Indeterminate sex, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q60-Q64",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các dị tật bẩm sinh của hệ tiết niệu",
-        "TEN_EN": "Congenital malformations of the urinary system"
+        "TEN_EN": "Congenital malformations of the urinary system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q60",
+            "TEN": "Không có thận và các Khuyết tật khác của thận",
+            "TEN_EN": "Renal agenesis and other reduction defects of kidney",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q60.0",
+                "TEN": "Không có thận một bên",
+                "TEN_EN": "Renal agenesis, unilateral"
+              },
+              {
+                "MA": "Q60.1",
+                "TEN": "Không có thận cả hai bên",
+                "TEN_EN": "Renal agenesis, bilateral"
+              },
+              {
+                "MA": "Q60.2",
+                "TEN": "Không có thận không đặc hiệu",
+                "TEN_EN": "Renal agenesis, unspecified"
+              },
+              {
+                "MA": "Q60.3",
+                "TEN": "Giảm sản thận một bên",
+                "TEN_EN": "Renal hypoplasia, unilateral"
+              },
+              {
+                "MA": "Q60.4",
+                "TEN": "Giảm sản thận hai bên",
+                "TEN_EN": "Renal hypoplasia, bilateral"
+              },
+              {
+                "MA": "Q60.5",
+                "TEN": "Giảm sản thận không đặc hiệu",
+                "TEN_EN": "Renal hypoplasia, unspecified"
+              },
+              {
+                "MA": "Q60.6",
+                "TEN": "Hội chứng Potter",
+                "TEN_EN": "Potter s syndrome"
+              }
+            ]
+          },
+          {
+            "MA": "Q61",
+            "TEN": "Các bệnh nang thận",
+            "TEN_EN": "Cystic kidney disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q61.0",
+                "TEN": "Nang thận đơn bẩm sinh",
+                "TEN_EN": "Congenital single renal cyst"
+              },
+              {
+                "MA": "Q61.1",
+                "TEN": "Bệnh thận đa nang, di truyền lặn trên nhiễm sắc thể thường",
+                "TEN_EN": "Polycystic kidney, autosomal recessive"
+              },
+              {
+                "MA": "Q61.2",
+                "TEN": "Bệnh thận đa nang, di truyền trội trên nhiễm sắc thể thường",
+                "TEN_EN": "Polycystic kidney, autosomal dominant"
+              },
+              {
+                "MA": "Q61.3",
+                "TEN": "Thận đa nang không đặc hiệu",
+                "TEN_EN": "Polycystic kidney, unspecified"
+              },
+              {
+                "MA": "Q61.4",
+                "TEN": "Loạn sản thận",
+                "TEN_EN": "Renal dysplasia"
+              },
+              {
+                "MA": "Q61.5",
+                "TEN": "Nang ở tủy thận",
+                "TEN_EN": "Medullary cystic kidney"
+              },
+              {
+                "MA": "Q61.8",
+                "TEN": "Các loại bệnh nang thận khác",
+                "TEN_EN": "Other cystic kidney diseases"
+              },
+              {
+                "MA": "Q61.9",
+                "TEN": "Bệnh nang thận không đặc hiệu",
+                "TEN_EN": "Cystic kidney disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q62",
+            "TEN": "Các bệnh lý tắc bẩm sinh của bể thận và các dị tật bẩm sinh của niệu quản",
+            "TEN_EN": "Congenital obstructive defects of renal pelvis and congenital malformations of ureter",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q62.0",
+                "TEN": "Ứ nước thận bẩm sinh",
+                "TEN_EN": "Congenital hydronephrosis"
+              },
+              {
+                "MA": "Q62.1",
+                "TEN": "Teo và hẹp niệu quản",
+                "TEN_EN": "Atresia and stenosis of ureter"
+              },
+              {
+                "MA": "Q62.2",
+                "TEN": "Phình to niệu quản bẩm sinh",
+                "TEN_EN": "Congenital megaloureter"
+              },
+              {
+                "MA": "Q62.3",
+                "TEN": "Các bệnh lý tắc khác của bể và niệu quản",
+                "TEN_EN": "Other obstructive defects of renal pelvis and ureter"
+              },
+              {
+                "MA": "Q62.4",
+                "TEN": "Không có niệu quản",
+                "TEN_EN": "Agenesis of ureter"
+              },
+              {
+                "MA": "Q62.5",
+                "TEN": "Niệu quản đôi",
+                "TEN_EN": "Duplication of ureter"
+              },
+              {
+                "MA": "Q62.6",
+                "TEN": "Thay đổi vị trí của niệu quản",
+                "TEN_EN": "Malposition of ureter"
+              },
+              {
+                "MA": "Q62.7",
+                "TEN": "Trào ngược bàng quang - niệu quản - thận",
+                "TEN_EN": "Congenital vesico-uretero-renal reflux"
+              },
+              {
+                "MA": "Q62.8",
+                "TEN": "Các dị tật bẩm sinh khác của niệu quản",
+                "TEN_EN": "Other congenital malformations of ureter"
+              }
+            ]
+          },
+          {
+            "MA": "Q63",
+            "TEN": "Các dị tật bẩm sinh khác của thận",
+            "TEN_EN": "Other congenital malformations of kidney",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q63.0",
+                "TEN": "Thận phụ",
+                "TEN_EN": "Accessory kidney"
+              },
+              {
+                "MA": "Q63.1",
+                "TEN": "Thận móng ngựa, thận dính, thận phân thùy",
+                "TEN_EN": "Lobulated, fused and horseshoe kidney"
+              },
+              {
+                "MA": "Q63.2",
+                "TEN": "Thận lạc chỗ",
+                "TEN_EN": "Ectopic kidney"
+              },
+              {
+                "MA": "Q63.3",
+                "TEN": "Thận khổng lồ và tăng sản",
+                "TEN_EN": "Hyperplastic and giant kidney"
+              },
+              {
+                "MA": "Q63.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của thận",
+                "TEN_EN": "Other specified congenital malformations of kidney"
+              },
+              {
+                "MA": "Q63.9",
+                "TEN": "Dị tật bẩm sinh của thận không đặc hiệu",
+                "TEN_EN": "Congenital malformation of kidney, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q64",
+            "TEN": "Các dị tật bẩm sinh khác của hệ tiết niệu",
+            "TEN_EN": "Other congenital malformations of urinary system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q64.0",
+                "TEN": "Lỗ đái lệch cao",
+                "TEN_EN": "Epispadias"
+              },
+              {
+                "MA": "Q64.1",
+                "TEN": "Bàng quang lộ ngoài",
+                "TEN_EN": "Exstrophy of urinary bladder"
+              },
+              {
+                "MA": "Q64.2",
+                "TEN": "Van niệu đạo sau bẩm sinh",
+                "TEN_EN": "Congenital posterior urethral valves"
+              },
+              {
+                "MA": "Q64.3",
+                "TEN": "Teo và hẹp niệu đạo và cổ bàng quang bẩm sinh khác",
+                "TEN_EN": "Other atresia and stenosis of urethra and bladder neck"
+              },
+              {
+                "MA": "Q64.4",
+                "TEN": "Dị tật ống niệu rốn",
+                "TEN_EN": "Malformation of urachus"
+              },
+              {
+                "MA": "Q64.5",
+                "TEN": "Không có bẩm sinh bàng quang và niệu đạo",
+                "TEN_EN": "Congenital absence of bladder and urethra"
+              },
+              {
+                "MA": "Q64.6",
+                "TEN": "Túi thừa bẩm sinh của bàng quang",
+                "TEN_EN": "Congenital diverticulum of bladder"
+              },
+              {
+                "MA": "Q64.7",
+                "TEN": "Các dị tật bẩm sinh khác của bàng quang và niệu đạo",
+                "TEN_EN": "Other congenital malformations of bladder and urethra"
+              },
+              {
+                "MA": "Q64.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của hệ tiết niệu",
+                "TEN_EN": "Other specified congenital malformations of urinary system"
+              },
+              {
+                "MA": "Q64.9",
+                "TEN": "Dị tật bẩm sinh của hệ tiết niệu không đặc hiệu",
+                "TEN_EN": "Congenital malformation of urinary system, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q65-Q79",
         "MA_TRONG_CHUONG": "",
         "TEN": "Dị tật và biến dạng bẩm sinh của hệ cơ xương",
-        "TEN_EN": "Congenital malformations and deformations of the musculoskeletal system"
+        "TEN_EN": "Congenital malformations and deformations of the musculoskeletal system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q65",
+            "TEN": "Biến dạng bẩm sinh của khớp háng",
+            "TEN_EN": "Congenital deformities of hip",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q65.0",
+                "TEN": "Trật khớp háng bẩm sinh, một bên",
+                "TEN_EN": "Congenital dislocation of hip, unilateral"
+              },
+              {
+                "MA": "Q65.1",
+                "TEN": "Trật khớp háng bẩm sinh, hai bên",
+                "TEN_EN": "Congenital dislocation of hip, bilateral"
+              },
+              {
+                "MA": "Q65.2",
+                "TEN": "Trật khớp háng bẩm sinh, không đặc hiệu",
+                "TEN_EN": "Congenital dislocation of hip, unspecified"
+              },
+              {
+                "MA": "Q65.3",
+                "TEN": "Sai khớp háng nhẹ bẩm sinh, một bên",
+                "TEN_EN": "Congenital subluxation of hip, unilateral"
+              },
+              {
+                "MA": "Q65.4",
+                "TEN": "Sai khớp háng nhẹ bẩm sinh, hai bên",
+                "TEN_EN": "Congenital subluxation of hip, bilateral"
+              },
+              {
+                "MA": "Q65.5",
+                "TEN": "Sai khớp háng nhẹ bẩm sinh, không đặc hiệu",
+                "TEN_EN": "Congenital subluxation of hip, unspecified"
+              },
+              {
+                "MA": "Q65.6",
+                "TEN": "Khớp háng không ổn định",
+                "TEN_EN": "Unstable hip"
+              },
+              {
+                "MA": "Q65.8",
+                "TEN": "Các biến dạng bẩm sinh khác của khớp háng",
+                "TEN_EN": "Other congenital deformities of hip"
+              },
+              {
+                "MA": "Q65.9",
+                "TEN": "Biến dạng bẩm sinh của khớp háng, không đặc hiệu",
+                "TEN_EN": "Congenital deformity of hip, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q66",
+            "TEN": "Các biến dạng bẩm sinh của bàn chân",
+            "TEN_EN": "Congenital deformities of feet",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q66.0",
+                "TEN": "Bàn chân khoèo",
+                "TEN_EN": "Talipes equinovarus"
+              },
+              {
+                "MA": "Q66.1",
+                "TEN": "Bàn chân gót vẹo vào trong",
+                "TEN_EN": "Talipes calcaneovarus"
+              },
+              {
+                "MA": "Q66.2",
+                "TEN": "Xương đốt bàn chân vẹo vào trong",
+                "TEN_EN": "Metatarsus varus"
+              },
+              {
+                "MA": "Q66.3",
+                "TEN": "Các biến dạng vẹo vào trong bẩm sinh khác của bàn chân",
+                "TEN_EN": "Other congenital varus deformities of feet"
+              },
+              {
+                "MA": "Q66.4",
+                "TEN": "Bàn chân gót vẹo ra ngoài",
+                "TEN_EN": "Talipes calcaneovalgus"
+              },
+              {
+                "MA": "Q66.5",
+                "TEN": "Bàn chân bẹt bẩm sinh",
+                "TEN_EN": "Congenital pes planus"
+              },
+              {
+                "MA": "Q66.6",
+                "TEN": "Các biến dạng vẹo ra bẩm sinh khác của bàn chân",
+                "TEN_EN": "Other congenital valgus deformities of feet"
+              },
+              {
+                "MA": "Q66.7",
+                "TEN": "Bàn chân lõm",
+                "TEN_EN": "Pes cavus"
+              },
+              {
+                "MA": "Q66.8",
+                "TEN": "Các biến dạng bẩm sinh khác của bàn chân",
+                "TEN_EN": "Other congenital deformities of feet"
+              },
+              {
+                "MA": "Q66.9",
+                "TEN": "Biến dạng bẩm sinh của bàn chân, không đặc hiệu",
+                "TEN_EN": "Congenital deformity of feet, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q67",
+            "TEN": "Các biến dạng cơ xương bẩm sinh của đầu, mặt, cột sống và ngực",
+            "TEN_EN": "Congenital musculoskeletal deformities of head, face, spine and chest",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q67.0",
+                "TEN": "Mất cân đối mặt",
+                "TEN_EN": "Facial asymmetry"
+              },
+              {
+                "MA": "Q67.1",
+                "TEN": "Mặt bị ép",
+                "TEN_EN": "Compression facies"
+              },
+              {
+                "MA": "Q67.2",
+                "TEN": "Đầu dài",
+                "TEN_EN": "Dolichocephaly"
+              },
+              {
+                "MA": "Q67.3",
+                "TEN": "Tật sọ nghiêng",
+                "TEN_EN": "Plagiocephaly"
+              },
+              {
+                "MA": "Q67.4",
+                "TEN": "Các biến dạng bẩm sinh khác của sọ, mặt và xương hàm",
+                "TEN_EN": "Other congenital deformities of skull, face and jaw"
+              },
+              {
+                "MA": "Q67.5",
+                "TEN": "Biến dạng cột sống bẩm sinh",
+                "TEN_EN": "Congenital deformity of spine"
+              },
+              {
+                "MA": "Q67.6",
+                "TEN": "Ngực lõm",
+                "TEN_EN": "Pectus excavatum"
+              },
+              {
+                "MA": "Q67.7",
+                "TEN": "Ngực lồi",
+                "TEN_EN": "Pectus carinatum"
+              },
+              {
+                "MA": "Q67.8",
+                "TEN": "Các biến dạng bẩm sinh khác của ngực",
+                "TEN_EN": "Other congenital deformities of chest"
+              }
+            ]
+          },
+          {
+            "MA": "Q68",
+            "TEN": "Các biến dạng cơ xương bẩm sinh khác",
+            "TEN_EN": "Other congenital musculoskeletal deformities",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q68.0",
+                "TEN": "Biến dạng bẩm sinh của cơ ức đòn chũm",
+                "TEN_EN": "Congenital deformity of sternocleidomastoid muscle"
+              },
+              {
+                "MA": "Q68.1",
+                "TEN": "Biến dạng bẩm sinh của bàn tay",
+                "TEN_EN": "Congenital deformity of hand"
+              },
+              {
+                "MA": "Q68.2",
+                "TEN": "Biến dạng bẩm sinh của đầu gối",
+                "TEN_EN": "Congenital deformity of knee"
+              },
+              {
+                "MA": "Q68.3",
+                "TEN": "Cong xương đùi bẩm sinh",
+                "TEN_EN": "Congenital bowing of femur"
+              },
+              {
+                "MA": "Q68.4",
+                "TEN": "Xương chầy và xương mác cong bẩm sinh",
+                "TEN_EN": "Congenital bowing of tibia and fibula"
+              },
+              {
+                "MA": "Q68.5",
+                "TEN": "Cong bẩm sinh các xương dài của chân, không đặc hiệu",
+                "TEN_EN": "Congenital bowing of long bones of leg, unspecified"
+              },
+              {
+                "MA": "Q68.8",
+                "TEN": "Các biến dạng cơ xương bẩm sinh đặc hiệu khác",
+                "TEN_EN": "Other specified congenital musculoskeletal deformities"
+              }
+            ]
+          },
+          {
+            "MA": "Q69",
+            "TEN": "Tật đa ngón",
+            "TEN_EN": "Polydactyly",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q69.0",
+                "TEN": "Ngón tay phụ",
+                "TEN_EN": "Accessory finger(s)"
+              },
+              {
+                "MA": "Q69.1",
+                "TEN": "Ngón cái phụ",
+                "TEN_EN": "Accessory thumb(s)"
+              },
+              {
+                "MA": "Q69.2",
+                "TEN": "Các ngón chân phụ",
+                "TEN_EN": "Accessory toe(s)"
+              },
+              {
+                "MA": "Q69.9",
+                "TEN": "Tật đa ngón, không đặc hiệu",
+                "TEN_EN": "Polydactyly, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q70",
+            "TEN": "Tật dính ngón",
+            "TEN_EN": "Syndactyly",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q70.0",
+                "TEN": "Các ngón dính nhau",
+                "TEN_EN": "Fused fingers"
+              },
+              {
+                "MA": "Q70.1",
+                "TEN": "Ngón mảng da",
+                "TEN_EN": "Webbed fingers"
+              },
+              {
+                "MA": "Q70.2",
+                "TEN": "Dính các ngón chân",
+                "TEN_EN": "Fused toes"
+              },
+              {
+                "MA": "Q70.3",
+                "TEN": "Tật dính da ngón đơn thuần không có dính xương",
+                "TEN_EN": "Webbed toes"
+              },
+              {
+                "MA": "Q70.4",
+                "TEN": "Dính nhiều ngón",
+                "TEN_EN": "Polysyndactyly"
+              },
+              {
+                "MA": "Q70.9",
+                "TEN": "Tật dính ngón không đặc hiệu",
+                "TEN_EN": "Syndactyly, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q71",
+            "TEN": "Các Khuyết tật thiếu hụt của chi trên",
+            "TEN_EN": "Reduction defects of upper limb",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q71.0",
+                "TEN": "Thiếu toàn bộ chi trên bẩm sinh",
+                "TEN_EN": "Congenital complete absence of upper limb(s)"
+              },
+              {
+                "MA": "Q71.1",
+                "TEN": "Tật thiếu cánh - cẳng tay bẩm sinh có bàn tay",
+                "TEN_EN": "Congenital absence of upper arm and forearm with hand present"
+              },
+              {
+                "MA": "Q71.2",
+                "TEN": "Tật thiếu cả hai bàn tay và cẳng tay bẩm sinh",
+                "TEN_EN": "Congenital absence of both forearm and hand"
+              },
+              {
+                "MA": "Q71.3",
+                "TEN": "Tật thiếu bàn tay và ngón tay bẩm sinh",
+                "TEN_EN": "Congenital absence of hand and finger(s)"
+              },
+              {
+                "MA": "Q71.4",
+                "TEN": "Khuyết tật thiếu hụt theo chiều dài xương quay",
+                "TEN_EN": "Longitudinal reduction defect of radius"
+              },
+              {
+                "MA": "Q71.5",
+                "TEN": "Khuyết tật thiếu hụt theo chiều dài xương trụ",
+                "TEN_EN": "Longitudinal reduction defect of ulna"
+              },
+              {
+                "MA": "Q71.6",
+                "TEN": "Bàn tay hình càng cua",
+                "TEN_EN": "Lobster-claw hand"
+              },
+              {
+                "MA": "Q71.8",
+                "TEN": "Các khuyết tật thiếu hụt khác của chi trên",
+                "TEN_EN": "Other reduction defects of upper limb(s)"
+              },
+              {
+                "MA": "Q71.9",
+                "TEN": "Khuyết tật thiếu hụt của chi trên, không đặc hiệu",
+                "TEN_EN": "Reduction defect of upper limb, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q72",
+            "TEN": "Các Khuyết tật thiếu hụt của chi dưới",
+            "TEN_EN": "Reduction defects of lower limb",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q72.0",
+                "TEN": "Thiếu hoàn toàn chi dưới bẩm sinh",
+                "TEN_EN": "Congenital complete absence of lower limb(s)"
+              },
+              {
+                "MA": "Q72.1",
+                "TEN": "Tật thiếu đùi và cẳng chân có bàn chân bẩm sinh",
+                "TEN_EN": "Congenital absence of thigh and lower leg with foot present"
+              },
+              {
+                "MA": "Q72.2",
+                "TEN": "Tật thiếu cẳng chân và bàn chân bẩm sinh",
+                "TEN_EN": "Congenital absence of both lower leg and foot"
+              },
+              {
+                "MA": "Q72.3",
+                "TEN": "Tật thiếu bàn chân và ngón chân bẩm sinh",
+                "TEN_EN": "Congenital absence of foot and toe(s)"
+              },
+              {
+                "MA": "Q72.4",
+                "TEN": "Khuyết tật thiếu hụt theo chiều dài của xương đùi",
+                "TEN_EN": "Longitudinal reduction defect of femur"
+              },
+              {
+                "MA": "Q72.5",
+                "TEN": "Khuyết tật thiếu hụt theo chiều dài xương chầy",
+                "TEN_EN": "Longitudinal reduction defect of tibia"
+              },
+              {
+                "MA": "Q72.6",
+                "TEN": "Khuyết tật thiếu hụt theo chiều dài xương mác",
+                "TEN_EN": "Longitudinal reduction defect of fibula"
+              },
+              {
+                "MA": "Q72.7",
+                "TEN": "Bàn chân chẻ",
+                "TEN_EN": "Split foot"
+              },
+              {
+                "MA": "Q72.8",
+                "TEN": "Các khuyết tật thiếu hụt khác của chi dưới",
+                "TEN_EN": "Other reduction defects of lower limb(s)"
+              },
+              {
+                "MA": "Q72.9",
+                "TEN": "Các khuyết tật thiếu hụt khác của chi dưới không đặc hiệu",
+                "TEN_EN": "Reduction defect of lower limb, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q73",
+            "TEN": "Các Khuyết tật thiếu hụt của chi không đặc hiệu",
+            "TEN_EN": "Reduction defects of unspecified limb",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q73.0",
+                "TEN": "Khuyết chi không đặc hiệu bẩm sinh",
+                "TEN_EN": "Congenital absence of unspecified limb(s)"
+              },
+              {
+                "MA": "Q73.1",
+                "TEN": "Khuyết tật giống hải cẩu, các chi không đặc hiệu",
+                "TEN_EN": "Phocomelia, unspecified limb(s)"
+              },
+              {
+                "MA": "Q73.8",
+                "TEN": "Các Khuyết tật thu nhỏ khác của chi không đặc hiệu",
+                "TEN_EN": "Other reduction defects of unspecified limb(s)"
+              }
+            ]
+          },
+          {
+            "MA": "Q74",
+            "TEN": "Các dị tật bẩm sinh khác của chi",
+            "TEN_EN": "Other congenital malformations of limb(s)",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q74.0",
+                "TEN": "Các dị tật bẩm sinh khác của chi trên, kể cả vòng ngực",
+                "TEN_EN": "Other congenital malformations of upper limb(s), including shoulder girdle"
+              },
+              {
+                "MA": "Q74.1",
+                "TEN": "Dị tật bẩm sinh của gối",
+                "TEN_EN": "Congenital malformation of knee"
+              },
+              {
+                "MA": "Q74.2",
+                "TEN": "Các dị tật bẩm sinh khác của chi dưới, kể cả đai chậu",
+                "TEN_EN": "Other congenital malformations of lower limb(s), including pelvic girdle"
+              },
+              {
+                "MA": "Q74.3",
+                "TEN": "Co cứng đa khớp bẩm sinh",
+                "TEN_EN": "Arthrogryposis multiplex congenita"
+              },
+              {
+                "MA": "Q74.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của chi",
+                "TEN_EN": "Other specified congenital malformations of limb(s)"
+              },
+              {
+                "MA": "Q74.9",
+                "TEN": "Dị tật bẩm sinh không đặc hiệu của chi",
+                "TEN_EN": "Unspecified congenital malformation of limb(s)"
+              }
+            ]
+          },
+          {
+            "MA": "Q75",
+            "TEN": "Các dị tật bẩm sinh khác của xương sọ và xương mặt",
+            "TEN_EN": "Other congenital malformations of skull and face bones",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q75.0",
+                "TEN": "Liền sớm khớp sọ",
+                "TEN_EN": "Craniosynostosis"
+              },
+              {
+                "MA": "Q75.1",
+                "TEN": "Loạn phát xương sọ mặt",
+                "TEN_EN": "Craniofacial dysostosis"
+              },
+              {
+                "MA": "Q75.2",
+                "TEN": "Chứng quá cách xa",
+                "TEN_EN": "Hypertelorism"
+              },
+              {
+                "MA": "Q75.3",
+                "TEN": "Tật đầu to",
+                "TEN_EN": "Macrocephaly"
+              },
+              {
+                "MA": "Q75.4",
+                "TEN": "Loạn phát xương mắt hàm",
+                "TEN_EN": "Mandibulofacial dysostosis"
+              },
+              {
+                "MA": "Q75.5",
+                "TEN": "Loạn phát xương mặt - hàm",
+                "TEN_EN": "Oculomandibular dysostosis"
+              },
+              {
+                "MA": "Q75.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác của xương sọ và mặt",
+                "TEN_EN": "Other specified congenital malformations of skull and face bones"
+              },
+              {
+                "MA": "Q75.9",
+                "TEN": "Dị tật bẩm sinh của xương sọ và xương mặt",
+                "TEN_EN": "Congenital malformation of skull and face bones, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q76",
+            "TEN": "Các dị tật bẩm sinh của xương sống và xương lồng ngực",
+            "TEN_EN": "Congenital malformations of spine and bony thorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q76.0",
+                "TEN": "Đốt sống tách đôi kín đáo",
+                "TEN_EN": "Spina bifida occulta"
+              },
+              {
+                "MA": "Q76.1",
+                "TEN": "Hội chứng Klippel - Feil",
+                "TEN_EN": "Klippel-Feil syndrome"
+              },
+              {
+                "MA": "Q76.2",
+                "TEN": "Chứng trượt đốt sống bẩm sinh",
+                "TEN_EN": "Congenital spondylolisthesis"
+              },
+              {
+                "MA": "Q76.3",
+                "TEN": "Vẹo cột sống bẩm sinh do dị tật xương bẩm sinh",
+                "TEN_EN": "Congenital scoliosis due to congenital bony malformation"
+              },
+              {
+                "MA": "Q76.4",
+                "TEN": "Các dị tật bẩm sinh khác của xương sống, không liên quan đến vẹo cột sống",
+                "TEN_EN": "Other congenital malformations of spine, not associated with scoliosis"
+              },
+              {
+                "MA": "Q76.5",
+                "TEN": "Xương sườn cổ",
+                "TEN_EN": "Cervical rib"
+              },
+              {
+                "MA": "Q76.6",
+                "TEN": "Các dị tật bẩm sinh khác ở vùng cổ",
+                "TEN_EN": "Other congenital malformations of ribs"
+              },
+              {
+                "MA": "Q76.7",
+                "TEN": "Dị tật bẩm sinh của xương ức",
+                "TEN_EN": "Congenital malformation of sternum"
+              },
+              {
+                "MA": "Q76.8",
+                "TEN": "Các dị tật bẩm sinh khác của xương ngực",
+                "TEN_EN": "Other congenital malformations of bony thorax"
+              },
+              {
+                "MA": "Q76.9",
+                "TEN": "Các dị tật bẩm sinh của xương ngực không đặc hiệu",
+                "TEN_EN": "Congenital malformation of bony thorax, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q77",
+            "TEN": "Loạn sản xương sụn với các Khuyết tật trưởng thành của các xương ống và cột sống",
+            "TEN_EN": "Osteochondrodysplasia with defects of growth of tubular bones and spine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q77.0",
+                "TEN": "Vô sản sụn",
+                "TEN_EN": "Achondrogenesis"
+              },
+              {
+                "MA": "Q77.1",
+                "TEN": "Tầm vóc ngắn",
+                "TEN_EN": "Thanatophoric short stature"
+              },
+              {
+                "MA": "Q77.2",
+                "TEN": "Hội chứng xương sườn ngắn",
+                "TEN_EN": "Short rib syndrome"
+              },
+              {
+                "MA": "Q77.3",
+                "TEN": "Loạn sản sụn từng đám nhỏ",
+                "TEN_EN": "Chondrodysplasia punctata"
+              },
+              {
+                "MA": "Q77.4",
+                "TEN": "Vô sản sụn",
+                "TEN_EN": "Achondroplasia"
+              },
+              {
+                "MA": "Q77.5",
+                "TEN": "Loạn sản gây trật khớp",
+                "TEN_EN": "Dystrophic dysplasia"
+              },
+              {
+                "MA": "Q77.6",
+                "TEN": "Loạn sản sụn ngoại bì",
+                "TEN_EN": "Chondroectodermal dysplasia"
+              },
+              {
+                "MA": "Q77.7",
+                "TEN": "Loạn sản đầu đốt xương cột sống",
+                "TEN_EN": "Spondyloepiphyseal dysplasia"
+              },
+              {
+                "MA": "Q77.8",
+                "TEN": "Các loạn sản xương sụn khác với các khuyết tật trưởng thành của các xương ống và cột sống",
+                "TEN_EN": "Other osteochondrodysplasia with defects of growth of tubular bones and spine"
+              },
+              {
+                "MA": "Q77.9",
+                "TEN": "Các loạn sản xương sụn với các khuyết tật trưởng thành của các xương ống và cột sống không đặc hiệu",
+                "TEN_EN": "Osteochondrodysplasia with defects of growth of tubular bones and spine, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q78",
+            "TEN": "Các loạn sản xương sụn khác",
+            "TEN_EN": "Other osteochondrodysplasias",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q78.0",
+                "TEN": "Quá trình tạo xương không hoàn toàn",
+                "TEN_EN": "Osteogenesis imperfecta"
+              },
+              {
+                "MA": "Q78.1",
+                "TEN": "Loạn sản sợi - đa xương",
+                "TEN_EN": "Polyostotic fibrous dysplasia"
+              },
+              {
+                "MA": "Q78.2",
+                "TEN": "Xương hóa đá",
+                "TEN_EN": "Osteopetrosis"
+              },
+              {
+                "MA": "Q78.3",
+                "TEN": "Loạn sản thân xương tiến triển",
+                "TEN_EN": "Progressive diaphyseal dysplasia"
+              },
+              {
+                "MA": "Q78.4",
+                "TEN": "Loạn sản nội sụn",
+                "TEN_EN": "Enchondromatosis"
+              },
+              {
+                "MA": "Q78.5",
+                "TEN": "Loạn sản hành xương",
+                "TEN_EN": "Metaphyseal dysplasia"
+              },
+              {
+                "MA": "Q78.6",
+                "TEN": "Lồi xương bẩm sinh nhiều nơi",
+                "TEN_EN": "Multiple congenital exostoses"
+              },
+              {
+                "MA": "Q78.8",
+                "TEN": "Các loạn sản xương sụn đặc hiệu khác",
+                "TEN_EN": "Other specified osteochondrodysplasias"
+              },
+              {
+                "MA": "Q78.9",
+                "TEN": "Loạn sản xương sụn không đặc hiệu",
+                "TEN_EN": "Osteochondrodysplasia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q79",
+            "TEN": "Các dị tật bẩm sinh của hệ cơ xương, chưa được phân loại ở chỗ khác",
+            "TEN_EN": "Congenital malformations of the musculoskeletal system, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q79.0",
+                "TEN": "Thoát vị hoành bẩm sinh",
+                "TEN_EN": "Congenital diaphragmatic hernia"
+              },
+              {
+                "MA": "Q79.1",
+                "TEN": "Các dị tật bẩm sinh khác của cơ hoành",
+                "TEN_EN": "Other congenital malformations of diaphragm"
+              },
+              {
+                "MA": "Q79.2",
+                "TEN": "Lồi rốn",
+                "TEN_EN": "Exomphalos"
+              },
+              {
+                "MA": "Q79.3",
+                "TEN": "Khe hở thành bụng",
+                "TEN_EN": "Gastroschisis"
+              },
+              {
+                "MA": "Q79.4",
+                "TEN": "Hội chứng bụng không rõ",
+                "TEN_EN": "Prune belly syndrome"
+              },
+              {
+                "MA": "Q79.5",
+                "TEN": "Các dị tật bẩm sinh khác của thành bụng",
+                "TEN_EN": "Other congenital malformations of abdominal wall"
+              },
+              {
+                "MA": "Q79.6",
+                "TEN": "Hội chứng Ehiers - Vanlos",
+                "TEN_EN": "Ehlers-Danlos syndrome"
+              },
+              {
+                "MA": "Q79.8",
+                "TEN": "Các dị tật bẩm sinh khác của hệ cơ xương",
+                "TEN_EN": "Other congenital malformations of musculoskeletal system"
+              },
+              {
+                "MA": "Q79.9",
+                "TEN": "Dị tật bẩm sinh của hệ cơ xương, không đặc hiệu",
+                "TEN_EN": "Congenital malformation of musculoskeletal system, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q80-Q89",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các dị tật bẩm sinh khác",
-        "TEN_EN": "Other congenital malformations"
+        "TEN_EN": "Other congenital malformations",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q80",
+            "TEN": "Bệnh vảy cá bẩm sinh",
+            "TEN_EN": "Congenital ichthyosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q80.0",
+                "TEN": "Bệnh vảy cá thông thường",
+                "TEN_EN": "Ichthyosis vulgaris"
+              },
+              {
+                "MA": "Q80.1",
+                "TEN": "Bệnh vảy cá liên kết nhiễm sắc thể X",
+                "TEN_EN": "X-linked ichthyosis"
+              },
+              {
+                "MA": "Q80.2",
+                "TEN": "Bệnh vảy cá dạng lá",
+                "TEN_EN": "Lamellar ichthyosis"
+              },
+              {
+                "MA": "Q80.3",
+                "TEN": "Chứng đỏ da dạng vảy cá bóng bẩm sinh",
+                "TEN_EN": "Congenital bullous ichthyosiform erythroderma"
+              },
+              {
+                "MA": "Q80.4",
+                "TEN": "Thai mắc bệnh vảy cá",
+                "TEN_EN": "Harlequin fetus"
+              },
+              {
+                "MA": "Q80.8",
+                "TEN": "Bệnh vảy cá bẩm sinh khác",
+                "TEN_EN": "Other congenital ichthyosis"
+              },
+              {
+                "MA": "Q80.9",
+                "TEN": "Bệnh vảy cá bẩm sinh không đặc hiệu",
+                "TEN_EN": "Congenital ichthyosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q81",
+            "TEN": "Bong biểu bì bọng nước",
+            "TEN_EN": "Epidermolysis bullosa",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q81.0",
+                "TEN": "Bong biểu bì bọng nước giản đơn",
+                "TEN_EN": "Epidermolysis bullosa simplex"
+              },
+              {
+                "MA": "Q81.1",
+                "TEN": "Bong biểu bì bọng nước dạng gây tử vong",
+                "TEN_EN": "Epidermolysis bullosa letalis"
+              },
+              {
+                "MA": "Q81.2",
+                "TEN": "Loạn dưỡng do bong biểu bì bọng nước",
+                "TEN_EN": "Epidermolysis bullosa dystrophica"
+              },
+              {
+                "MA": "Q81.8",
+                "TEN": "Bong biểu bì bọng nước khác",
+                "TEN_EN": "Other epidermolysis bullosa"
+              },
+              {
+                "MA": "Q81.9",
+                "TEN": "Bong biểu bì không đặc hiệu",
+                "TEN_EN": "Epidermolysis bullosa, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q82",
+            "TEN": "Dị tật bẩm sinh khác về da",
+            "TEN_EN": "Other congenital malformations of skin",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q82.0",
+                "TEN": "Phù bạch huyết di truyền",
+                "TEN_EN": "Hereditary lymphoedema"
+              },
+              {
+                "MA": "Q82.1",
+                "TEN": "Bệnh khô da nhiễm sắc tố",
+                "TEN_EN": "Xeroderma pigmentosum"
+              },
+              {
+                "MA": "Q82.2",
+                "TEN": "Bệnh dưỡng bào",
+                "TEN_EN": "Mastocytosis"
+              },
+              {
+                "MA": "Q82.3",
+                "TEN": "Sắc tố không kiềm chế được",
+                "TEN_EN": "Incontinentia pigmenti"
+              },
+              {
+                "MA": "Q82.4",
+                "TEN": "Loạn sản ngoại bì (làm giảm tiết mồ hôi)",
+                "TEN_EN": "Ectodermal dysplasia (anhidrotic)"
+              },
+              {
+                "MA": "Q82.5",
+                "TEN": "Nê-vi bẩm sinh không tạo u",
+                "TEN_EN": "Congenital non-neoplastic naevus"
+              },
+              {
+                "MA": "Q82.8",
+                "TEN": "Các dị tật về da bẩm sinh, đặc hiệu khác",
+                "TEN_EN": "Other specified congenital malformations of skin"
+              },
+              {
+                "MA": "Q82.9",
+                "TEN": "Dị tật bẩm sinh về da không đặc hiệu",
+                "TEN_EN": "Congenital malformation of skin, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q83",
+            "TEN": "Dị tật bẩm sinh của vú",
+            "TEN_EN": "Congenital malformations of breast",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q83.0",
+                "TEN": "Thiếu vú và núm vú bẩm sinh",
+                "TEN_EN": "Congenital absence of breast with absent nipple"
+              },
+              {
+                "MA": "Q83.1",
+                "TEN": "Vú phụ",
+                "TEN_EN": "Accessory breast"
+              },
+              {
+                "MA": "Q83.2",
+                "TEN": "Thiếu núm vú",
+                "TEN_EN": "Absent nipple"
+              },
+              {
+                "MA": "Q83.3",
+                "TEN": "Núm vú phụ",
+                "TEN_EN": "Accessory nipple"
+              },
+              {
+                "MA": "Q83.8",
+                "TEN": "Dị tật bẩm sinh khác của vú",
+                "TEN_EN": "Other congenital malformations of breast"
+              },
+              {
+                "MA": "Q83.9",
+                "TEN": "Dị tật bẩm sinh của vú không đặc hiệu",
+                "TEN_EN": "Congenital malformation of breast, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q84",
+            "TEN": "Dị tật bẩm sinh khác của bộ phận bao bọc",
+            "TEN_EN": "Other congenital malformations of integument",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q84.0",
+                "TEN": "Rụng lông tóc bẩm sinh",
+                "TEN_EN": "Congenital alopecia"
+              },
+              {
+                "MA": "Q84.1",
+                "TEN": "Rối loạn bẩm sinh hình thái của tóc mà không xếp loại ở chỗ khác",
+                "TEN_EN": "Congenital morphological disturbances of hair, not elsewhere classified"
+              },
+              {
+                "MA": "Q84.2",
+                "TEN": "Dị tật bẩm sinh khác của lông tóc",
+                "TEN_EN": "Other congenital malformations of hair"
+              },
+              {
+                "MA": "Q84.3",
+                "TEN": "Tật không móng",
+                "TEN_EN": "Anonychia"
+              },
+              {
+                "MA": "Q84.4",
+                "TEN": "Móng đốm trắng bẩm sinh",
+                "TEN_EN": "Congenital leukonychia"
+              },
+              {
+                "MA": "Q84.5",
+                "TEN": "Móng to và phì đại",
+                "TEN_EN": "Enlarged and hypertrophic nails"
+              },
+              {
+                "MA": "Q84.6",
+                "TEN": "Dị tật bẩm sinh khác của móng",
+                "TEN_EN": "Other congenital malformations of nails"
+              },
+              {
+                "MA": "Q84.8",
+                "TEN": "Dị tật bẩm sinh đặc hiệu khác của bộ phận bao bọc",
+                "TEN_EN": "Other specified congenital malformations of integument"
+              },
+              {
+                "MA": "Q84.9",
+                "TEN": "Dị tật bẩm sinh khác của bộ phận bao bọc không đặc hiệu",
+                "TEN_EN": "Congenital malformation of integument, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q85",
+            "TEN": "Hội chứng u thần kinh - da ngoại bì, chưa được phân loại",
+            "TEN_EN": "Phakomatoses, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q85.0",
+                "TEN": "U xơ thần kinh (lành tính)",
+                "TEN_EN": "Neurofibromatosis (nonmalignant)"
+              },
+              {
+                "MA": "Q85.1",
+                "TEN": "Bệnh xơ não củ",
+                "TEN_EN": "Tuberous sclerosis"
+              },
+              {
+                "MA": "Q85.8",
+                "TEN": "Hội chứng u thần kinh da ngoại bì khác, chưa được phân loại",
+                "TEN_EN": "Other phakomatoses, not elsewhere classified"
+              },
+              {
+                "MA": "Q85.9",
+                "TEN": "Hội chứng u thần kinh da ngoại bì không đặc hiệu",
+                "TEN_EN": "Phakomatosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q86",
+            "TEN": "Các hội chứng dị tật bẩm sinh do những nguyên nhân bên ngoài đã biết, chưa được phân loại",
+            "TEN_EN": "Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q86.0",
+                "TEN": "Hội chứng cồn bào thai (dị hình)",
+                "TEN_EN": "Fetal alcohol syndrome (dysmorphic)"
+              },
+              {
+                "MA": "Q86.1",
+                "TEN": "Hội chứng hydantoin bào thai",
+                "TEN_EN": "Fetal hydantoin syndrome"
+              },
+              {
+                "MA": "Q86.2",
+                "TEN": "Dị hình do warfarin",
+                "TEN_EN": "Dysmorphism due to warfarin"
+              },
+              {
+                "MA": "Q86.8",
+                "TEN": "Các dị tật bẩm sinh khác do các nguyên nhân bên ngoài đã biết",
+                "TEN_EN": "Other congenital malformation syndromes due to known exogenous causes"
+              }
+            ]
+          },
+          {
+            "MA": "Q87",
+            "TEN": "Các hội chứng dị tật bẩm sinh khác gây tổn thương nhiều hệ thống",
+            "TEN_EN": "Other specified congenital malformation syndromes affecting multiple systems",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q87.0",
+                "TEN": "Các hội chứng dị tật bẩm sinh gây tổn thương chủ yếu ở hình dạng của mặt",
+                "TEN_EN": "Congenital malformation syndromes predominantly affecting facial appearance"
+              },
+              {
+                "MA": "Q87.1",
+                "TEN": "Các hội chứng dị tật bẩm sinh liên quan chủ yếu đến thân hình ngắn",
+                "TEN_EN": "Congenital malformation syndromes predominantly associated with short stature"
+              },
+              {
+                "MA": "Q87.2",
+                "TEN": "Các hội chứng dị tật bẩm sinh liên quan chủ yếu đến các chi",
+                "TEN_EN": "Congenital malformation syndromes predominantly involving limbs"
+              },
+              {
+                "MA": "Q87.3",
+                "TEN": "Các hội chứng dị tật bẩm sinh có phát triển sớm quá mức",
+                "TEN_EN": "Congenital malformation syndromes involving early overgrowth"
+              },
+              {
+                "MA": "Q87.4",
+                "TEN": "Hội chứng Marfan",
+                "TEN_EN": "Marfan s syndrome"
+              },
+              {
+                "MA": "Q87.5",
+                "TEN": "Các hội chứng dị tật bẩm sinh khác đi kèm các thay đổi xương khác",
+                "TEN_EN": "Other congenital malformation syndromes with other skeletal changes"
+              },
+              {
+                "MA": "Q87.8",
+                "TEN": "Các hội chứng dị tật bẩm sinh đặc hiệu khác, chưa phân loại",
+                "TEN_EN": "Other specified congenital malformation syndromes, not elsewhere classified"
+              }
+            ]
+          },
+          {
+            "MA": "Q89",
+            "TEN": "Các dị tật bẩm sinh khác, chưa phân loại",
+            "TEN_EN": "Other congenital malformations, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q89.0",
+                "TEN": "Các dị tật bẩm sinh của lách",
+                "TEN_EN": "Congenital malformations of spleen"
+              },
+              {
+                "MA": "Q89.1",
+                "TEN": "Các dị tật bẩm sinh của tuyến thượng thận",
+                "TEN_EN": "Congenital malformations of adrenal gland"
+              },
+              {
+                "MA": "Q89.2",
+                "TEN": "Các dị tật bẩm sinh của các tuyến nội tiết khác",
+                "TEN_EN": "Congenital malformations of other endocrine glands"
+              },
+              {
+                "MA": "Q89.3",
+                "TEN": "Đảo ngược phủ tạng",
+                "TEN_EN": "Situs inversus"
+              },
+              {
+                "MA": "Q89.4",
+                "TEN": "Sinh đôi dính nhau",
+                "TEN_EN": "Conjoined twins"
+              },
+              {
+                "MA": "Q89.7",
+                "TEN": "Các đa dị tật bẩm sinh khác, chưa phân loại",
+                "TEN_EN": "Multiple congenital malformations, not elsewhere classified"
+              },
+              {
+                "MA": "Q89.8",
+                "TEN": "Các dị tật bẩm sinh đặc hiệu khác",
+                "TEN_EN": "Other specified congenital malformations"
+              },
+              {
+                "MA": "Q89.9",
+                "TEN": "Dị tật bẩm sinh không đặc hiệu",
+                "TEN_EN": "Congenital malformation, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Q90-Q99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bất thường nhiễm sắc thể, chưa được phân loại",
-        "TEN_EN": "Chromosomal abnormalities, not elsewhere classified"
+        "TEN_EN": "Chromosomal abnormalities, not elsewhere classified",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Q90",
+            "TEN": "Hội chứng Down",
+            "TEN_EN": "Down s syndrome",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q90.0",
+                "TEN": "Ba nhiễm sắc thể, giảm phân không phân ly",
+                "TEN_EN": "Trisomy 21, meiotic nondisjunction"
+              },
+              {
+                "MA": "Q90.1",
+                "TEN": "Ba nhiễm sắc thể, thể khảm (gián phân không phân ly)",
+                "TEN_EN": "Trisomy 21, mosaicism (mitotic nondisjunction)"
+              },
+              {
+                "MA": "Q90.2",
+                "TEN": "Ba nhiễm sắc thể, chuyển đoạn",
+                "TEN_EN": "Trisomy 21, translocation"
+              },
+              {
+                "MA": "Q90.9",
+                "TEN": "Hội chứng Down không đặc hiệu",
+                "TEN_EN": "Down s syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q91",
+            "TEN": "Hội chứng Edwards và hội chứng Patau",
+            "TEN_EN": "Edwards  syndrome and Patau s syndrome",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q91.0",
+                "TEN": "Ba nhiễm sắc thể 18, giảm phân không phân ly",
+                "TEN_EN": "Trisomy 18, meiotic nondisjunction"
+              },
+              {
+                "MA": "Q91.1",
+                "TEN": "Ba nhiễm sắc thể, thể khảm (gián phân không phân ly)",
+                "TEN_EN": "Trisomy 18, mosaicism (mitotic nondisjunction)"
+              },
+              {
+                "MA": "Q91.2",
+                "TEN": "Ba nhiễm sắc thể, chuyển đoạn",
+                "TEN_EN": "Trisomy 18, translocation"
+              },
+              {
+                "MA": "Q91.3",
+                "TEN": "Hội chứng Edward không đặc hiệu",
+                "TEN_EN": "Edwards syndrome, unspecified"
+              },
+              {
+                "MA": "Q91.4",
+                "TEN": "Ba nhiễm sắc thể 13, không phân ly khi giảm phân",
+                "TEN_EN": "Trisomy 13, meiotic nondisjunction"
+              },
+              {
+                "MA": "Q91.5",
+                "TEN": "Ba nhiễm sắc thể 13, thể khảm (không phân ly khi gián phân)",
+                "TEN_EN": "Trisomy 13, mosaicism (mitotic nondisjunction)"
+              },
+              {
+                "MA": "Q91.6",
+                "TEN": "Ba nhiễm sắc thể 13, chuyển đoạn",
+                "TEN_EN": "Trisomy 13, translocation"
+              },
+              {
+                "MA": "Q91.7",
+                "TEN": "Hội chứng Patau, không đặc hiệu",
+                "TEN_EN": "Patau s syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q92",
+            "TEN": "Ba nhiễm sắc thể và một phần ba nhiễm sắc thể khác của nhiễm sắc thể thường, không được xếp loại chỗ khác",
+            "TEN_EN": "Other trisomies and partial trisomies of the autosomes, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q92.0",
+                "TEN": "Ba nhiễm sắc thể hoàn toàn, không phân ly khi giảm phân",
+                "TEN_EN": "Whole chromosome trisomy, meiotic nondisjunction"
+              },
+              {
+                "MA": "Q92.1",
+                "TEN": "Ba nhiễm sắc thể hoàn toàn, thể khảm (không phân ly khi gián phân)",
+                "TEN_EN": "Whole chromosome trisomy, mosaicism (mitotic nondisjunction)"
+              },
+              {
+                "MA": "Q92.2",
+                "TEN": "Ba nhiễm sắc thể một phần lớn",
+                "TEN_EN": "Major partial trisomy"
+              },
+              {
+                "MA": "Q92.3",
+                "TEN": "Ba nhiễm sắc thể một phần nhỏ",
+                "TEN_EN": "Minor partial trisomy"
+              },
+              {
+                "MA": "Q92.4",
+                "TEN": "Sự nhân đôi chỉ thấy ở tiền pha giữa (tiền trung kỳ)",
+                "TEN_EN": "Duplications seen only at prometaphase"
+              },
+              {
+                "MA": "Q92.5",
+                "TEN": "Nhân đôi cùng với sự sắp xếp lại các phức hợp khác",
+                "TEN_EN": "Duplications with other complex rearrangements"
+              },
+              {
+                "MA": "Q92.6",
+                "TEN": "Nhiễm sắc thể có dấu ấn ngoài",
+                "TEN_EN": "Extra marker chromosomes"
+              },
+              {
+                "MA": "Q92.7",
+                "TEN": "Tam bội và đa bội",
+                "TEN_EN": "Triploidy and polyploidy"
+              },
+              {
+                "MA": "Q92.8",
+                "TEN": "Ba nhiễm sắc thể đặc hiệu khác và ba nhiễm sắc thể một phần của nhiễm sắc thể thường",
+                "TEN_EN": "Other specified trisomies and partial trisomies of autosomes"
+              },
+              {
+                "MA": "Q92.9",
+                "TEN": "Ba nhiễm sắc thể và một phần ba nhiễm sắc thể của nhiễm sắc thể thường, không đặc hiệu",
+                "TEN_EN": "Trisomy and partial trisomy of autosomes, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q93",
+            "TEN": "Đơn nhiễm sắc thể và thiếu một đoạn của nhiễm sắc thể thường, không được xếp loại chỗ khác",
+            "TEN_EN": "Monosomies and deletions from the autosomes, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q93.0",
+                "TEN": "Đơn nhiễm sắc thể hoàn toàn không phân ly khi giảm phân",
+                "TEN_EN": "Whole chromosome monosomy, meiotic nondisjunction"
+              },
+              {
+                "MA": "Q93.1",
+                "TEN": "Đơn nhiễm sắc thể hoàn toàn, thể khảm (không phân ly khi gián phân)",
+                "TEN_EN": "Whole chromosome monosomy, mosaicism (mitotic nondisjunction)"
+              },
+              {
+                "MA": "Q93.2",
+                "TEN": "Nhiễm sắc thể vòng hay hai trung tâm",
+                "TEN_EN": "Chromosome replaced with ring or dicentric"
+              },
+              {
+                "MA": "Q93.3",
+                "TEN": "Thiếu cánh ngắn nhiễm sắc thể số 4",
+                "TEN_EN": "Deletion of short arm of chromosome 4"
+              },
+              {
+                "MA": "Q93.4",
+                "TEN": "Thiếu cánh ngắn nhiễm sắc thể số 5",
+                "TEN_EN": "Deletion of short arm of chromosome 5"
+              },
+              {
+                "MA": "Q93.5",
+                "TEN": "Thiếu đoạn khác của nhiễm sắc thể",
+                "TEN_EN": "Other deletions of part of a chromosome"
+              },
+              {
+                "MA": "Q93.6",
+                "TEN": "Thiếu đoạn chỉ thấy ở tiền pha giữa (tiền trung kỳ)",
+                "TEN_EN": "Deletions seen only at prometaphase"
+              },
+              {
+                "MA": "Q93.7",
+                "TEN": "Thiếu đoạn với sắp xếp lại các phức hợp khác",
+                "TEN_EN": "Deletions with other complex rearrangements"
+              },
+              {
+                "MA": "Q93.8",
+                "TEN": "Thiếu đoạn của nhiễm sắc thể thường khác",
+                "TEN_EN": "Other deletions from the autosomes"
+              },
+              {
+                "MA": "Q93.9",
+                "TEN": "Thiếu đoạn của nhiễm sắc thể thường, không đặc hiệu",
+                "TEN_EN": "Deletion from autosomes, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q95",
+            "TEN": "Sắp xếp lại cân bằng và dấu ấn cấu trúc, không xếp loại ở chỗ khác",
+            "TEN_EN": "Balanced rearrangements and structural markers, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q95.0",
+                "TEN": "Chuyển và gắn đoạn cân bằng ở cá thể bình thường",
+                "TEN_EN": "Balanced translocation and insertion in normal individual"
+              },
+              {
+                "MA": "Q95.1",
+                "TEN": "Đảo đoạn nhiễm sắc thể ở cá thể bình thường",
+                "TEN_EN": "Chromosome inversion in normal individual"
+              },
+              {
+                "MA": "Q95.2",
+                "TEN": "Sắp xếp lại cân bằng nhiễm sắc thể thường ở cá thể không bình thường",
+                "TEN_EN": "Balanced autosomal rearrangement in abnormal individual"
+              },
+              {
+                "MA": "Q95.3",
+                "TEN": "Sắp xếp lại cân bằng nhiễm sắc thể thường/nhiễm sắc thể giới tính ở cá thể không bình thường",
+                "TEN_EN": "Balanced sex/autosomal rearrangement in abnormal individual"
+              },
+              {
+                "MA": "Q95.4",
+                "TEN": "Cá thể có dấu ấn chất dị nhiễm sắt",
+                "TEN_EN": "Individuals with marker heterochromatin"
+              },
+              {
+                "MA": "Q95.5",
+                "TEN": "Cá thể có đoạn nhiễm sắc thể thường dễ gẫy",
+                "TEN_EN": "Individuals with autosomal fragile site"
+              },
+              {
+                "MA": "Q95.8",
+                "TEN": "Sắp xếp lại cân bằng và dấu ấn cấu trúc khác",
+                "TEN_EN": "Other balanced rearrangements and structural markers"
+              },
+              {
+                "MA": "Q95.9",
+                "TEN": "Sắp xếp lại cân bằng và dấu ấn cấu trúc, không đặc hiệu",
+                "TEN_EN": "Balanced rearrangement and structural marker, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q96",
+            "TEN": "Hội chứng Turner",
+            "TEN_EN": "Turner s syndrome",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q96.0",
+                "TEN": "Kiểu nhiễm sắc thể 45,X",
+                "TEN_EN": "Karyotype 45,X"
+              },
+              {
+                "MA": "Q96.1",
+                "TEN": "Kiểu nhiễm sắc thể 46, X iso (Xq)",
+                "TEN_EN": "Karyotype 46,X iso (Xq)"
+              },
+              {
+                "MA": "Q96.2",
+                "TEN": "Kiểu nhiễm sắc thể 46,X với nhiễm sắc thể giới tính bất thường, trừ iso (Xq)",
+                "TEN_EN": "Karyotype 46,X with abnormal sex chromosome, except iso (Xq)"
+              },
+              {
+                "MA": "Q96.3",
+                "TEN": "Thể khảm, 45,X/46,XX hay XY",
+                "TEN_EN": "Mosaicism, 45,X/46,XX or XY"
+              },
+              {
+                "MA": "Q96.4",
+                "TEN": "Thể khảm, 45,X /dòng tế bào khác có nhiễm sắc thể giới tính bất thường",
+                "TEN_EN": "Mosaicism, 45,X/other cell line(s) with abnormal sex chromosome"
+              },
+              {
+                "MA": "Q96.8",
+                "TEN": "Các dạng khác của hội chứng Turner",
+                "TEN_EN": "Other variants of Turner s syndrome"
+              },
+              {
+                "MA": "Q96.9",
+                "TEN": "Hội chứng Turner, không đặc hiệu",
+                "TEN_EN": "Turner syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q97",
+            "TEN": "Bất thường nhiễm sắc thể giới tính khác, kiểu hình nữ, không xếp loại được ở chỗ khác",
+            "TEN_EN": "Other sex chromosome abnormalities, female phenotype, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q97.0",
+                "TEN": "Kiểu nhiễm sắc thể 47,XXX",
+                "TEN_EN": "Karyotype 47,XXX"
+              },
+              {
+                "MA": "Q97.1",
+                "TEN": "Nữ có hơn 3 nhiễm sắc thể X",
+                "TEN_EN": "Female with more than three X chromosomes"
+              },
+              {
+                "MA": "Q97.2",
+                "TEN": "Thể khảm, dòng có nhiễm sắc thể X khác nhau",
+                "TEN_EN": "Mosaicism, lines with various numbers of X chromosomes"
+              },
+              {
+                "MA": "Q97.3",
+                "TEN": "Nữ có kiểu nhiễm sắc thể 46,XY",
+                "TEN_EN": "Female with 46,XY karyotype"
+              },
+              {
+                "MA": "Q97.8",
+                "TEN": "Kiểu hình nữ có bất thường nhiễm sắc thể giới tính đặc hiệu khác",
+                "TEN_EN": "Other specified sex chromosome abnormalities, female phenotype"
+              },
+              {
+                "MA": "Q97.9",
+                "TEN": "Kiểu hình nữ có bất thường nhiễm sắc thể giới tính, không đặc hiệu",
+                "TEN_EN": "Sex chromosome abnormality, female phenotype, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q98",
+            "TEN": "Bất thường nhiễm sắc thể giới tính khác, kiểu hình nam không xếp loại được ở chỗ khác",
+            "TEN_EN": "Other sex chromosome abnormalities, male phenotype, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q98.0",
+                "TEN": "Hội chứng Kilne feiter với kiểu nhiễm sắc thể 47,XXY",
+                "TEN_EN": "Klinefelter s syndrome karyotype 47,XXY"
+              },
+              {
+                "MA": "Q98.1",
+                "TEN": "Hội chứng Kilne feiter, nam có hơn 2 nhiễm sắc thể X",
+                "TEN_EN": "Klinefelter s syndrome, male with more than two X chromosomes"
+              },
+              {
+                "MA": "Q98.2",
+                "TEN": "Hội chứng Kilne feiter, nam có kiểu nhiễm sắc thể 46,XX",
+                "TEN_EN": "Klinefelter s syndrome, male with 46,XX karyotype"
+              },
+              {
+                "MA": "Q98.3",
+                "TEN": "Nam khác với kiểu nhiễm sắc thể 46,XX",
+                "TEN_EN": "Other male with 46,XX karyotype"
+              },
+              {
+                "MA": "Q98.4",
+                "TEN": "Hội chứng Kilne feiter không đặc hiệu",
+                "TEN_EN": "Klinefelter s syndrome, unspecified"
+              },
+              {
+                "MA": "Q98.5",
+                "TEN": "Kiểu nhiễm sắc thể 47,XYY",
+                "TEN_EN": "Karyotype 47,XYY"
+              },
+              {
+                "MA": "Q98.6",
+                "TEN": "Nam có cấu trúc nhiễm sắc thể giới tính bất thường",
+                "TEN_EN": "Male with structurally abnormal sex chromosome"
+              },
+              {
+                "MA": "Q98.7",
+                "TEN": "Nam có thể khảm nhiễm sắc thể giới tính",
+                "TEN_EN": "Male with sex chromosome mosaicism"
+              },
+              {
+                "MA": "Q98.8",
+                "TEN": "Các bất thường đặc hiệu của nhiễm sắc thể giới tính, kiểu hình nam",
+                "TEN_EN": "Other specified sex chromosome abnormalities, male phenotype"
+              },
+              {
+                "MA": "Q98.9",
+                "TEN": "Bất thường nhiễm sắc thể giới tính, kiểu hiện nam, không đặc hiệu",
+                "TEN_EN": "Sex chromosome abnormality, male phenotype, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Q99",
+            "TEN": "Bất thường nhiễm sắc thể khác không xếp loại chỗ khác",
+            "TEN_EN": "Other chromosome abnormalities, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Q99.0",
+                "TEN": "Thể khảm 46, XX/46,XY",
+                "TEN_EN": "Chimera 46,XX/46,XY"
+              },
+              {
+                "MA": "Q99.1",
+                "TEN": "Lưỡng tính thật 46,XX",
+                "TEN_EN": "46,XX true hermaphrodite"
+              },
+              {
+                "MA": "Q99.2",
+                "TEN": "Nhiễm sắc thể X dễ gẫy",
+                "TEN_EN": "Fragile X chromosome"
+              },
+              {
+                "MA": "Q99.8",
+                "TEN": "Bất thường nhiễm sắc thể đặc hiệu khác",
+                "TEN_EN": "Other specified chromosome abnormalities"
+              },
+              {
+                "MA": "Q99.9",
+                "TEN": "Bất thường nhiễm sắc thể, không đặc hiệu",
+                "TEN_EN": "Chromosomal abnormality, unspecified"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

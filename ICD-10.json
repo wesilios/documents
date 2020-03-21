@@ -29774,37 +29774,3388 @@
         "MA": "M00-M25",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh khớp",
-        "TEN_EN": "Arthropathies"
+        "TEN_EN": "Arthropathies",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "M00",
+            "TEN": "Viêm khớp nhiễm khuẩn do vi khuẩn sinh mủ",
+            "TEN_EN": "Pyogenic arthritis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M00.0",
+                "TEN": "Viêm khớp và viêm đa khớp do tụ cầu khuẩn",
+                "TEN_EN": "Staphylococcal arthritis and polyarthritis"
+              },
+              {
+                "MA": "M00.1",
+                "TEN": "Viêm khớp và viêm đa khớp do phế cầu",
+                "TEN_EN": "Pneumococcal arthritis and polyarthritis"
+              },
+              {
+                "MA": "M00.2",
+                "TEN": "Viêm khớp và viêm đa khớp khác do liên cầu",
+                "TEN_EN": "Other streptococcal arthritis and polyarthritis"
+              },
+              {
+                "MA": "M00.8",
+                "TEN": "Viêm khớp và đa khớp do các vi khuẩn đặc hiệu khác",
+                "TEN_EN": "Arthritis and polyarthritis due to other specified bacterial agents"
+              },
+              {
+                "MA": "M00.9",
+                "TEN": "Viêm khớp do vi khuẩn sinh mủ không đặc hiệu",
+                "TEN_EN": "Pyogenic arthritis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M01",
+            "TEN": "Viêm khớp nhiễm khuẩn trực tiếp do các bệnh nhiễm khuẩn và ký sinh vật đã được xếp loại ở mục khác",
+            "TEN_EN": "Direct infections of joint in infectious and parasitic diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M01*",
+                "TEN": "Viêm khớp nhiễm khuẩn trực tiếp do các bệnh nhiễm khuẩn và ký sinh vật đã được phân loại ở nơi khác",
+                "TEN_EN": "Direct infections of joint in infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "M01.0*",
+                "TEN": "Viêm khớp do não mô cầu (A39.8†)",
+                "TEN_EN": "Meningococcal arthritis (A39.8†)"
+              },
+              {
+                "MA": "M01.1*",
+                "TEN": "Viêm khớp do lao (A18.0†)",
+                "TEN_EN": "Tuberculous arthritis (A18.0†)"
+              },
+              {
+                "MA": "M01.2*",
+                "TEN": "Viêm khớp trong bệnh Lyme (A69.2†)",
+                "TEN_EN": "Arthritis in Lyme disease (A69.2†)"
+              },
+              {
+                "MA": "M01.3*",
+                "TEN": "Viêm khớp trong các bệnh nhiễm khuẩn được phân loại ở nơi khác",
+                "TEN_EN": "Arthritis in other bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "M01.4*",
+                "TEN": "Viêm khớp trong bệnh Rubella (B06.8†)",
+                "TEN_EN": "Rubella arthritis (B06.8†)"
+              },
+              {
+                "MA": "M01.5*",
+                "TEN": "Viêm khớp trong nhiễm một số virus đã được xếp loại ở mục khác",
+                "TEN_EN": "Arthritis in other viral diseases classified elsewhere"
+              },
+              {
+                "MA": "M01.6*",
+                "TEN": "Viêm khớp do nấm (B35-B49†)",
+                "TEN_EN": "Arthritis in mycoses (B35-B49†)"
+              },
+              {
+                "MA": "M01.8*",
+                "TEN": "Viêm khớp trong một số bệnh nhiễm khuẩn và ký sinh vật được xếp loại ở mục khác",
+                "TEN_EN": "Arthritis in other infectious and parasitic diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M02",
+            "TEN": "Viêm khớp phản ứng",
+            "TEN_EN": "Reactive arthropathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M02.0",
+                "TEN": "Bệnh khớp sau mổ chuyển đoạn ruột",
+                "TEN_EN": "Arthropathy following intestinal bypass"
+              },
+              {
+                "MA": "M02.1",
+                "TEN": "Bệnh khớp sau lỵ",
+                "TEN_EN": "Postdysenteric arthropathy"
+              },
+              {
+                "MA": "M02.2",
+                "TEN": "Bệnh khớp sau tiêm vaccin",
+                "TEN_EN": "Postimmunization arthropathy"
+              },
+              {
+                "MA": "M02.3",
+                "TEN": "Hội chứng Reiter",
+                "TEN_EN": "Reiter s disease"
+              },
+              {
+                "MA": "M02.8",
+                "TEN": "Bệnh viêm khớp phản ứng khác",
+                "TEN_EN": "Other reactive arthropathies"
+              },
+              {
+                "MA": "M02.9",
+                "TEN": "Bệnh viêm khớp phản ứng không đặc hiệu",
+                "TEN_EN": "Reactive arthropathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M03",
+            "TEN": "Bệnh khớp sau nhiễm khuẩn và bệnh khớp phản ứng được xếp loại ở mục khác",
+            "TEN_EN": "Postinfective and reactive arthropathies in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M03*",
+                "TEN": "Bệnh khớp sau nhiễm khuẩn và bệnh khớp phản ứng được xếp loại ở mục khác",
+                "TEN_EN": "Postinfective and reactive arthropathies in diseases classified elsewhere"
+              },
+              {
+                "MA": "M03.0*",
+                "TEN": "Viêm khớp sau nhiễm não mô cầu (A39.8†)",
+                "TEN_EN": "Postmeningococcal arthritis (A39.8†)"
+              },
+              {
+                "MA": "M03.1*",
+                "TEN": "Bệnh khớp sau nhiễm giang mai",
+                "TEN_EN": "Postinfective arthropathy in syphilis"
+              },
+              {
+                "MA": "M03.2*",
+                "TEN": "Bệnh khớp sau nhiễm khuẩn khác được xếp loại ở mục khác",
+                "TEN_EN": "Other postinfectious arthropathies in diseases classified elsewhere"
+              },
+              {
+                "MA": "M03.6*",
+                "TEN": "Bệnh khớp phản ứng sau một số bệnh được xếp loại ở mục khác",
+                "TEN_EN": "Reactive arthropathy in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M05",
+            "TEN": "Viêm khớp dạng thấp huyết thanh dương tính",
+            "TEN_EN": "Seropositive rheumatoid arthritis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M05.0",
+                "TEN": "Hội chứng Felty",
+                "TEN_EN": "Felty s syndrome"
+              },
+              {
+                "MA": "M05.1†",
+                "TEN": "Tổn thương phổi trong các bệnh lý thấp khớp (J99.0*)",
+                "TEN_EN": "Rheumatoid lung disease (J99.0*)"
+              },
+              {
+                "MA": "M05.2",
+                "TEN": "Viêm mạch trong bệnh lý thấp khớp",
+                "TEN_EN": "Rheumatoid vasculitis"
+              },
+              {
+                "MA": "M05.3†",
+                "TEN": "Viêm khớp dạng thấp có tổn thương các tạng liên quan",
+                "TEN_EN": "Rheumatoid arthritis with involvement of other organs and systems"
+              },
+              {
+                "MA": "M05.8",
+                "TEN": "Viêm khớp dạng thấp huyết thanh dương tính khác",
+                "TEN_EN": "Other seropositive rheumatoid arthritis"
+              },
+              {
+                "MA": "M05.9",
+                "TEN": "Viêm khớp dạng thấp huyết thanh dương tính không đặc hiệu",
+                "TEN_EN": "Seropositive rheumatoid arthritis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M06",
+            "TEN": "Viêm khớp dạng thấp khác",
+            "TEN_EN": "Other rheumatoid arthritis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M06.0",
+                "TEN": "Viêm khớp dạng thấp huyết thanh âm tính",
+                "TEN_EN": "Seronegative rheumatoid arthritis"
+              },
+              {
+                "MA": "M06.1",
+                "TEN": "Bệnh Still khởi phát ở người lớn",
+                "TEN_EN": "Adult-onset Still s disease"
+              },
+              {
+                "MA": "M06.2",
+                "TEN": "Viêm bao hoạt dịch do thấp",
+                "TEN_EN": "Rheumatoid bursitis"
+              },
+              {
+                "MA": "M06.3",
+                "TEN": "Hạt (nốt) thấp dưới da",
+                "TEN_EN": "Rheumatoid nodule"
+              },
+              {
+                "MA": "M06.4",
+                "TEN": "Viêm nhiều khớp",
+                "TEN_EN": "Inflammatory polyarthropathy"
+              },
+              {
+                "MA": "M06.8",
+                "TEN": "Viêm khớp dạng thấp đặc hiệu khác",
+                "TEN_EN": "Other specified rheumatoid arthritis"
+              },
+              {
+                "MA": "M06.9",
+                "TEN": "Viêm khớp dạng thấp không đặc hiệu",
+                "TEN_EN": "Rheumatoid arthritis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M07",
+            "TEN": "Bệnh khớp vẩy nến và bệnh đường ruột",
+            "TEN_EN": "Psoriatic and enteropathic arthropathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M07*",
+                "TEN": "Bệnh khớp vảy nến và bệnh đường ruột",
+                "TEN_EN": "Psoriatic and enteropathic arthropathies"
+              },
+              {
+                "MA": "M07.0*",
+                "TEN": "Bệnh khớp vảy nến có tổn thương khớp ngón xa (L40.5†)",
+                "TEN_EN": "Distal interphalangeal psoriatic arthropathy (L40.5†)"
+              },
+              {
+                "MA": "M07.1*",
+                "TEN": "Viêm khớp có hủy khớp (L40.5†)",
+                "TEN_EN": "Arthritis mutilans (L40.5†)"
+              },
+              {
+                "MA": "M07.2*",
+                "TEN": "Viêm cột sống vảy nến (L40.5†)",
+                "TEN_EN": "Psoriatic spondylitis (L40.5†)"
+              },
+              {
+                "MA": "M07.3*",
+                "TEN": "Bệnh viêm khớp vảy nến khác (L40.5†)",
+                "TEN_EN": "Other psoriatic arthropathies (L40.5†)"
+              },
+              {
+                "MA": "M07.4",
+                "TEN": "Bệnh khớp trong bệnh Crohn [Viêm đoạn ruột] (K50.-†)",
+                "TEN_EN": "Arthropathy in Crohn s disease [regional enteritis] (K50.-†)"
+              },
+              {
+                "MA": "M07.5",
+                "TEN": "Bệnh khớp trong viêm loét đại tràng (K51.-†)",
+                "TEN_EN": "Arthropathy in ulcerative colitis (K51.-†)"
+              },
+              {
+                "MA": "M07.6",
+                "TEN": "Bệnh khớp trong bệnh đường ruột khác",
+                "TEN_EN": "Other enteropathic arthropathies"
+              }
+            ]
+          },
+          {
+            "MA": "M08",
+            "TEN": "Viêm khớp trẻ em",
+            "TEN_EN": "Juvenile arthritis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M08.0",
+                "TEN": "Viêm khớp dạng thấp trẻ em",
+                "TEN_EN": "Juvenile rheumatoid arthritis"
+              },
+              {
+                "MA": "M08.1",
+                "TEN": "Viêm cột sống dính khớp trẻ em",
+                "TEN_EN": "Juvenile ankylosing spondylitis"
+              },
+              {
+                "MA": "M08.2",
+                "TEN": "Viêm khớp trẻ em thể khởi đầu hệ thống",
+                "TEN_EN": "Juvenile arthritis with systemic onset"
+              },
+              {
+                "MA": "M08.3",
+                "TEN": "Viêm khớp trẻ em huyết thanh âm tính",
+                "TEN_EN": "Juvenile polyarthritis (seronegative)"
+              },
+              {
+                "MA": "M08.4",
+                "TEN": "Viêm khớp trẻ em thể ít khớp",
+                "TEN_EN": "Pauciarticular juvenile arthritis"
+              },
+              {
+                "MA": "M08.8",
+                "TEN": "Các viêm khớp trẻ em khác",
+                "TEN_EN": "Other juvenile arthritis"
+              },
+              {
+                "MA": "M08.9",
+                "TEN": "Các viêm khớp trẻ em không đặc hiệu",
+                "TEN_EN": "Juvenile arthritis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M09",
+            "TEN": "Viêm khớp thiếu niên trong các bệnh được xếp ở mục khác",
+            "TEN_EN": "Juvenile arthritis in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M09*",
+                "TEN": "Viêm khớp thiếu niên trong các bệnh được xếp ở mục khác",
+                "TEN_EN": "Juvenile arthritis in diseases classified elsewhere"
+              },
+              {
+                "MA": "M09.0*",
+                "TEN": "Viêm khớp thiếu niên sau vảy nến (K50._†)",
+                "TEN_EN": "Juvenile arthritis in psoriasis (K50.-†)"
+              },
+              {
+                "MA": "M09.1*",
+                "TEN": "Viêm khớp trẻ em trong bệnh Crohn (viêm ruột đoạn] (K50.-†)",
+                "TEN_EN": "Juvenile arthritis in Crohn s disease [regional enteritis] (K50.-†)"
+              },
+              {
+                "MA": "M09.2*",
+                "TEN": "Viêm khớp trẻ em trong bệnh viêm loét đại tràng (K51.-†)",
+                "TEN_EN": "Juvenile arthritis in ulcerative colitis (K51.-†)"
+              },
+              {
+                "MA": "M09.8*",
+                "TEN": "Viêm khớp trẻ em trong các bệnh được xếp ở mục khác",
+                "TEN_EN": "Juvenile arthritis in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M10",
+            "TEN": "Gút (thống phong)",
+            "TEN_EN": "Gout",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M10.0",
+                "TEN": "Bệnh Gút vô căn",
+                "TEN_EN": "Idiopathic gout"
+              },
+              {
+                "MA": "M10.1",
+                "TEN": "Bệnh Gút do ngộ độc chì",
+                "TEN_EN": "Lead-induced gout"
+              },
+              {
+                "MA": "M10.2",
+                "TEN": "Bệnh Gút do thuốc",
+                "TEN_EN": "Drug-induced gout"
+              },
+              {
+                "MA": "M10.3",
+                "TEN": "Bệnh Gút do thương tổn chức năng thận",
+                "TEN_EN": "Gout due to impairment of renal function"
+              },
+              {
+                "MA": "M10.4",
+                "TEN": "Bệnh Gút thứ phát khác",
+                "TEN_EN": "Other secondary gout"
+              },
+              {
+                "MA": "M10.9",
+                "TEN": "Bệnh Gút không đặc hiệu",
+                "TEN_EN": "Gout, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M11",
+            "TEN": "Các bệnh khớp khác do vi tinh thể",
+            "TEN_EN": "Other crystal arthropathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M11.0",
+                "TEN": "Bệnh do lắng đọng hydroxyapatit",
+                "TEN_EN": "Hydroxyapatite deposition disease"
+              },
+              {
+                "MA": "M11.1",
+                "TEN": "Bệnh vôi hóa sụn có tính chất gia đình",
+                "TEN_EN": "Familial chondrocalcinosis"
+              },
+              {
+                "MA": "M11.2",
+                "TEN": "Bệnh vôi hóa sụn khác",
+                "TEN_EN": "Other chondrocalcinosis"
+              },
+              {
+                "MA": "M11.8",
+                "TEN": "Bệnh khớp khác do các vi tinh thể được xác định",
+                "TEN_EN": "Other specified crystal arthropathies"
+              },
+              {
+                "MA": "M11.9",
+                "TEN": "Bệnh khớp do vi tinh thể không đặc hiệu",
+                "TEN_EN": "Crystal arthropathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M12",
+            "TEN": "Các bệnh khớp đặc hiệu khác",
+            "TEN_EN": "Other specific arthropathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M12.0",
+                "TEN": "Bệnh khớp mãn tính sau thấp [Jaccoud]",
+                "TEN_EN": "Chronic postrheumatic arthropathy [Jaccoud]"
+              },
+              {
+                "MA": "M12.1",
+                "TEN": "Bệnh Kaschin-Beck",
+                "TEN_EN": "Kaschin-Beck disease"
+              },
+              {
+                "MA": "M12.2",
+                "TEN": "Viêm màng hoạt dịch thể lông nốt (sắc tố)",
+                "TEN_EN": "Villonodular synovitis (pigmented)"
+              },
+              {
+                "MA": "M12.3",
+                "TEN": "Bệnh thấp khớp thoáng qua",
+                "TEN_EN": "Palindromic rheumatism"
+              },
+              {
+                "MA": "M12.4",
+                "TEN": "Tràn dịch khớp hay tái phát",
+                "TEN_EN": "Intermittent hydrarthrosis"
+              },
+              {
+                "MA": "M12.5",
+                "TEN": "Bệnh khớp do chấn thương",
+                "TEN_EN": "Traumatic arthropathy"
+              },
+              {
+                "MA": "M12.8",
+                "TEN": "Các bệnh khớp đặc hiệu khác không được xếp loại ở mục khác",
+                "TEN_EN": "Other specific arthropathies, not elsewhere classified"
+              }
+            ]
+          },
+          {
+            "MA": "M13",
+            "TEN": "Các viêm khớp khác",
+            "TEN_EN": "Other arthritis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M13.0",
+                "TEN": "Viêm đa khớp không đặc hiệu",
+                "TEN_EN": "Polyarthritis, unspecified"
+              },
+              {
+                "MA": "M13.1",
+                "TEN": "Viêm một khớp không được xếp loại ở mục khác",
+                "TEN_EN": "Monoarthritis, not elsewhere classified"
+              },
+              {
+                "MA": "M13.8",
+                "TEN": "Các viêm khớp đặc hiệu khác",
+                "TEN_EN": "Other specified arthritis"
+              },
+              {
+                "MA": "M13.9",
+                "TEN": "Viêm khớp không đặc hiệu",
+                "TEN_EN": "Arthritis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M14",
+            "TEN": "Bệnh khớp trong các bệnh không được xếp loại ở mục khác",
+            "TEN_EN": "Arthropathies in other diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M14*",
+                "TEN": "Bệnh khớp trong các bệnh không được xếp loại ở mục khác",
+                "TEN_EN": "Arthropathies in other diseases classified elsewhere"
+              },
+              {
+                "MA": "M14.0*",
+                "TEN": "Bệnh khớp gút do thiếu men và các bệnh lý di truyền khác",
+                "TEN_EN": "Gouty arthropathy due to enzyme defects and other inherited disorders"
+              },
+              {
+                "MA": "M14.1*",
+                "TEN": "Bệnh khớp do vi tinh thể sau các rối loạn chuyển hóa được xếp loại ở mục khác",
+                "TEN_EN": "Crystal arthropathy in other metabolic disorders"
+              },
+              {
+                "MA": "M14.2*",
+                "TEN": "Bệnh khớp do đái tháo đường đường (E10-E14 với ký tự thứ tư chung .6†)",
+                "TEN_EN": "Diabetic arthropathy (E10-E14 with common fourth character .6†)"
+              },
+              {
+                "MA": "M14.3*",
+                "TEN": "Viêm khớp và da nhiễm mỡ (E78.8†)",
+                "TEN_EN": "Lipoid dermatoarthritis (E78.8†)"
+              },
+              {
+                "MA": "M14.4*",
+                "TEN": "Bệnh khớp nhiễm bột (E85.-†)",
+                "TEN_EN": "Arthropathy in amyloidosis (E85.-†)"
+              },
+              {
+                "MA": "M14.5*",
+                "TEN": "Bệnh khớp trong các bệnh nội tiết, dinh dưỡng và các bệnh chuyển hóa khác",
+                "TEN_EN": "Arthropathies in other endocrine, nutritional and metabolic disorders"
+              },
+              {
+                "MA": "M14.6*",
+                "TEN": "Bệnh khớp do thần kinh",
+                "TEN_EN": "Neuropathic arthropathy"
+              },
+              {
+                "MA": "M14.8*",
+                "TEN": "Bệnh khớp trong các bệnh đặc hiệu khác đã được phân loại mục khác",
+                "TEN_EN": "Arthropathies in other specified diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M15",
+            "TEN": "thoái hóa đa khớp",
+            "TEN_EN": "Polyarthrosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M15.0",
+                "TEN": "thoái hóa khớp nguyên phát có tính gia đình",
+                "TEN_EN": "Primary generalized (osteo)arthrosis"
+              },
+              {
+                "MA": "M15.1",
+                "TEN": "Có hạt Heberden (có kèm tổn thương khớp)",
+                "TEN_EN": "Heberden s nodes (with arthropathy)"
+              },
+              {
+                "MA": "M15.2",
+                "TEN": "Hạt Bouchard (có kèm tổn thương khớp)",
+                "TEN_EN": "Bouchard s nodes (with arthropathy)"
+              },
+              {
+                "MA": "M15.3",
+                "TEN": "thoái hóa nhiều khớp thứ phát",
+                "TEN_EN": "Secondary multiple arthrosis"
+              },
+              {
+                "MA": "M15.4",
+                "TEN": "thoái hóa khớp kiểu bào mòn",
+                "TEN_EN": "Erosive (osteo)arthrosis"
+              },
+              {
+                "MA": "M15.8",
+                "TEN": "Các thoái hóa đa khớp khác",
+                "TEN_EN": "Other polyarthrosis"
+              },
+              {
+                "MA": "M15.9",
+                "TEN": "Các thoái hóa đa khớp không đặc hiệu",
+                "TEN_EN": "Polyarthrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M16",
+            "TEN": "thoái hóa khớp háng",
+            "TEN_EN": "Coxarthrosis [arthrosis of hip]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M16.0",
+                "TEN": "Thoái hóa khớp háng nguyên phát cả 2 bên",
+                "TEN_EN": "Primary coxarthrosis, bilateral"
+              },
+              {
+                "MA": "M16.1",
+                "TEN": "Các thoái hóa khớp háng nguyên phát khác",
+                "TEN_EN": "Other primary coxarthrosis"
+              },
+              {
+                "MA": "M16.2",
+                "TEN": "Các thoái hóa khớp háng do loạn dưỡng cả 2 bên",
+                "TEN_EN": "Coxarthrosis resulting from dysplasia, bilateral"
+              },
+              {
+                "MA": "M16.3",
+                "TEN": "Các thoái hóa khớp háng do loạn dưỡng khác",
+                "TEN_EN": "Other dysplastic coxarthrosis"
+              },
+              {
+                "MA": "M16.4",
+                "TEN": "Thoái hóa khớp háng sau chấn thương cả 2 bên",
+                "TEN_EN": "Post-traumatic coxarthrosis, bilateral"
+              },
+              {
+                "MA": "M16.5",
+                "TEN": "Các thoái hóa khớp háng sau chấn thương khác",
+                "TEN_EN": "Other post-traumatic coxarthrosis"
+              },
+              {
+                "MA": "M16.6",
+                "TEN": "Các thoái hóa khớp háng thứ phát khác cả 2 bên",
+                "TEN_EN": "Other secondary coxarthrosis, bilateral"
+              },
+              {
+                "MA": "M16.7",
+                "TEN": "Các thoái hóa khớp háng thứ phát khác",
+                "TEN_EN": "Other secondary coxarthrosis"
+              },
+              {
+                "MA": "M16.9",
+                "TEN": "Thoái hóa khớp háng không đặc hiệu",
+                "TEN_EN": "Coxarthrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M17",
+            "TEN": "thoái hóa khớp gối",
+            "TEN_EN": "Gonarthrosis [arthrosis of knee]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M17.0",
+                "TEN": "Thoái hóa khớp gối nguyên phát cả 2 bên",
+                "TEN_EN": "Primary gonarthrosis, bilateral"
+              },
+              {
+                "MA": "M17.1",
+                "TEN": "Thoái hóa khớp gối nguyên phát khác",
+                "TEN_EN": "Other primary gonarthrosis"
+              },
+              {
+                "MA": "M17.2",
+                "TEN": "Thoái hóa khớp gối sau chấn thương cả 2 bên",
+                "TEN_EN": "Post-traumatic gonarthrosis, bilateral"
+              },
+              {
+                "MA": "M17.3",
+                "TEN": "Thoái hóa khớp gối sau chấn thương khác",
+                "TEN_EN": "Other post-traumatic gonarthrosis"
+              },
+              {
+                "MA": "M17.4",
+                "TEN": "Thoái hóa khớp gối thứ phát khác cả 2 bên",
+                "TEN_EN": "Other secondary gonarthrosis, bilateral"
+              },
+              {
+                "MA": "M17.5",
+                "TEN": "Thoái hóa khớp gối thứ phát khác",
+                "TEN_EN": "Other secondary gonarthrosis"
+              },
+              {
+                "MA": "M17.9",
+                "TEN": "Thoái hóa khớp gối không đặc hiệu",
+                "TEN_EN": "Gonarthrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M18",
+            "TEN": "thoái hóa khớp cổ - bàn ngón tay cái",
+            "TEN_EN": "Arthrosis of first carpometacarpal joint",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M18.0",
+                "TEN": "Thoái hóa khớp cổ bàn ngón tay cái cả 2 bên",
+                "TEN_EN": "Primary arthrosis of first carpometacarpal joints, bilateral"
+              },
+              {
+                "MA": "M18.1",
+                "TEN": "Các thoái hóa nguyên phát khác của khớp cổ - bàn ngón cái",
+                "TEN_EN": "Other primary arthrosis of first carpometacarpal joint"
+              },
+              {
+                "MA": "M18.2",
+                "TEN": "Thoái hóa khớp cổ bàn ngón cái sau chấn thương cả 2 bên",
+                "TEN_EN": "Post-traumatic arthrosis of first carpometacarpal joints, bilateral"
+              },
+              {
+                "MA": "M18.3",
+                "TEN": "Thoái hóa khớp cổ bàn ngón cái sau chấn thương khác",
+                "TEN_EN": "Other post-traumatic arthrosis of first carpometacarpal joint"
+              },
+              {
+                "MA": "M18.4",
+                "TEN": "Thoái hóa khớp cổ bàn ngón cái thứ phát khác cả 2 bên",
+                "TEN_EN": "Other secondary arthrosis of first carpometacarpal joints, bilateral"
+              },
+              {
+                "MA": "M18.5",
+                "TEN": "Thoái hóa khớp cổ bàn ngón cái thứ phát khác",
+                "TEN_EN": "Other secondary arthrosis of first carpometacarpal joint"
+              },
+              {
+                "MA": "M18.9",
+                "TEN": "Thoái hóa khớp cổ bàn ngón cái không đặc hiệu",
+                "TEN_EN": "Arthrosis of first carpometacarpal joint, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M19",
+            "TEN": "thoái hóa khớp khác",
+            "TEN_EN": "Other arthrosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M19.0",
+                "TEN": "Thoái hóa khớp nguyên phát ở các khớp khác",
+                "TEN_EN": "Primary arthrosis of other joints"
+              },
+              {
+                "MA": "M19.1",
+                "TEN": "Thoái hóa khớp sau chấn thương ở các khớp khác",
+                "TEN_EN": "Post-traumatic arthrosis of other joints"
+              },
+              {
+                "MA": "M19.2",
+                "TEN": "Thoái hóa khớp thứ phát khác",
+                "TEN_EN": "Other secondary arthrosis"
+              },
+              {
+                "MA": "M19.8",
+                "TEN": "Thoái hóa khớp điển hình khác",
+                "TEN_EN": "Other specified arthrosis"
+              },
+              {
+                "MA": "M19.9",
+                "TEN": "Thoái hóa khớp không đặc hiệu",
+                "TEN_EN": "Arthrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M20",
+            "TEN": "Biến dạng mắc phải của ngón tay và ngón chân",
+            "TEN_EN": "Acquired deformities of fingers and toes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M20.0",
+                "TEN": "Biến dạng ngón tay",
+                "TEN_EN": "Deformity of finger(s)"
+              },
+              {
+                "MA": "M20.1",
+                "TEN": "Biến dạng quẹo ngón chân cái ra ngoài (mắc phải) Hallux valgus",
+                "TEN_EN": "Hallux valgus (acquired)"
+              },
+              {
+                "MA": "M20.2",
+                "TEN": "Biến dạng cứng ngón chân cái (hallux rigidus)",
+                "TEN_EN": "Hallux rigidus"
+              },
+              {
+                "MA": "M20.3",
+                "TEN": "Các biến dạng ngón chân cái mắc phải khác",
+                "TEN_EN": "Other deformity of hallux (acquired)"
+              },
+              {
+                "MA": "M20.4",
+                "TEN": "Biến dạng ngón chân hình búa (mắc phải)",
+                "TEN_EN": "Other hammer toe(s) (acquired)"
+              },
+              {
+                "MA": "M20.5",
+                "TEN": "Các biến dạng khác của ngón chân (mắc phải)",
+                "TEN_EN": "Other deformities of toe(s) (acquired)"
+              },
+              {
+                "MA": "M20.6",
+                "TEN": "Các biến dạng mắc phải khác của ngón chân không đặc hiệu",
+                "TEN_EN": "Acquired deformity of toe(s), unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M21",
+            "TEN": "Biến dạng mắc phải khác của chi",
+            "TEN_EN": "Other acquired deformities of limbs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M21.0",
+                "TEN": "Biến dạng vẹo ra ngoài, không xếp loại ở mục khác",
+                "TEN_EN": "Valgus deformity, not elsewhere classified"
+              },
+              {
+                "MA": "M21.1",
+                "TEN": "Biến dạng vẹo vào trong, không xếp loại ở mục khác",
+                "TEN_EN": "Varus deformity, not elsewhere classified"
+              },
+              {
+                "MA": "M21.2",
+                "TEN": "Biến dạng gấp",
+                "TEN_EN": "Flexion deformity"
+              },
+              {
+                "MA": "M21.3",
+                "TEN": "Biến dạng cổ tay hoặc bàn chân rủ(mắc phải)",
+                "TEN_EN": "Wrist or foot drop (acquired)"
+              },
+              {
+                "MA": "M21.4",
+                "TEN": "Biến dạng bàn chân phẳng (mắc phải)",
+                "TEN_EN": "Flat foot [pes planus] (acquired)"
+              },
+              {
+                "MA": "M21.5",
+                "TEN": "Biến dạng bàn tay quặp, bàn tay vẹo, bàn chân quặp, bàn chân vẹo (mắc phải)",
+                "TEN_EN": "Acquired clawhand, clubhand, clawfoot and clubfoot"
+              },
+              {
+                "MA": "M21.6",
+                "TEN": "Các biến dạng mắc phải khác của cổ chân và bàn chân",
+                "TEN_EN": "Other acquired deformities of ankle and foot"
+              },
+              {
+                "MA": "M21.7",
+                "TEN": "Chi lệch (mắc phải)",
+                "TEN_EN": "Unequal limb length (acquired)"
+              },
+              {
+                "MA": "M21.8",
+                "TEN": "Biến dạng mắc phải đặc hiệu khác của chi",
+                "TEN_EN": "Other specified acquired deformities of limbs"
+              },
+              {
+                "MA": "M21.9",
+                "TEN": "Biến dạng mắc phải không đặc hiệu của chi",
+                "TEN_EN": "Acquired deformity of limb, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M22",
+            "TEN": "Các bất thường của xương bánh chè",
+            "TEN_EN": "Disorders of patella",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M22.0",
+                "TEN": "Trật xương bánh chè tái phát",
+                "TEN_EN": "Recurrent dislocation of patella"
+              },
+              {
+                "MA": "M22.1",
+                "TEN": "Bán trật xương bánh chè tái phát",
+                "TEN_EN": "Recurrent subluxation of patella"
+              },
+              {
+                "MA": "M22.2",
+                "TEN": "Bất thường khớp đùi bánh chè",
+                "TEN_EN": "Patellofemoral disorders"
+              },
+              {
+                "MA": "M22.3",
+                "TEN": "Các loại trật khác của xương bánh chè",
+                "TEN_EN": "Other derangements of patella"
+              },
+              {
+                "MA": "M22.4",
+                "TEN": "Chứng nhuyễn sụn xương bánh chè",
+                "TEN_EN": "Chondromalacia patellae"
+              },
+              {
+                "MA": "M22.8",
+                "TEN": "Các bất thường của xương bánh chè",
+                "TEN_EN": "Other disorders of patella"
+              },
+              {
+                "MA": "M22.9",
+                "TEN": "Các bất thường của xương bánh chè không đặc hiệu",
+                "TEN_EN": "Disorder of patella, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M23",
+            "TEN": "Tổn thương bên trong khớp gối",
+            "TEN_EN": "Internal derangement of knee",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M23.0",
+                "TEN": "Kén (nang) sụn chêm",
+                "TEN_EN": "Cystic meniscus"
+              },
+              {
+                "MA": "M23.1",
+                "TEN": "Sụn chêm dạng đĩa (bẩm sinh)",
+                "TEN_EN": "Discoid meniscus (congenital)"
+              },
+              {
+                "MA": "M23.2",
+                "TEN": "Sụn chêm di lệch do tổn thương rách hay chấn thương cũ",
+                "TEN_EN": "Derangement of meniscus due to old tear or injury"
+              },
+              {
+                "MA": "M23.3",
+                "TEN": "Các tổn thương sụn chêm khác",
+                "TEN_EN": "Other meniscus derangements"
+              },
+              {
+                "MA": "M23.4",
+                "TEN": "Dị vật nội khớp",
+                "TEN_EN": "Loose body in knee"
+              },
+              {
+                "MA": "M23.5",
+                "TEN": "Tổn thương mất vững mãn tính của khớp gối",
+                "TEN_EN": "Chronic instability of knee"
+              },
+              {
+                "MA": "M23.6",
+                "TEN": "Các đứt tự phát khác của dây chằng trong khớp gối",
+                "TEN_EN": "Other spontaneous disruption of ligament(s) of knee"
+              },
+              {
+                "MA": "M23.8",
+                "TEN": "Các bệnh bên trong khác của khớp gối",
+                "TEN_EN": "Other internal derangements of knee"
+              },
+              {
+                "MA": "M23.9",
+                "TEN": "Bệnh bên trong khớp gối không đặc hiệu",
+                "TEN_EN": "Internal derangement of knee, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M24",
+            "TEN": "Các tổn thương đặc hiệu khác ở khớp",
+            "TEN_EN": "Other specific joint derangements",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M24.0",
+                "TEN": "Dị vật nội khớp",
+                "TEN_EN": "Loose body in joint"
+              },
+              {
+                "MA": "M24.1",
+                "TEN": "Các bệnh sụn khớp khác",
+                "TEN_EN": "Other articular cartilage disorders"
+              },
+              {
+                "MA": "M24.2",
+                "TEN": "Bệnh dây chằng",
+                "TEN_EN": "Disorder of ligament"
+              },
+              {
+                "MA": "M24.3",
+                "TEN": "Trật và bán trật bệnh lý của khớp chưa được xếp loại ở mục khác",
+                "TEN_EN": "Pathological dislocation and subluxation of joint, not elsewhere classified"
+              },
+              {
+                "MA": "M24.4",
+                "TEN": "Trật và bán trật khớp tái phát của khớp",
+                "TEN_EN": "Recurrent dislocation and subluxation of joint"
+              },
+              {
+                "MA": "M24.5",
+                "TEN": "Cứng khớp",
+                "TEN_EN": "Contracture of joint"
+              },
+              {
+                "MA": "M24.6",
+                "TEN": "Dính khớp",
+                "TEN_EN": "Ankylosis of joint"
+              },
+              {
+                "MA": "M24.7",
+                "TEN": "Lồi vào trong ổ cối (protrusioacetabuli)",
+                "TEN_EN": "Protrusio acetabuli"
+              },
+              {
+                "MA": "M24.8",
+                "TEN": "Các bệnh khớp đặc hiệu khác không xếp loại ở mục khác",
+                "TEN_EN": "Other specific joint derangements, not elsewhere classified"
+              },
+              {
+                "MA": "M24.9",
+                "TEN": "Những bệnh lý khớp không đặc hiệu",
+                "TEN_EN": "Joint derangement, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M25",
+            "TEN": "Bệnh khớp khác, không được xếp loại ở mục khác",
+            "TEN_EN": "Other joint disorders, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M25.0",
+                "TEN": "Chảy máu khớp",
+                "TEN_EN": "Haemarthrosis"
+              },
+              {
+                "MA": "M25.1",
+                "TEN": "Rò khớp",
+                "TEN_EN": "Fistula of joint"
+              },
+              {
+                "MA": "M25.2",
+                "TEN": "Lỏng lẻo khớp",
+                "TEN_EN": "Flail joint"
+              },
+              {
+                "MA": "M25.3",
+                "TEN": "Các tổn thương mất vững khác của khớp",
+                "TEN_EN": "Other instability of joint"
+              },
+              {
+                "MA": "M25.4",
+                "TEN": "Tràn dịch khớp",
+                "TEN_EN": "Effusion of joint"
+              },
+              {
+                "MA": "M25.5",
+                "TEN": "Đau khớp",
+                "TEN_EN": "Pain in joint"
+              },
+              {
+                "MA": "M25.6",
+                "TEN": "cứng khớp, không xếp loại ở mục khác",
+                "TEN_EN": "Stiffness of joint, not elsewhere classified"
+              },
+              {
+                "MA": "M25.7",
+                "TEN": "Gai xương",
+                "TEN_EN": "Osteophyte"
+              },
+              {
+                "MA": "M25.8",
+                "TEN": "Các bệnh khớp đặc hiệu khác",
+                "TEN_EN": "Other specified joint disorders"
+              },
+              {
+                "MA": "M25.9",
+                "TEN": "Các bệnh khớp không đặc hiệu",
+                "TEN_EN": "Joint disorder, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "M30-M36",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh mô liên kết hệ thống",
-        "TEN_EN": "Systemic connective tissue disorders"
+        "TEN_EN": "Systemic connective tissue disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "M30",
+            "TEN": "Viêm nút quanh động mạch và bệnh liên quan",
+            "TEN_EN": "Polyarteritis nodosa and related conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M30.0",
+                "TEN": "Viêm đa động mạch hình nút",
+                "TEN_EN": "Polyarteritis nodosa"
+              },
+              {
+                "MA": "M30.1",
+                "TEN": "Viêm đa động mạch có tổn thương phổi [Churg-Strauss]",
+                "TEN_EN": "Polyarteritis with lung involvement [Churg-Strauss]"
+              },
+              {
+                "MA": "M30.2",
+                "TEN": "Viêm đa động mạch trẻ em",
+                "TEN_EN": "Juvenile polyarteritis"
+              },
+              {
+                "MA": "M30.3",
+                "TEN": "Hội chứng hạch-da-niêm mạc [Kawasaki]",
+                "TEN_EN": "Mucocutaneous lymph node syndrome [Kawasaki]"
+              },
+              {
+                "MA": "M30.8",
+                "TEN": "Các bệnh khác liên quan đến viêm nút quanh động mạch",
+                "TEN_EN": "Other conditions related to polyarteritis nodosa"
+              }
+            ]
+          },
+          {
+            "MA": "M31",
+            "TEN": "Bệnh mạch máu hoại tử khác",
+            "TEN_EN": "Other necrotizing vasculopathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M31.0",
+                "TEN": "Viêm đa mạch quá mẫn",
+                "TEN_EN": "Hypersensitivity angiitis"
+              },
+              {
+                "MA": "M31.1",
+                "TEN": "Bệnh vi mạch có huyết khối",
+                "TEN_EN": "Thrombotic microangiopathy"
+              },
+              {
+                "MA": "M31.2",
+                "TEN": "Bệnh u hạt ác tính dòng giữa",
+                "TEN_EN": "Lethal midline granuloma"
+              },
+              {
+                "MA": "M31.3",
+                "TEN": "Bệnh u hạt Wegener",
+                "TEN_EN": "Wegener s granulomatosis"
+              },
+              {
+                "MA": "M31.4",
+                "TEN": "Hội chứng quai động mạch chủ [Takayasu]",
+                "TEN_EN": "Aortic arch syndrome [Takayasu]"
+              },
+              {
+                "MA": "M31.5",
+                "TEN": "Bệnh viêm động mạch tế bào khổng lồ với đau cơ dạng thấp",
+                "TEN_EN": "Giant cell arteritis with polymyalgia rheumatica"
+              },
+              {
+                "MA": "M31.6",
+                "TEN": "Bệnh viêm động mạch có tế bào khổng lồ khác",
+                "TEN_EN": "Other giant cell arteritis"
+              },
+              {
+                "MA": "M31.7",
+                "TEN": "Viêm đa động mạch vi thể",
+                "TEN_EN": "Microscopic polyangiitis"
+              },
+              {
+                "MA": "M31.8",
+                "TEN": "Các bệnh viêm mạch đặc hiệu hoại tử khác",
+                "TEN_EN": "Other specified necrotizing vasculopathies"
+              },
+              {
+                "MA": "M31.9",
+                "TEN": "Viêm mạch hoại tử không đặc hiệu",
+                "TEN_EN": "Necrotizing vasculopathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M32",
+            "TEN": "Lupus ban đỏ hệ thống",
+            "TEN_EN": "Systemic lupus erythematosus",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M32.0",
+                "TEN": "Bệnh Lupus ban đỏ hệ thống do thuốc",
+                "TEN_EN": "Drug-induced systemic lupus erythematosus"
+              },
+              {
+                "MA": "M32.1†",
+                "TEN": "Bệnh Lupus ban đỏ hệ thống có tổn thương phủ tạng",
+                "TEN_EN": "Systemic lupus erythematosus with organ or system involvement"
+              },
+              {
+                "MA": "M32.8",
+                "TEN": "Các dạng khác của Lupus ban đỏ hệ thống",
+                "TEN_EN": "Other forms of systemic lupus erythematosus"
+              },
+              {
+                "MA": "M32.9",
+                "TEN": "Lupus ban đỏ hệ thống không đặc hiệu",
+                "TEN_EN": "Systemic lupus erythematosus, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M33",
+            "TEN": "Viêm da cơ",
+            "TEN_EN": "Dermatopolymyositis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M33.0",
+                "TEN": "Viêm da cơ trẻ em",
+                "TEN_EN": "Juvenile dermatomyositis"
+              },
+              {
+                "MA": "M33.1",
+                "TEN": "Các bệnh viêm da cơ khác",
+                "TEN_EN": "Other dermatomyositis"
+              },
+              {
+                "MA": "M33.2",
+                "TEN": "Viêm đa cơ",
+                "TEN_EN": "Polymyositis"
+              },
+              {
+                "MA": "M33.9",
+                "TEN": "Viêm da cơ không đặc hiệu",
+                "TEN_EN": "Dermatopolymyositis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M34",
+            "TEN": "Xơ cứng toàn thể",
+            "TEN_EN": "Systemic sclerosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M34.0",
+                "TEN": "Xơ cứng bì toàn thể tiến triển",
+                "TEN_EN": "Progressive systemic sclerosis"
+              },
+              {
+                "MA": "M34.1",
+                "TEN": "Hội chứng CR(E)ST",
+                "TEN_EN": "CR(E)ST syndrome"
+              },
+              {
+                "MA": "M34.2",
+                "TEN": "Xơ cứng bì do dùng thuốc và hóa chất",
+                "TEN_EN": "Systemic sclerosis induced by drugs and chemicals"
+              },
+              {
+                "MA": "M34.8",
+                "TEN": "Các dạng khác của xơ cứng bì toàn thể",
+                "TEN_EN": "Other forms of systemic sclerosis"
+              },
+              {
+                "MA": "M34.9",
+                "TEN": "Xơ cứng bì toàn thể, không đặc hiệu",
+                "TEN_EN": "Systemic sclerosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M35",
+            "TEN": "Các tổn thương hệ thống khác của mô liên kết",
+            "TEN_EN": "Other systemic involvement of connective tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M35.0",
+                "TEN": "Hội chứng khô (Hội chứng Sjogren)",
+                "TEN_EN": "Sicca syndrome [Sjögren]"
+              },
+              {
+                "MA": "M35.1",
+                "TEN": "Các hội chứng trùng lắp khác",
+                "TEN_EN": "Other overlap syndromes"
+              },
+              {
+                "MA": "M35.2",
+                "TEN": "Bệnh Behcet",
+                "TEN_EN": "Behçet s disease"
+              },
+              {
+                "MA": "M35.3",
+                "TEN": "Bệnh đau cơ dạng thấp",
+                "TEN_EN": "Polymyalgia rheumatica"
+              },
+              {
+                "MA": "M35.4",
+                "TEN": "Viêm cân mạc lan toả (tăng bạch cầu ái toan)",
+                "TEN_EN": "Diffuse (eosinophilic) fasciitis"
+              },
+              {
+                "MA": "M35.5",
+                "TEN": "Xơ cứng nhiều ổ",
+                "TEN_EN": "Multifocal fibrosclerosis"
+              },
+              {
+                "MA": "M35.6",
+                "TEN": "Viêm mô mỡ dưới da hay tái phát (Weber - Christian)",
+                "TEN_EN": "Relapsing panniculitis [Weber-Christian]"
+              },
+              {
+                "MA": "M35.7",
+                "TEN": "Hội chứng tăng vận động",
+                "TEN_EN": "Hypermobility syndrome"
+              },
+              {
+                "MA": "M35.8",
+                "TEN": "Các tổn thương hệ thống đặc hiệu khác của mô liên kết",
+                "TEN_EN": "Other specified systemic involvement of connective tissue"
+              },
+              {
+                "MA": "M35.9",
+                "TEN": "Các tổn thương hệ thống của mô liên kết, không đặc hiệu",
+                "TEN_EN": "Systemic involvement of connective tissue, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M36",
+            "TEN": "Tổn thương mô liên kết hệ thống trong các bệnh đã được xếp loại ở mục khác",
+            "TEN_EN": "Systemic disorders of connective tissue in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M36*",
+                "TEN": "Tổn thương mô liên kết hệ thống trong các bệnh đã được xếp loại ở mục khác",
+                "TEN_EN": "Systemic disorders of connective tissue in diseases classified elsewhere"
+              },
+              {
+                "MA": "M36.0*",
+                "TEN": "Viêm da cơ và viêm đa cơ tự miễn trong các bệnh lý khối u (C00-D48†)",
+                "TEN_EN": "Dermato(poly)myositis in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "M36.1*",
+                "TEN": "Bệnh khớp trong các bệnh ung thư đã được xếp ở mục khác (C00-D48†)",
+                "TEN_EN": "Arthropathy in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "M36.2*",
+                "TEN": "Tổn thương khớp trong bệnh ưa chảy máu (D66-D68†)",
+                "TEN_EN": "Haemophilic arthropathy (D66-D68†)"
+              },
+              {
+                "MA": "M36.3*",
+                "TEN": "Bệnh khớp trong các bệnh về máu khác (D50-D76†)",
+                "TEN_EN": "Arthropathy in other blood disorders (D50-D76†)"
+              },
+              {
+                "MA": "M36.4*",
+                "TEN": "Bệnh khớp trong phản ứng quá mẫn đã được xếp loại ở mục khác",
+                "TEN_EN": "Arthropathy in hypersensitivity reactions classified elsewhere"
+              },
+              {
+                "MA": "M36.8*",
+                "TEN": "Tổn thương hệ thống mô liên kết trong các bệnh đã được xếp loại ở mục khác",
+                "TEN_EN": "Systemic disorders of connective tissue in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "M40-M54",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh cột sống",
-        "TEN_EN": "Dorsopathies"
+        "TEN_EN": "Dorsopathies",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "M40",
+            "TEN": "Gù và ưỡn cột sống",
+            "TEN_EN": "Kyphosis and lordosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M40.0",
+                "TEN": "Gù do tư thế",
+                "TEN_EN": "Postural kyphosis"
+              },
+              {
+                "MA": "M40.1",
+                "TEN": "Các gù cột sống thứ phát khác",
+                "TEN_EN": "Other secondary kyphosis"
+              },
+              {
+                "MA": "M40.2",
+                "TEN": "Các gù không đặc hiệu khác",
+                "TEN_EN": "Other and unspecified kyphosis"
+              },
+              {
+                "MA": "M40.3",
+                "TEN": "Hội chứng lưng phẳng",
+                "TEN_EN": "Flatback syndrome"
+              },
+              {
+                "MA": "M40.4",
+                "TEN": "Các ưỡn cột sống khác",
+                "TEN_EN": "Other lordosis"
+              },
+              {
+                "MA": "M40.5",
+                "TEN": "Ưỡn cột sống không đặc hiệu",
+                "TEN_EN": "Lordosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M41",
+            "TEN": "Vẹo cột sống",
+            "TEN_EN": "Scoliosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M41.0",
+                "TEN": "Vẹo cột sống tự phát ở trẻ nhỏ",
+                "TEN_EN": "Infantile idiopathic scoliosis"
+              },
+              {
+                "MA": "M41.1",
+                "TEN": "Vẹo cột sống tự phát thiếu niên",
+                "TEN_EN": "Juvenile idiopathic scoliosis"
+              },
+              {
+                "MA": "M41.2",
+                "TEN": "Các vẹo cột sống tự phát khác",
+                "TEN_EN": "Other idiopathic scoliosis"
+              },
+              {
+                "MA": "M41.3",
+                "TEN": "Vẹo cột sống do bất thường vùng ngực",
+                "TEN_EN": "Thoracogenic scoliosis"
+              },
+              {
+                "MA": "M41.4",
+                "TEN": "Vẹo cột sống do nguyên nhân thần kinh-cơ",
+                "TEN_EN": "Neuromuscular scoliosis"
+              },
+              {
+                "MA": "M41.5",
+                "TEN": "Các vẹo cột sống thứ phát khác",
+                "TEN_EN": "Other secondary scoliosis"
+              },
+              {
+                "MA": "M41.8",
+                "TEN": "Các dạng khác của vẹo cột sống",
+                "TEN_EN": "Other forms of scoliosis"
+              },
+              {
+                "MA": "M41.9",
+                "TEN": "Vẹo cột sống không đặc hiệu",
+                "TEN_EN": "Scoliosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M42",
+            "TEN": "Viêm xương sụn cột sống",
+            "TEN_EN": "Spinal osteochondrosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M42.0",
+                "TEN": "Viêm xương sụn cột sống thanh thiếu niên",
+                "TEN_EN": "Juvenile osteochondrosis of spine"
+              },
+              {
+                "MA": "M42.1",
+                "TEN": "Hư điểm cốt hóa cột sống người lớn",
+                "TEN_EN": "Adult osteochondrosis of spine"
+              },
+              {
+                "MA": "M42.9",
+                "TEN": "Hư điểm cốt hóa cột sống không đặc hiệu",
+                "TEN_EN": "Spinal osteochondrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M43",
+            "TEN": "Các biến dạng khác của cột sống",
+            "TEN_EN": "Other deforming dorsopathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M43.0",
+                "TEN": "Trượt đốt sống",
+                "TEN_EN": "Spondylolysis"
+              },
+              {
+                "MA": "M43.1",
+                "TEN": "Bệnh trượt đốt sống",
+                "TEN_EN": "Spondylolisthesis"
+              },
+              {
+                "MA": "M43.2",
+                "TEN": "Dính đốt sống khác",
+                "TEN_EN": "Other fusion of spine"
+              },
+              {
+                "MA": "M43.3",
+                "TEN": "Bán trật khớp trục-đội hay tái phát có tổn thương tủy sống",
+                "TEN_EN": "Recurrent atlantoaxial subluxation with myelopathy"
+              },
+              {
+                "MA": "M43.4",
+                "TEN": "Bán trật khớp trục-đội hay tái phát khác",
+                "TEN_EN": "Other recurrent atlantoaxial subluxation"
+              },
+              {
+                "MA": "M43.5",
+                "TEN": "Các bán trật đốt sống hay tái phát khác",
+                "TEN_EN": "Other recurrent vertebral subluxation"
+              },
+              {
+                "MA": "M43.6",
+                "TEN": "Vẹo cổ",
+                "TEN_EN": "Torticollis"
+              },
+              {
+                "MA": "M43.8",
+                "TEN": "Các dị tật điển hình khác của cột sống được xác định",
+                "TEN_EN": "Other specified deforming dorsopathies"
+              },
+              {
+                "MA": "M43.9",
+                "TEN": "Các bệnh cột sống có dị tật không đặc hiệu",
+                "TEN_EN": "Deforming dorsopathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M45",
+            "TEN": "Bệnh viêm cột sống dính khớp",
+            "TEN_EN": "Ankylosing spondylitis",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "M46",
+            "TEN": "Các bệnh viêm cột sống khác",
+            "TEN_EN": "Other inflammatory spondylopathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M46.0",
+                "TEN": "Bệnh gân-dây chằng quanh cột sống",
+                "TEN_EN": "Spinal enthesopathy"
+              },
+              {
+                "MA": "M46.1",
+                "TEN": "Viêm khớp cùng chậu, chưa xếp loại ở mục khác",
+                "TEN_EN": "Sacroiliitis, not elsewhere classified"
+              },
+              {
+                "MA": "M46.2",
+                "TEN": "Viêm xương tủy thân đốt sống",
+                "TEN_EN": "Osteomyelitis of vertebra"
+              },
+              {
+                "MA": "M46.3",
+                "TEN": "Viêm đĩa đệm đốt sống do vi khuẩn sinh mủ",
+                "TEN_EN": "Infection of intervertebral disc (pyogenic)"
+              },
+              {
+                "MA": "M46.4",
+                "TEN": "Viêm đĩa đệm, không đặc hiệu",
+                "TEN_EN": "Discitis, unspecified"
+              },
+              {
+                "MA": "M46.5",
+                "TEN": "Các bệnh nhiễm khuẩn khác của thân đốt sống",
+                "TEN_EN": "Other infective spondylopathies"
+              },
+              {
+                "MA": "M46.8",
+                "TEN": "Các bệnh viêm khác của thân đốt sống, được xác định",
+                "TEN_EN": "Other specified inflammatory spondylopathies"
+              },
+              {
+                "MA": "M46.9",
+                "TEN": "Viêm đốt sống không đặc hiệu",
+                "TEN_EN": "Inflammatory spondylopathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M47",
+            "TEN": "thoái hóa cột sống",
+            "TEN_EN": "Spondylosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M47.0†",
+                "TEN": "Hội chứng chèn ép động mạch sống và động mạch gai sống trước (G99.2*)",
+                "TEN_EN": "Anterior spinal and vertebral artery compression syndromes (G99.2*)"
+              },
+              {
+                "MA": "M47.1",
+                "TEN": "thoái hóa cột sống khác kèm tổn thương tủy sống",
+                "TEN_EN": "Other spondylosis with myelopathy"
+              },
+              {
+                "MA": "M47.2",
+                "TEN": "thoái hóa cột sống khác có tổn thương rễ sống",
+                "TEN_EN": "Other spondylosis with radiculopathy"
+              },
+              {
+                "MA": "M47.8",
+                "TEN": "Các thoái hóa cột sống khác",
+                "TEN_EN": "Other spondylosis"
+              },
+              {
+                "MA": "M47.9",
+                "TEN": "thoái hóa cột sống không đặc hiệu",
+                "TEN_EN": "Spondylosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M48",
+            "TEN": "Các bệnh khác của thân đốt sống",
+            "TEN_EN": "Other spondylopathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M48.0",
+                "TEN": "Hẹp ống sống",
+                "TEN_EN": "Spinal stenosis"
+              },
+              {
+                "MA": "M48.1",
+                "TEN": "Cứng khớp do tăng tạo xương [Forestier]",
+                "TEN_EN": "Ankylosing hyperostosis [Forestier]"
+              },
+              {
+                "MA": "M48.2",
+                "TEN": "Hư khớp liên mỏm gai",
+                "TEN_EN": "Kissing spine"
+              },
+              {
+                "MA": "M48.3",
+                "TEN": "Chấn thương cột sống",
+                "TEN_EN": "Traumatic spondylopathy"
+              },
+              {
+                "MA": "M48.4",
+                "TEN": "gẫy đốt sống do mỏi",
+                "TEN_EN": "Fatigue fracture of vertebra"
+              },
+              {
+                "MA": "M48.5",
+                "TEN": "Xẹp đốt sống, chưa được xếp loại ở mục khác",
+                "TEN_EN": "Collapsed vertebra, not elsewhere classified"
+              },
+              {
+                "MA": "M48.8",
+                "TEN": "Các bệnh thân đốt sống được xác định khác",
+                "TEN_EN": "Other specified spondylopathies"
+              },
+              {
+                "MA": "M48.9",
+                "TEN": "Các bệnh thân đốt sống không đặc hiệu",
+                "TEN_EN": "Spondylopathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M49",
+            "TEN": "Tổn thương cột sống trong các bệnh đã xếp loại mục khác",
+            "TEN_EN": "Spondylopathies in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M49*",
+                "TEN": "Tổn thương cột sống trong các bệnh đã xếp loại mục khác",
+                "TEN_EN": "Spondylopathies in diseases classified elsewhere"
+              },
+              {
+                "MA": "M49.0*",
+                "TEN": "Lao cột sống (A18.0†)",
+                "TEN_EN": "Tuberculosis of spine (A18.0†)"
+              },
+              {
+                "MA": "M49.1*",
+                "TEN": "Viêm đốt sống do Brucella (A23.-†)",
+                "TEN_EN": "Brucella spondylitis (A23.-†)"
+              },
+              {
+                "MA": "M49.2*",
+                "TEN": "Viêm đốt sống do vi khuẩn đường ruột (A01-A04†)",
+                "TEN_EN": "Enterobacterial spondylitis (A01-A04†)"
+              },
+              {
+                "MA": "M49.3*",
+                "TEN": "Bệnh cột sống trong các bệnh nhiễm khuẩn và ký sinh vật, đã xếp loại ở mục khác",
+                "TEN_EN": "Spondylopathy in other infectious and parasitic diseases classified elsewhere"
+              },
+              {
+                "MA": "M49.4*",
+                "TEN": "Tổn thương cột sống do nguyên nhân thần kinh",
+                "TEN_EN": "Neuropathic spondylopathy"
+              },
+              {
+                "MA": "M49.5*",
+                "TEN": "Xẹp đốt sống trong các bệnh đã xếp loại ở mục khác",
+                "TEN_EN": "Collapsed vertebra in diseases classified elsewhere"
+              },
+              {
+                "MA": "M49.8*",
+                "TEN": "Tổn thương thân đốt sống trong các bệnh khác đã được xếp loại ở mục khác",
+                "TEN_EN": "Spondylopathy in other diseases classified elsewhere"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "MA": "M50-M54",
+        "TEN": "Các bệnh khác của cột sống",
+        "TEN_EN": "Other dorsopathies",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "M50",
+            "TEN": "Bệnh đĩa đệm đốt sống cổ",
+            "TEN_EN": "Cervical disc disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M50.0†",
+                "TEN": "Bệnh một đĩa đệm đốt sống cổ kèm tổn thương tủy sống (G99.2*)",
+                "TEN_EN": "Cervical disc disorder with myelopathy (G99.2*)"
+              },
+              {
+                "MA": "M50.1",
+                "TEN": "Bệnh một đĩa đệm cột sống cổ kèm tổn thương rễ tủy sống",
+                "TEN_EN": "Cervical disc disorder with radiculopathy"
+              },
+              {
+                "MA": "M50.2",
+                "TEN": "Các Thoát vị đĩa đệm cột sống cổ khác",
+                "TEN_EN": "Other cervical disc displacement"
+              },
+              {
+                "MA": "M50.3",
+                "TEN": "Các thoái hóa đĩa đệm đốt sống cổ khác",
+                "TEN_EN": "Other cervical disc degeneration"
+              },
+              {
+                "MA": "M50.8",
+                "TEN": "Các tổn thương đĩa đệm đốt sống cổ khác",
+                "TEN_EN": "Other cervical disc disorders"
+              },
+              {
+                "MA": "M50.9",
+                "TEN": "Các bệnh đĩa đệm đốt sống cổ khác không đặc hiệu",
+                "TEN_EN": "Cervical disc disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M51",
+            "TEN": "Các bệnh đĩa đệm gian đốt sống khác",
+            "TEN_EN": "Other intervertebral disc disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M51.0†",
+                "TEN": "Các bệnh của đĩa đệm đốt sống thắt lưng và các đốt sống khác có kèm theo tổn thương tủy sống (G99.2*)",
+                "TEN_EN": "Lumbar and other intervertebral disc disorders with myelopathy (G99.2*)"
+              },
+              {
+                "MA": "M51.1†",
+                "TEN": "Bệnh của đĩa đệm đốt sống thắt lưng và các đốt sống khác có kèm tổn thương của rễ tủy sống (G55.1*)",
+                "TEN_EN": "Lumbar and other intervertebral disc disorders with radiculopathy (G55.1*)"
+              },
+              {
+                "MA": "M51.2",
+                "TEN": "Thoát vị đĩa đệm đốt sống đặc hiệu khác",
+                "TEN_EN": "Other specified intervertebral disc displacement"
+              },
+              {
+                "MA": "M51.3",
+                "TEN": "thoái hóa đĩa đệm đốt sống đặc hiệu khác",
+                "TEN_EN": "Other specified intervertebral disc degeneration"
+              },
+              {
+                "MA": "M51.4",
+                "TEN": "Nhân Schmorl",
+                "TEN_EN": "Schmorl s nodes"
+              },
+              {
+                "MA": "M51.8",
+                "TEN": "Các tổn thương đặc hiệu khác của đĩa đệm",
+                "TEN_EN": "Other specified intervertebral disc disorders"
+              },
+              {
+                "MA": "M51.9",
+                "TEN": "Tổn thương đĩa đệm đốt sống không đặc hiệu",
+                "TEN_EN": "Intervertebral disc disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M53",
+            "TEN": "Bệnh cột sống khác, không được xếp loại ở mục khác",
+            "TEN_EN": "Other dorsopathies, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M53.0",
+                "TEN": "Hội chứng đầu - cổ",
+                "TEN_EN": "Cervicocranial syndrome"
+              },
+              {
+                "MA": "M53.1",
+                "TEN": "Hội chứng cánh tay cổ",
+                "TEN_EN": "Cervicobrachial syndrome"
+              },
+              {
+                "MA": "M53.2",
+                "TEN": "cột sống mất vững",
+                "TEN_EN": "Spinal instabilities"
+              },
+              {
+                "MA": "M53.3",
+                "TEN": "Tổn thương cùng cụt, chưa xếp loại mục khác",
+                "TEN_EN": "Sacrococcygeal disorders, not elsewhere classified"
+              },
+              {
+                "MA": "M53.8",
+                "TEN": "Các bệnh cột sống xác định khác",
+                "TEN_EN": "Other specified dorsopathies"
+              },
+              {
+                "MA": "M53.9",
+                "TEN": "Bệnh cột sống không đặc hiệu",
+                "TEN_EN": "Dorsopathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M54",
+            "TEN": "Đau lưng",
+            "TEN_EN": "Dorsalgia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M54.0",
+                "TEN": "Viêm mô mỡ dưới da tại vùng cổ và lưng",
+                "TEN_EN": "Panniculitis affecting regions of neck and back"
+              },
+              {
+                "MA": "M54.1",
+                "TEN": "Bệnh rễ thần kinh tủy sống",
+                "TEN_EN": "Radiculopathy"
+              },
+              {
+                "MA": "M54.2",
+                "TEN": "Đau vùng cổ gáy",
+                "TEN_EN": "Cervicalgia"
+              },
+              {
+                "MA": "M54.3",
+                "TEN": "Đau dây thần kinh tọa",
+                "TEN_EN": "Sciatica"
+              },
+              {
+                "MA": "M54.4",
+                "TEN": "Đau lưng kèm đau dây thần kinh tọa",
+                "TEN_EN": "Lumbago with sciatica"
+              },
+              {
+                "MA": "M54.5",
+                "TEN": "Đau cột sống thắt lưng",
+                "TEN_EN": "Low back pain"
+              },
+              {
+                "MA": "M54.6",
+                "TEN": "Đau cột sống ngực",
+                "TEN_EN": "Pain in thoracic spine"
+              },
+              {
+                "MA": "M54.8",
+                "TEN": "Các đau vùng phía sau cơ thể khác",
+                "TEN_EN": "Other dorsalgia"
+              },
+              {
+                "MA": "M54.9",
+                "TEN": "Đau lưng không đặc hiệu",
+                "TEN_EN": "Dorsalgia, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "M60-M79",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh lý mô mềm",
-        "TEN_EN": "Soft tissue disorders"
+        "TEN_EN": "Soft tissue disorders",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "M60",
+            "TEN": "Viêm cơ",
+            "TEN_EN": "Myositis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M60.0",
+                "TEN": "Viêm cơ nhiễm khuẩn",
+                "TEN_EN": "Infective myositis"
+              },
+              {
+                "MA": "M60.1",
+                "TEN": "Viêm tổ chức kẽ của cơ",
+                "TEN_EN": "Interstitial myositis"
+              },
+              {
+                "MA": "M60.2",
+                "TEN": "U hạt mô mềm do dị vật, không được xếp loại ở mục khác",
+                "TEN_EN": "Foreign body granuloma of soft tissue, not elsewhere classified"
+              },
+              {
+                "MA": "M60.8",
+                "TEN": "Các loại viêm cơ khác",
+                "TEN_EN": "Other myositis"
+              },
+              {
+                "MA": "M60.9",
+                "TEN": "Viêm cơ không đặc hiệu",
+                "TEN_EN": "Myositis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M61",
+            "TEN": "Vôi hóa và cốt hóa cơ",
+            "TEN_EN": "Calcification and ossification of muscle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M61.0",
+                "TEN": "Viêm cơ cốt hóa do chấn thương",
+                "TEN_EN": "Myositis ossificans traumatica"
+              },
+              {
+                "MA": "M61.1",
+                "TEN": "Viêm cơ cốt hóa tiến triển",
+                "TEN_EN": "Myositis ossificans progressiva"
+              },
+              {
+                "MA": "M61.2",
+                "TEN": "Vôi hóa và cốt hóacơ do liệt",
+                "TEN_EN": "Paralytic calcification and ossification of muscle"
+              },
+              {
+                "MA": "M61.3",
+                "TEN": "Vôi hóa và cốt hóa cơ liên quan đến bỏng",
+                "TEN_EN": "Calcification and ossification of muscles associated with burns"
+              },
+              {
+                "MA": "M61.4",
+                "TEN": "Các dạng vôi hóa cơ khác",
+                "TEN_EN": "Other calcification of muscle"
+              },
+              {
+                "MA": "M61.5",
+                "TEN": "Các dạng cốt hóa cơ khác",
+                "TEN_EN": "Other ossification of muscle"
+              },
+              {
+                "MA": "M61.9",
+                "TEN": "Các chứng vôi hóa và cốt hóa cơ không đặc hiệu",
+                "TEN_EN": "Calcification and ossification of muscle, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M62",
+            "TEN": "Các bệnh cơ khác",
+            "TEN_EN": "Other disorders of muscle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M62.0",
+                "TEN": "Lỏng nhẽo cơ",
+                "TEN_EN": "Diastasis of muscle"
+              },
+              {
+                "MA": "M62.1",
+                "TEN": "rách cơ khác (không do chấn thương)",
+                "TEN_EN": "Other rupture of muscle (nontraumatic)"
+              },
+              {
+                "MA": "M62.2",
+                "TEN": "Nhồi máu cơ do thiếu máu cục bộ",
+                "TEN_EN": "Ischaemic infarction of muscle"
+              },
+              {
+                "MA": "M62.3",
+                "TEN": "Hội chứng bất động (liệt 2 chi dưới)",
+                "TEN_EN": "Immobility syndrome (paraplegic)"
+              },
+              {
+                "MA": "M62.4",
+                "TEN": "Co cứng cơ",
+                "TEN_EN": "Contracture of muscle"
+              },
+              {
+                "MA": "M62.5",
+                "TEN": "Nhẽo cơ và teo cơ, không được xếp loại ở mục khác",
+                "TEN_EN": "Muscle wasting and atrophy, not elsewhere classified"
+              },
+              {
+                "MA": "M62.6",
+                "TEN": "Căng cơ quá mức",
+                "TEN_EN": "Muscle strain"
+              },
+              {
+                "MA": "M62.8",
+                "TEN": "Các bệnh cơ đặc hiệu khác",
+                "TEN_EN": "Other specified disorders of muscle"
+              },
+              {
+                "MA": "M62.9",
+                "TEN": "Bệnh cơ không đặc hiệu",
+                "TEN_EN": "Disorder of muscle, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M63",
+            "TEN": "Bệnh cơ trong những bệnh được xếp loại ở mục khác",
+            "TEN_EN": "Disorders of muscle in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M63*",
+                "TEN": "Bệnh cơ trong những bệnh được xếp loại ở mục khác",
+                "TEN_EN": "Disorders of muscle in diseases classified elsewhere"
+              },
+              {
+                "MA": "M63.0*",
+                "TEN": "Viêm cơ trong các bệnh nhiễm khuẩn được xếp loại ở mục khác",
+                "TEN_EN": "Myositis in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "M63.1*",
+                "TEN": "Viêm cơ trong nhiễm ký sinh trùng và động vật đơn bào được xếp loại ở mục khác",
+                "TEN_EN": "Myositis in protozoal and parasitic infections classified elsewhere"
+              },
+              {
+                "MA": "M63.2*",
+                "TEN": "Viêm cơ trong các bệnh nhiễm khuẩn khác được xếp loại ở mục khác",
+                "TEN_EN": "Myositis in other infectious diseases classified elsewhere"
+              },
+              {
+                "MA": "M63.3*",
+                "TEN": "Viêm cơ trong bệnh sacoidosis D86.8",
+                "TEN_EN": "Myositis in sarcoidosisD86.8"
+              },
+              {
+                "MA": "M63.8*",
+                "TEN": "Các bệnh cơ khác trong những bệnh được xếp loại ở mục khác",
+                "TEN_EN": "Other disorders of muscle in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M65",
+            "TEN": "Viêm màng hoạt dịch và viêm bao gân",
+            "TEN_EN": "Synovitis and tenosynovitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M65.0",
+                "TEN": "Áp xe bao gân",
+                "TEN_EN": "Abscess of tendon sheath"
+              },
+              {
+                "MA": "M65.1",
+                "TEN": "Các chứng viêm màng hoạt dịch hoặc viêm bao gân nhiễm khuẩn khác",
+                "TEN_EN": "Other infective (teno)synovitis"
+              },
+              {
+                "MA": "M65.2",
+                "TEN": "Viêm gân vôi hóa",
+                "TEN_EN": "Calcific tendinitis"
+              },
+              {
+                "MA": "M65.3",
+                "TEN": "Ngón tay lò xo",
+                "TEN_EN": "Trigger finger"
+              },
+              {
+                "MA": "M65.4",
+                "TEN": "Viêm bao gân mỏm trâm quay [de Quervain]",
+                "TEN_EN": "Radial styloid tenosynovitis [de Quervain]"
+              },
+              {
+                "MA": "M65.8",
+                "TEN": "Các viêm màng hoạt dịch và viêm bao gân khác",
+                "TEN_EN": "Other synovitis and tenosynovitis"
+              },
+              {
+                "MA": "M65.9",
+                "TEN": "Viêm màng hoạt dịch và viêm bao gân, không đặc hiệu",
+                "TEN_EN": "Synovitis and tenosynovitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M66",
+            "TEN": "Rách (đứt) tự nhiên của màng hoạt dịch và gân",
+            "TEN_EN": "Spontaneous rupture of synovium and tendon",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M66.0",
+                "TEN": "Vỡ u nang khoeo chân",
+                "TEN_EN": "Rupture of popliteal cyst"
+              },
+              {
+                "MA": "M66.1",
+                "TEN": "Rách màng hoạt dịch",
+                "TEN_EN": "Rupture of synovium"
+              },
+              {
+                "MA": "M66.2",
+                "TEN": "Rách (đứt) tự nhiên các gân duỗi",
+                "TEN_EN": "Spontaneous rupture of extensor tendons"
+              },
+              {
+                "MA": "M66.3",
+                "TEN": "rách (đứt) tự nhiên các gân gấp",
+                "TEN_EN": "Spontaneous rupture of flexor tendons"
+              },
+              {
+                "MA": "M66.4",
+                "TEN": "rách (đứt) tự nhiên các gân khác",
+                "TEN_EN": "Spontaneous rupture of other tendons"
+              },
+              {
+                "MA": "M66.5",
+                "TEN": "Rách (đứt) tự nhiên các gân không đặc hiệu",
+                "TEN_EN": "Spontaneous rupture of unspecified tendon"
+              }
+            ]
+          },
+          {
+            "MA": "M67",
+            "TEN": "Các bệnh khác của màng hoạt dịch và gân",
+            "TEN_EN": "Other disorders of synovium and tendon",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M67.0",
+                "TEN": "Gân Achille (gót) ngắn (mắc phải)",
+                "TEN_EN": "Short Achilles tendon (acquired)"
+              },
+              {
+                "MA": "M67.1",
+                "TEN": "Các chứng co rút gân (bao gân) khác",
+                "TEN_EN": "Other contracture of tendon (sheath)"
+              },
+              {
+                "MA": "M67.2",
+                "TEN": "Phì đại màng hoạt dịch, không được xếp loại ở nơi khác",
+                "TEN_EN": "Synovial hypertrophy, not elsewhere classified"
+              },
+              {
+                "MA": "M67.3",
+                "TEN": "Viêm màng hoạt dịch thoáng qua",
+                "TEN_EN": "Transient synovitis"
+              },
+              {
+                "MA": "M67.4",
+                "TEN": "Kén",
+                "TEN_EN": "Ganglion"
+              },
+              {
+                "MA": "M67.8",
+                "TEN": "Các bệnh của màng hoạt dịch và gân đặc hiệu khác",
+                "TEN_EN": "Other specified disorders of synovium and tendon"
+              },
+              {
+                "MA": "M67.9",
+                "TEN": "Bệnh của màng hoạt dịch và gân không đặc hiệu",
+                "TEN_EN": "Disorder of synovium and tendon, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M68",
+            "TEN": "Các bệnh của màng hoạt dịch và gân trong những bệnh được xếp loại ở mục khác",
+            "TEN_EN": "Disorders of synovium and tendon in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M68*",
+                "TEN": "Các bệnh của màng hoạt dịch và gân trong những bệnh được xếp loại ở mục khác",
+                "TEN_EN": "Disorders of synovium and tendon in diseases classified elsewhere"
+              },
+              {
+                "MA": "M68.0*",
+                "TEN": "Viêm màng hoạt dịch và viêm bao gân trong những bệnh nhiễm khuẩn được xếp loại ở mục khác",
+                "TEN_EN": "Synovitis and tenosynovitis in bacterial diseases classified elsewhere"
+              },
+              {
+                "MA": "M68.8*",
+                "TEN": "Các bệnh của màng hoạt dịch và gân khác trong những bệnh được xếp loại ở mục khác",
+                "TEN_EN": "Other disorders of synovium and tendon in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M70",
+            "TEN": "Các bệnh mô mềm liên quan đến vận động, vận động quá mức và bị chèn ép",
+            "TEN_EN": "Soft tissue disorders related to use, overuse and pressure",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M70.0",
+                "TEN": "Viêm màng hoạt dịch khô mãn tính ở bàn tay và cổ tay",
+                "TEN_EN": "Chronic crepitant synovitis of hand and wrist"
+              },
+              {
+                "MA": "M70.1",
+                "TEN": "Viêm túi thanh mạc bàn tay",
+                "TEN_EN": "Bursitis of hand"
+              },
+              {
+                "MA": "M70.2",
+                "TEN": "Viêm túi thanh mạc mỏm khủyu",
+                "TEN_EN": "Olecranon bursitis"
+              },
+              {
+                "MA": "M70.3",
+                "TEN": "Viêm túi thanh mạc khác ở khủyu",
+                "TEN_EN": "Other bursitis of elbow"
+              },
+              {
+                "MA": "M70.4",
+                "TEN": "Viêm túi thanh mạc trước xương bánh chè",
+                "TEN_EN": "Prepatellar bursitis"
+              },
+              {
+                "MA": "M70.5",
+                "TEN": "Viêm túi thanh mạc khác ở khớp gối",
+                "TEN_EN": "Other bursitis of knee"
+              },
+              {
+                "MA": "M70.6",
+                "TEN": "Viêm túi thanh mạc mấu chuyển",
+                "TEN_EN": "Trochanteric bursitis"
+              },
+              {
+                "MA": "M70.7",
+                "TEN": "Viêm túi thanh mạc khác ở háng",
+                "TEN_EN": "Other bursitis of hip"
+              },
+              {
+                "MA": "M70.8",
+                "TEN": "Các bệnh mô mềm khác liên quan đến vận động, vận động quá mức và bị chèn ép",
+                "TEN_EN": "Other soft tissue disorders related to use, overuse and pressure"
+              },
+              {
+                "MA": "M70.9",
+                "TEN": "Các bệnh mô mềm không đặc hiệu liên quan đến vận động, vận động quá mức và bị chèn ép",
+                "TEN_EN": "Unspecified soft tissue disorder related to use, overuse and pressure"
+              }
+            ]
+          },
+          {
+            "MA": "M71",
+            "TEN": "Các bệnh túi thanh mạc khác",
+            "TEN_EN": "Other bursopathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M71.0",
+                "TEN": "Áp xe túi thanh mạc",
+                "TEN_EN": "Abscess of bursa"
+              },
+              {
+                "MA": "M71.1",
+                "TEN": "Viêm túi thanh mạc nhiễm khuẩn khác",
+                "TEN_EN": "Other infective bursitis"
+              },
+              {
+                "MA": "M71.2",
+                "TEN": "Kén (nang) màng hoạt dịch vùng khoeo [Baker]",
+                "TEN_EN": "Synovial cyst of popliteal space [Baker]"
+              },
+              {
+                "MA": "M71.3",
+                "TEN": "Kén (nang) túi thanh mạc khác",
+                "TEN_EN": "Other bursal cyst"
+              },
+              {
+                "MA": "M71.4",
+                "TEN": "Lắng đọng can xi ở túi thanh mạc",
+                "TEN_EN": "Calcium deposit in bursa"
+              },
+              {
+                "MA": "M71.5",
+                "TEN": "Các chứng viêm túi thanh mạc khác không được xếp loại ở mục khác",
+                "TEN_EN": "Other bursitis, not elsewhere classified"
+              },
+              {
+                "MA": "M71.8",
+                "TEN": "Các bệnh túi thanh mạc đặc hiệu khác",
+                "TEN_EN": "Other specified bursopathies"
+              },
+              {
+                "MA": "M71.9",
+                "TEN": "Bệnh túi thanh mạc không đặc hiệu",
+                "TEN_EN": "Bursopathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M72",
+            "TEN": "Các bệnh nguyên bào sợi",
+            "TEN_EN": "Fibroblastic disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M72.0",
+                "TEN": "Bệnh xơ cân gan tay (Dupuytren)",
+                "TEN_EN": "Palmar fascial fibromatosis [Dupuytren]"
+              },
+              {
+                "MA": "M72.1",
+                "TEN": "U đầu xương bàn tay",
+                "TEN_EN": "Knuckle pads"
+              },
+              {
+                "MA": "M72.2",
+                "TEN": "Bệnh xơ cân gan chân",
+                "TEN_EN": "Plantar fascial fibromatosis"
+              },
+              {
+                "MA": "M72.4",
+                "TEN": "Bệnh xơ giả sacôm",
+                "TEN_EN": "Pseudosarcomatous fibromatosis"
+              },
+              {
+                "MA": "M72.6",
+                "TEN": "Viêm cân hoại tử",
+                "TEN_EN": "Necrotizing fasciitis"
+              },
+              {
+                "MA": "M72.8",
+                "TEN": "Các bệnh nguyên bào sợi khác",
+                "TEN_EN": "Other fibroblastic disorders"
+              },
+              {
+                "MA": "M72.9",
+                "TEN": "Bệnh nguyên bào sợi không đặc hiệu",
+                "TEN_EN": "Fibroblastic disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M73",
+            "TEN": "Các bệnh mô mềm trong những bệnh được xếp loại ở mục khác",
+            "TEN_EN": "Soft tissue disorders in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M73*",
+                "TEN": "Các bệnh mô mềm trong những bệnh được xếp loại ở mục khác",
+                "TEN_EN": "Soft tissue disorders in diseases classified elsewhere"
+              },
+              {
+                "MA": "M73.0*",
+                "TEN": "Viêm túi thanh mạc do lậu cầu (A54.4†)",
+                "TEN_EN": "Gonococcal bursitis (A54.4†)"
+              },
+              {
+                "MA": "M73.1*",
+                "TEN": "Viêm túi thanh mạc do giang mai (A52.7†)",
+                "TEN_EN": "Syphilitic bursitis (A52.7†)"
+              },
+              {
+                "MA": "M73.8*",
+                "TEN": "Các rối loạn mô mềm khác trong những bệnh được xếp loại ở mục khác",
+                "TEN_EN": "Other soft tissue disorders in diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M75",
+            "TEN": "Tổn thương vai",
+            "TEN_EN": "Shoulder lesions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M75.0",
+                "TEN": "Viêm bao hoạt dịch co thắt khớp vai",
+                "TEN_EN": "Adhesive capsulitis of shoulder"
+              },
+              {
+                "MA": "M75.1",
+                "TEN": "Hội chứng bao gân xoay",
+                "TEN_EN": "Rotator cuff syndrome"
+              },
+              {
+                "MA": "M75.2",
+                "TEN": "Viêm gân cơ nhị đầu",
+                "TEN_EN": "Bicipital tendinitis"
+              },
+              {
+                "MA": "M75.3",
+                "TEN": "Viêm gân vôi hóa ở vai",
+                "TEN_EN": "Calcific tendinitis of shoulder"
+              },
+              {
+                "MA": "M75.4",
+                "TEN": "Hội chứng chèn ép vùng vai",
+                "TEN_EN": "Impingement syndrome of shoulder"
+              },
+              {
+                "MA": "M75.5",
+                "TEN": "Viêm túi thanh mạc ở vai",
+                "TEN_EN": "Bursitis of shoulder"
+              },
+              {
+                "MA": "M75.8",
+                "TEN": "Các tổn thương khác ở vai",
+                "TEN_EN": "Other shoulder lesions"
+              },
+              {
+                "MA": "M75.9",
+                "TEN": "Tổn thương vai không đặc hiệu",
+                "TEN_EN": "Shoulder lesion, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M76",
+            "TEN": "Bệnh điểm bám gân-dây chằng ở chi dưới, không kể bàn chân",
+            "TEN_EN": "Enthesopathies of lower limb, excluding foot",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M76.0",
+                "TEN": "Viêm gân ở vùng mông",
+                "TEN_EN": "Gluteal tendinitis"
+              },
+              {
+                "MA": "M76.1",
+                "TEN": "Viêm gân cơ thắt lưng",
+                "TEN_EN": "Psoas tendinitis"
+              },
+              {
+                "MA": "M76.2",
+                "TEN": "gai xương ở mào chậu",
+                "TEN_EN": "Iliac crest spur"
+              },
+              {
+                "MA": "M76.3",
+                "TEN": "Hội chứng dải xơ chậu chày (Maissiat)",
+                "TEN_EN": "Iliotibial band syndrome"
+              },
+              {
+                "MA": "M76.4",
+                "TEN": "Viêm túi thanh mạc bên của xương chày [Pellegrini - Stieda]",
+                "TEN_EN": "Tibial collateral bursitis [Pellegrini-Stieda]"
+              },
+              {
+                "MA": "M76.5",
+                "TEN": "Viêm gân bánh chè",
+                "TEN_EN": "Patellar tendinitis"
+              },
+              {
+                "MA": "M76.6",
+                "TEN": "Viêm gân Achille",
+                "TEN_EN": "Achilles tendinitis"
+              },
+              {
+                "MA": "M76.7",
+                "TEN": "Viêm gân cơ mác",
+                "TEN_EN": "Peroneal tendinitis"
+              },
+              {
+                "MA": "M76.8",
+                "TEN": "Các bệnh điểm bám gân - dây chằng khác ở chi dưới, không kể bàn chân",
+                "TEN_EN": "Other enthesopathies of lower limb, excluding foot"
+              },
+              {
+                "MA": "M76.9",
+                "TEN": "Bệnh điểm bám gân dây chằng chi dưới không đặc hiệu",
+                "TEN_EN": "Enthesopathy of lower limb, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M77",
+            "TEN": "Các bệnh điểm bám gân - dây chằng khác",
+            "TEN_EN": "Other enthesopathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M77.0",
+                "TEN": "Viêm điểm bám gân lồi cầu trong xương cánh tay",
+                "TEN_EN": "Medial epicondylitis"
+              },
+              {
+                "MA": "M77.1",
+                "TEN": "Viêm điểm bám gân lồi cầu ngoài xương cánh tay",
+                "TEN_EN": "Lateral epicondylitis"
+              },
+              {
+                "MA": "M77.2",
+                "TEN": "Viêm quanh khớp cổ tay",
+                "TEN_EN": "Periarthritis of wrist"
+              },
+              {
+                "MA": "M77.3",
+                "TEN": "Gai Xương gót",
+                "TEN_EN": "Calcaneal spur"
+              },
+              {
+                "MA": "M77.4",
+                "TEN": "Đau xương đốt bàn chân",
+                "TEN_EN": "Metatarsalgia"
+              },
+              {
+                "MA": "M77.5",
+                "TEN": "Các bệnh điểm bám gân - dây chằng bàn chân khác",
+                "TEN_EN": "Other enthesopathy of foot"
+              },
+              {
+                "MA": "M77.8",
+                "TEN": "Các bệnh điểm bám gân - dây chằng khác, không được xếp loại ở mục khác",
+                "TEN_EN": "Other enthesopathies, not elsewhere classified"
+              },
+              {
+                "MA": "M77.9",
+                "TEN": "Bệnh điểm bám gân - dây chằng không đặc hiệu",
+                "TEN_EN": "Enthesopathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M79",
+            "TEN": "Bệnh khác của mô mềm, chưa xếp loại mục khác",
+            "TEN_EN": "Other soft tissue disorders, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M79.0",
+                "TEN": "Bệnh thấp khớp, không đặc hiệu",
+                "TEN_EN": "Rheumatism, unspecified"
+              },
+              {
+                "MA": "M79.1",
+                "TEN": "Đau cơ",
+                "TEN_EN": "Myalgia"
+              },
+              {
+                "MA": "M79.2",
+                "TEN": "Đau dây thần kinh và viêm dây thần kinh, không đặc hiệu",
+                "TEN_EN": "Neuralgia and neuritis, unspecified"
+              },
+              {
+                "MA": "M79.3",
+                "TEN": "Viêm mô mỡ dưới da, không đặc hiệu",
+                "TEN_EN": "Panniculitis, unspecified"
+              },
+              {
+                "MA": "M79.4",
+                "TEN": "Phì đại mỡ vùng bánh chè",
+                "TEN_EN": "Hypertrophy of (infrapatellar) fat pad"
+              },
+              {
+                "MA": "M79.5",
+                "TEN": "Dị vật tồn tại trong mô mềm",
+                "TEN_EN": "Residual foreign body in soft tissue"
+              },
+              {
+                "MA": "M79.6",
+                "TEN": "Đau ở một chi",
+                "TEN_EN": "Pain in limb"
+              },
+              {
+                "MA": "M79.7",
+                "TEN": "Đau mô sợi- cơ",
+                "TEN_EN": "Fibromyalgia"
+              },
+              {
+                "MA": "M79.8",
+                "TEN": "Các bệnh lý đặc hiệu khác của mô mềm",
+                "TEN_EN": "Other specified soft tissue disorders"
+              },
+              {
+                "MA": "M79.9",
+                "TEN": "Các bệnh lý của mô mềm, không đặc hiệu",
+                "TEN_EN": "Soft tissue disorder, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "M80-M94",
         "MA_TRONG_CHUONG": "",
         "TEN": "Bệnh của xương và sụn",
-        "TEN_EN": "Osteopathies and chondropathies"
+        "TEN_EN": "Osteopathies and chondropathies",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "M80",
+            "TEN": "Loãng xương có kèm gẫy xương bệnh lý",
+            "TEN_EN": "Osteoporosis with pathological fracture",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M80.0",
+                "TEN": "Loãng xương sau mãn kinh có kèm gẫy xương bệnh lý",
+                "TEN_EN": "Postmenopausal osteoporosis with pathological fracture"
+              },
+              {
+                "MA": "M80.1",
+                "TEN": "Loãng xương sau cắt buồng trứng có kèm gẫy xương bệnh lý",
+                "TEN_EN": "Postoophorectomy osteoporosis with pathological fracture"
+              },
+              {
+                "MA": "M80.2",
+                "TEN": "Loãng xương do bất động có kèm gẫy xương bệnh lý",
+                "TEN_EN": "Osteoporosis of disuse with pathological fracture"
+              },
+              {
+                "MA": "M80.3",
+                "TEN": "Loãng xương do kém hấp thu sau phẫu thuật có kèm gẫy xương bệnh lý",
+                "TEN_EN": "Postsurgical malabsorption osteoporosis with pathological fracture"
+              },
+              {
+                "MA": "M80.4",
+                "TEN": "Loãng xương do dùng thuốc có kèm gẫy xương bệnh lý",
+                "TEN_EN": "Drug-induced osteoporosis with pathological fracture"
+              },
+              {
+                "MA": "M80.5",
+                "TEN": "Loãng xương tự phát có kèm gẫy xương bệnh lý",
+                "TEN_EN": "Idiopathic osteoporosis with pathological fracture"
+              },
+              {
+                "MA": "M80.8",
+                "TEN": "Các loãng xương khác có kèm gẫy xương bệnh lý",
+                "TEN_EN": "Other osteoporosis with pathological fracture"
+              },
+              {
+                "MA": "M80.9",
+                "TEN": "Loãng xương không đặc hiệu có kèm gẫy xương bệnh lý",
+                "TEN_EN": "Unspecified osteoporosis with pathological fracture"
+              }
+            ]
+          },
+          {
+            "MA": "M81",
+            "TEN": "Loãng xương không kèm gẫy xương bệnh lý",
+            "TEN_EN": "Osteoporosis without pathological fracture",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M81.0",
+                "TEN": "Loãng xương sau mãn kinh",
+                "TEN_EN": "Postmenopausal osteoporosis"
+              },
+              {
+                "MA": "M81.1",
+                "TEN": "Loãng xương sau cắt buồng trứng",
+                "TEN_EN": "Postoophorectomy osteoporosis"
+              },
+              {
+                "MA": "M81.2",
+                "TEN": "Loãng xương do không vận động",
+                "TEN_EN": "Osteoporosis of disuse"
+              },
+              {
+                "MA": "M81.3",
+                "TEN": "Loãng xương do rối loạn hấp thu sau phẫu thuật",
+                "TEN_EN": "Postsurgical malabsorption osteoporosis"
+              },
+              {
+                "MA": "M81.4",
+                "TEN": "Loãng xương do dùng thuốc",
+                "TEN_EN": "Drug-induced osteoporosis"
+              },
+              {
+                "MA": "M81.5",
+                "TEN": "Loãng xương tự phát",
+                "TEN_EN": "Idiopathic osteoporosis"
+              },
+              {
+                "MA": "M81.6",
+                "TEN": "Loãng xương khu trú",
+                "TEN_EN": "Localized osteoporosis [Lequesne]"
+              },
+              {
+                "MA": "M81.8",
+                "TEN": "Các bệnh loãng xương khác",
+                "TEN_EN": "Other osteoporosis"
+              },
+              {
+                "MA": "M81.9",
+                "TEN": "Loãng xương không đặc hiệu",
+                "TEN_EN": "Osteoporosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M82",
+            "TEN": "Loãng xương trong các bệnh đã xếp loại ở mục khác",
+            "TEN_EN": "Osteoporosis in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M82*",
+                "TEN": "Loãng xương trong các bệnh đã xếp loại ở mục khác",
+                "TEN_EN": "Osteoporosis in diseases classified elsewhere"
+              },
+              {
+                "MA": "M82.0*",
+                "TEN": "Loãng xương trong bệnh đa u tủy xương (C90.0†)",
+                "TEN_EN": "Osteoporosis in multiple myelomatosis (C90.0†)"
+              },
+              {
+                "MA": "M82.1*",
+                "TEN": "Loãng xương trong các bệnh nội tiết (E00-E34†)",
+                "TEN_EN": "Osteoporosis in endocrine disorders (E00-E34†)"
+              },
+              {
+                "MA": "M82.8*",
+                "TEN": "Loãng xương trong các bệnh khác đã xếp loại",
+                "TEN_EN": "Osteoporosis in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M83",
+            "TEN": "Nhuyễn xương người lớn",
+            "TEN_EN": "Adult osteomalacia",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M83.0",
+                "TEN": "Nhuyễn xương sau đẻ",
+                "TEN_EN": "Puerperal osteomalacia"
+              },
+              {
+                "MA": "M83.1",
+                "TEN": "Nhuyễn xương tuổi già",
+                "TEN_EN": "Senile osteomalacia"
+              },
+              {
+                "MA": "M83.2",
+                "TEN": "Nhuyễn xương người lớn do rối loạn hấp thu",
+                "TEN_EN": "Adult osteomalacia due to malabsorption"
+              },
+              {
+                "MA": "M83.3",
+                "TEN": "Nhuyễn xương người lớn do rối loạn dinh dưỡng",
+                "TEN_EN": "Adult osteomalacia due to malnutrition"
+              },
+              {
+                "MA": "M83.4",
+                "TEN": "Bệnh nhiễm nhôm (almunium) xương",
+                "TEN_EN": "Aluminium bone disease"
+              },
+              {
+                "MA": "M83.5",
+                "TEN": "Các bệnh nhuyễn xương khác ở người lớn do dùng thuốc",
+                "TEN_EN": "Other drug-induced osteomalacia in adults"
+              },
+              {
+                "MA": "M83.8",
+                "TEN": "Các bệnh nhuyễn xương khác ở người lớn",
+                "TEN_EN": "Other adult osteomalacia"
+              },
+              {
+                "MA": "M83.9",
+                "TEN": "Các bệnh nhuyễn xương ở người lớn không đặc hiệu",
+                "TEN_EN": "Adult osteomalacia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M84",
+            "TEN": "Các rối loạn về sự liên tục của xương",
+            "TEN_EN": "Disorders of continuity of bone",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M84.0",
+                "TEN": "Can lệch",
+                "TEN_EN": "Malunion of fracture"
+              },
+              {
+                "MA": "M84.1",
+                "TEN": "gẫy xương không liền (khớp giả)",
+                "TEN_EN": "Nonunion of fracture [pseudarthrosis]"
+              },
+              {
+                "MA": "M84.2",
+                "TEN": "gẫy xương chậm liền",
+                "TEN_EN": "Delayed union of fracture"
+              },
+              {
+                "MA": "M84.3",
+                "TEN": "Gẫy xương do vi chấn, chưa xếp loại ở mục khác",
+                "TEN_EN": "Stress fracture, not elsewhere classified"
+              },
+              {
+                "MA": "M84.4",
+                "TEN": "Gẫy xương bệnh lý, chưa xếp loại mục khác",
+                "TEN_EN": "Pathological fracture, not elsewhere classified"
+              },
+              {
+                "MA": "M84.8",
+                "TEN": "Các rối loạn khác về sự liên tục của xương",
+                "TEN_EN": "Other disorders of continuity of bone"
+              },
+              {
+                "MA": "M84.9",
+                "TEN": "Các rối loạn khác về sự liên tục của xương không đặc hiệu",
+                "TEN_EN": "Disorder of continuity of bone, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M85",
+            "TEN": "Rối loạn khác về tỉ trọng (mật độ) và cấu trúc của xương",
+            "TEN_EN": "Other disorders of bone density and structure",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M85.0",
+                "TEN": "Loạn sản xơ xương (khu trú)",
+                "TEN_EN": "Fibrous dysplasia (monostotic)"
+              },
+              {
+                "MA": "M85.1",
+                "TEN": "Bệnh nhiễm Fluo xương",
+                "TEN_EN": "Skeletal fluorosis"
+              },
+              {
+                "MA": "M85.2",
+                "TEN": "Quá sản xương sọ",
+                "TEN_EN": "Hyperostosis of skull"
+              },
+              {
+                "MA": "M85.3",
+                "TEN": "Viêm xương dạng đặc",
+                "TEN_EN": "Osteitis condensans"
+              },
+              {
+                "MA": "M85.4",
+                "TEN": "Nang xương đơn độc",
+                "TEN_EN": "Solitary bone cyst"
+              },
+              {
+                "MA": "M85.5",
+                "TEN": "Nang phình mạch của xương",
+                "TEN_EN": "Aneurysmal bone cyst"
+              },
+              {
+                "MA": "M85.6",
+                "TEN": "Các nang khác của xương",
+                "TEN_EN": "Other cyst of bone"
+              },
+              {
+                "MA": "M85.8",
+                "TEN": "Những rối loạn đặc hiệu khác về mật độ và cấu trúc của xương",
+                "TEN_EN": "Other specified disorders of bone density and structure"
+              },
+              {
+                "MA": "M85.9",
+                "TEN": "Các rối loạn về mật độ và cấu trúc của xương, không đặc hiệu",
+                "TEN_EN": "Disorder of bone density and structure, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M86",
+            "TEN": "viêm xương tủy",
+            "TEN_EN": "Osteomyelitis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M86.0",
+                "TEN": "Viêm xương tủy theo đường máu cấp tính",
+                "TEN_EN": "Acute haematogenous osteomyelitis"
+              },
+              {
+                "MA": "M86.1",
+                "TEN": "Các bệnh viêm xương tủy cấp khác",
+                "TEN_EN": "Other acute osteomyelitis"
+              },
+              {
+                "MA": "M86.2",
+                "TEN": "Viêm xương tủy bán cấp",
+                "TEN_EN": "Subacute osteomyelitis"
+              },
+              {
+                "MA": "M86.3",
+                "TEN": "Viêm xương tủy mãn tính nhiều ổ",
+                "TEN_EN": "Chronic multifocal osteomyelitis"
+              },
+              {
+                "MA": "M86.4",
+                "TEN": "Viêm xương tủy mãn tính có đường rò",
+                "TEN_EN": "Chronic osteomyelitis with draining sinus"
+              },
+              {
+                "MA": "M86.5",
+                "TEN": "Viêm xương tủy do bệnh máu mãn tínhkhác",
+                "TEN_EN": "Other chronic haematogenous osteomyelitis"
+              },
+              {
+                "MA": "M86.6",
+                "TEN": "Viêm xương tủy mãn tính khác",
+                "TEN_EN": "Other chronic osteomyelitis"
+              },
+              {
+                "MA": "M86.8",
+                "TEN": "Các viêm xương tủy khác",
+                "TEN_EN": "Other osteomyelitis"
+              },
+              {
+                "MA": "M86.9",
+                "TEN": "Viêm xương tủy không đặc hiệu",
+                "TEN_EN": "Osteomyelitis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M87",
+            "TEN": "Hoại tử xương",
+            "TEN_EN": "Osteonecrosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M87.0",
+                "TEN": "Bệnh hoại tử vô mạch tự phát của xương",
+                "TEN_EN": "Idiopathic aseptic necrosis of bone"
+              },
+              {
+                "MA": "M87.1",
+                "TEN": "Hoại tử xương do thuốc",
+                "TEN_EN": "Osteonecrosis due to drugs"
+              },
+              {
+                "MA": "M87.2",
+                "TEN": "Hoại tử xương do chấn thương từ trước",
+                "TEN_EN": "Osteonecrosis due to previous trauma"
+              },
+              {
+                "MA": "M87.3",
+                "TEN": "Hoại tử xương thứ phát khác",
+                "TEN_EN": "Other secondary osteonecrosis"
+              },
+              {
+                "MA": "M87.8",
+                "TEN": "Hoại tử xương khác",
+                "TEN_EN": "Other osteonecrosis"
+              },
+              {
+                "MA": "M87.9",
+                "TEN": "Hoại tử xương không đặc hiệu",
+                "TEN_EN": "Osteonecrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M88",
+            "TEN": "Bệnh Paget (viêm xương biến dạng)",
+            "TEN_EN": "Paget s disease of bone [osteitis deformans]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M88.0",
+                "TEN": "Bệnh Paget xương sọ",
+                "TEN_EN": "Paget disease of skull"
+              },
+              {
+                "MA": "M88.8",
+                "TEN": "Bệnh Paget của các xương khác",
+                "TEN_EN": "Paget disease of other bones"
+              },
+              {
+                "MA": "M88.9",
+                "TEN": "Bệnh Paget của xương, không đặc hiệu",
+                "TEN_EN": "Paget disease of bone, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M89",
+            "TEN": "Rối loạn khác của xương",
+            "TEN_EN": "Other disorders of bone",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M89.0",
+                "TEN": "Hội chứng Loạn dưỡng-thần kinh-đau",
+                "TEN_EN": "Algoneurodystrophy"
+              },
+              {
+                "MA": "M89.1",
+                "TEN": "Không phát triển đầu xương",
+                "TEN_EN": "Epiphyseal arrest"
+              },
+              {
+                "MA": "M89.2",
+                "TEN": "Các rối loạn khác về sự phát triển và tăng trưởng của xương",
+                "TEN_EN": "Other disorders of bone development and growth"
+              },
+              {
+                "MA": "M89.3",
+                "TEN": "Phì đại xương",
+                "TEN_EN": "Hypertrophy of bone"
+              },
+              {
+                "MA": "M89.4",
+                "TEN": "Các bệnh phì đại xương khớp khác",
+                "TEN_EN": "Other hypertrophic osteoarthropathy"
+              },
+              {
+                "MA": "M89.5",
+                "TEN": "Tiêu xương",
+                "TEN_EN": "Osteolysis"
+              },
+              {
+                "MA": "M89.6",
+                "TEN": "Bệnh xương sau viêm tủy xám (bại liệt)",
+                "TEN_EN": "Osteopathy after poliomyelitis"
+              },
+              {
+                "MA": "M89.8",
+                "TEN": "Các rối loạn đặc hiệu khác của xương",
+                "TEN_EN": "Other specified disorders of bone"
+              },
+              {
+                "MA": "M89.9",
+                "TEN": "Các rối loạn xương không đặc hiệu",
+                "TEN_EN": "Disorder of bone, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M90",
+            "TEN": "Bệnh xương trong các bệnh đã xếp loại mục khác",
+            "TEN_EN": "Osteopathies in diseases classified elsewhere",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M90*",
+                "TEN": "Bệnh xương trong các bệnh đã xếp loại mục khác",
+                "TEN_EN": "Osteopathies in diseases classified elsewhere"
+              },
+              {
+                "MA": "M90.0*",
+                "TEN": "Lao xương (A18.0†)",
+                "TEN_EN": "Tuberculosis of bone (A18.0†)"
+              },
+              {
+                "MA": "M90.1*",
+                "TEN": "Viêm màng xương trong các bệnh nhiễm khuẩn khác đã phân loại ở nơi khác",
+                "TEN_EN": "Periostitis in other infectious diseases classified elsewhere"
+              },
+              {
+                "MA": "M90.2*",
+                "TEN": "Bệnh xương trong các bệnh nhiễm khuẩn khác đã xếp loại ở mục khác",
+                "TEN_EN": "Osteopathy in other infectious diseases classified elsewhere"
+              },
+              {
+                "MA": "M90.3*",
+                "TEN": "Hoại tử xương trong bệnh khí nén (thùng thợ lặn) (T70.3†)",
+                "TEN_EN": "Osteonecrosis in caisson disease (T70.3†)"
+              },
+              {
+                "MA": "M90.4*",
+                "TEN": "Hoại tử xương do bệnh huyết cầu tố (D50-D64†)",
+                "TEN_EN": "Osteonecrosis due to haemoglobinopathy (D50-D64†)"
+              },
+              {
+                "MA": "M90.5*",
+                "TEN": "Hoại tử xương trong các bệnh khác đã xếp loại ở mục khác",
+                "TEN_EN": "Osteonecrosis in other diseases classified elsewhere"
+              },
+              {
+                "MA": "M90.6*",
+                "TEN": "Viêm xương biến dạng trong các bệnh khối u (C00-D48†)",
+                "TEN_EN": "Osteitis deformans in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "M90.7*",
+                "TEN": "Gẫy xương trong các bệnh khối u (C00-D48†)",
+                "TEN_EN": "Fracture of bone in neoplastic disease (C00-D48†)"
+              },
+              {
+                "MA": "M90.8*",
+                "TEN": "Bệnh lý xương trong các bệnh khác đã xếp loại ở mục khác",
+                "TEN_EN": "Osteopathy in other diseases classified elsewhere"
+              }
+            ]
+          },
+          {
+            "MA": "M91",
+            "TEN": "Hư điểm cốt hóa tại khớp háng và khung chậu ở trẻ em",
+            "TEN_EN": "Juvenile osteochondrosis of hip and pelvis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M91.0",
+                "TEN": "Hư điểm cốt hóa tại khung chậu ở trẻ em",
+                "TEN_EN": "Juvenile osteochondrosis of pelvis"
+              },
+              {
+                "MA": "M91.1",
+                "TEN": "Hư điểm cốt hóa chỏm xương đùi ở trẻ em[Legg-Calvé-Pethès]",
+                "TEN_EN": "Juvenile osteochondrosis of head of femur [Legg-Calvé-Perthes]"
+              },
+              {
+                "MA": "M91.2",
+                "TEN": "Khớp háng dẹt",
+                "TEN_EN": "Coxa plana"
+              },
+              {
+                "MA": "M91.3",
+                "TEN": "Giả lao khớp háng",
+                "TEN_EN": "Pseudocoxalgia"
+              },
+              {
+                "MA": "M91.8",
+                "TEN": "Hư điểm cốt hóa tại khớp háng và khung chậu khác ở trẻ em",
+                "TEN_EN": "Other juvenile osteochondrosis of hip and pelvis"
+              },
+              {
+                "MA": "M91.9",
+                "TEN": "Hư điểm cốt hóa tại khớp háng và khung chậu ở trẻ em không đặc hiệu",
+                "TEN_EN": "Juvenile osteochondrosis of hip and pelvis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M92",
+            "TEN": "Hư điểm cốt hóa khác ở trẻ em",
+            "TEN_EN": "Other juvenile osteochondrosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M92.0",
+                "TEN": "Hư điểm cốt hóa ở trẻ em ở xương cánh tay",
+                "TEN_EN": "Juvenile osteochondrosis of humerus"
+              },
+              {
+                "MA": "M92.1",
+                "TEN": "Hư điểm cốt hóa ở trẻ em ở xương quay và xương trụ",
+                "TEN_EN": "Juvenile osteochondrosis of radius and ulna"
+              },
+              {
+                "MA": "M92.2",
+                "TEN": "Hư điểm cốt hóa ở trẻ em ở tay",
+                "TEN_EN": "Juvenile osteochondrosis of hand"
+              },
+              {
+                "MA": "M92.3",
+                "TEN": "Hư điểm cốt hóa khác ở trẻ em ở chi trên",
+                "TEN_EN": "Other juvenile osteochondrosis of upper limb"
+              },
+              {
+                "MA": "M92.4",
+                "TEN": "Hư điểm cốt hóa ở trẻ em ở xương bánh chè",
+                "TEN_EN": "Juvenile osteochondrosis of patella"
+              },
+              {
+                "MA": "M92.5",
+                "TEN": "Hư điểm cốt hóa ở trẻ em ở xương chày và xương mác",
+                "TEN_EN": "Juvenile osteochondrosis of tibia and fibula"
+              },
+              {
+                "MA": "M92.6",
+                "TEN": "Hư điểm cốt hóa ở trẻ em ở xương cổ chân",
+                "TEN_EN": "Juvenile osteochondrosis of tarsus"
+              },
+              {
+                "MA": "M92.7",
+                "TEN": "Hư điểm cốt hóa ở trẻ em ở xương bàn chân",
+                "TEN_EN": "Juvenile osteochondrosis of metatarsus"
+              },
+              {
+                "MA": "M92.8",
+                "TEN": "Hư điểm cốt hóa ở trẻ em đặc hiệu khác",
+                "TEN_EN": "Other specified juvenile osteochondrosis"
+              },
+              {
+                "MA": "M92.9",
+                "TEN": "Hư điểm cốt hóa ở trẻ em khác, không đặc hiệu",
+                "TEN_EN": "Juvenile osteochondrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M93",
+            "TEN": "Các bệnh xương - sụn khác",
+            "TEN_EN": "Other osteochondropathies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M93.0",
+                "TEN": "Trượt đầu trên xương đùi (không do chấn thương)",
+                "TEN_EN": "Slipped upper femoral epiphysis (nontraumatic)"
+              },
+              {
+                "MA": "M93.1",
+                "TEN": "Bệnh Kienbock ở người lớn",
+                "TEN_EN": "Kienböck s disease of adults"
+              },
+              {
+                "MA": "M93.2",
+                "TEN": "Viêm xương sụn tách",
+                "TEN_EN": "Osteochondritis dissecans"
+              },
+              {
+                "MA": "M93.8",
+                "TEN": "Các bệnh xương sụn đặc hiệu khác",
+                "TEN_EN": "Other specified osteochondropathies"
+              },
+              {
+                "MA": "M93.9",
+                "TEN": "Các bệnh xương sụn không đặc hiệu",
+                "TEN_EN": "Osteochondropathy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M94",
+            "TEN": "Các bệnh lý khác của sụn",
+            "TEN_EN": "Other disorders of cartilage",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M94.0",
+                "TEN": "Hội chứng khớp sụn sườn (Tietze)",
+                "TEN_EN": "Chondrocostal junction syndrome [Tietze]"
+              },
+              {
+                "MA": "M94.1",
+                "TEN": "Viêm đa sụn hay tái phát",
+                "TEN_EN": "Relapsing polychondritis"
+              },
+              {
+                "MA": "M94.2",
+                "TEN": "Nhuyễn sụn",
+                "TEN_EN": "Chondromalacia"
+              },
+              {
+                "MA": "M94.3",
+                "TEN": "Tiêu sụn",
+                "TEN_EN": "Chondrolysis"
+              },
+              {
+                "MA": "M94.8",
+                "TEN": "Các bệnh lý sụn đặc hiệu khác",
+                "TEN_EN": "Other specified disorders of cartilage"
+              },
+              {
+                "MA": "M94.9",
+                "TEN": "Các bệnh sụn không đặc hiệu",
+                "TEN_EN": "Disorder of cartilage, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "M95-M99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh khác của hệ cơ - xương - khớp và mô liên kết",
-        "TEN_EN": "Other disorders of the musculoskeletal system and connective tissue"
+        "TEN_EN": "Other disorders of the musculoskeletal system and connective tissue",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "M95",
+            "TEN": "Các biến dạng mắc phải của hệ cơ-xương-khớp và mô liên kết",
+            "TEN_EN": "Other acquired deformities of musculoskeletal system and connective tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M95.0",
+                "TEN": "Biến dạng mắc phải của mũi",
+                "TEN_EN": "Acquired deformity of nose"
+              },
+              {
+                "MA": "M95.1",
+                "TEN": "Vành tai sùi",
+                "TEN_EN": "Cauliflower ear"
+              },
+              {
+                "MA": "M95.2",
+                "TEN": "Biến dạng mắc phải khác của đầu",
+                "TEN_EN": "Other acquired deformity of head"
+              },
+              {
+                "MA": "M95.3",
+                "TEN": "Biến dạng mắc phải của cổ",
+                "TEN_EN": "Acquired deformity of neck"
+              },
+              {
+                "MA": "M95.4",
+                "TEN": "Biến dạng mắc phải của lồng ngực và sườn",
+                "TEN_EN": "Acquired deformity of chest and rib"
+              },
+              {
+                "MA": "M95.5",
+                "TEN": "Biến dạng mắc phải của khung chậu",
+                "TEN_EN": "Acquired deformity of pelvis"
+              },
+              {
+                "MA": "M95.8",
+                "TEN": "Các biến dạng mắc phải đặc hiệukhác của hệ cơ-xương-khớp",
+                "TEN_EN": "Other specified acquired deformities of musculoskeletal system"
+              },
+              {
+                "MA": "M95.9",
+                "TEN": "Các biến dạng mắc phải không đặc hiệu của hệ cơ-xương-khớp",
+                "TEN_EN": "Acquired deformity of musculoskeletal system, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M96",
+            "TEN": "Các bệnh lý của hệ cơ-xương-khớp sau can thiệp , không xếp loại ở mục khác",
+            "TEN_EN": "Postprocedural musculoskeletal disorders, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M96.0",
+                "TEN": "Khớp giả sau thủ thuật làm cứng khớp",
+                "TEN_EN": "Pseudarthrosis after fusion or arthrodesis"
+              },
+              {
+                "MA": "M96.1",
+                "TEN": "Hội chứng sau cắt cung sau, không xếp loại ở mục khác",
+                "TEN_EN": "Postlaminectomy syndrome, not elsewhere classified"
+              },
+              {
+                "MA": "M96.2",
+                "TEN": "Gù sau chiếu tia xạ",
+                "TEN_EN": "Postradiation kyphosis"
+              },
+              {
+                "MA": "M96.3",
+                "TEN": "Gù sau cắt cung sau",
+                "TEN_EN": "Postlaminectomy kyphosis"
+              },
+              {
+                "MA": "M96.4",
+                "TEN": "Ưỡn cột sống thắt lưng sau phẫu thuật",
+                "TEN_EN": "Postsurgical lordosis"
+              },
+              {
+                "MA": "M96.5",
+                "TEN": "Vẹo sau chiếu tia xạ",
+                "TEN_EN": "Postradiation scoliosis"
+              },
+              {
+                "MA": "M96.6",
+                "TEN": "gẫy xương sau chỉnh hình thay thế, sau lắp khớp giả hay sau tạo xương nhân tạo",
+                "TEN_EN": "Fracture of bone following insertion of orthopaedic implant, joint prosthesis, or bone plate"
+              },
+              {
+                "MA": "M96.8",
+                "TEN": "Các bệnh ký khác của hệ cơ-xương-khớp sau thủ thuật",
+                "TEN_EN": "Other postprocedural musculoskeletal disorders"
+              },
+              {
+                "MA": "M96.9",
+                "TEN": "Các bệnh lý của hệ cơ-xương-khớp sau can thiệp không đặc hiệu",
+                "TEN_EN": "Postprocedural musculoskeletal disorder, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "M99",
+            "TEN": "Các tổn thương sinh-cơ học, không xếp loại ở mục khác",
+            "TEN_EN": "Biomechanical lesions, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "M99.0",
+                "TEN": "Rối loạn chức năng từng đoạn và phần thân",
+                "TEN_EN": "Segmental and somatic dysfunction"
+              },
+              {
+                "MA": "M99.1",
+                "TEN": "Bán trật khớp từng khối của cột sống",
+                "TEN_EN": "Subluxation complex (vertebral)"
+              },
+              {
+                "MA": "M99.2",
+                "TEN": "Hẹp ống sống do bán trật khớp",
+                "TEN_EN": "Subluxation stenosis of neural canal"
+              },
+              {
+                "MA": "M99.3",
+                "TEN": "Hẹp ống sống do tổn thương xương",
+                "TEN_EN": "Osseous stenosis of neural canal"
+              },
+              {
+                "MA": "M99.4",
+                "TEN": "Hẹp ống sống do tổn thương mô liên kết",
+                "TEN_EN": "Connective tissue stenosis of neural canal"
+              },
+              {
+                "MA": "M99.5",
+                "TEN": "Hẹp ống sống do tổn thương đĩa gian đốt",
+                "TEN_EN": "Intervertebral disc stenosis of neural canal"
+              },
+              {
+                "MA": "M99.6",
+                "TEN": "Hẹp khoang liên đốt do cốt hóa và bán trật khớp",
+                "TEN_EN": "Osseous and subluxation stenosis of intervertebral foramina"
+              },
+              {
+                "MA": "M99.7",
+                "TEN": "Hẹp khoang liên đốt do mô liên kết và đĩa đệm",
+                "TEN_EN": "Connective tissue and disc stenosis of intervertebral foramina"
+              },
+              {
+                "MA": "M99.8",
+                "TEN": "Các tổn thương sinh-cơ học khác",
+                "TEN_EN": "Other biomechanical lesions"
+              },
+              {
+                "MA": "M99.9",
+                "TEN": "Tổn thương sinh-cơ học không đặc hiệu",
+                "TEN_EN": "Biomechanical lesion, unspecified"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

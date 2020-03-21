@@ -44234,79 +44234,1938 @@
         "MA": "R00-R09",
         "MA_TRONG_CHUONG": "",
         "TEN": "Triệu chứng và dấu hiệu liên quan tới hệ tuần hoàn và hô hấp",
-        "TEN_EN": "Symptoms and signs involving the circulatory and respiratory systems"
+        "TEN_EN": "Symptoms and signs involving the circulatory and respiratory systems",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R00",
+            "TEN": "Bất thường của nhịp tim",
+            "TEN_EN": "Abnormalities of heart beat",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R00.0",
+                "TEN": "Nhịp nhanh tim, không đặc hiệu",
+                "TEN_EN": "Tachycardia, unspecified"
+              },
+              {
+                "MA": "R00.1",
+                "TEN": "Nhịp tim chậm, không đặc hiệu",
+                "TEN_EN": "Bradycardia, unspecified"
+              },
+              {
+                "MA": "R00.2",
+                "TEN": "Đánh trống ngực",
+                "TEN_EN": "Palpitations"
+              },
+              {
+                "MA": "R00.8",
+                "TEN": "Bất thường không xác định và các bất thường khác của nhịp tim",
+                "TEN_EN": "Other and unspecified abnormalities of heart beat"
+              }
+            ]
+          },
+          {
+            "MA": "R01",
+            "TEN": "Tiếng rì rào tim và các tiếng tim khác",
+            "TEN_EN": "Cardiac murmurs and other cardiac sounds",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R01.0",
+                "TEN": "Tiếng rì rào tim lành tính và không hại",
+                "TEN_EN": "Benign and innocent cardiac murmurs"
+              },
+              {
+                "MA": "R01.1",
+                "TEN": "Tiếng thổi tim không đặc hiệu",
+                "TEN_EN": "Cardiac murmur, unspecified"
+              },
+              {
+                "MA": "R01.2",
+                "TEN": "Tiếng tim khác",
+                "TEN_EN": "Other cardiac sounds"
+              }
+            ]
+          },
+          {
+            "MA": "R02",
+            "TEN": "Hoại thư, chưa được phân loại ở nơi khác",
+            "TEN_EN": "Gangrene, not elswhere classified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R03",
+            "TEN": "Bất thường số đo huyết áp, không có chẩn đoán",
+            "TEN_EN": "Abnormal blood-pressure reading, without diagnosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R03.0",
+                "TEN": "Số đo huyết áp tăng, không chẩn đoán tăng huyết áp",
+                "TEN_EN": "Elevated blood-pressure reading, without diagnosis of hypertension"
+              },
+              {
+                "MA": "R03.1",
+                "TEN": "Số đo huyết áp thấp không xác định",
+                "TEN_EN": "Nonspecific low blood-pressure reading"
+              }
+            ]
+          },
+          {
+            "MA": "R04",
+            "TEN": "Chảy máu đường hô hấp",
+            "TEN_EN": "Haemorrhage from respiratory passages",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R04.0",
+                "TEN": "Chảy máu cam",
+                "TEN_EN": "Epistaxis"
+              },
+              {
+                "MA": "R04.1",
+                "TEN": "Chảy máu họng",
+                "TEN_EN": "Haemorrhage from throat"
+              },
+              {
+                "MA": "R04.2",
+                "TEN": "Ho ra máu",
+                "TEN_EN": "Haemoptysis"
+              },
+              {
+                "MA": "R04.8",
+                "TEN": "Chảy máu các vị trí khác của đường hô hấp",
+                "TEN_EN": "Haemorrhage from other sites in respiratory passages"
+              },
+              {
+                "MA": "R04.9",
+                "TEN": "Chảy máu đường hô hấp không đặc hiệu",
+                "TEN_EN": "Haemorrhage from respiratory passages, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R05",
+            "TEN": "Ho",
+            "TEN_EN": "Cough",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R06",
+            "TEN": "Bất thường về thở",
+            "TEN_EN": "Abnormalities of breathing",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R06.0",
+                "TEN": "Khó thở",
+                "TEN_EN": "Dyspnoea"
+              },
+              {
+                "MA": "R06.1",
+                "TEN": "Thở rít",
+                "TEN_EN": "Stridor"
+              },
+              {
+                "MA": "R06.2",
+                "TEN": "Thở khò khè",
+                "TEN_EN": "Wheezing"
+              },
+              {
+                "MA": "R06.3",
+                "TEN": "Thở có tính chu kỳ",
+                "TEN_EN": "Periodic breathing"
+              },
+              {
+                "MA": "R06.4",
+                "TEN": "Tăng thông khí",
+                "TEN_EN": "Hyperventilation"
+              },
+              {
+                "MA": "R06.5",
+                "TEN": "Thở bằng miệng",
+                "TEN_EN": "Mouth breathing"
+              },
+              {
+                "MA": "R06.6",
+                "TEN": "Thở nấc",
+                "TEN_EN": "Hiccough"
+              },
+              {
+                "MA": "R06.7",
+                "TEN": "Hắt hơi",
+                "TEN_EN": "Sneezing"
+              },
+              {
+                "MA": "R06.8",
+                "TEN": "Bất thường không xác định và bất thường khác về nhịp thở",
+                "TEN_EN": "Other and unspecified abnormalities of breathing"
+              }
+            ]
+          },
+          {
+            "MA": "R07",
+            "TEN": "Đau họng và ngực",
+            "TEN_EN": "Pain in throat and chest",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R07.0",
+                "TEN": "Đau tại họng",
+                "TEN_EN": "Pain in throat"
+              },
+              {
+                "MA": "R07.1",
+                "TEN": "Đau ngực khi thở",
+                "TEN_EN": "Chest pain on breathing"
+              },
+              {
+                "MA": "R07.2",
+                "TEN": "Đau trước tim",
+                "TEN_EN": "Precordial pain"
+              },
+              {
+                "MA": "R07.3",
+                "TEN": "Đau ngực khác",
+                "TEN_EN": "Other chest pain"
+              },
+              {
+                "MA": "R07.4",
+                "TEN": "Đau ngực không đặc hiệu",
+                "TEN_EN": "Chest pain, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R09",
+            "TEN": "Triệu chứng và dấu hiệu khác liên quan tới hệ tuần hoàn và hô hấp",
+            "TEN_EN": "Other symptoms and signs involving the circulatory and respiratory systems",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R09.0",
+                "TEN": "Ngạt",
+                "TEN_EN": "Asphyxia"
+              },
+              {
+                "MA": "R09.1",
+                "TEN": "Viêm màng phổi",
+                "TEN_EN": "Pleurisy"
+              },
+              {
+                "MA": "R09.2",
+                "TEN": "Ngừng thở",
+                "TEN_EN": "Respiratory arrest"
+              },
+              {
+                "MA": "R09.3",
+                "TEN": "Đờm bất thường",
+                "TEN_EN": "Abnormal sputum"
+              },
+              {
+                "MA": "R09.8",
+                "TEN": "Các triệu chứng và dấu hiệu đặc hiệu khác liên quan tới hệ tuần hoàn và hô hấp",
+                "TEN_EN": "Other specified symptoms and signs involving the circulatory and respiratory systems"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R10-R19",
         "MA_TRONG_CHUONG": "",
         "TEN": "Triệu chứng và dấu hiệu liên quan tới hệ tiêu hóa và bụng",
-        "TEN_EN": "Symptoms and signs involving the digestive system and abdomen"
+        "TEN_EN": "Symptoms and signs involving the digestive system and abdomen",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R10",
+            "TEN": "Đau bụng và vùng chậu",
+            "TEN_EN": "Abdominal and pelvic pain",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R10.0",
+                "TEN": "Bụng cấp",
+                "TEN_EN": "Acute abdomen"
+              },
+              {
+                "MA": "R10.1",
+                "TEN": "Đau bụng khu trú bụng trên",
+                "TEN_EN": "Pain localized to upper abdomen"
+              },
+              {
+                "MA": "R10.2",
+                "TEN": "Đau vùng chậu và đáy chậu",
+                "TEN_EN": "Pelvic and perineal pain"
+              },
+              {
+                "MA": "R10.3",
+                "TEN": "Đau khu trú tại các vùng khác của bụng dưới",
+                "TEN_EN": "Pain localized to other parts of lower abdomen"
+              },
+              {
+                "MA": "R10.4",
+                "TEN": "Đau bụng không xác định và đau bụng khác",
+                "TEN_EN": "Other and unspecified abdominal pain"
+              }
+            ]
+          },
+          {
+            "MA": "R11",
+            "TEN": "Buồn nôn và nôn",
+            "TEN_EN": "Nausea and vomitting",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R12",
+            "TEN": "Nóng rát ngực",
+            "TEN_EN": "Heartburn",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R13",
+            "TEN": "Khó nuốt",
+            "TEN_EN": "Dysphagia",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R14",
+            "TEN": "Đầy hơi và các tình trạng liên quan",
+            "TEN_EN": "Flatulance and related conditions",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R15",
+            "TEN": "Đại tiện mất tự chủ",
+            "TEN_EN": "Faecal incontinence",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R16",
+            "TEN": "Gan to và lá lách to, chưa được phân loại ở phần khác",
+            "TEN_EN": "Hepatomegaly and splenomegaly, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R16.0",
+                "TEN": "Gan to, không phân loại ở phần khác",
+                "TEN_EN": "Hepatomegaly, not elsewhere classified"
+              },
+              {
+                "MA": "R16.1",
+                "TEN": "Lách to, chưa được phân loại ở phần khác",
+                "TEN_EN": "Splenomegaly, not elsewhere classified"
+              },
+              {
+                "MA": "R16.2",
+                "TEN": "Gan to kèm lách to, chưa được phân loại ở phần khác",
+                "TEN_EN": "Hepatomegaly with splenomegaly, not elsewhere classified"
+              }
+            ]
+          },
+          {
+            "MA": "R17",
+            "TEN": "Vàng da không xác định",
+            "TEN_EN": "Unspecified jaundice",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R18",
+            "TEN": "Cổ chướng",
+            "TEN_EN": "Ascites",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R19",
+            "TEN": "Triệu chứng và dấu hiệu khác liên quan tới hệ tiêu hóa và bụng",
+            "TEN_EN": "Other symptoms and signs involving the digestive system and abdomen",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R19.0",
+                "TEN": "Sưng hoặc khối u trong bụng và vùng chậu hông",
+                "TEN_EN": "Intra-abdominal and pelvic swelling, mass and lump"
+              },
+              {
+                "MA": "R19.1",
+                "TEN": "Tiếng ruột bất thường",
+                "TEN_EN": "Abnormal bowel sounds"
+              },
+              {
+                "MA": "R19.2",
+                "TEN": "Nhu động ruột quan sát thấy",
+                "TEN_EN": "Visible peristalsis"
+              },
+              {
+                "MA": "R19.3",
+                "TEN": "Cứng bụng",
+                "TEN_EN": "Abdominal rigidity"
+              },
+              {
+                "MA": "R19.4",
+                "TEN": "Thay đổi thói quen của ruột",
+                "TEN_EN": "Change in bowel habit"
+              },
+              {
+                "MA": "R19.5",
+                "TEN": "Bất thường khác của phân",
+                "TEN_EN": "Other faecal abnormalities"
+              },
+              {
+                "MA": "R19.6",
+                "TEN": "Chứng hôi miệng",
+                "TEN_EN": "Halitosis"
+              },
+              {
+                "MA": "R19.8",
+                "TEN": "Triệu chứng và dấu hiệu đặc hiệu khác liên quan tới hệ tiêu hóa và bụng",
+                "TEN_EN": "Other specified symptoms and signs involving the digestive system and abdomen"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R20-R23",
         "MA_TRONG_CHUONG": "",
         "TEN": "Triệu chứng và dấu hiệu liên quan tới da và tổ chức dưới da",
-        "TEN_EN": "Symptoms and signs involving the skin and subcutaneous tissue"
+        "TEN_EN": "Symptoms and signs involving the skin and subcutaneous tissue",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R20",
+            "TEN": "Rối loạn cảm giác da",
+            "TEN_EN": "Disturbances of skin sensation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R20.0",
+                "TEN": "Mất cảm giác da",
+                "TEN_EN": "Anaesthesia of skin"
+              },
+              {
+                "MA": "R20.1",
+                "TEN": "Giảm cảm giác da",
+                "TEN_EN": "Hypoaesthesia of skin"
+              },
+              {
+                "MA": "R20.2",
+                "TEN": "Dị cảm da",
+                "TEN_EN": "Paraesthesia of skin"
+              },
+              {
+                "MA": "R20.3",
+                "TEN": "Tăng cảm giác",
+                "TEN_EN": "Hyperaesthesia"
+              },
+              {
+                "MA": "R20.8",
+                "TEN": "Rối loạn cảm giác da không xác định và các rối loạn khác của da",
+                "TEN_EN": "Other and unspecified disturbances of skin sensation"
+              }
+            ]
+          },
+          {
+            "MA": "R21",
+            "TEN": "Ban và phát ban không đặc hiệu",
+            "TEN_EN": "Rash and other nonspecific skin eruption",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R22",
+            "TEN": "Sưng cục bộ, khối cục ở da và tổ chức dưới da",
+            "TEN_EN": "Localized swelling, mass and lump of skin and subcutaneous tissue",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R22.0",
+                "TEN": "Sưng khu trú, khối và cục ở đầu",
+                "TEN_EN": "Localized swelling, mass and lump, head"
+              },
+              {
+                "MA": "R22.1",
+                "TEN": "Sưng khu trú, khối và cục ở cổ",
+                "TEN_EN": "Localized swelling, mass and lump, neck"
+              },
+              {
+                "MA": "R22.2",
+                "TEN": "Sưng khu trú, khối và cục ở thân mình",
+                "TEN_EN": "Localized swelling, mass and lump, trunk"
+              },
+              {
+                "MA": "R22.3",
+                "TEN": "Sưng khu trú, khối và cục ở chi trên",
+                "TEN_EN": "Localized swelling, mass and lump, upper limb"
+              },
+              {
+                "MA": "R22.4",
+                "TEN": "Sưng khu trú, khối và cục ở chi dưới",
+                "TEN_EN": "Localized swelling, mass and lump, lower limb"
+              },
+              {
+                "MA": "R22.7",
+                "TEN": "Sưng khu trú, khối và cục ở nhiều vị trí",
+                "TEN_EN": "Localized swelling, mass and lump, multiple sites"
+              },
+              {
+                "MA": "R22.9",
+                "TEN": "Sưng khu trú, khối và cục, không đặc hiệu",
+                "TEN_EN": "Localized swelling, mass and lump, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R23",
+            "TEN": "Các thay đổi khác của da",
+            "TEN_EN": "Other skin changes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R23.0",
+                "TEN": "Da xanh tím",
+                "TEN_EN": "Cyanosis"
+              },
+              {
+                "MA": "R23.1",
+                "TEN": "Da xanh nhợt",
+                "TEN_EN": "Pallor"
+              },
+              {
+                "MA": "R23.2",
+                "TEN": "Chứng đỏ bừng mặt",
+                "TEN_EN": "Flushing"
+              },
+              {
+                "MA": "R23.3",
+                "TEN": "Vết bầm tím xuất huyết ngẫu phát",
+                "TEN_EN": "Spontaneous ecchymoses"
+              },
+              {
+                "MA": "R23.4",
+                "TEN": "Thay đổi hình thể da",
+                "TEN_EN": "Changes in skin texture"
+              },
+              {
+                "MA": "R23.8",
+                "TEN": "Các thay đổi của không xác định khác của da",
+                "TEN_EN": "Other and unspecified skin changes"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R25-R29",
         "MA_TRONG_CHUONG": "",
         "TEN": "Triệu chứng và dấu hiệu liên quan tới hệ thần kinh và hệ cơ xương",
-        "TEN_EN": "Symptoms and signs involving the nervous and musculoskeletal systems"
+        "TEN_EN": "Symptoms and signs involving the nervous and musculoskeletal systems",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R25",
+            "TEN": "Vận động không tự chủ bất thường",
+            "TEN_EN": "Abnormal involuntary movements",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R25.0",
+                "TEN": "Bất thường vận động đầu",
+                "TEN_EN": "Abnormal head movements"
+              },
+              {
+                "MA": "R25.1",
+                "TEN": "Rung, không đặc hiệu",
+                "TEN_EN": "Tremor, unspecified"
+              },
+              {
+                "MA": "R25.2",
+                "TEN": "Chuột rút và co cứng",
+                "TEN_EN": "Cramp and spasm"
+              },
+              {
+                "MA": "R25.3",
+                "TEN": "Co cứng cơ cục bộ",
+                "TEN_EN": "Fasciculation"
+              },
+              {
+                "MA": "R25.8",
+                "TEN": "Vận động không tự chủ bất thường không xác định khác",
+                "TEN_EN": "Other and unspecified abnormal involuntary movements"
+              }
+            ]
+          },
+          {
+            "MA": "R26",
+            "TEN": "Bất thường dáng đi và chuyển động",
+            "TEN_EN": "Abnormalities of gait and mobility",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R26.0",
+                "TEN": "Dáng đi mất điều vận",
+                "TEN_EN": "Ataxic gait"
+              },
+              {
+                "MA": "R26.1",
+                "TEN": "Dáng đi liệt",
+                "TEN_EN": "Paralytic gait"
+              },
+              {
+                "MA": "R26.2",
+                "TEN": "Khó khăn khi đi chưa phân loại ở phần khác",
+                "TEN_EN": "Difficulty in walking, not elsewhere classified"
+              },
+              {
+                "MA": "R26.3",
+                "TEN": "Bất động",
+                "TEN_EN": "Immobility "
+              },
+              {
+                "MA": "R26.8",
+                "TEN": "Dáng đi và di chuyển bất thường không đặc hiệu",
+                "TEN_EN": "Other and unspecified abnormalities of gait and mobility"
+              }
+            ]
+          },
+          {
+            "MA": "R27",
+            "TEN": "Thiếu phối hợp khác",
+            "TEN_EN": "Other lack of coordination",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R27.0",
+                "TEN": "Mất điều vận, không đặc hiệu",
+                "TEN_EN": "Ataxia, unspecified"
+              },
+              {
+                "MA": "R27.8",
+                "TEN": "Thiếu phối hợp không xác định khác",
+                "TEN_EN": "Other and unspecified lack of coordination"
+              }
+            ]
+          },
+          {
+            "MA": "R29",
+            "TEN": "Triệu chứng và dấu hiệu khác liên quan tới hệ thần kinh và cơ xương",
+            "TEN_EN": "Other symptoms and signs involving the nervous and musculoskeletal systems",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R29.0",
+                "TEN": "Co cứng",
+                "TEN_EN": "Tetany"
+              },
+              {
+                "MA": "R29.1",
+                "TEN": "Hội chứng (co cứng) màng não",
+                "TEN_EN": "Meningismus"
+              },
+              {
+                "MA": "R29.2",
+                "TEN": "Phản xạ bất thường",
+                "TEN_EN": "Abnormal reflex"
+              },
+              {
+                "MA": "R29.3",
+                "TEN": "Tư thế bất thường",
+                "TEN_EN": "Abnormal posture"
+              },
+              {
+                "MA": "R29.4",
+                "TEN": "Chậu hông khoèo",
+                "TEN_EN": "Clicking hip"
+              },
+              {
+                "MA": "R29.6",
+                "TEN": "Dễ ngã, chưa được phân loại ở phần khác",
+                "TEN_EN": "Tendency to fall, not elsewhere classified"
+              },
+              {
+                "MA": "R29.8",
+                "TEN": "Triệu chứng và dấu hiệu không xác định khác liên quan tới hệ thần kinh và cơ xương",
+                "TEN_EN": "Other and unspecified symptoms and signs involving the nervous and musculoskeletal systems"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R30-R39",
         "MA_TRONG_CHUONG": "",
         "TEN": "Triệu chứng và dấu hiệu liên quan tới hệ tiết niệu",
-        "TEN_EN": "Symptoms and signs involving the urinary system"
+        "TEN_EN": "Symptoms and signs involving the urinary system",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R30",
+            "TEN": "Đau liên quan với tiểu tiện",
+            "TEN_EN": "Pain associated with micturition",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R30.0",
+                "TEN": "Đái khó",
+                "TEN_EN": "Dysuria"
+              },
+              {
+                "MA": "R30.1",
+                "TEN": "Đau thắt bàng quang",
+                "TEN_EN": "Vesical tenesmus"
+              },
+              {
+                "MA": "R30.9",
+                "TEN": "Đái dắt đau, không đặc hiệu",
+                "TEN_EN": "Painful micturition, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R31",
+            "TEN": "Đái máu không xác định",
+            "TEN_EN": "Unspecified haematuria",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R32",
+            "TEN": "Tiểu tiện mất tự chủ không xác định",
+            "TEN_EN": "Unspecified urinary incontinence",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R33",
+            "TEN": "Bí đái",
+            "TEN_EN": "Retention of urine",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R34",
+            "TEN": "Vô niệu và thiểu niệu",
+            "TEN_EN": "Anuria and oliguria",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R35",
+            "TEN": "Đa niệu",
+            "TEN_EN": "Polyuria",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R36",
+            "TEN": "Chất tiết niệu đạo",
+            "TEN_EN": "Urethral discharge",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R39",
+            "TEN": "Triệu chứng và dấu hiệu khác liên quan tới hệ tiết niệu",
+            "TEN_EN": "Other symptoms and signs involving the urinary system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R39.0",
+                "TEN": "Tràn máu nước tiểu",
+                "TEN_EN": "Extravasation of urine"
+              },
+              {
+                "MA": "R39.1",
+                "TEN": "Các khó khăn khác khi tiểu tiện",
+                "TEN_EN": "Other difficulties with micturition"
+              },
+              {
+                "MA": "R39.2",
+                "TEN": "Urê máu cao ngoài thận",
+                "TEN_EN": "Extrarenal uraemia"
+              },
+              {
+                "MA": "R39.8",
+                "TEN": "Triệu chứng và dấu hiệu không xác định khác liên quan tới hệ tiết niệu",
+                "TEN_EN": "Other and unspecified symptoms and signs involving the urinary system"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R40-R46",
         "MA_TRONG_CHUONG": "",
         "TEN": "Triệu chứng và dấu hiệu liên quan tới nhận thức, tri giác và trạng thái cảm",
-        "TEN_EN": "Symptoms and signs involving cognition, perception, emotional state and behaviour"
+        "TEN_EN": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R40",
+            "TEN": "Buồn ngủ, ngẩn ngơ và hôn mê",
+            "TEN_EN": "Somnolence, stupor and coma",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R40.0",
+                "TEN": "Buồn ngủ",
+                "TEN_EN": "Somnolence"
+              },
+              {
+                "MA": "R40.1",
+                "TEN": "Ngẩn ngơ",
+                "TEN_EN": "Stupor"
+              },
+              {
+                "MA": "R40.2",
+                "TEN": "Hôn mê, không đặc hiệu",
+                "TEN_EN": "Coma, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R41",
+            "TEN": "Triệu chứng và dấu hiệu khác liên quan đến chức năng nhận thức và tri giác",
+            "TEN_EN": "Other symptoms and signs involving cognitive functions and awareness",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R41.0",
+                "TEN": "Mất định hướng, không đặc hiệu",
+                "TEN_EN": "Disorientation, unspecified"
+              },
+              {
+                "MA": "R41.1",
+                "TEN": "Quên thuận chiều",
+                "TEN_EN": "Anterograde amnesia"
+              },
+              {
+                "MA": "R41.2",
+                "TEN": "Quên ngược chiều",
+                "TEN_EN": "Retrograde amnesia"
+              },
+              {
+                "MA": "R41.3",
+                "TEN": "Các loại quên khác",
+                "TEN_EN": "Other amnesia"
+              },
+              {
+                "MA": "R41.8",
+                "TEN": "Triệu chứng và dấu hiệu không xác định khác liên quan đến chức năng nhận thức và nhận biết",
+                "TEN_EN": "Other and unspecified symptoms and signs involving cognitive functions and awareness"
+              }
+            ]
+          },
+          {
+            "MA": "R42",
+            "TEN": "Hoa mắt và chóng mặt",
+            "TEN_EN": "Dizziness and giddiness",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R43",
+            "TEN": "Rối loạn về mùi và vị",
+            "TEN_EN": "Disturbances of smell and taste",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R43.0",
+                "TEN": "Mất khứu giác",
+                "TEN_EN": "Anosmia"
+              },
+              {
+                "MA": "R43.1",
+                "TEN": "Loạn khứu giác",
+                "TEN_EN": "Parosmia"
+              },
+              {
+                "MA": "R43.2",
+                "TEN": "Loạn vị giác",
+                "TEN_EN": "Parageusia"
+              },
+              {
+                "MA": "R43.8",
+                "TEN": "Rối loạn không xác định và rối loạn khác về mùi và vị",
+                "TEN_EN": "Other and unspecified disturbances of smell and taste"
+              }
+            ]
+          },
+          {
+            "MA": "R44",
+            "TEN": "Triệu chứng và dấu hiệu khác về cảm giác và tri giác tổng quát",
+            "TEN_EN": "Other symptoms and signs involving general sensations and perceptions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R44.0",
+                "TEN": "Ảo giác âm thanh",
+                "TEN_EN": "Auditory hallucinations"
+              },
+              {
+                "MA": "R44.1",
+                "TEN": "Ảo giác nhìn",
+                "TEN_EN": "Visual hallucinations"
+              },
+              {
+                "MA": "R44.2",
+                "TEN": "Các ảo giác khác",
+                "TEN_EN": "Other hallucinations"
+              },
+              {
+                "MA": "R44.3",
+                "TEN": "Ảo giác, không đặc hiệu",
+                "TEN_EN": "Hallucinations, unspecified"
+              },
+              {
+                "MA": "R44.8",
+                "TEN": "Triệu chứng và dấu hiệu không xác định khác về cảm giác và tri giác toàn thể",
+                "TEN_EN": "Other and unspecified symptoms and signs involving general sensations and perceptions"
+              }
+            ]
+          },
+          {
+            "MA": "R45",
+            "TEN": "Triệu chứng và dấu hiệu về trạng thái cảm xúc",
+            "TEN_EN": "Symptoms and signs involving emotional state",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R45.0",
+                "TEN": "Căng thẳng",
+                "TEN_EN": "Nervousness"
+              },
+              {
+                "MA": "R45.1",
+                "TEN": "Không nghỉ và kích động",
+                "TEN_EN": "Restlessness and agitation"
+              },
+              {
+                "MA": "R45.2",
+                "TEN": "Bất ổn",
+                "TEN_EN": "Unhappiness"
+              },
+              {
+                "MA": "R45.3",
+                "TEN": "Vô đạo đức và vô cảm",
+                "TEN_EN": "Demoralization and apathy"
+              },
+              {
+                "MA": "R45.4",
+                "TEN": "Cáu gắt và tức giận",
+                "TEN_EN": "Irritability and anger"
+              },
+              {
+                "MA": "R45.5",
+                "TEN": "Thù định",
+                "TEN_EN": "Hostility"
+              },
+              {
+                "MA": "R45.6",
+                "TEN": "Bạo hành về thể xác (thể lực)",
+                "TEN_EN": "Physical violence"
+              },
+              {
+                "MA": "R45.7",
+                "TEN": "Trạng thái choáng cảm xúc và stress, không đặc hiệu",
+                "TEN_EN": "State of emotional shock and stress, unspecified"
+              },
+              {
+                "MA": "R45.8",
+                "TEN": "Triệu chứng và dấu hiệu khác về trạng thái cảm xúc",
+                "TEN_EN": "Other symptoms and signs involving emotional state"
+              }
+            ]
+          },
+          {
+            "MA": "R46",
+            "TEN": "Triệu chứng và dấu hiệu khác về vẻ bề ngoài và hành vi",
+            "TEN_EN": "Symptoms and signs involving appearance and behaviour",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R46.0",
+                "TEN": "Ý thức vệ sinh cá nhân kém",
+                "TEN_EN": "Very low level of personal hygiene"
+              },
+              {
+                "MA": "R46.1",
+                "TEN": "Vẻ bề ngoài kỳ quặc con người",
+                "TEN_EN": "Bizarre personal appearance"
+              },
+              {
+                "MA": "R46.2",
+                "TEN": "Hành vi kỳ lạ và khó hiểu",
+                "TEN_EN": "Strange and inexplicable behaviour"
+              },
+              {
+                "MA": "R46.3",
+                "TEN": "Tăng động",
+                "TEN_EN": "Overactivity"
+              },
+              {
+                "MA": "R46.4",
+                "TEN": "Phản ứng nghèo nàn và chậm chạp",
+                "TEN_EN": "Slowness and poor responsiveness"
+              },
+              {
+                "MA": "R46.5",
+                "TEN": "Nghi ngờ và lảng tránh rõ rệt",
+                "TEN_EN": "Suspiciousness and marked evasiveness"
+              },
+              {
+                "MA": "R46.6",
+                "TEN": "Lo lắng và bận tâm quá mức vì stress",
+                "TEN_EN": "Undue concern and preoccupation with stressful events"
+              },
+              {
+                "MA": "R46.7",
+                "TEN": "Chứng nói dài và quá chi tiết gây khó hiể",
+                "TEN_EN": "Verbosity and circumstantial detail obscuring reason for contact"
+              },
+              {
+                "MA": "R46.8",
+                "TEN": "Triệu chứng và dấu hiệu khác về vẻ bề ngoài và hành vi",
+                "TEN_EN": "Other symptoms and signs involving appearance and behaviour"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R47-R49",
         "MA_TRONG_CHUONG": "",
         "TEN": "Triệu chứng và dấu hiệu liên quan tới ngôn ngữ và giọng nói",
-        "TEN_EN": "Symptoms and signs involving speech and voice"
+        "TEN_EN": "Symptoms and signs involving speech and voice",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R47",
+            "TEN": "Rối loạn lời nói, chưa được phân loại ở phần khác",
+            "TEN_EN": "Speech disturbances, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R47.0",
+                "TEN": "rối loạn khả năng nói và mất khả năng n",
+                "TEN_EN": "Dysphasia and aphasia"
+              },
+              {
+                "MA": "R47.1",
+                "TEN": "Rối loạn vận ngôn và mất vận ngôn",
+                "TEN_EN": "Dysarthria and anarthria"
+              },
+              {
+                "MA": "R47.8",
+                "TEN": "Rối loạn ngôn ngữ khác và không xác định",
+                "TEN_EN": "Other and unspecified speech disturbances"
+              }
+            ]
+          },
+          {
+            "MA": "R48",
+            "TEN": "Rối loạn khả năng đọc và các rối loạn khác chưa được phân loại ở phần khác",
+            "TEN_EN": "Dyslexia and other symbolic dysfunctions, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R48.0",
+                "TEN": "Rối loạn khả năng đọc và mất khả năng đọc",
+                "TEN_EN": "Dyslexia and alexia"
+              },
+              {
+                "MA": "R48.1",
+                "TEN": "Mất nhận thức",
+                "TEN_EN": "Agnosia"
+              },
+              {
+                "MA": "R48.2",
+                "TEN": "Mất khả năng điều khiển động tác",
+                "TEN_EN": "Apraxia"
+              },
+              {
+                "MA": "R48.8",
+                "TEN": "Các rối loạn khác",
+                "TEN_EN": "Other and unspecified symbolic dysfunctions"
+              }
+            ]
+          },
+          {
+            "MA": "R49",
+            "TEN": "Rối loạn giọng nói",
+            "TEN_EN": "Voice disturbances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R49.0",
+                "TEN": "Chứng khó phát âm",
+                "TEN_EN": "Dysphonia"
+              },
+              {
+                "MA": "R49.1",
+                "TEN": "Mất tiếng",
+                "TEN_EN": "Aphonia"
+              },
+              {
+                "MA": "R49.2",
+                "TEN": "Giọng mũi cao và giọng âm mũi thấp",
+                "TEN_EN": "Hypernasality and hyponasality"
+              },
+              {
+                "MA": "R49.8",
+                "TEN": "Rối loạn giọng nói không đặc hiệu và k",
+                "TEN_EN": "Other and unspecified voice disturbances"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R50-R69",
         "MA_TRONG_CHUONG": "",
         "TEN": "Triệu chứng và dấu hiệu tổng quát",
-        "TEN_EN": "General symptoms and signs"
+        "TEN_EN": "General symptoms and signs",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R50",
+            "TEN": "Sốt không rõ nguyên nhân và khác",
+            "TEN_EN": "Fever of other and unknown origin",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R50.2",
+                "TEN": "Sốt do thuốc",
+                "TEN_EN": "Drug-induced fever"
+              },
+              {
+                "MA": "R50.8",
+                "TEN": "Sốt xác định khác",
+                "TEN_EN": "Other specified fever"
+              },
+              {
+                "MA": "R50.9",
+                "TEN": "Sốt, không đặc hiệu",
+                "TEN_EN": "Fever, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R51",
+            "TEN": "Đau đầu",
+            "TEN_EN": "Headache",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R52",
+            "TEN": "Đau chưa được phân loại ở phần khác",
+            "TEN_EN": "Pain, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R52.0",
+                "TEN": "Đau cấp tính",
+                "TEN_EN": "Acute pain"
+              },
+              {
+                "MA": "R52.1",
+                "TEN": "Đau mãn tính khó chữa",
+                "TEN_EN": "Chronic intractable pain"
+              },
+              {
+                "MA": "R52.2",
+                "TEN": "Đau mãn tính khác",
+                "TEN_EN": "Other chronic pain"
+              },
+              {
+                "MA": "R52.9",
+                "TEN": "Đau, không đặc hiệu",
+                "TEN_EN": "Pain, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R53",
+            "TEN": "Khó ở và mệt mỏi",
+            "TEN_EN": "Malaise and fatigue",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R54",
+            "TEN": "Suy yếu do tuổi già",
+            "TEN_EN": "Senility",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R55",
+            "TEN": "Ngắt và ngã quỵ",
+            "TEN_EN": "Syncope and collapse",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R56",
+            "TEN": "Co giật, chưa phân loại ở nơi khác",
+            "TEN_EN": "Convulsions, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R56.0",
+                "TEN": "Co giật do sốt",
+                "TEN_EN": "Febrile convulsions"
+              },
+              {
+                "MA": "R56.8",
+                "TEN": "Co giật không đặc hiệu khác",
+                "TEN_EN": "Other and unspecified convulsions"
+              }
+            ]
+          },
+          {
+            "MA": "R57",
+            "TEN": "choáng chưa được phân loại ở phần khác",
+            "TEN_EN": "Shock, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R57.0",
+                "TEN": "Sốc tim",
+                "TEN_EN": "Cardiogenic shock"
+              },
+              {
+                "MA": "R57.1",
+                "TEN": "Sốc Giảm thể tíchh",
+                "TEN_EN": "Hypovolaemic shock"
+              },
+              {
+                "MA": "R57.2",
+                "TEN": "Sốc (choáng) nhiễm khuẩn",
+                "TEN_EN": "Septic shock "
+              },
+              {
+                "MA": "R57.8",
+                "TEN": "Sốc khác",
+                "TEN_EN": "Other shock"
+              },
+              {
+                "MA": "R57.9",
+                "TEN": "Sốc không đặc hiệu",
+                "TEN_EN": "Shock, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R58",
+            "TEN": "Chảy máu chưa được phân loại ở nơi khác",
+            "TEN_EN": "Haemorrhage, not elsewhere classified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R59",
+            "TEN": "Hạch bạch huyết to",
+            "TEN_EN": "Enlarged lymph nodes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R59.0",
+                "TEN": "Hạch to khu trú",
+                "TEN_EN": "Localized enlarged lymph nodes"
+              },
+              {
+                "MA": "R59.1",
+                "TEN": "Hạch to toàn thân",
+                "TEN_EN": "Generalized enlarged lymph nodes"
+              },
+              {
+                "MA": "R59.9",
+                "TEN": "Hạch to, không đặc hiệu",
+                "TEN_EN": "Enlarged lymph nodes, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R60",
+            "TEN": "Phù, chưa phân loại nơi khác",
+            "TEN_EN": "Oedema, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R60.0",
+                "TEN": "Phù khu trú",
+                "TEN_EN": "Localized oedema"
+              },
+              {
+                "MA": "R60.1",
+                "TEN": "Phù toàn thể",
+                "TEN_EN": "Generalized oedema"
+              },
+              {
+                "MA": "R60.9",
+                "TEN": "Phù không đặc hiệu",
+                "TEN_EN": "Oedema, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R61",
+            "TEN": "Tăng tiết mồ hôi",
+            "TEN_EN": "Hyperhidrosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R61.0",
+                "TEN": "Tiết nhiều mồ hôi khu trú",
+                "TEN_EN": "Localized hyperhidrosis"
+              },
+              {
+                "MA": "R61.1",
+                "TEN": "Tăng tiết mồ hôi toàn thể",
+                "TEN_EN": "Generalized hyperhidrosis"
+              },
+              {
+                "MA": "R61.9",
+                "TEN": "Tiết nhiều mồ hôi, không đặc hiệu",
+                "TEN_EN": "Hyperhidrosis, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R62",
+            "TEN": "Phát triển sinh lý không bình thường như mong muốn",
+            "TEN_EN": "Lack of expected normal physiological development",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R62.0",
+                "TEN": "Chậm đạt các mốc phát triển",
+                "TEN_EN": "Delayed milestone"
+              },
+              {
+                "MA": "R62.8",
+                "TEN": "Phát triển sinh lý không bình thường khác",
+                "TEN_EN": "Other lack of expected normal physiological development"
+              },
+              {
+                "MA": "R62.9",
+                "TEN": "Phát triển sinh lí không bình thường, không đặc hiệu",
+                "TEN_EN": "Lack of expected normal physiological development, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R63",
+            "TEN": "Triệu chứng và dấu hiệu liên quan tới thực phẩm và dịch đưa vào cơ thể",
+            "TEN_EN": "Symptoms and signs concerning food and fluid intake",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R63.0",
+                "TEN": "Chán ăn",
+                "TEN_EN": "Anorexia"
+              },
+              {
+                "MA": "R63.1",
+                "TEN": "Chứng khát nước nhiều",
+                "TEN_EN": "Polydipsia"
+              },
+              {
+                "MA": "R63.2",
+                "TEN": "Chứng ăn nhiều",
+                "TEN_EN": "Polyphagia"
+              },
+              {
+                "MA": "R63.3",
+                "TEN": "Khó khăn khi cho ăn và quản lý kém",
+                "TEN_EN": "Feeding difficulties and mismanagement"
+              },
+              {
+                "MA": "R63.4",
+                "TEN": "Giảm cân bất thường",
+                "TEN_EN": "Abnormal weight loss"
+              },
+              {
+                "MA": "R63.5",
+                "TEN": "Tăng cân bất thường",
+                "TEN_EN": "Abnormal weight gain"
+              },
+              {
+                "MA": "R63.6",
+                "TEN": "Thực phẩm và nước đưa vào cơ thể không đủ do tự bỏ mặc (R63.6)",
+                "TEN_EN": "Insufficient intake of food and water due to self neglect"
+              },
+              {
+                "MA": "R63.8",
+                "TEN": "Triệu chứng và dấu hiệu khác liên quan đến thức ăn và dịch đưa vào cơ thể",
+                "TEN_EN": "Other symptoms and signs concerning food and fluid intake"
+              }
+            ]
+          },
+          {
+            "MA": "R64",
+            "TEN": "Suy mòn",
+            "TEN_EN": "Cachexia",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R65",
+            "TEN": "Hội chứng đáp ứng viêm hệ thống",
+            "TEN_EN": "Systemic Inflammatory Response Syndrome [SIRS] ",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R65.0",
+                "TEN": "Hội chứng đáp ứng viêm hệ thống do nhiễm trùng không có suy cơ quan",
+                "TEN_EN": "Systemic Inflammatory Response Syndrome of infectious origin without organ failure"
+              },
+              {
+                "MA": "R65.1",
+                "TEN": "Hội chứng đáp ứng viêm hệ thống do nhiễm trùng có suy cơ quan",
+                "TEN_EN": "Systemic Inflammatory Response Syndrome of infectious origin with organ failure"
+              },
+              {
+                "MA": "R65.2",
+                "TEN": "Hội chứng đáp ứng viêm hệ thống không do nhiễm trùng không có suy cơ quan",
+                "TEN_EN": "Systemic Inflammatory Response Syndrome of non-infectious origin without organ failure"
+              },
+              {
+                "MA": "R65.3",
+                "TEN": "Hội chứng đáp ứng viêm hệ thống không do nhiễm trùng có suy cơ quan",
+                "TEN_EN": "Systemic Inflammatory Response Syndrome of non-infectious origin with organ failure"
+              },
+              {
+                "MA": "R65.9",
+                "TEN": "Hội chứng đáp ứng viêm hệ thống, không đặc hiệu",
+                "TEN_EN": "Systemic Inflammatory Response Syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R68",
+            "TEN": "Triệu chứng và dấu hiệu toàn thể khác",
+            "TEN_EN": "Other general symptoms and signs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R68.0",
+                "TEN": "Hạ thân nhiệt, không liên quan đến nhiệt độ môi trường thấp",
+                "TEN_EN": "Hypothermia, not associated with low environmental temperature"
+              },
+              {
+                "MA": "R68.1",
+                "TEN": "Triệu chứng riêng không đặc hiệu của trẻ em",
+                "TEN_EN": "Nonspecific symptoms peculiar to infancy"
+              },
+              {
+                "MA": "R68.2",
+                "TEN": "Miệng khô không đặc hiệu",
+                "TEN_EN": "Dry mouth, unspecified"
+              },
+              {
+                "MA": "R68.3",
+                "TEN": "Chứng ngón tay hình dùi trống",
+                "TEN_EN": "Clubbing of fingers"
+              },
+              {
+                "MA": "R68.8",
+                "TEN": "Triệu chứng và dấu hiệu toàn thể đặc hiệu khác",
+                "TEN_EN": "Other specified general symptoms and signs"
+              }
+            ]
+          },
+          {
+            "MA": "R69",
+            "TEN": "Nguyên nhân mắc bệnh không đặc hiệu và không rõ",
+            "TEN_EN": "Unknown and unspecified causes of morbidity",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "R70-R79",
         "MA_TRONG_CHUONG": "",
         "TEN": "Phát hiện bất thường về xét nghiệm máu, không có chẩn đoán",
-        "TEN_EN": "Abnormal findings on examination of blood, without diagnosis"
+        "TEN_EN": "Abnormal findings on examination of blood, without diagnosis",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R70",
+            "TEN": "Độ lắng hồng cầu và bất thường độ nhớt huyết tương",
+            "TEN_EN": "Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R70.0",
+                "TEN": "Tăng độ lắng hồng cầu",
+                "TEN_EN": "Elevated erythrocyte sedimentation rate"
+              },
+              {
+                "MA": "R70.1",
+                "TEN": "Bất thường độ nhớt huyết tương",
+                "TEN_EN": "Abnormal plasma viscosity"
+              }
+            ]
+          },
+          {
+            "MA": "R71",
+            "TEN": "Bất thường về hồng cầu",
+            "TEN_EN": "Abnormality of red blood cells",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R72",
+            "TEN": "Bất thường về bạch cầu, chưa được phân loại ở phần khác",
+            "TEN_EN": "Abnormality of white blood cells, not elsewhere classified",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R73",
+            "TEN": "Tăng nồng độ Glucoza máu",
+            "TEN_EN": "Elevated blood glucose level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R73.0",
+                "TEN": "Test dung nạp glucoza bất thường",
+                "TEN_EN": "Abnormal glucose tolerance test"
+              },
+              {
+                "MA": "R73.9",
+                "TEN": "Tăng đường huyết, không đặc hiệu",
+                "TEN_EN": "Hyperglycaemia, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R74",
+            "TEN": "Bất thường nồng độ enzym huyết thanh",
+            "TEN_EN": "Abnormal serum enzyme levels",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R74.0",
+                "TEN": "Tăng mức men tranzaminase và men acid lactic dehydrogenase (LDH)",
+                "TEN_EN": "Elevation of levels of transaminase and lactic acid dehydrogenase [LDH]"
+              },
+              {
+                "MA": "R74.8",
+                "TEN": "Các bất thường nồng độ enzym huyết thanh khác",
+                "TEN_EN": "Abnormal levels of other serum enzymes"
+              },
+              {
+                "MA": "R74.9",
+                "TEN": "Bất thường nồng độ enzym huyết thanh không đặc hiệu",
+                "TEN_EN": "Abnormal level of unspecified serum enzyme"
+              }
+            ]
+          },
+          {
+            "MA": "R75",
+            "TEN": "Biểu hiện cận lâm sàng của virus gây suy giảm miễn dịch ở người (HIV)",
+            "TEN_EN": "Labotary evidence of human immunodeficiency virus",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R76",
+            "TEN": "Các phát hiện bất thường khác về miễn dịch trong huyết thanh",
+            "TEN_EN": "Other abnormal immunological findings in serum",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R76.0",
+                "TEN": "Tăng chuẩn độ kháng thể",
+                "TEN_EN": "Raised antibody titre"
+              },
+              {
+                "MA": "R76.1",
+                "TEN": "Phản ứng bất thường với test tuberculin",
+                "TEN_EN": "Abnormal reaction to tuberculin test"
+              },
+              {
+                "MA": "R76.2",
+                "TEN": "Test huyết thanh dương tính giả với giang mai",
+                "TEN_EN": "False-positive serological test for syphilis"
+              },
+              {
+                "MA": "R76.8",
+                "TEN": "Các kết quả miễn dịch bất thường đặc hiệu khác của huyết thanh",
+                "TEN_EN": "Other specified abnormal immunological findings in serum"
+              },
+              {
+                "MA": "R76.9",
+                "TEN": "Phát hiện miễn dịch bất thường trong huyết thanh, không đặc hiệu",
+                "TEN_EN": "Abnormal immunological finding in serum, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R77",
+            "TEN": "Bất thường khác về protein huyết tương",
+            "TEN_EN": "Other abnormalities of plasma proteins",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R77.0",
+                "TEN": "Bất thường của albumin",
+                "TEN_EN": "Abnormality of albumin"
+              },
+              {
+                "MA": "R77.1",
+                "TEN": "Bất thường của globulin",
+                "TEN_EN": "Abnormality of globulin"
+              },
+              {
+                "MA": "R77.2",
+                "TEN": "Bất thường của alphafetoprotein",
+                "TEN_EN": "Abnormality of alphafetoprotein"
+              },
+              {
+                "MA": "R77.8",
+                "TEN": "Bất thường đặc hiệu khác của protein huyết tương",
+                "TEN_EN": "Other specified abnormalities of plasma proteins"
+              },
+              {
+                "MA": "R77.9",
+                "TEN": "Bất thường của protein huyết tương, không đặc hiệu",
+                "TEN_EN": "Abnormality of plasma protein, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "R78",
+            "TEN": "Phát hiện các loại thuốc và các chất khác không thường có trong máu",
+            "TEN_EN": "Findings of drugs and other substances, not normally found in blood",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R78.0",
+                "TEN": "Phát hiện có rượu trong máu",
+                "TEN_EN": "Finding of alcohol in blood"
+              },
+              {
+                "MA": "R78.1",
+                "TEN": "Phát hiện các chế phẩm thuốc phiện trong máu",
+                "TEN_EN": "Finding of opiate drug in blood"
+              },
+              {
+                "MA": "R78.2",
+                "TEN": "Phát hiện cocain trong máu",
+                "TEN_EN": "Finding of cocaine in blood"
+              },
+              {
+                "MA": "R78.3",
+                "TEN": "Phát hiện chất gây ảo giác trong máu",
+                "TEN_EN": "Finding of hallucinogen in blood"
+              },
+              {
+                "MA": "R78.4",
+                "TEN": "Phát hiện các chất khác có khả năng gây nghiện trong máu",
+                "TEN_EN": "Finding of other drugs of addictive potential in blood"
+              },
+              {
+                "MA": "R78.5",
+                "TEN": "Phát hiện các chất hướng thần trong máu",
+                "TEN_EN": "Finding of psychotropic drug in blood"
+              },
+              {
+                "MA": "R78.6",
+                "TEN": "Phát hiện chất stieroid trong máu",
+                "TEN_EN": "Finding of steroid agent in blood"
+              },
+              {
+                "MA": "R78.7",
+                "TEN": "Phát hiện nồng độ kim loại nặng bất thường trong máu",
+                "TEN_EN": "Finding of abnormal level of heavy metals in blood"
+              },
+              {
+                "MA": "R78.8",
+                "TEN": "Phát hiện các chất đặc hiệu khác mà bình thường không có trong máu",
+                "TEN_EN": "Finding of other specified substances, not normally found in blood"
+              },
+              {
+                "MA": "R78.9",
+                "TEN": "Phát hiện chất không xác định mà bình thường không có trong máu",
+                "TEN_EN": "Finding of unspecified substance, not normally found in blood"
+              }
+            ]
+          },
+          {
+            "MA": "R79",
+            "TEN": "Các phát hiện sinh hóa máu bất thường khác",
+            "TEN_EN": "Other abnormal findings of blood chemistry",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R79.0",
+                "TEN": "Bất thường nồng độ khóang chất trong máu",
+                "TEN_EN": "Abnormal level of blood mineral"
+              },
+              {
+                "MA": "R79.8",
+                "TEN": "Các phát hiện bất thường đặc hiệu khác về hóa sịnh máu",
+                "TEN_EN": "Other specified abnormal findings of blood chemistry"
+              },
+              {
+                "MA": "R79.9",
+                "TEN": "Phát hiện bất thường về hóa sinh máu, không đặc hiệu",
+                "TEN_EN": "Abnormal finding of blood chemistry, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R80-R82",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các phát hiện bất thường về xét nghiệm nước tiểu, không có chẩn đoán",
-        "TEN_EN": "Abnormal findings on examination of urine, without diagnosis"
+        "TEN_EN": "Abnormal findings on examination of urine, without diagnosis",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R80",
+            "TEN": "Protein niệu riêng lẻ",
+            "TEN_EN": "Isolated proteinuria",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R81",
+            "TEN": "Glucose niệu",
+            "TEN_EN": "Glycosuria",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R82",
+            "TEN": "Các phát hiện bất thường khác về nước tiểu",
+            "TEN_EN": "Other abnormal findings in urine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R82.0",
+                "TEN": "Dưỡng chấp niệu",
+                "TEN_EN": "Chyluria"
+              },
+              {
+                "MA": "R82.1",
+                "TEN": "Myoglobin niệu",
+                "TEN_EN": "Myoglobinuria"
+              },
+              {
+                "MA": "R82.2",
+                "TEN": "Đái sắc tố mật",
+                "TEN_EN": "Biliuria"
+              },
+              {
+                "MA": "R82.3",
+                "TEN": "Haemoglobin niệu",
+                "TEN_EN": "Haemoglobinuria"
+              },
+              {
+                "MA": "R82.4",
+                "TEN": "Aceton niệu",
+                "TEN_EN": "Acetonuria"
+              },
+              {
+                "MA": "R82.5",
+                "TEN": "Tăng nồng độ thuốc, dược phẩm sinh học cao trong nước tiểu",
+                "TEN_EN": "Elevated urine levels of drugs, medicaments and biological substances"
+              },
+              {
+                "MA": "R82.6",
+                "TEN": "Nồng độ bất thường của các chất có nguồn chủ yếu không dược liệu",
+                "TEN_EN": "Abnormal urine levels of substances chiefly nonmedicinal as to source"
+              },
+              {
+                "MA": "R82.7",
+                "TEN": "Các phát hiện bất thường về xét nghiệm vi khuẩn trong nước tiểu",
+                "TEN_EN": "Abnormal findings on microbiological examination of urine"
+              },
+              {
+                "MA": "R82.8",
+                "TEN": "Phát hiện bất thường về xét nghiệm tế bào và tổ chức học trong nước tiểu",
+                "TEN_EN": "Abnormal findings on cytological and histological examination of urine"
+              },
+              {
+                "MA": "R82.9",
+                "TEN": "Phát hiện bất thường không đặc hiệu khác trong nước tiểu",
+                "TEN_EN": "Other and unspecified abnormal findings in urine"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R83-R89",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các phát hiện bất thường về xét nghiệm các dịch cơ thể các chất và mô, không có chẩn đoán",
-        "TEN_EN": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+        "TEN_EN": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R83",
+            "TEN": "Các phát hiện bất thường về dịch não tủy",
+            "TEN_EN": "Abnormal findings in cerebrospinal fluid",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R84",
+            "TEN": "Các phát hiện bất thường trong mẫu bệnh phẩm từ cơ quan hô hấp và lồng ngực",
+            "TEN_EN": "Abnormal findings in specimens from respiratory organs and thorax",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R85",
+            "TEN": "Các phát hiện bất thường trong mẫu bệnh phẩm từ cơ quan tiêu hóa và ổ bụng",
+            "TEN_EN": "Abnormal findings in specimens from digestive organs and abdominal cavity",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R86",
+            "TEN": "Các phát hiện bất thường trong mẫu vật của cơ quan sinh dục nam",
+            "TEN_EN": "Abnormal findings in specimens from male genital organs",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R87",
+            "TEN": "Các phát hiện bất thường trong mẫu vật của cơ quan sinh dục nữ",
+            "TEN_EN": "Abnormal findings in specimens from female genital organs",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R89",
+            "TEN": "Các phát hiện bất thường trong mẫu vật của các cơ quan, hệ thống và mô khác",
+            "TEN_EN": "Abnormal findings in specimens from other organs, systems and tissues",
+            "DANH_SACH_BENH": []
+          }
+        ]
       },
       {
         "MA": "R90-R94",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh và thăm dò chức năng, không có chẩn đoán",
-        "TEN_EN": "Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+        "TEN_EN": "Abnormal findings on diagnostic imaging and in function studies, without diagnosis",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R90",
+            "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của hệ thần kinh trung ương",
+            "TEN_EN": "Abnormal findings on diagnostic imaging of central nervous system",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R90.0",
+                "TEN": "Tổn thương chóan chỗ trong sọ",
+                "TEN_EN": "Intracranial space-occupying lesion"
+              },
+              {
+                "MA": "R90.8",
+                "TEN": "Các phát hiện bất thường khác về chẩn đoán hình ảnh của hệ thần kinh trung ương",
+                "TEN_EN": "Other abnormal findings on diagnostic imaging of central nervous system"
+              }
+            ]
+          },
+          {
+            "MA": "R91",
+            "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của phổi không xác định",
+            "TEN_EN": "Abnormal findings on diagnostic imaging of lung",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R92",
+            "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của ngực",
+            "TEN_EN": "Abnormal findings on diagnostic imaging of breast",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R93",
+            "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của các cơ quan khác",
+            "TEN_EN": "Abnormal findings on diagnostic imaging of other body structures",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R93.0",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của xương sọ và đầu, chưa được phân loại ở phần khác",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of skull and head, not elsewhere classified"
+              },
+              {
+                "MA": "R93.1",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của tim và mạch vành, không đặc hiệu",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of heart and coronary circulation"
+              },
+              {
+                "MA": "R93.2",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của gan và đường dẫn mật",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of liver and biliary tract"
+              },
+              {
+                "MA": "R93.3",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của các phần khác của đường tiêu hóa",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of other parts of digestive tract"
+              },
+              {
+                "MA": "R93.4",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của cơ quan tiết niệu",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of urinary organs"
+              },
+              {
+                "MA": "R93.5",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của vùng bụng khác, kể cả khoang sau màng bụng",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of other abdominal regions, including retroperitoneum"
+              },
+              {
+                "MA": "R93.6",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của các chi",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of limbs"
+              },
+              {
+                "MA": "R93.7",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của các phần khác của hệ xương",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of other parts of musculoskeletal system"
+              },
+              {
+                "MA": "R93.8",
+                "TEN": "Các phát hiện bất thường về chẩn đoán hình ảnh của các cấu trúc cơ thể xác định khác",
+                "TEN_EN": "Abnormal findings on diagnostic imaging of other specified body structures"
+              }
+            ]
+          },
+          {
+            "MA": "R94",
+            "TEN": "Kết quả bất thường về thăm dò chức năng",
+            "TEN_EN": "Abnormal results of function studies",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R94.0",
+                "TEN": "Kết quả bất thường về thăm dò chức năng của hệ thần kinh trung ương",
+                "TEN_EN": "Abnormal results of function studies of central nervous system"
+              },
+              {
+                "MA": "R94.1",
+                "TEN": "Kết quả bất thường về thăm dò chức năng của hệ thần kinh ngoại biên và các giác quan đặc hiệu",
+                "TEN_EN": "Abnormal results of function studies of peripheral nervous system and special senses"
+              },
+              {
+                "MA": "R94.2",
+                "TEN": "Kết quả bất thường về thăm dò chức năng phổi",
+                "TEN_EN": "Abnormal results of pulmonary function studies"
+              },
+              {
+                "MA": "R94.3",
+                "TEN": "Kết quả bất thường về thăm dò chức năng tuần hoàn",
+                "TEN_EN": "Abnormal results of cardiovascular function studies"
+              },
+              {
+                "MA": "R94.4",
+                "TEN": "Kết quả bất thường về thăm dò chức năng thận",
+                "TEN_EN": "Abnormal results of kidney function studies"
+              },
+              {
+                "MA": "R94.5",
+                "TEN": "Kết quả bất thường về thăm dò chức năng gan",
+                "TEN_EN": "Abnormal results of liver function studies"
+              },
+              {
+                "MA": "R94.6",
+                "TEN": "Kết quả bất thường về thăm dò chức năng tuyến giáp",
+                "TEN_EN": "Abnormal results of thyroid function studies"
+              },
+              {
+                "MA": "R94.7",
+                "TEN": "Kết quả bất thường về thăm dò chức năng nội tiết khác",
+                "TEN_EN": "Abnormal results of other endocrine function studies"
+              },
+              {
+                "MA": "R94.8",
+                "TEN": "Kết quả bất thường về thăm dò chức năng các cơ quan và hệ thống khác",
+                "TEN_EN": "Abnormal results of function studies of other organs and systems"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "R95-R99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Nguyên nhân tử vong không xác định",
-        "TEN_EN": "Ill-defined and unknown causes of mortality"
+        "TEN_EN": "Ill-defined and unknown causes of mortality",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "R95",
+            "TEN": "Hội chứng đột tử trẻ em",
+            "TEN_EN": "Sudden infant death syndrome ",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R95.0",
+                "TEN": "Hội chứng đột tử trẻ em có đề cập đến khám nghiệm tử thi",
+                "TEN_EN": "\nSudden infant death syndrome with mention of autopsy\n"
+              },
+              {
+                "MA": "R95.9",
+                "TEN": "Hội chứng đột tử trẻ em không đề cập đến khám nghiệm tử thi",
+                "TEN_EN": "Sudden infant death syndrome without mention of autopsy"
+              }
+            ]
+          },
+          {
+            "MA": "R96",
+            "TEN": "Đột tử khác không rõ nguyên nhân",
+            "TEN_EN": "Other sudden death, cause unknown",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "R96.0",
+                "TEN": "Đột tử",
+                "TEN_EN": "Instantaneous death"
+              },
+              {
+                "MA": "R96.1",
+                "TEN": "Tử vong dưới 24 giờ sau khi khởi phát các triệu chứng, không có cách giải thích",
+                "TEN_EN": "Death occurring less than 24 hours from onset of symptoms, not otherwise explained"
+              }
+            ]
+          },
+          {
+            "MA": "R98",
+            "TEN": "Tử vong không ai biết",
+            "TEN_EN": "Unattended death",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "R99",
+            "TEN": "Nguyên nhân tử vong không xác định khác và bệnh xác định không đặc hiệu khác",
+            "TEN_EN": "Other ill-defined and unspecified causes of morality",
+            "DANH_SACH_BENH": []
+          }
+        ]
       }
     ]
   },

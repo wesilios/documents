@@ -62665,13 +62665,255 @@
         "MA": "U00-U49",
         "MA_TRONG_CHUONG": "",
         "TEN": "Mã tạm thời cho một số bệnh mới hoặc chưa rõ bệnh nguyên hoặc sử dụng trong cấp cứu",
-        "TEN_EN": "Bacterial agents resistant to antibiotics"
+        "TEN_EN": "Bacterial agents resistant to antibiotics",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "U04",
+            "TEN": "Hội chứng suy hô hấp cấp tính nặng [SARS]",
+            "TEN_EN": "Severe acute respiratory syndrome [SARS]",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "U04.9",
+                "TEN": "Hội chứng suy hô hấp cấp tính nặng [SARS], không đặc hiệu",
+                "TEN_EN": "Severe acute respiratory syndrome, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "U06",
+            "TEN": "Sử dụng mã U06 trong trường cấp cứu",
+            "TEN_EN": "Emergency use of U06 ",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "U06.0",
+                "TEN": "Sử dụng mã U06.0 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.0"
+              },
+              {
+                "MA": "U06.1",
+                "TEN": "Sử dụng mã U06.1 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.1"
+              },
+              {
+                "MA": "U06.2",
+                "TEN": "Sử dụng mã U06.2 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.2"
+              },
+              {
+                "MA": "U06.3",
+                "TEN": "Sử dụng mã U06.3 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.3"
+              },
+              {
+                "MA": "U06.4",
+                "TEN": "Sử dụng mã U06.4 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.4"
+              },
+              {
+                "MA": "U06.5",
+                "TEN": "Sử dụng mã U06.5 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.5"
+              },
+              {
+                "MA": "U06.6",
+                "TEN": "Sử dụng mã U06.6 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.6"
+              },
+              {
+                "MA": "U06.7",
+                "TEN": "Sử dụng mã U06.7 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.7"
+              },
+              {
+                "MA": "U06.8",
+                "TEN": "Sử dụng mã U06.8 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.8"
+              },
+              {
+                "MA": "U06.9",
+                "TEN": "Sử dụng mã U06.9 trong cấp cứu",
+                "TEN_EN": "Emergency use of U06.9"
+              }
+            ]
+          },
+          {
+            "MA": "U07",
+            "TEN": "Sử dụng mã U07 trong cấp cứu",
+            "TEN_EN": "Emergency use of U07",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "U07.0",
+                "TEN": "Sử dụng mã U07.0 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.0"
+              },
+              {
+                "MA": "U07.1",
+                "TEN": "Viêm đường hô hấp cấp do chủng mới Corona virus năm 2019 (SARS-CoV-2)",
+                "TEN_EN": "Acute respiratory disease du to SARS-CoV-2 (Covid-19)"
+              },
+              {
+                "MA": "U07.2",
+                "TEN": "Sử dụng mã U07.2 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.2"
+              },
+              {
+                "MA": "U07.3",
+                "TEN": "Sử dụng mã U07.3 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.3"
+              },
+              {
+                "MA": "U07.4",
+                "TEN": "Sử dụng mã U07.4 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.4"
+              },
+              {
+                "MA": "U07.5",
+                "TEN": "Sử dụng mã U07.5 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.5"
+              },
+              {
+                "MA": "U07.6",
+                "TEN": "Sử dụng mã U07.6 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.6"
+              },
+              {
+                "MA": "U07.7",
+                "TEN": "Sử dụng mã U07.7 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.7"
+              },
+              {
+                "MA": "U07.8",
+                "TEN": "Sử dụng mã U07.8 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.8"
+              },
+              {
+                "MA": "U07.9",
+                "TEN": "Sử dụng mã U07.9 trong cấp cứu",
+                "TEN_EN": "Emergency use of U07.9"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "U82-U85",
         "MA_TRONG_CHUONG": "",
         "TEN": "Kháng các thuốc kháng sinh và chống ung thư",
-        "TEN_EN": "Resistance to antimicrobial and antineoplastic drugs"
+        "TEN_EN": "Resistance to antimicrobial and antineoplastic drugs",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "U82",
+            "TEN": "Kháng kháng sinh họ betalactam",
+            "TEN_EN": "Resistance to betalactam antibiotics",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "U82.0",
+                "TEN": "Kháng penicillin",
+                "TEN_EN": "Resistance to penicillin, Amoxicillin, Ampicillin"
+              },
+              {
+                "MA": "U82.1",
+                "TEN": "Kháng Methicillin",
+                "TEN_EN": "Resistance to methicillin, cloxacillin"
+              },
+              {
+                "MA": "U82.8",
+                "TEN": "Kháng kháng sinh họ betalactam khác",
+                "TEN_EN": "Resistance to other betalactam antibiotics"
+              },
+              {
+                "MA": "U82.9",
+                "TEN": "Kháng kháng sinh họ betalactam, không đặc hiệu",
+                "TEN_EN": "Resistance to betalactam antibiotics, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "U83",
+            "TEN": "Kháng các kháng sinh khác",
+            "TEN_EN": "Resistance to other antibiotics",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "U83.0",
+                "TEN": "Kháng vancomycin",
+                "TEN_EN": "Resistance to vancomycin\n"
+              },
+              {
+                "MA": "U83.1",
+                "TEN": "Kháng các kháng sinh thuộc họ vancomycin khác",
+                "TEN_EN": "Resistance to other vancomycin related antibiotics"
+              },
+              {
+                "MA": "U83.2",
+                "TEN": "Kháng nhóm quinolon",
+                "TEN_EN": "Resistance to quinolones"
+              },
+              {
+                "MA": "U83.7",
+                "TEN": "Kháng đa kháng sinh",
+                "TEN_EN": "Resistance to multiple antibiotics"
+              },
+              {
+                "MA": "U83.8",
+                "TEN": "Kháng một loại kháng sinh xác định, khác",
+                "TEN_EN": "Resistance to other single specified antibiotic"
+              },
+              {
+                "MA": "U83.9",
+                "TEN": "Kháng kháng sinh không xác định",
+                "TEN_EN": "Resistance to unspecified antibiotic"
+              }
+            ]
+          },
+          {
+            "MA": "U84",
+            "TEN": "Kháng các thuốc kháng sinh khác",
+            "TEN_EN": "Resistance to other antimicrobial drugs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "U84.0",
+                "TEN": "Kháng (các) thuốc diệt ký sinh trùng",
+                "TEN_EN": "Resistance to antiparasitic drug(s)"
+              },
+              {
+                "MA": "U84.1",
+                "TEN": "Kháng (các) thuốc chống nấm",
+                "TEN_EN": "Resistance to antifungal drug(s)"
+              },
+              {
+                "MA": "U84.2",
+                "TEN": "Kháng (các) thuốc diệt virus",
+                "TEN_EN": "Resistance to antiviral drug(s)\n"
+              },
+              {
+                "MA": "U84.3",
+                "TEN": "Kháng (các) thuốc chống lao",
+                "TEN_EN": "Resistance to tuberculostatic drug(s)"
+              },
+              {
+                "MA": "U84.7",
+                "TEN": "Kháng đa thuốc kháng vi sinh vật",
+                "TEN_EN": "Resistance to multiple antimicrobial drugs"
+              },
+              {
+                "MA": "U84.8",
+                "TEN": "Kháng thuốc kháng vi sinh vật xác định khác",
+                "TEN_EN": "Resistance to other specified antimicrobial drug"
+              },
+              {
+                "MA": "U84.9",
+                "TEN": "Kháng các thuốc kháng vi sinh vật không xác định",
+                "TEN_EN": "Resistance to unspecified antimicrobial drugs"
+              }
+            ]
+          },
+          {
+            "MA": "U85",
+            "TEN": "Kháng các thuốc kháng ung thư",
+            "TEN_EN": "Resistance to antineolastics drugs",
+            "DANH_SACH_BENH": []
+          }
+        ]
       }
     ]
   }

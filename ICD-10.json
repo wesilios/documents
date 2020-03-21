@@ -35581,49 +35581,2699 @@
         "MA": "O00-O08",
         "MA_TRONG_CHUONG": "",
         "TEN": "Thai nghén và sẩy thai",
-        "TEN_EN": "Pregnancy with abortive outcome"
+        "TEN_EN": "Pregnancy with abortive outcome",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "O00",
+            "TEN": "Chửa ngoài tử cung",
+            "TEN_EN": "Ectopic pregnancy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O00.0",
+                "TEN": "Chửa trong ổ bụng",
+                "TEN_EN": "Abdominal pregnancy"
+              },
+              {
+                "MA": "O00.1",
+                "TEN": "Chửa ở vòi tử cung",
+                "TEN_EN": "Tubal pregnancy"
+              },
+              {
+                "MA": "O00.2",
+                "TEN": "Chửa ở buồng trứng",
+                "TEN_EN": "Ovarian pregnancy"
+              },
+              {
+                "MA": "O00.8",
+                "TEN": "Chửa ngoài tử cung khác",
+                "TEN_EN": "Other ectopic pregnancy"
+              },
+              {
+                "MA": "O00.9",
+                "TEN": "Chửa ngoài tử cung, chưa xác định rõ",
+                "TEN_EN": "Ectopic pregnancy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "O01",
+            "TEN": "Chửa trứng",
+            "TEN_EN": "Hydatidiform mole",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O01.0",
+                "TEN": "Chửa trứng cổ điển",
+                "TEN_EN": "Classical hydatidiform mole"
+              },
+              {
+                "MA": "O01.1",
+                "TEN": "Chửa trứng không hoàn toàn và bán phần",
+                "TEN_EN": "Incomplete and partial hydatidiform mole"
+              },
+              {
+                "MA": "O01.9",
+                "TEN": "Chửa trứng không điển hình",
+                "TEN_EN": "Hydatidiform mole, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "O02",
+            "TEN": "Bất thường khác của trứng",
+            "TEN_EN": "Other abnormal products of conception",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O02.0",
+                "TEN": "Trứng thoái triển và chửa trứng không có nang",
+                "TEN_EN": "Blighted ovum and nonhydatidiform mole"
+              },
+              {
+                "MA": "O02.1",
+                "TEN": "Sẩy thai sớm",
+                "TEN_EN": "Missed abortion"
+              },
+              {
+                "MA": "O02.8",
+                "TEN": "Bất thường xác định khác của trứng",
+                "TEN_EN": "Other specified abnormal products of conception"
+              },
+              {
+                "MA": "O02.9",
+                "TEN": "Bất thường khác trong thụ thai, chưa xác định",
+                "TEN_EN": "Abnormal product of conception, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "O03",
+            "TEN": "Sẩy thai tự nhiên",
+            "TEN_EN": "Spontaneous abortion",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O03.0",
+                "TEN": "Sẩy thai tự nhiên (Sảy không hoàn toàn, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung)",
+                "TEN_EN": "Spontaneous abortion (Incomplete, complicated by genital tract and pelvic infection)"
+              },
+              {
+                "MA": "O03.1",
+                "TEN": "Sẩy thai tự nhiên (Không hoàn toàn, gây biến chứng ra máu nhiều hay kéo dài)",
+                "TEN_EN": "Spontaneous abortion (Incomplete, complicated by delayed or excessive haemorrhage)"
+              },
+              {
+                "MA": "O03.2",
+                "TEN": "Sẩy thai tự nhiên (Không hoàn toàn, gây biến chứng tắc mạch)",
+                "TEN_EN": "Spontaneous abortion (Incomplete, complicated by embolism)"
+              },
+              {
+                "MA": "O03.3",
+                "TEN": "Sẩy thai tự nhiên (Không hoàn toàn, gây biến chứng khác không điển hình)",
+                "TEN_EN": "Spontaneous abortion (Incomplete, with other and unspecified complications)"
+              },
+              {
+                "MA": "O03.4",
+                "TEN": "Sẩy thai tự nhiên (Không hoàn toàn, không có biến chứng)",
+                "TEN_EN": "Spontaneous abortion (Incomplete, without complication)"
+              },
+              {
+                "MA": "O03.5",
+                "TEN": "Sẩy thai tự nhiên (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung)",
+                "TEN_EN": "Spontaneous abortion (Complete or unspecified, complicated by\ngenital tract and pelvic infection)"
+              },
+              {
+                "MA": "O03.6",
+                "TEN": "Sẩy thai tự nhiên (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng ra máu chậm và nhiều quá mức)",
+                "TEN_EN": "Spontaneous abortion (Complete or unspecified, complicated by delayed or excessive haemorrhage)"
+              },
+              {
+                "MA": "O03.7",
+                "TEN": "Sẩy thai tự nhiên (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng tắc mạch)",
+                "TEN_EN": "Spontaneous abortion (Complete or unspecified, complicated by embolism)"
+              },
+              {
+                "MA": "O03.8",
+                "TEN": "Sẩy thai tự nhiên (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng khác, chưa xác định rõ)",
+                "TEN_EN": "Spontaneous abortion (Complete or unspecified, with other and unspecified complications)"
+              },
+              {
+                "MA": "O03.9",
+                "TEN": "Sẩy thai tự nhiên (Hoàn toàn hoặc chưa xác định rõ, không có biến chứng)",
+                "TEN_EN": "Spontaneous abortion (Complete or unspecified, without complication)"
+              }
+            ]
+          },
+          {
+            "MA": "O04",
+            "TEN": "Phá thai nội khoa",
+            "TEN_EN": "Medical abortion",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O04.0",
+                "TEN": "Phá thai nội khoa (Sảy không hoàn toàn, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung)",
+                "TEN_EN": "Medical abortion (Incomplete, complicated by genital tract and pelvic infection)"
+              },
+              {
+                "MA": "O04.1",
+                "TEN": "Phá thai nội khoa (Không hoàn toàn, gây biến chứng ra máu nhiều hay kéo dài)",
+                "TEN_EN": "Medical abortion (Incomplete, complicated by delayed or excessive haemorrhage)"
+              },
+              {
+                "MA": "O04.2",
+                "TEN": "Phá thai nội khoa (Không hoàn toàn, gây biến chứng tắc mạch)",
+                "TEN_EN": "Medical abortion (Incomplete, complicated by embolism)"
+              },
+              {
+                "MA": "O04.3",
+                "TEN": "Phá thai nội khoa (Không hoàn toàn, gây biến chứng khác không điển hình)",
+                "TEN_EN": "Medical abortion (Incomplete, with other and unspecified complications)"
+              },
+              {
+                "MA": "O04.4",
+                "TEN": "Phá thai nội khoa (Không hoàn toàn, không có biến chứng)",
+                "TEN_EN": "Medical abortion (Incomplete, without complication)"
+              },
+              {
+                "MA": "O04.5",
+                "TEN": "Phá thai nội khoa (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung)",
+                "TEN_EN": "Medical abortion (Complete or unspecified, complicated by\ngenital tract and pelvic infection)"
+              },
+              {
+                "MA": "O04.6",
+                "TEN": "Phá thai nội khoa (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng ra máu chậm và nhiều quá mức)",
+                "TEN_EN": "Medical abortion (Complete or unspecified, complicated by delayed or excessive haemorrhage)"
+              },
+              {
+                "MA": "O04.7",
+                "TEN": "Phá thai nội khoa (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng tắc mạch)",
+                "TEN_EN": "Medical abortion (Complete or unspecified, complicated by embolism)"
+              },
+              {
+                "MA": "O04.8",
+                "TEN": "Phá thai nội khoa (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng khác, chưa xác định rõ)",
+                "TEN_EN": "Medical abortion (Complete or unspecified, with other and unspecified complications)"
+              },
+              {
+                "MA": "O04.9",
+                "TEN": "Phá thai nội khoa (Hoàn toàn hoặc chưa xác định rõ, không có biến chứng)",
+                "TEN_EN": "Medical abortion (Complete or unspecified, without complication)"
+              }
+            ]
+          },
+          {
+            "MA": "O05",
+            "TEN": "Phá thai khác",
+            "TEN_EN": "Other abortion",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O05.0",
+                "TEN": "Phá thai khác (Sảy không hoàn toàn, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung)",
+                "TEN_EN": "Other abortion (Incomplete, complicated by genital tract and pelvic infection)"
+              },
+              {
+                "MA": "O05.1",
+                "TEN": "Phá thai khác (Không hoàn toàn, gây biến chứng ra máu nhiều hay kéo dài)",
+                "TEN_EN": "Other abortion (Incomplete, complicated by delayed or excessive haemorrhage)"
+              },
+              {
+                "MA": "O05.2",
+                "TEN": "Phá thai khác (Không hoàn toàn, gây biến chứng tắc mạch)",
+                "TEN_EN": "Other abortion (Incomplete, complicated by embolism)"
+              },
+              {
+                "MA": "O05.3",
+                "TEN": "Phá thai khác (Không hoàn toàn, gây biến chứng khác không điển hình)",
+                "TEN_EN": "Other abortion (Incomplete, with other and unspecified complications)"
+              },
+              {
+                "MA": "O05.4",
+                "TEN": "Phá thai khác (Không hoàn toàn, không có biến chứng)",
+                "TEN_EN": "Other abortion (Incomplete, without complication)"
+              },
+              {
+                "MA": "O05.5",
+                "TEN": "Phá thai khác (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung)",
+                "TEN_EN": "Other abortion (Complete or unspecified, complicated by\ngenital tract and pelvic infection)"
+              },
+              {
+                "MA": "O05.6",
+                "TEN": "Phá thai khác (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng ra máu chậm và nhiều quá mức)",
+                "TEN_EN": "Other abortion (Complete or unspecified, complicated by delayed or excessive haemorrhage)"
+              },
+              {
+                "MA": "O05.7",
+                "TEN": "Phá thai khác (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng tắc mạch)",
+                "TEN_EN": "Other abortion (Complete or unspecified, complicated by embolism)"
+              },
+              {
+                "MA": "O05.8",
+                "TEN": "Phá thai khác (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng khác, chưa xác định rõ)",
+                "TEN_EN": "Other abortion (Complete or unspecified, with other and unspecified complications)"
+              },
+              {
+                "MA": "O05.9",
+                "TEN": "Phá thai khác (Hoàn toàn hoặc chưa xác định rõ, không có biến chứng)",
+                "TEN_EN": "Other abortion (Complete or unspecified, without complication)"
+              }
+            ]
+          },
+          {
+            "MA": "O06",
+            "TEN": "Phá thai chưa xác định rõ",
+            "TEN_EN": "Unspecified abortion",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O06.0",
+                "TEN": "Phá thai chưa xác định rõ (Sảy không hoàn toàn, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung)",
+                "TEN_EN": "Unspecified abortion (Incomplete, complicated by genital tract and pelvic infection)"
+              },
+              {
+                "MA": "O06.1",
+                "TEN": "Phá thai chưa xác định rõ (Không hoàn toàn, gây biến chứng ra máu nhiều hay kéo dài)",
+                "TEN_EN": "Unspecified abortion (Incomplete, complicated by delayed or excessive haemorrhage)"
+              },
+              {
+                "MA": "O06.2",
+                "TEN": "Phá thai chưa xác định rõ (Không hoàn toàn, gây biến chứng tắc mạch)",
+                "TEN_EN": "Unspecified abortion (Incomplete, complicated by embolism)"
+              },
+              {
+                "MA": "O06.3",
+                "TEN": "Phá thai chưa xác định rõ (Không hoàn toàn, gây biến chứng khác không điển hình)",
+                "TEN_EN": "Unspecified abortion (Incomplete, with other and unspecified complications)"
+              },
+              {
+                "MA": "O06.4",
+                "TEN": "Phá thai chưa xác định rõ (Không hoàn toàn, không có biến chứng)",
+                "TEN_EN": "Unspecified abortion (Incomplete, without complication)"
+              },
+              {
+                "MA": "O06.5",
+                "TEN": "Phá thai chưa xác định rõ (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung)",
+                "TEN_EN": "Unspecified abortion (Complete or unspecified, complicated by\ngenital tract and pelvic infection)"
+              },
+              {
+                "MA": "O06.6",
+                "TEN": "Phá thai chưa xác định rõ (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng ra máu chậm và nhiều quá mức)",
+                "TEN_EN": "Unspecified abortion (Complete or unspecified, complicated by delayed or excessive haemorrhage)"
+              },
+              {
+                "MA": "O06.7",
+                "TEN": "Phá thai chưa xác định rõ (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng tắc mạch)",
+                "TEN_EN": "Unspecified abortion (Complete or unspecified, complicated by embolism)"
+              },
+              {
+                "MA": "O06.8",
+                "TEN": "Phá thai chưa xác định rõ (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng khác, chưa xác định rõ)",
+                "TEN_EN": "Unspecified abortion (Complete or unspecified, with other and unspecified complications)"
+              },
+              {
+                "MA": "O06.9",
+                "TEN": "Phá thai chưa xác định rõ (Hoàn toàn hoặc chưa xác định rõ, không có biến chứng)",
+                "TEN_EN": "Unspecified abortion (Complete or unspecified, without complication)"
+              }
+            ]
+          },
+          {
+            "MA": "O07",
+            "TEN": "Phá thai thất bại",
+            "TEN_EN": "Failed attempted abortion",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O07.0",
+                "TEN": "Phá thai nội khoa thất bại, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung",
+                "TEN_EN": "Failed medical abortion, complicated by genital tract and pelvic infection"
+              },
+              {
+                "MA": "O07.1",
+                "TEN": "Phá thai nội khoa thất bại, gây biến chứng ra máu chậm hoặc nhiều quá mức",
+                "TEN_EN": "Failed medical abortion, complicated by delayed or excessive haemorrhage"
+              },
+              {
+                "MA": "O07.2",
+                "TEN": "Phá thai nội khoa thất bại, gây biến chứng tắc mạch",
+                "TEN_EN": "Failed medical abortion, complicated by embolism"
+              },
+              {
+                "MA": "O07.3",
+                "TEN": "Phá thai nội khoa thất bại, gây biến chứng khác, chưa xác định rõ",
+                "TEN_EN": "Failed medical abortion, with other and unspecified complications"
+              },
+              {
+                "MA": "O07.4",
+                "TEN": "Phá thai nội khoa thất bại, không có biến chứng",
+                "TEN_EN": "Failed medical abortion, without complication"
+              },
+              {
+                "MA": "O07.5",
+                "TEN": "Phá thai nội khoa thất bại khác, chưa xác định rõ gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung",
+                "TEN_EN": "Other and unspecified failed attempted abortion, complicated by genital tract and pelvic infection"
+              },
+              {
+                "MA": "O07.6",
+                "TEN": "Phá thai nội khoa thất bại khác chưa xác định rõ, gây biến chứng ra máu chậm và nhiều quá mức",
+                "TEN_EN": "Other and unspecified failed attempted abortion, complicated by delayed or excessive haemorrhage"
+              },
+              {
+                "MA": "O07.7",
+                "TEN": "Phá thai nội khoa thất bại khác chưa xác định rõ, gây biến chứng tắc mạch",
+                "TEN_EN": "Other and unspecified failed attempted abortion, complicated by embolism"
+              },
+              {
+                "MA": "O07.8",
+                "TEN": "Phá thai nội khoa thất bại khác, chưa xác định rõ các biến chứng khác",
+                "TEN_EN": "Other and unspecified failed attempted abortion, with other and unspecified complications"
+              },
+              {
+                "MA": "O07.9",
+                "TEN": "Phá thai nội khoa thất bại khác không chỉ rõ, không có biến chứng",
+                "TEN_EN": "Other and unspecified failed attempted abortion, without complication"
+              }
+            ]
+          },
+          {
+            "MA": "O08",
+            "TEN": "Biến chứng sau sẩy thai, chửa ngoài tử cung và chửa trứng",
+            "TEN_EN": "Complications following abortion and ectopic and molar pregnancy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "O08.0",
+                "TEN": "Nhiễm khuẩn đường sinh dục và tiểu khung sau sẩy thai, chửa ngoài tử cung và chửa trứng",
+                "TEN_EN": "Genital tract and pelvic infection following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.1",
+                "TEN": "Ra máu kéo dài hay quá nhiều sau sẩy thai, chửa ngoài tử cung và chửa trứng",
+                "TEN_EN": "Delayed or excessive haemorrhage following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.2",
+                "TEN": "Tắc mạch sau sẩy thai, chửa ngoài tử cung hay chửa trứng",
+                "TEN_EN": "Embolism following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.3",
+                "TEN": "choáng sau sẩy thai, chửa ngoài tử cung hay chửa trứng",
+                "TEN_EN": "Shock following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.4",
+                "TEN": "Suy thận sau sẩy thai, chửa ngoài tử cung hay chửa trứng",
+                "TEN_EN": "Renal failure following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.5",
+                "TEN": "Rối loạn chuyển hóa sau sẩy thai, chửa ngoài tử cung hay chửa trứng",
+                "TEN_EN": "Metabolic disorders following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.6",
+                "TEN": "Tổn thương các tạng và tổ chức ở tiểu khung sau sẩy thai, chửa ngoài tử cung hay chửa trứng",
+                "TEN_EN": "Damage to pelvic organs and tissues following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.7",
+                "TEN": "Biến chứng tĩnh mạch khác sau sẩy thai chửa ngoài tử cung hay chửa trứng",
+                "TEN_EN": "Other venous complications following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.8",
+                "TEN": "Biến chứng khác sau sẩy thai, chửa ngoài tử cung hay chửa trứng",
+                "TEN_EN": "Other complications following abortion and ectopic and molar pregnancy"
+              },
+              {
+                "MA": "O08.9",
+                "TEN": "Biến chứng sau sẩy thai, chửa ngoài tử cung hay chửa trứng, chưa xác định rõ",
+                "TEN_EN": "Complication following abortion and ectopic and molar pregnancy, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "O10-O16",
         "MA_TRONG_CHUONG": "",
         "TEN": "Phù, protein niệu và tăng huyết áp trong khi có thai, khi đẻ và sau đẻ",
-        "TEN_EN": "Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium"
+        "TEN_EN": "Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",
+        "DANH_SACH_BENH": [{
+          "MA": "O10",
+          "TEN": "Tăng huyết áp có sẵn gây biến chứng cho thai nghén, cuộc đẻ và sau khi đẻ",
+          "TEN_EN": "Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O10.0",
+              "TEN": "Tăng huyết áp chủ yếu có sẵn gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O10.1",
+              "TEN": "Bệnh tim do tăng huyết áp có sẵn gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O10.2",
+              "TEN": "Bệnh thận do tăng huyết áp có sẵn gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Pre-existing hypertensive renal disease complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O10.3",
+              "TEN": "Bệnh tim và thận do tăng huyết áp có sẵn gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O10.4",
+              "TEN": "Tăng huyết áp thứ phát có sẵn gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O10.9",
+              "TEN": "Tăng huyết áp có sẵn chưa xác định rõ gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium"
+            }
+          ]
+        },
+        {
+          "MA": "O11",
+          "TEN": "Tiền sản giật kèm theo tăng huyết áp mãn tính",
+          "TEN_EN": "Pre-exclampsia superimposed on chronic hypertension",
+          "DANH_SACH_BENH": []
+        },
+        {
+          "MA": "O12",
+          "TEN": "Phù khi thai nghén (do thai nghén gây ra) và protein niệu mà không có tăng huyết áp",
+          "TEN_EN": "Gestational [pregnancy-induced] oedema and proteinuria without hypertension",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O12.0",
+              "TEN": "Phù thai nghén",
+              "TEN_EN": "Gestational oedema"
+            },
+            {
+              "MA": "O12.1",
+              "TEN": "Protein niệu thai nghén",
+              "TEN_EN": "Gestational proteinuria"
+            },
+            {
+              "MA": "O12.2",
+              "TEN": "Phù và protein niệu thai nghén",
+              "TEN_EN": "Gestational oedema with proteinuria"
+            }
+          ]
+        },
+        {
+          "MA": "O13",
+          "TEN": "Tăng huyết áp thai nghén (do thai nghén gây ra)",
+          "TEN_EN": "Gestational (pregnancy-induced) hypertension",
+          "DANH_SACH_BENH": []
+        },
+        {
+          "MA": "O14",
+          "TEN": "Tiền sản giật",
+          "TEN_EN": "Gestational [pregnancy-induced] hypertension with significant proteinuria",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O14.0",
+              "TEN": "Tiền sản giật thể nhẹ đến trung bình",
+              "TEN_EN": "Moderate pre-eclampsia"
+            },
+            {
+              "MA": "O14.1",
+              "TEN": "Tiền sản giật thể nặng",
+              "TEN_EN": "Severe pre-eclampsia"
+            },
+            {
+              "MA": "O14.2",
+              "TEN": "Hội chứng HELLP (Sự kết hợp của tan máu, tăng men gan và giảm tiểu cầu)",
+              "TEN_EN": "HELLP syndrome (Combination of hemolysis, elevated liver enzymes and low platelet count)"
+            },
+            {
+              "MA": "O14.9",
+              "TEN": "Tiền sản giật chưa xác định rõ",
+              "TEN_EN": "Pre-eclampsia, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O15",
+          "TEN": "Sản giật",
+          "TEN_EN": "Eclampsia",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O15.0",
+              "TEN": "Sản giật khi có thai",
+              "TEN_EN": "Eclampsia in pregnancy"
+            },
+            {
+              "MA": "O15.1",
+              "TEN": "Sản giật trong khi chuyển dạ",
+              "TEN_EN": "Eclampsia in labour"
+            },
+            {
+              "MA": "O15.2",
+              "TEN": "Sản giật trong thời kỳ sau đẻ",
+              "TEN_EN": "Eclampsia in the puerperium"
+            },
+            {
+              "MA": "O15.9",
+              "TEN": "Sản giật chưa xác định rõ thời kỳ xảy ra",
+              "TEN_EN": "Eclampsia, unspecified as to time period"
+            }
+          ]
+        },
+        {
+          "MA": "O16",
+          "TEN": "Tăng huyết áp bà mẹ chưa xác định rõ",
+          "TEN_EN": "Unspecified maternal hypertension",
+          "DANH_SACH_BENH": []
+        }]
       },
       {
         "MA": "O20-O29",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các bệnh lý khác của bà mẹ chủ yếu liên quan đến thai nghén",
-        "TEN_EN": "Other maternal disorders predominantly related to pregnancy"
+        "TEN_EN": "Other maternal disorders predominantly related to pregnancy",
+        "DANH_SACH_BENH": [{
+          "MA": "O20",
+          "TEN": "Ra máu trong thời kỳ đầu thai nghén",
+          "TEN_EN": "Haemorrhage in early pregnancy",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O20.0",
+              "TEN": "Doạ sẩy thai",
+              "TEN_EN": "Threatened abortion"
+            },
+            {
+              "MA": "O20.8",
+              "TEN": "Các ra máu khác trong thời kỳ đầu thai nghén",
+              "TEN_EN": "Other haemorrhage in early pregnancy"
+            },
+            {
+              "MA": "O20.9",
+              "TEN": "Ra máu trong thời kỳ đầu thai nghén, không đặc hiệu",
+              "TEN_EN": "Haemorrhage in early pregnancy, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O21",
+          "TEN": "Nôn quá mức trong lúc có thai",
+          "TEN_EN": "Excessive vomiting in pregnancy",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O21.0",
+              "TEN": "Nôn nghén thể trung bình",
+              "TEN_EN": "Mild hyperemesis gravidarum"
+            },
+            {
+              "MA": "O21.1",
+              "TEN": "Nôn nghén có rối loạn chuyển hóa",
+              "TEN_EN": "Hyperemesis gravidarum with metabolic disturbance"
+            },
+            {
+              "MA": "O21.2",
+              "TEN": "Nôn muộn trong khi có thai",
+              "TEN_EN": "Late vomiting of pregnancy"
+            },
+            {
+              "MA": "O21.8",
+              "TEN": "Các nôn khác gây biến chứng cho thai nghén",
+              "TEN_EN": "Other vomiting complicating pregnancy"
+            },
+            {
+              "MA": "O21.9",
+              "TEN": "Nôn trong khi có thai, chưa xác định rõ",
+              "TEN_EN": "Vomiting of pregnancy, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O22",
+          "TEN": "Biến chứng tĩnh mạch và trĩ trong khi có thai",
+          "TEN_EN": "Venous complications in pregnancy",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O22.0",
+              "TEN": "Giãn tĩnh mạch chi dưới trong khi có thai",
+              "TEN_EN": "Varicose veins of lower extremity in pregnancy"
+            },
+            {
+              "MA": "O22.1",
+              "TEN": "Giãn tĩnh mạch sinh dục trong khi có thai",
+              "TEN_EN": "Genital varices in pregnancy"
+            },
+            {
+              "MA": "O22.2",
+              "TEN": "Viêm tắc tĩnh mạch nông trong khi có thai",
+              "TEN_EN": "Superficial thrombophlebitis in pregnancy"
+            },
+            {
+              "MA": "O22.3",
+              "TEN": "Viêm tắc tĩnh mạch sâu trong khi có thai",
+              "TEN_EN": "Deep phlebothrombosis in pregnancy"
+            },
+            {
+              "MA": "O22.4",
+              "TEN": "Trĩ trong khi có thai",
+              "TEN_EN": "Haemorrhoids in pregnancy"
+            },
+            {
+              "MA": "O22.5",
+              "TEN": "Huyết khối tĩnh mạch não trong khi có thai",
+              "TEN_EN": "Cerebral venous thrombosis in pregnancy"
+            },
+            {
+              "MA": "O22.8",
+              "TEN": "Biến chứng tĩnh mạch khác trong khi có thai",
+              "TEN_EN": "Other venous complications in pregnancy"
+            },
+            {
+              "MA": "O22.9",
+              "TEN": "Biến chứng tĩnh mạch trong khi có thai",
+              "TEN_EN": "Venous complication in pregnancy, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O23",
+          "TEN": "Nhiễm khuẩn đường tiết niệu - sinh dục trong khi có thai",
+          "TEN_EN": "Infections of genitourinary tract in pregnancy",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O23.0",
+              "TEN": "Nhiễm khuẩn thận trong khi có thai",
+              "TEN_EN": "Infections of kidney in pregnancy"
+            },
+            {
+              "MA": "O23.1",
+              "TEN": "Nhiễm khuẩn bàng quang trong khi có thai",
+              "TEN_EN": "Infections of bladder in pregnancy"
+            },
+            {
+              "MA": "O23.2",
+              "TEN": "Nhiễm khuẩn niệu đạo trong khi có thai",
+              "TEN_EN": "Infections of urethra in pregnancy"
+            },
+            {
+              "MA": "O23.3",
+              "TEN": "Nhiễm khuẩn phần khác của đường tiết niệu trong khi có thai",
+              "TEN_EN": "Infections of other parts of urinary tract in pregnancy"
+            },
+            {
+              "MA": "O23.4",
+              "TEN": "Nhiễm khuẩn đường tiết niệu chưa xác định rõ trong khi có thai",
+              "TEN_EN": "Unspecified infection of urinary tract in pregnancy"
+            },
+            {
+              "MA": "O23.5",
+              "TEN": "Nhiễm khuẩn đường sinh dục trong khi có thai",
+              "TEN_EN": "Infections of the genital tract in pregnancy"
+            },
+            {
+              "MA": "O23.9",
+              "TEN": "Nhiễm khuẩn đường tiết niệu sinh dục khác và chưa xác định rõ trong lúc có thai",
+              "TEN_EN": "Other and unspecified genitourinary tract infection in pregnancy"
+            }
+          ]
+        },
+        {
+          "MA": "O24",
+          "TEN": "Đái tháo đường trong khi có thai",
+          "TEN_EN": "Diabetes mellitus in pregnancy",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O24.0",
+              "TEN": "Đái tháo đường sẵn có, lệ thuộc insulin",
+              "TEN_EN": "Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent"
+            },
+            {
+              "MA": "O24.1",
+              "TEN": "Đái tháo đường sẵn có, không lệ thuộc insulin",
+              "TEN_EN": "Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent"
+            },
+            {
+              "MA": "O24.2",
+              "TEN": "Đái tháo đường sẵn có liên quan đến thiếu dinh dưỡng",
+              "TEN_EN": "Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus"
+            },
+            {
+              "MA": "O24.3",
+              "TEN": "Đái tháo đường sẵn có, chưa xác định rõ",
+              "TEN_EN": "Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified"
+            },
+            {
+              "MA": "O24.4",
+              "TEN": "Đái tháo đường tăng lên trong khi có thai",
+              "TEN_EN": "Diabetes mellitus arising in pregnancy"
+            },
+            {
+              "MA": "O24.9",
+              "TEN": "Đái tháo đường trong khi có thai, chưa xác định rõ",
+              "TEN_EN": "Diabetes mellitus in pregnancy, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O25",
+          "TEN": "Thiếu dinh dưỡng khi có thai",
+          "TEN_EN": "Malnutrition in pregnancy",
+          "DANH_SACH_BENH": []
+        },
+        {
+          "MA": "O26",
+          "TEN": "Chăm sóc bà mẹ vì những tình trạng khác chủ yếu liên quan đến thai nghén",
+          "TEN_EN": "Maternal care for other conditions predominantly related to pregnancy",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O26.0",
+              "TEN": "Tăng cân nặng quá mức trong khi có thai",
+              "TEN_EN": "Excessive weight gain in pregnancy"
+            },
+            {
+              "MA": "O26.1",
+              "TEN": "Tăng cân ít trong khi có thai",
+              "TEN_EN": "Low weight gain in pregnancy"
+            },
+            {
+              "MA": "O26.2",
+              "TEN": "Chăm sóc thai nghén của sẩy thai liên tiếp",
+              "TEN_EN": "Pregnancy care of habitual aborter"
+            },
+            {
+              "MA": "O26.3",
+              "TEN": "Có thai khi mang dụng cụ tử cung",
+              "TEN_EN": "Retained intrauterine contraceptive device in pregnancy"
+            },
+            {
+              "MA": "O26.4",
+              "TEN": "Herpes và thai nghén",
+              "TEN_EN": "Herpes gestationis"
+            },
+            {
+              "MA": "O26.5",
+              "TEN": "Hội chứng hạ huyết áp bà mẹ",
+              "TEN_EN": "Maternal hypotension syndrome"
+            },
+            {
+              "MA": "O26.6",
+              "TEN": "Các rối loạn tại gan trong khi có thai, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Liver disorders in pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O26.7",
+              "TEN": "Giãn khớp mu trong khi có thai, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Subluxation of symphysis (pubis) in pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O26.8",
+              "TEN": "Các tình trạng xác định khác liên quan đến thai nghén",
+              "TEN_EN": "Other specified pregnancy-related conditions"
+            },
+            {
+              "MA": "O26.9",
+              "TEN": "Các tình trạng liên quan đến thai nghén chưa xác định rõ",
+              "TEN_EN": "Pregnancy-related condition, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O28",
+          "TEN": "Các dấu hiệu bất thường của bà mẹ phát hiện khi khám thai",
+          "TEN_EN": "Abnormal findings on antenatal screening of mother",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O28.0",
+              "TEN": "Dấu hiệu huyết học bất thường ở bà mẹ phát hiện khi khám thai",
+              "TEN_EN": "Abnormal haematological finding on antenatal screening of mother"
+            },
+            {
+              "MA": "O28.1",
+              "TEN": "Dấu hiệu hóa sinh bất thường ở bà mẹ phát hiện khi khám thai",
+              "TEN_EN": "Abnormal biochemical finding on antenatal screening of mother"
+            },
+            {
+              "MA": "O28.2",
+              "TEN": "Dấu hiệu tế bào học bất thường ở bà mẹ phát hiện khi khám thai",
+              "TEN_EN": "Abnormal cytological finding on antenatal screening of mother"
+            },
+            {
+              "MA": "O28.3",
+              "TEN": "Dấu hiệu siêu âm bất thường ở bà mẹ phát hiện khi khám thai",
+              "TEN_EN": "Abnormal ultrasonic finding on antenatal screening of mother"
+            },
+            {
+              "MA": "O28.4",
+              "TEN": "Dấu hiệu X quang bất thường ở bà mẹ phát hiện khi khám thai",
+              "TEN_EN": "Abnormal radiological finding on antenatal screening of mother"
+            },
+            {
+              "MA": "O28.5",
+              "TEN": "Dấu hiệu nhiễm sắc thể và di truyền bất thường ở bà mẹ phát hiện khi khám thai",
+              "TEN_EN": "Abnormal chromosomal and genetic finding on antenatal screening of mother"
+            },
+            {
+              "MA": "O28.8",
+              "TEN": "Dấu hiệu bất thường khác ở bà mẹ phát hiện khi khám thai",
+              "TEN_EN": "Other abnormal findings on antenatal screening of mother"
+            },
+            {
+              "MA": "O28.9",
+              "TEN": "Dấu hiệu bất thường ở bà mẹ phát hiện khi khám thai chưa xác định rõ",
+              "TEN_EN": "Abnormal finding on antenatal screening of mother, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O29",
+          "TEN": "Các biến chứng của gây mê trong thời gian thai nghén",
+          "TEN_EN": "Complications of anaesthesia during pregnancy",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O29.0",
+              "TEN": "Biến chứng ở phổi do gây mê khi có thai",
+              "TEN_EN": "Pulmonary complications of anaesthesia during pregnancy"
+            },
+            {
+              "MA": "O29.1",
+              "TEN": "Biến chứng tim của gây mê trong khi có thai",
+              "TEN_EN": "Cardiac complications of anaesthesia during pregnancy"
+            },
+            {
+              "MA": "O29.2",
+              "TEN": "Biến chứng hệ thống thần kinh trung ương của gây mê trong khi có thai",
+              "TEN_EN": "Central nervous system complications of anaesthesia during pregnancy"
+            },
+            {
+              "MA": "O29.3",
+              "TEN": "Phản ứng ngộ độc do gây tê tại chỗ trong khi có thai",
+              "TEN_EN": "Toxic reaction to local anaesthesia during pregnancy"
+            },
+            {
+              "MA": "O29.4",
+              "TEN": "Đau đầu do gây tê tủy sống và ngoài màng cứng trong khi có thai",
+              "TEN_EN": "Spinal and epidural anaesthesia-induced headache during pregnancy"
+            },
+            {
+              "MA": "O29.5",
+              "TEN": "Biến chứng khác của gây tê tủy sống và ngoài màng cứng trong khi có thai",
+              "TEN_EN": "Other complications of spinal and epidural anaesthesia during pregnancy"
+            },
+            {
+              "MA": "O29.6",
+              "TEN": "Không đặt được hay khó đặt nội khí quản trong khi có thai",
+              "TEN_EN": "Failed or difficult intubation during pregnancy"
+            },
+            {
+              "MA": "O29.8",
+              "TEN": "Biến chứng khác của gây mê trong khi có thai",
+              "TEN_EN": "Other complications of anaesthesia during pregnancy"
+            },
+            {
+              "MA": "O29.9",
+              "TEN": "Các biến chứng khác của gây mê trong khi có thai chưa xác định rõ",
+              "TEN_EN": "Complication of anaesthesia during pregnancy, unspecified"
+            }
+          ]
+        }]
       },
       {
         "MA": "O30-O48",
         "MA_TRONG_CHUONG": "",
         "TEN": "Chăm sóc bà mẹ liên quan đến thai, buồng ối và có thể là các vấn đề khi đẻ",
-        "TEN_EN": "Maternal care related to the fetus and amniotic cavity and possible delivery problems"
+        "TEN_EN": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+        "DANH_SACH_BENH": [{
+          "MA": "O30",
+          "TEN": "Đa thai",
+          "TEN_EN": "Multiple gestation",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O30.0",
+              "TEN": "Song thai",
+              "TEN_EN": "Twin pregnancy"
+            },
+            {
+              "MA": "O30.1",
+              "TEN": "Thai ba",
+              "TEN_EN": "Triplet pregnancy"
+            },
+            {
+              "MA": "O30.2",
+              "TEN": "Thai tư",
+              "TEN_EN": "Quadruplet pregnancy"
+            },
+            {
+              "MA": "O30.8",
+              "TEN": "Đa thai khác",
+              "TEN_EN": "Other multiple gestation"
+            },
+            {
+              "MA": "O30.9",
+              "TEN": "Đa thai chưa xác định rõ",
+              "TEN_EN": "Multiple gestation, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O31",
+          "TEN": "Biến chứng xác định của đa thai",
+          "TEN_EN": "Complications specific to multiple gestation",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O31.0",
+              "TEN": "Thai giấy",
+              "TEN_EN": "Papyraceous fetus"
+            },
+            {
+              "MA": "O31.1",
+              "TEN": "Thai nghén tiếp tục tiến triển sau khi sẩy một hay nhiều thai",
+              "TEN_EN": "Continuing pregnancy after abortion of one fetus or more"
+            },
+            {
+              "MA": "O31.2",
+              "TEN": "Thai nghén tiếp tục tiến triển sau khi một hay nhiều thai bị chết lưu",
+              "TEN_EN": "Continuing pregnancy after intrauterine death of one fetus or more"
+            },
+            {
+              "MA": "O31.8",
+              "TEN": "Biến chứng xác định khác do đa thai",
+              "TEN_EN": "Other complications specific to multiple gestation"
+            }
+          ]
+        },
+        {
+          "MA": "O32",
+          "TEN": "Chăm sóc bà mẹ vì ngôi thai bất thường hay nghi ngờ bất thường",
+          "TEN_EN": "Maternal care for known or suspected malpresentation of fetus",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O32.0",
+              "TEN": "Chăm sóc bà mẹ vì ngôi thai không ổn định",
+              "TEN_EN": "Maternal care for unstable lie"
+            },
+            {
+              "MA": "O32.1",
+              "TEN": "Chăm sóc bà mẹ vì ngôi mông",
+              "TEN_EN": "Maternal care for breech presentation"
+            },
+            {
+              "MA": "O32.2",
+              "TEN": "Chăm sóc bà mẹ vì ngôi ngang hay ngôi chếch",
+              "TEN_EN": "Maternal care for transverse and oblique lie"
+            },
+            {
+              "MA": "O32.3",
+              "TEN": "Chăm sóc bà mẹ vì ngôi mặt, ngôi trán và ngôi thóp trước",
+              "TEN_EN": "Maternal care for face, brow and chin presentation"
+            },
+            {
+              "MA": "O32.4",
+              "TEN": "Chăm sóc bà mẹ vì ngôi đầu cao lỏng khi đủ tháng",
+              "TEN_EN": "Maternal care for high head at term"
+            },
+            {
+              "MA": "O32.5",
+              "TEN": "Chăm sóc bà mẹ vì đa thai, trong đó một hay nhiều thai có ngôi bất thường",
+              "TEN_EN": "Maternal care for multiple gestation with malpresentation of one fetus or more"
+            },
+            {
+              "MA": "O32.6",
+              "TEN": "Chăm sóc bà mẹ vì ngôi thai chờm vệ",
+              "TEN_EN": "Maternal care for compound presentation"
+            },
+            {
+              "MA": "O32.8",
+              "TEN": "Chăm sóc bà mẹ vì ngôi thai bất thường khác",
+              "TEN_EN": "Maternal care for other malpresentation of fetus"
+            },
+            {
+              "MA": "O32.9",
+              "TEN": "Chăm sóc bà mẹ vì ngôi thai bất thường, chưa xác định rõ",
+              "TEN_EN": "Maternal care for malpresentation of fetus, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O33",
+          "TEN": "Chăm sóc bà mẹ vì bất tương xứng hay nghi ngờ có bất tương xứng",
+          "TEN_EN": "Maternal care for known or suspected disproportion",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O33.0",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng do biến dạng khung xương chậu",
+              "TEN_EN": "Maternal care for disproportion due to deformity of maternal pelvic bones"
+            },
+            {
+              "MA": "O33.1",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng do khung chậu hẹp toàn bộ",
+              "TEN_EN": "Maternal care for disproportion due to generally contracted pelvis"
+            },
+            {
+              "MA": "O33.2",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng do hẹp eo trên",
+              "TEN_EN": "Maternal care for disproportion due to inlet contraction of pelvis"
+            },
+            {
+              "MA": "O33.3",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng do hẹp eo dưới",
+              "TEN_EN": "Maternal care for disproportion due to outlet contraction of pelvis"
+            },
+            {
+              "MA": "O33.4",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng có nguồn gốc phối hợp cả mẹ và thai",
+              "TEN_EN": "Maternal care for disproportion of mixed maternal and fetal origin"
+            },
+            {
+              "MA": "O33.5",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng do thai to bất thường",
+              "TEN_EN": "Maternal care for disproportion due to unusually large fetus"
+            },
+            {
+              "MA": "O33.6",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng do thai bị não úng thủy",
+              "TEN_EN": "Maternal care for disproportion due to hydrocephalic fetus"
+            },
+            {
+              "MA": "O33.7",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng do các dị dạng của thai khác",
+              "TEN_EN": "Maternal care for disproportion due to other fetal deformities"
+            },
+            {
+              "MA": "O33.8",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng do các nguyên nhân khác",
+              "TEN_EN": "Maternal care for disproportion of other origin"
+            },
+            {
+              "MA": "O33.9",
+              "TEN": "Chăm sóc bà mẹ vì bất tương xứng, chưa xác định rõ",
+              "TEN_EN": "Maternal care for disproportion, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O34",
+          "TEN": "Chăm sóc bà mẹ vì tử cung bị dị dạng bẩm sinh",
+          "TEN_EN": "Maternal care for known or suspected abnormality of pelvic organs",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O34.0",
+              "TEN": "Chăm sóc bà mẹ vì tử cung bị dị dạng bẩm sinh",
+              "TEN_EN": "Maternal care for congenital malformation of uterus"
+            },
+            {
+              "MA": "O34.1",
+              "TEN": "Chăm sóc bà mẹ vì khối u của thân tử cung",
+              "TEN_EN": "Maternal care for tumour of corpus uteri"
+            },
+            {
+              "MA": "O34.2",
+              "TEN": "Chăm sóc bà mẹ vì tử cung có sẹo mổ trước đó",
+              "TEN_EN": "Maternal care due to uterine scar from previous surgery"
+            },
+            {
+              "MA": "O34.3",
+              "TEN": "Chăm sóc bà mẹ bị hở eo tử cung",
+              "TEN_EN": "Maternal care for cervical incompetence"
+            },
+            {
+              "MA": "O34.4",
+              "TEN": "Chăm sóc bà mẹ có các bất thường khác ở cổ tử cung",
+              "TEN_EN": "Maternal care for other abnormalities of cervix"
+            },
+            {
+              "MA": "O34.5",
+              "TEN": "Chăm sóc bà mẹ vì các bất thường khác của tử cung có thai",
+              "TEN_EN": "Maternal care for other abnormalities of gravid uterus"
+            },
+            {
+              "MA": "O34.6",
+              "TEN": "Chăm sóc bà mẹ vì bất thường của âm đạo",
+              "TEN_EN": "Maternal care for abnormality of vagina"
+            },
+            {
+              "MA": "O34.7",
+              "TEN": "Chăm sóc bà mẹ vì bất thường của âm hộ và tầng sinh môn",
+              "TEN_EN": "Maternal care for abnormality of vulva and perineum"
+            },
+            {
+              "MA": "O34.8",
+              "TEN": "Chăm sóc bà mẹ vì các bất thường khác của các tạng trong tiểu khung",
+              "TEN_EN": "Maternal care for other abnormalities of pelvic organs"
+            },
+            {
+              "MA": "O34.9",
+              "TEN": "Chăm sóc bà mẹ vì các bất thường của các tạng trong tiểu khung, chưa xác định rõ",
+              "TEN_EN": "Maternal care for abnormality of pelvic organ, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O35",
+          "TEN": "Chăm sóc bà mẹ chỉ các bất thường, thương tổn của thai hay nghi ngờ",
+          "TEN_EN": "Maternal care for known or suspected fetal abnormality and damage",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O35.0",
+              "TEN": "Chăm sóc bà mẹ vì dị dạng (hay nghi ngờ dị dạng) hệ thống thần kinh trung ương của thai",
+              "TEN_EN": "Maternal care for (suspected) central nervous system malformation in fetus"
+            },
+            {
+              "MA": "O35.1",
+              "TEN": "Chăm sóc bà mẹ vì bất thường (hay nghi ngờ bất thường) nhiễm sắc thể của thai",
+              "TEN_EN": "Maternal care for (suspected) chromosomal abnormality in fetus"
+            },
+            {
+              "MA": "O35.2",
+              "TEN": "Chăm sóc bà mẹ vì bệnh di truyền của thai (hay nghi ngờ bệnh do di truyền)",
+              "TEN_EN": "Maternal care for (suspected) hereditary disease in fetus"
+            },
+            {
+              "MA": "O35.3",
+              "TEN": "Chăm sóc bà mẹ vì tổn thương thai do bệnh virus của mẹ hay nghi ngờ",
+              "TEN_EN": "Maternal care for (suspected) damage to fetus from viral disease in mother"
+            },
+            {
+              "MA": "O35.4",
+              "TEN": "Chăm sóc bà mẹ vì tổn thương thai hay nghi ngờ tổn thương thai do rượu",
+              "TEN_EN": "Maternal care for (suspected) damage to fetus from alcohol"
+            },
+            {
+              "MA": "O35.5",
+              "TEN": "Chăm sóc bà mẹ vì tổn thương thai hay nghi ngờ tổn thương thai do thuốc",
+              "TEN_EN": "Maternal care for (suspected) damage to fetus by drugs"
+            },
+            {
+              "MA": "O35.6",
+              "TEN": "Chăm sóc bà mẹ vì tổn thương thai hay nghi ngờ tổn thương thai do tia xạ",
+              "TEN_EN": "Maternal care for (suspected) damage to fetus by radiation"
+            },
+            {
+              "MA": "O35.7",
+              "TEN": "Chăm sóc bà mẹ vì tổn thương thai hay nghi ngờ tổn thương thai do các thủ thuật y học khác",
+              "TEN_EN": "Maternal care for (suspected) damage to fetus by other medical procedures"
+            },
+            {
+              "MA": "O35.8",
+              "TEN": "Chăm sóc bà mẹ vì bất thường, tổn thương thai hay nghi ngờ khác",
+              "TEN_EN": "Maternal care for other (suspected) fetal abnormality and damage"
+            },
+            {
+              "MA": "O35.9",
+              "TEN": "Chăm sóc bà mẹ vì bất thường, tổn thương thai hay nghi ngờ tổn thương thai khác, chưa xác định rõ",
+              "TEN_EN": "Maternal care for (suspected) fetal abnormality and damage, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O36",
+          "TEN": "Chăm sóc bà mẹ vì có hay nghi ngờ có vấn đề của thai",
+          "TEN_EN": "Maternal care for other known or suspected fetal problems",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O36.0",
+              "TEN": "Chăm sóc bà mẹ vì miễn dịch đồng loại Rh",
+              "TEN_EN": "Maternal care for rhesus isoimmunization"
+            },
+            {
+              "MA": "O36.1",
+              "TEN": "Chăm sóc bà mẹ vì miễn dịch đồng loại khác",
+              "TEN_EN": "Maternal care for other isoimmunization"
+            },
+            {
+              "MA": "O36.2",
+              "TEN": "Chăm sóc bà mẹ vì phù thai",
+              "TEN_EN": "Maternal care for hydrops fetalis"
+            },
+            {
+              "MA": "O36.3",
+              "TEN": "Chăm sóc bà mẹ vì dấu hiệu thiếu oxy thai",
+              "TEN_EN": "Maternal care for signs of fetal hypoxia"
+            },
+            {
+              "MA": "O36.4",
+              "TEN": "Chăm sóc bà mẹ vì thai chết lưu trong tử cung",
+              "TEN_EN": "Maternal care for intrauterine death"
+            },
+            {
+              "MA": "O36.5",
+              "TEN": "Chăm sóc bà mẹ vì thai kém phát triển",
+              "TEN_EN": "Maternal care for poor fetal growth"
+            },
+            {
+              "MA": "O36.6",
+              "TEN": "Chăm sóc bà mẹ vì thai phát triển quá mức",
+              "TEN_EN": "Maternal care for excessive fetal growth"
+            },
+            {
+              "MA": "O36.7",
+              "TEN": "Chăm sóc bà mẹ vì thai có thể sống được trong chửa trong ổ bụng",
+              "TEN_EN": "Maternal care for viable fetus in abdominal pregnancy"
+            },
+            {
+              "MA": "O36.8",
+              "TEN": "Chăm sóc bà mẹ vì các vấn đề xác định khác của thai",
+              "TEN_EN": "Maternal care for other specified fetal problems"
+            },
+            {
+              "MA": "O36.9",
+              "TEN": "Chăm sóc bà mẹ vì các vấn đề của thai chưa xác định rõ",
+              "TEN_EN": "Maternal care for fetal problem, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O40",
+          "TEN": "Đa ối",
+          "TEN_EN": "Polihydramnios",
+          "DANH_SACH_BENH": []
+        },
+        {
+          "MA": "O41",
+          "TEN": "Các rối loạn khác của nước ối và màng ối",
+          "TEN_EN": "Other disorders of amniotic fluid and membranes",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O41.0",
+              "TEN": "Thiểu ối",
+              "TEN_EN": "Oligohydramnios"
+            },
+            {
+              "MA": "O41.1",
+              "TEN": "Nhiễm khuẩn ối và màng ối",
+              "TEN_EN": "Infection of amniotic sac and membranes"
+            },
+            {
+              "MA": "O41.8",
+              "TEN": "Các rối loạn xác định khác của nước ối và màng ối",
+              "TEN_EN": "Other specified disorders of amniotic fluid and membranes"
+            },
+            {
+              "MA": "O41.9",
+              "TEN": "Rối loạn của màng ối và nước ối chưa xác định rõ",
+              "TEN_EN": "Disorder of amniotic fluid and membranes, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O42",
+          "TEN": "Vỡ ối sớm",
+          "TEN_EN": "Premature rupture of membranes",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O42.0",
+              "TEN": "Vỡ ối sớm, xuất hiện chuyển dạ trong vòng 24 giờ",
+              "TEN_EN": "Premature rupture of membranes, onset of labour within 24 hours"
+            },
+            {
+              "MA": "O42.1",
+              "TEN": "Vỡ ối sớm, xuất hiện chuyển dạ sau 24 giờ",
+              "TEN_EN": "Premature rupture of membranes, onset of labour after 24 hours"
+            },
+            {
+              "MA": "O42.2",
+              "TEN": "Vỡ ối sớm, có điều trị để làm chậm chuyển dạ",
+              "TEN_EN": "Premature rupture of membranes, labour delayed by therapy"
+            },
+            {
+              "MA": "O42.9",
+              "TEN": "Vỡ ối sớm, chưa xác định rõ",
+              "TEN_EN": "Premature rupture of membranes, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O43",
+          "TEN": "Bệnh lý bánh rau",
+          "TEN_EN": "Placental disorders",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O43.0",
+              "TEN": "Hội chứng truyền máu qua bánh rau",
+              "TEN_EN": "Placental transfusion syndromes"
+            },
+            {
+              "MA": "O43.1",
+              "TEN": "Dị dạng bánh rau",
+              "TEN_EN": "Malformation of placenta"
+            },
+            {
+              "MA": "O43.2",
+              "TEN": "Rau cài răng lược",
+              "TEN_EN": "Morbidly adherent placenta"
+            },
+            {
+              "MA": "O43.8",
+              "TEN": "Bệnh lý khác của bánh rau",
+              "TEN_EN": "Other placental disorders"
+            },
+            {
+              "MA": "O43.9",
+              "TEN": "Bệnh lý bánh rau chưa xác định rõ",
+              "TEN_EN": "Placental disorder, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O44",
+          "TEN": "Rau tiền đạo",
+          "TEN_EN": "Placenta praevia",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O44.0",
+              "TEN": "Rau tiền đạo không có chảy máu",
+              "TEN_EN": "Placenta praevia specified as without haemorrhage"
+            },
+            {
+              "MA": "O44.1",
+              "TEN": "Rau tiền đạo có chảy máu",
+              "TEN_EN": "Placenta praevia with haemorrhage"
+            }
+          ]
+        },
+        {
+          "MA": "O45",
+          "TEN": "Rau bong non",
+          "TEN_EN": "Premature separation of placenta [abruptio placentae]",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O45.0",
+              "TEN": "Rau bong non có thiếu hụt yếu tố đông máu",
+              "TEN_EN": "Premature separation of placenta with coagulation defect"
+            },
+            {
+              "MA": "O45.8",
+              "TEN": "Rau bong non khác",
+              "TEN_EN": "Other premature separation of placenta"
+            },
+            {
+              "MA": "O45.9",
+              "TEN": "Rau bong non khác, chưa rõ",
+              "TEN_EN": "Premature separation of placenta, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O46",
+          "TEN": "Chảy máu trước đẻ, chưa được phân loại",
+          "TEN_EN": "Antepartum haemorrhage, not elsewhere classified",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O46.0",
+              "TEN": "Chảy máu trước đẻ do thiếu hụt yếu tố đông máu",
+              "TEN_EN": "Antepartum haemorrhage with coagulation defect"
+            },
+            {
+              "MA": "O46.8",
+              "TEN": "Chảy máu khác trước đẻ",
+              "TEN_EN": "Other antepartum haemorrhage"
+            },
+            {
+              "MA": "O46.9",
+              "TEN": "Chảy máu trước đẻ, chưa xác định rõ",
+              "TEN_EN": "Antepartum haemorrhage, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O47",
+          "TEN": "Chuyển dạ giả",
+          "TEN_EN": "False labour",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O47.0",
+              "TEN": "Chuyển dạ giả trước tuần thứ 37",
+              "TEN_EN": "False labour before 37 completed weeks of gestation"
+            },
+            {
+              "MA": "O47.1",
+              "TEN": "Chuyển dạ giả trong hay sau tuần thứ 37",
+              "TEN_EN": "False labour at or after 37 completed weeks of gestation"
+            },
+            {
+              "MA": "O47.9",
+              "TEN": "Chuyển dạ giả, chưa xác định rõ",
+              "TEN_EN": "False labour, unspecified"
+            },
+            {
+              "MA": "O48",
+              "TEN": "Thai quá ngày sinh",
+              "TEN_EN": "Prolonged pregnancy"
+            }
+          ]
+        }]
       },
       {
         "MA": "O60-O75",
         "MA_TRONG_CHUONG": "",
         "TEN": "Biến chứng của chuyển dạ và đẻ",
-        "TEN_EN": "Complications of labour and delivery"
+        "TEN_EN": "Complications of labour and delivery",
+        "DANH_SACH_BENH": [{
+          "MA": "O60",
+          "TEN": "Chuyển dạ sớm và đẻ",
+          "TEN_EN": "Preterm labour",
+          "DANH_SACH_BENH": []
+        },
+        {
+          "MA": "O60.0",
+          "TEN": "Chuyển dạ sớm không đẻ",
+          "TEN_EN": "Preterm labour without delivery",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O60.1",
+              "TEN": "Chuyển dạ sớm và đẻ sớm",
+              "TEN_EN": "Preterm labour with preterm delivery"
+            },
+            {
+              "MA": "O60.2",
+              "TEN": "Chuyển dạ sớm và đẻ đúng kỳ",
+              "TEN_EN": "Preterm labour with term delivery"
+            },
+            {
+              "MA": "O60.3",
+              "TEN": "Đẻ sớm không có chuyển dạ tự nhiên",
+              "TEN_EN": "Preterm delivery without spontaneous labour"
+            }
+          ]
+        },
+        {
+          "MA": "O61",
+          "TEN": "Khởi phát chuyển dạ thất bại",
+          "TEN_EN": "Failed induction of labour",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O61.0",
+              "TEN": "Gây chuyển dạ bằng thuốc thất bại",
+              "TEN_EN": "Failed medical induction of labour"
+            },
+            {
+              "MA": "O61.1",
+              "TEN": "Gây chuyển dạ bằng dụng cụ thất bại",
+              "TEN_EN": "Failed instrumental induction of labour"
+            },
+            {
+              "MA": "O61.8",
+              "TEN": "Gây chuyển dạ bị thất bại khác",
+              "TEN_EN": "Other failed induction of labour"
+            },
+            {
+              "MA": "O61.9",
+              "TEN": "Gây chuyển dạ bị thất bại, chưa xác định rõ",
+              "TEN_EN": "Failed induction of labour, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O62",
+          "TEN": "Bất thường về động lực chuyển dạ",
+          "TEN_EN": "Abnormalities of forces of labour",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O62.0",
+              "TEN": "Cơn co tử cung yếu nguyên phát",
+              "TEN_EN": "Primary inadequate contractions"
+            },
+            {
+              "MA": "O62.1",
+              "TEN": "Cơn co tử cung yếu thứ phát",
+              "TEN_EN": "Secondary uterine inertia"
+            },
+            {
+              "MA": "O62.2",
+              "TEN": "Thưa yếu khác của cơn co tử cung",
+              "TEN_EN": "Other uterine inertia"
+            },
+            {
+              "MA": "O62.3",
+              "TEN": "Chuyển dạ nhanh",
+              "TEN_EN": "Precipitate labour"
+            },
+            {
+              "MA": "O62.4",
+              "TEN": "Cơn co tử cung tăng trương lực, không đồng bộ và kéo dài",
+              "TEN_EN": "Hypertonic, incoordinate, and prolonged uterine contractions"
+            },
+            {
+              "MA": "O62.8",
+              "TEN": "Bất thường khác của động lực chuyển dạ",
+              "TEN_EN": "Other abnormalities of forces of labour"
+            },
+            {
+              "MA": "O62.9",
+              "TEN": "Bất thường chưa xác định rõ của động lực chuyển dạ",
+              "TEN_EN": "Abnormality of forces of labour, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O63",
+          "TEN": "Chuyển dạ kéo dài",
+          "TEN_EN": "Long labour",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O63.0",
+              "TEN": "Giai đoạn đầu của chuyển dạ kéo dài",
+              "TEN_EN": "Prolonged first stage (of labour)"
+            },
+            {
+              "MA": "O63.1",
+              "TEN": "Giai đoạn thứ hai của chuyển dạ kéo dài",
+              "TEN_EN": "Prolonged second stage (of labour)"
+            },
+            {
+              "MA": "O63.2",
+              "TEN": "Chậm đẻ thai thứ hai, thứ ba …",
+              "TEN_EN": "Delayed delivery of second twin, triplet, etc."
+            },
+            {
+              "MA": "O63.9",
+              "TEN": "Chuyển dạ kéo dài, chưa xác định rõ",
+              "TEN_EN": "Long labour, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O64",
+          "TEN": "Chuyển dạ đình trệ do ngôi và thế của thai bất thường",
+          "TEN_EN": "Obstructed labour due to malposition and malpresentation of fetus",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O64.0",
+              "TEN": "Chuyển dạ đình trệ do đầu thai quay không hoàn toàn",
+              "TEN_EN": "Obstructed labour due to incomplete rotation of fetal head"
+            },
+            {
+              "MA": "O64.1",
+              "TEN": "Chuyển dạ đình trệ do ngôi mông",
+              "TEN_EN": "Obstructed labour due to breech presentation"
+            },
+            {
+              "MA": "O64.2",
+              "TEN": "Chuyển dạ đình trệ do ngôi mặt",
+              "TEN_EN": "Obstructed labour due to face presentation"
+            },
+            {
+              "MA": "O64.3",
+              "TEN": "Chuyển dạ đình trệ do ngôi trán",
+              "TEN_EN": "Obstructed labour due to brow presentation"
+            },
+            {
+              "MA": "O64.4",
+              "TEN": "Chuyển dạ đình trệ do ngôi vai",
+              "TEN_EN": "Obstructed labour due to shoulder presentation"
+            },
+            {
+              "MA": "O64.5",
+              "TEN": "Chuyển dạ đình trệ do ngôi thai chờm vệ",
+              "TEN_EN": "Obstructed labour due to compound presentation"
+            },
+            {
+              "MA": "O64.8",
+              "TEN": "Chuyển dạ đình trệ do ngôi và thế bất thường khác",
+              "TEN_EN": "Obstructed labour due to other malposition and malpresentation"
+            },
+            {
+              "MA": "O64.9",
+              "TEN": "Chuyển dạ đình trệ do ngôi và thế bất thường, chưa xác định rõ",
+              "TEN_EN": "Obstructed labour due to malposition and malpresentation, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O65",
+          "TEN": "Chuyển dạ đình trệ do khung chậu bất thường",
+          "TEN_EN": "Obstructed labour due to maternal pelvic abnormality",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O65.0",
+              "TEN": "Chuyển dạ đình trệ do khung chậu biến dạng",
+              "TEN_EN": "Obstructed labour due to deformed pelvis"
+            },
+            {
+              "MA": "O65.1",
+              "TEN": "Chuyển dạ đình trệ do khung chậu hẹp toàn diện",
+              "TEN_EN": "Obstructed labour due to generally contracted pelvis"
+            },
+            {
+              "MA": "O65.2",
+              "TEN": "Chuyển dạ đình trệ do hẹp eo trên",
+              "TEN_EN": "Obstructed labour due to pelvic inlet contraction"
+            },
+            {
+              "MA": "O65.3",
+              "TEN": "Chuyển dạ đình trệ do hẹp eo dưới và eo giữa",
+              "TEN_EN": "Obstructed labour due to pelvic outlet and mid-cavity contraction"
+            },
+            {
+              "MA": "O65.4",
+              "TEN": "Chuyển dạ đình trệ do bất tương xứng thai - khung chậu, chưa xác định rõ",
+              "TEN_EN": "Obstructed labour due to fetopelvic disproportion, unspecified"
+            },
+            {
+              "MA": "O65.5",
+              "TEN": "Chuyển dạ đình trệ do bất thường các tạng trong tiểu khung của mẹ",
+              "TEN_EN": "Obstructed labour due to abnormality of maternal pelvic organs"
+            },
+            {
+              "MA": "O65.8",
+              "TEN": "Chuyển dạ đình trệ do bất thường khác của khung chậu mẹ",
+              "TEN_EN": "Obstructed labour due to other maternal pelvic abnormalities"
+            },
+            {
+              "MA": "O65.9",
+              "TEN": "Chuyển dạ đình trệ do bất thường khung chậu mẹ chưa xác định rõ",
+              "TEN_EN": "Obstructed labour due to maternal pelvic abnormality, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O66",
+          "TEN": "Chuyển dạ đình trệ khác",
+          "TEN_EN": "Other obstructed labour",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O66.0",
+              "TEN": "Chuyển dạ đình trệ do đẻ khó do vai",
+              "TEN_EN": "Obstructed labour due to shoulder dystocia"
+            },
+            {
+              "MA": "O66.1",
+              "TEN": "Chuyển dạ đình trệ do sinh đôi cản trở nhau",
+              "TEN_EN": "Obstructed labour due to locked twins"
+            },
+            {
+              "MA": "O66.2",
+              "TEN": "Chuyển dạ đình trệ do thai to bất thường",
+              "TEN_EN": "Obstructed labour due to unusually large fetus"
+            },
+            {
+              "MA": "O66.3",
+              "TEN": "Chuyển dạ đình trệ do bất thường khác của thai",
+              "TEN_EN": "Obstructed labour due to other abnormalities of fetus"
+            },
+            {
+              "MA": "O66.4",
+              "TEN": "Nghiệm pháp chuyển dạ thất bại, chưa xác định rõ",
+              "TEN_EN": "Failed trial of labour, unspecified"
+            },
+            {
+              "MA": "O66.5",
+              "TEN": "Đặt forcep hay giác hút thất bại, chưa xác định rõ",
+              "TEN_EN": "Failed application of vacuum extractor and forceps, unspecified"
+            },
+            {
+              "MA": "O66.8",
+              "TEN": "Chuyển dạ đình trệ chỉ rõ khác",
+              "TEN_EN": "Other specified obstructed labour"
+            },
+            {
+              "MA": "O66.9",
+              "TEN": "Chuyển dạ đình trệ, chưa xác định rõ",
+              "TEN_EN": "Obstructed labour, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O67",
+          "TEN": "Chuyển dạ và đẻ có biến chứng chảy máu trong đẻ chưa được xếp loại ở phần khác",
+          "TEN_EN": "Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O67.0",
+              "TEN": "Chảy máu trong đẻ do thiếu hụt yếu tố đông máu",
+              "TEN_EN": "Intrapartum haemorrhage with coagulation defect"
+            },
+            {
+              "MA": "O67.8",
+              "TEN": "Chảy máu trong đẻ khác",
+              "TEN_EN": "Other intrapartum haemorrhage"
+            },
+            {
+              "MA": "O67.9",
+              "TEN": "Chảy máu trong đẻ, chưa xác định rõ",
+              "TEN_EN": "Intrapartum haemorrhage, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O68",
+          "TEN": "Chuyển dạ và đẻ có biến chứng suy thai",
+          "TEN_EN": "Labour and delivery complicated by fetal stress [distress]",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O68.0",
+              "TEN": "Chuyển dạ và đẻ có nhịp tim thai bất thường",
+              "TEN_EN": "Labour and delivery complicated by fetal heart rate anomaly"
+            },
+            {
+              "MA": "O68.1",
+              "TEN": "Chuyển dạ và đẻ có nước ối lẫn phân su",
+              "TEN_EN": "Labour and delivery complicated by meconium in amniotic fluid"
+            },
+            {
+              "MA": "O68.2",
+              "TEN": "Chuyển dạ và đẻ có nhịp tim thai bất thường và nước ối lẫn phân su",
+              "TEN_EN": "Labour and delivery complicated by fetal heart rate anomaly with meconium in amniotic fluid"
+            },
+            {
+              "MA": "O68.3",
+              "TEN": "Chuyển dạ và đẻ có các dấu hiệu sinh hóa của suy thai",
+              "TEN_EN": "Labour and delivery complicated by biochemical evidence of fetal stress"
+            },
+            {
+              "MA": "O68.8",
+              "TEN": "Chuyển dạ và đẻ có các dấu hiệu khác của suy thai",
+              "TEN_EN": "Labour and delivery complicated by other evidence of fetal stress"
+            },
+            {
+              "MA": "O68.9",
+              "TEN": "Chuyển dạ và đẻ có suy thai, chưa xác định rõ",
+              "TEN_EN": "Labour and delivery complicated by fetal stress, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O69",
+          "TEN": "Chuyển dạ và đẻ có biến chứng dây rốn",
+          "TEN_EN": "Labour and delivery complicated by umbilical cord complications",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O69.0",
+              "TEN": "Chuyển dạ và đẻ có biến chứng sa dây rốn",
+              "TEN_EN": "Labour and delivery complicated by prolapse of cord"
+            },
+            {
+              "MA": "O69.1",
+              "TEN": "Chuyển dạ và đẻ có biến chứng dây rốn quấn quanh cổ bị chèn ép",
+              "TEN_EN": "Labour and delivery complicated by cord around neck, with compression"
+            },
+            {
+              "MA": "O69.2",
+              "TEN": "Chuyển dạ và đẻ có vướng mắc khác của dây rốn với chèn ép",
+              "TEN_EN": "Labour and delivery complicated by other cord entanglement"
+            },
+            {
+              "MA": "O69.3",
+              "TEN": "Chuyển dạ và đẻ có dây rốn ngắn",
+              "TEN_EN": "Labour and delivery complicated by short cord"
+            },
+            {
+              "MA": "O69.4",
+              "TEN": "Chuyển dạ và đẻ có biến chứng do mạch máu tiền đạo",
+              "TEN_EN": "Labour and delivery complicated by vasa praevia"
+            },
+            {
+              "MA": "O69.5",
+              "TEN": "Chuyển dạ và đẻ có biến chứng tổn thương mạch",
+              "TEN_EN": "Labour and delivery complicated by vascular lesion of cord"
+            },
+            {
+              "MA": "O69.8",
+              "TEN": "Chuyển dạ và đẻ có biến chứng khác của dây rốn",
+              "TEN_EN": "Labour and delivery complicated by other cord complications"
+            },
+            {
+              "MA": "O69.9",
+              "TEN": "Chuyển dạ và đẻ có biến chứng khác của dây rốn, chưa xác định rõ",
+              "TEN_EN": "Labour and delivery complicated by cord complication, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O70",
+          "TEN": "Rách tầng sinh môn trong đẻ",
+          "TEN_EN": "Perineal laceration during delivery",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O70.0",
+              "TEN": "Rách tầng sinh môn độ I trong đẻ",
+              "TEN_EN": "First degree perineal laceration during delivery"
+            },
+            {
+              "MA": "O70.1",
+              "TEN": "Rách tầng sinh môn độ II trong đẻ",
+              "TEN_EN": "Second degree perineal laceration during delivery"
+            },
+            {
+              "MA": "O70.2",
+              "TEN": "Rách tầng sinh môn độ III trong đẻ",
+              "TEN_EN": "Third degree perineal laceration during delivery"
+            },
+            {
+              "MA": "O70.3",
+              "TEN": "Rách tầng sinh môn độ IV trong đẻ",
+              "TEN_EN": "Fourth degree perineal laceration during delivery"
+            },
+            {
+              "MA": "O70.9",
+              "TEN": "Rách tầng sinh môn chưa xác định rõ",
+              "TEN_EN": "Perineal laceration during delivery, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O71",
+          "TEN": "Chấn thương sản khoa khác",
+          "TEN_EN": "Other obstetric trauma",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O71.0",
+              "TEN": "Vỡ tử cung trước chuyển dạ",
+              "TEN_EN": "Rupture of uterus before onset of labour"
+            },
+            {
+              "MA": "O71.1",
+              "TEN": "Vỡ tử cung trong chuyển dạ",
+              "TEN_EN": "Rupture of uterus during labour"
+            },
+            {
+              "MA": "O71.2",
+              "TEN": "Lộn tử cung sau đẻ",
+              "TEN_EN": "Postpartum inversion of uterus"
+            },
+            {
+              "MA": "O71.3",
+              "TEN": "Rách cổ tử cung sản khoa",
+              "TEN_EN": "Obstetric laceration of cervix"
+            },
+            {
+              "MA": "O71.4",
+              "TEN": "Rách âm đạo cao đơn thuần do sản khoa",
+              "TEN_EN": "Obstetric high vaginal laceration alone"
+            },
+            {
+              "MA": "O71.5",
+              "TEN": "Thương tổn các tạng tiểu khung khác do sản khoa",
+              "TEN_EN": "Other obstetric injury to pelvic organs"
+            },
+            {
+              "MA": "O71.6",
+              "TEN": "Tổn thương khớp vùng chậu và dây chằng do sản khoa",
+              "TEN_EN": "Obstetric damage to pelvic joints and ligaments"
+            },
+            {
+              "MA": "O71.7",
+              "TEN": "Máu tụ tiểu khung do sản khoa",
+              "TEN_EN": "Obstetric haematoma of pelvis"
+            },
+            {
+              "MA": "O71.8",
+              "TEN": "Chấn thương sản khoa chỉ rõ khác",
+              "TEN_EN": "Other specified obstetric trauma"
+            },
+            {
+              "MA": "O71.9",
+              "TEN": "Chấn thương sản khoa, chưa xác định rõ",
+              "TEN_EN": "Obstetric trauma, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O72",
+          "TEN": "Chảy máu sau đẻ",
+          "TEN_EN": "Postpartum haemorrhage",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O72.0",
+              "TEN": "Chảy máu thời kỳ sổ rau",
+              "TEN_EN": "Third-stage haemorrhage"
+            },
+            {
+              "MA": "O72.1",
+              "TEN": "Chảy máu ngay sau lúc đẻ khác",
+              "TEN_EN": "Other immediate postpartum haemorrhage"
+            },
+            {
+              "MA": "O72.2",
+              "TEN": "Chảy máu muộn và thứ phát sau đẻ",
+              "TEN_EN": "Delayed and secondary postpartum haemorrhage"
+            },
+            {
+              "MA": "O72.3",
+              "TEN": "Thiếu hụt đông máu sau đẻ",
+              "TEN_EN": "Postpartum coagulation defects"
+            }
+          ]
+        },
+        {
+          "MA": "O73",
+          "TEN": "Sót rau và màng rau không có chảy máu",
+          "TEN_EN": "Retained placenta and membranes, without haemorrhage",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O73.0",
+              "TEN": "Sót rau không có chảy máu",
+              "TEN_EN": "Retained placenta without haemorrhage"
+            },
+            {
+              "MA": "O73.1",
+              "TEN": "Sót phần bánh rau và màng rau, không có chảy máu",
+              "TEN_EN": "Retained portions of placenta and membranes, without haemorrhage"
+            }
+          ]
+        },
+        {
+          "MA": "O74",
+          "TEN": "Biến chứng của gây mê trong chuyển dạ và trong đẻ",
+          "TEN_EN": "Complications of anaesthesia during labour and delivery",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O74.0",
+              "TEN": "Viêm phổi do hít vì gây mê trong chuyển dạ và trong đẻ",
+              "TEN_EN": "Aspiration pneumonitis due to anaesthesia during labour and delivery"
+            },
+            {
+              "MA": "O74.1",
+              "TEN": "Biến chứng khác của phổi do gây mê trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Other pulmonary complications of anaesthesia during labour and delivery"
+            },
+            {
+              "MA": "O74.2",
+              "TEN": "Biến chứng tim của gây mê trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Cardiac complications of anaesthesia during labour and delivery"
+            },
+            {
+              "MA": "O74.3",
+              "TEN": "Biến chứng hệ thống thần kinh trung ương của gây mê trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Central nervous system complications of anaesthesia during labour and delivery"
+            },
+            {
+              "MA": "O74.4",
+              "TEN": "Phản ứng độc của gây tê tại chỗ trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Toxic reaction to local anaesthesia during labour and delivery"
+            },
+            {
+              "MA": "O74.5",
+              "TEN": "Đau đầu do gây tê tủy sống và ngoài màng cứng trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Spinal and epidural anaesthesia-induced headache during labour and delivery"
+            },
+            {
+              "MA": "O74.6",
+              "TEN": "Biến chứng khác của gây tê tủy sống và gây tê ngoài màng cứng trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Other complications of spinal and epidural anaesthesia during labour and delivery"
+            },
+            {
+              "MA": "O74.7",
+              "TEN": "Không đặt được hay khó đặt nội khí quản trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Failed or difficult intubation during labour and delivery"
+            },
+            {
+              "MA": "O74.8",
+              "TEN": "Biến chứng khác của gây mê trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Other complications of anaesthesia during labour and delivery"
+            },
+            {
+              "MA": "O74.9",
+              "TEN": "Biến chứng của gây mê trong chuyển dạ, trong đẻ, chưa xác định rõ",
+              "TEN_EN": "Complication of anaesthesia during labour and delivery, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O75",
+          "TEN": "Biến chứng khác của chuyển dạ không xếp loại ở chỗ khác",
+          "TEN_EN": "Other complications of labour and delivery, not elsewhere classified",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O75.0",
+              "TEN": "Tình trạng nguy cấp của mẹ trong chuyển dạ, trong đẻ",
+              "TEN_EN": "Maternal distress during labour and delivery"
+            },
+            {
+              "MA": "O75.1",
+              "TEN": "choáng trong hay sau chuyển dạ và đẻ",
+              "TEN_EN": "Shock during or following labour and delivery"
+            },
+            {
+              "MA": "O75.2",
+              "TEN": "Sốt trong chuyển dạ, không phân loại nơi khác",
+              "TEN_EN": "Pyrexia during labour, not elsewhere classified"
+            },
+            {
+              "MA": "O75.3",
+              "TEN": "Nhiễm khuẩn khác trong chuyển dạ",
+              "TEN_EN": "Other infection during labour"
+            },
+            {
+              "MA": "O75.4",
+              "TEN": "Biến chứng khác của phẩu thuật và thủ thuật sản khoa",
+              "TEN_EN": "Other complications of obstetric surgery and procedures"
+            },
+            {
+              "MA": "O75.5",
+              "TEN": "Đẻ muộn sau khi bấm ối",
+              "TEN_EN": "Delayed delivery after artificial rupture of membranes"
+            },
+            {
+              "MA": "O75.6",
+              "TEN": "Đẻ muộn sau khi vỡ ối tự nhiên hay chưa xác định rõ",
+              "TEN_EN": "Delayed delivery after spontaneous or unspecified rupture of membranes"
+            },
+            {
+              "MA": "O75.7",
+              "TEN": "Đẻ đường dưới sau mổ lấy thai cũ",
+              "TEN_EN": "Vaginal delivery following previous caesarean section"
+            },
+            {
+              "MA": "O75.8",
+              "TEN": "Biến chứng chỉ rõ khác của chuyển dạ và đẻ",
+              "TEN_EN": "Other specified complications of labour and delivery"
+            },
+            {
+              "MA": "O75.9",
+              "TEN": "Biến chứng của chuyển dạ và đẻ chưa xác định rõ",
+              "TEN_EN": "Complication of labour and delivery, unspecified"
+            }
+          ]
+        }]
       },
       {
         "MA": "O80-O84",
         "MA_TRONG_CHUONG": "",
         "TEN": "Cuộc đẻ",
-        "TEN_EN": "Delivery"
+        "TEN_EN": "Delivery",
+        "DANH_SACH_BENH": [{
+          "MA": "O80",
+          "TEN": "Đẻ thường một thai",
+          "TEN_EN": "Single spontaneous delivery",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O80.0",
+              "TEN": "Đẻ thường ngôi đầu",
+              "TEN_EN": "Spontaneous vertex delivery"
+            },
+            {
+              "MA": "O80.1",
+              "TEN": "Đẻ thường ngôi mông",
+              "TEN_EN": "Spontaneous breech delivery"
+            },
+            {
+              "MA": "O80.8",
+              "TEN": "Đẻ thường một thai khác",
+              "TEN_EN": "Other single spontaneous delivery"
+            },
+            {
+              "MA": "O80.9",
+              "TEN": "Đẻ thường một thai chưa xác định rõ",
+              "TEN_EN": "Single spontaneous delivery, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O81",
+          "TEN": "Đẻ một thai bằng forcep hay giác hút",
+          "TEN_EN": "Single delivery by forceps and vacuum extractor",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O81.0",
+              "TEN": "Đặt forcep thấp",
+              "TEN_EN": "Low forceps delivery"
+            },
+            {
+              "MA": "O81.1",
+              "TEN": "Đặt forcep trung bình",
+              "TEN_EN": "Mid-cavity forceps delivery"
+            },
+            {
+              "MA": "O81.2",
+              "TEN": "Đặt forcep trung bình có quay",
+              "TEN_EN": "Mid-cavity forceps with rotation"
+            },
+            {
+              "MA": "O81.3",
+              "TEN": "Đặt forcep khác chưa xác định rõ",
+              "TEN_EN": "Other and unspecified forceps delivery"
+            },
+            {
+              "MA": "O81.4",
+              "TEN": "Đặt giác hút",
+              "TEN_EN": "Vacuum extractor delivery"
+            },
+            {
+              "MA": "O81.5",
+              "TEN": "Đặt phối hợp cả forcep và giác hút",
+              "TEN_EN": "Delivery by combination of forceps and vacuum extractor"
+            }
+          ]
+        },
+        {
+          "MA": "O82",
+          "TEN": "Mổ lấy thai cho một thai",
+          "TEN_EN": "Single delivery by caesarean section",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O82.0",
+              "TEN": "Mổ lấy thai chủ động",
+              "TEN_EN": "Delivery by elective caesarean section"
+            },
+            {
+              "MA": "O82.1",
+              "TEN": "Mổ lấy thai cấp cứu",
+              "TEN_EN": "Delivery by emergency caesarean section"
+            },
+            {
+              "MA": "O82.2",
+              "TEN": "Mổ lấy thai, tiếp theo cắt tử cung",
+              "TEN_EN": "Delivery by caesarean hysterectomy"
+            },
+            {
+              "MA": "O82.8",
+              "TEN": "Mổ lấy thai khác cho một thai",
+              "TEN_EN": "Other single delivery by caesarean section"
+            },
+            {
+              "MA": "O82.9",
+              "TEN": "Mổ lấy thai chưa xác định rõ",
+              "TEN_EN": "Delivery by caesarean section, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O83",
+          "TEN": "Đẻ một thai với thủ thuật khác",
+          "TEN_EN": "Other assisted single delivery",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O83.0",
+              "TEN": "Kéo thai trong ngôi mông",
+              "TEN_EN": "Breech extraction"
+            },
+            {
+              "MA": "O83.1",
+              "TEN": "Thủ thuật khác trong ngôi mông",
+              "TEN_EN": "Other assisted breech delivery"
+            },
+            {
+              "MA": "O83.2",
+              "TEN": "Đẻ nhờ thủ thuật khác bằng tay",
+              "TEN_EN": "Other manipulation-assisted delivery"
+            },
+            {
+              "MA": "O83.3",
+              "TEN": "Đẻ thai sống trong chửa trong ổ bụng",
+              "TEN_EN": "Delivery of viable fetus in abdominal pregnancy"
+            },
+            {
+              "MA": "O83.4",
+              "TEN": "Các thủ thuật hủy thai",
+              "TEN_EN": "Destructive operation for delivery"
+            },
+            {
+              "MA": "O83.8",
+              "TEN": "Các thủ thuật chỉ rõ khác trong đẻ một thai",
+              "TEN_EN": "Other specified assisted single delivery"
+            },
+            {
+              "MA": "O83.9",
+              "TEN": "Các thủ thuật chưa xác định rõ khác trong đẻ một thai",
+              "TEN_EN": "Assisted single delivery, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O84",
+          "TEN": "Đẻ nhiều thai",
+          "TEN_EN": "Multiple delivery",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O84.0",
+              "TEN": "Đẻ nhiều thai hoàn toàn tự nhiên",
+              "TEN_EN": "Multiple delivery, all spontaneous"
+            },
+            {
+              "MA": "O84.1",
+              "TEN": "Đẻ nhiều thai, tất cả bằng forcep hay giác hút",
+              "TEN_EN": "Multiple delivery, all by forceps and vacuum extractor"
+            },
+            {
+              "MA": "O84.2",
+              "TEN": "Đẻ nhiều thai, tất cả bằng mổ lấy thai",
+              "TEN_EN": "Multiple delivery, all by caesarean section"
+            },
+            {
+              "MA": "O84.8",
+              "TEN": "Đẻ nhiều thai khác",
+              "TEN_EN": "Other multiple delivery"
+            },
+            {
+              "MA": "O84.9",
+              "TEN": "Đẻ nhiều thai chưa xác định rõ",
+              "TEN_EN": "Multiple delivery, unspecified"
+            }
+          ]
+        }]
       },
       {
         "MA": "O85-O92",
         "MA_TRONG_CHUONG": "",
         "TEN": "Biến chứng chủ yếu liên quan đến sau đẻ",
-        "TEN_EN": "Complications predominantly related to the puerperium"
+        "TEN_EN": "Complications predominantly related to the puerperium",
+        "DANH_SACH_BENH": [{
+          "MA": "O85",
+          "TEN": "Nhiễm khuẩn sau đẻ ",
+          "TEN_EN": "Puerperal pepsis",
+          "DANH_SACH_BENH": []
+        },
+        {
+          "MA": "O86",
+          "TEN": "Nhiễm khuẩn sau đẻ khác",
+          "TEN_EN": "Other puerperal infections",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O86.0",
+              "TEN": "Nhiễm khuẩn vết thương do phẫu thuật sản khoa",
+              "TEN_EN": "Infection of obstetric surgical wound"
+            },
+            {
+              "MA": "O86.1",
+              "TEN": "Nhiễm khuẩn đường sinh dục khác sau đẻ",
+              "TEN_EN": "Other infection of genital tract following delivery"
+            },
+            {
+              "MA": "O86.2",
+              "TEN": "Nhiễm khuẩn đường tiết niệu sau đẻ",
+              "TEN_EN": "Urinary tract infection following delivery"
+            },
+            {
+              "MA": "O86.3",
+              "TEN": "Nhiễm khuẩn khác của đường tiết niệu sinh dục sau đẻ",
+              "TEN_EN": "Other genitourinary tract infections following delivery"
+            },
+            {
+              "MA": "O86.4",
+              "TEN": "Sốt không rõ nguyên nhân sau đẻ",
+              "TEN_EN": "Pyrexia of unknown origin following delivery"
+            },
+            {
+              "MA": "O86.8",
+              "TEN": "Nhiễm khuẩn sau đẻ xác định khác",
+              "TEN_EN": "Other specified puerperal infections"
+            }
+          ]
+        },
+        {
+          "MA": "O87",
+          "TEN": "Biến chứng tĩnh mạch và trĩ trong thời gian sau đẻ",
+          "TEN_EN": "Venous complications in the puerperium",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O87.0",
+              "TEN": "Viêm tắc tĩnh mạch nông sau đẻ",
+              "TEN_EN": "Superficial thrombophlebitis in the puerperium"
+            },
+            {
+              "MA": "O87.1",
+              "TEN": "Viêm tắc tĩnh mạch sâu sau đẻ",
+              "TEN_EN": "Deep phlebothrombosis in the puerperium"
+            },
+            {
+              "MA": "O87.2",
+              "TEN": "Trĩ sau đẻ",
+              "TEN_EN": "Haemorrhoids in the puerperium"
+            },
+            {
+              "MA": "O87.3",
+              "TEN": "Huyết khối tĩnh mạch não sau đẻ",
+              "TEN_EN": "Cerebral venous thrombosis in the puerperium"
+            },
+            {
+              "MA": "O87.8",
+              "TEN": "Biến chứng tĩnh mạch khác sau đẻ",
+              "TEN_EN": "Other venous complications in the puerperium"
+            },
+            {
+              "MA": "O87.9",
+              "TEN": "Biến chứng tĩnh mạch sau đẻ chưa xác định rõ",
+              "TEN_EN": "Venous complication in the puerperium, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O88",
+          "TEN": "Tắc mạch sản khoa",
+          "TEN_EN": "Obstetric embolism",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O88.0",
+              "TEN": "Tắc mạch sản khoa do khí",
+              "TEN_EN": "Obstetric air embolism"
+            },
+            {
+              "MA": "O88.1",
+              "TEN": "Tắc mạch ối",
+              "TEN_EN": "Amniotic fluid embolism"
+            },
+            {
+              "MA": "O88.2",
+              "TEN": "Tắc mạch sản khoa do cục máu đông",
+              "TEN_EN": "Obstetric blood-clot embolism"
+            },
+            {
+              "MA": "O88.3",
+              "TEN": "Tắc mạch do mủ huyết và nhiễm khuẩn sản khoa",
+              "TEN_EN": "Obstetric pyaemic and septic embolism"
+            },
+            {
+              "MA": "O88.8",
+              "TEN": "Tắc mạch sản khoa khác",
+              "TEN_EN": "Other obstetric embolism"
+            }
+          ]
+        },
+        {
+          "MA": "O89",
+          "TEN": "Biến chứng của gây mê trong thời kỳ sau đẻ",
+          "TEN_EN": "Complications of anaesthesia during the puerperium",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O89.0",
+              "TEN": "Biến chứng phổi của gây mê trong thời kỳ sau đẻ",
+              "TEN_EN": "Pulmonary complications of anaesthesia during the puerperium"
+            },
+            {
+              "MA": "O89.1",
+              "TEN": "Biến chứng tim của gây mê trong thời kỳ sau đẻ",
+              "TEN_EN": "Cardiac complications of anaesthesia during the puerperium"
+            },
+            {
+              "MA": "O89.2",
+              "TEN": "Biến chứng của hệ thống thần kinh trung ương do gây mê sau đẻ",
+              "TEN_EN": "Central nervous system complications of anaesthesia during the puerperium"
+            },
+            {
+              "MA": "O89.3",
+              "TEN": "Phản ứng độc do gây tê tại chỗ trong thời kỳ sau đẻ",
+              "TEN_EN": "Toxic reaction to local anaesthesia during the puerperium"
+            },
+            {
+              "MA": "O89.4",
+              "TEN": "Đau đầu do gây tê tủy sống và ngoài màng cứng trong thời kỳ sau đẻ",
+              "TEN_EN": "Spinal and epidural anaesthesia-induced headache during the puerperium"
+            },
+            {
+              "MA": "O89.5",
+              "TEN": "Biến chứng khác của gây tê tủy sống và ngoài màng cứng trong thời kỳ sau đẻ",
+              "TEN_EN": "Other complications of spinal and epidural anaesthesia during the puerperium"
+            },
+            {
+              "MA": "O89.6",
+              "TEN": "Đặt nội khí quản khó hay thất bại trong thời kỳ sau đẻ",
+              "TEN_EN": "Failed or difficult intubation during the puerperium"
+            },
+            {
+              "MA": "O89.8",
+              "TEN": "Biến chứng khác của gây mê trong thời kỳ sau đẻ",
+              "TEN_EN": "Other complications of anaesthesia during the puerperium"
+            },
+            {
+              "MA": "O89.9",
+              "TEN": "Biến chứng, của gây mê trong thời kỳ sau đẻ",
+              "TEN_EN": "Complication of anaesthesia during the puerperium, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O90",
+          "TEN": "Biến chứng sau đẻ chưa được xếp loại",
+          "TEN_EN": "Complications of the puerperium, not elsewhere classified",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O90.0",
+              "TEN": "Toác vết mổ lấy thai",
+              "TEN_EN": "Disruption of caesarean section wound"
+            },
+            {
+              "MA": "O90.1",
+              "TEN": "Toác vết khâu tầng sinh môn",
+              "TEN_EN": "Disruption of perineal obstetric wound"
+            },
+            {
+              "MA": "O90.2",
+              "TEN": "Máu tụ vết khâu sản khoa",
+              "TEN_EN": "Haematoma of obstetric wound"
+            },
+            {
+              "MA": "O90.3",
+              "TEN": "Bệnh lý cơ tim trong thời kỳ hậu sản",
+              "TEN_EN": "Cardiomyopathy in the puerperium"
+            },
+            {
+              "MA": "O90.4",
+              "TEN": "Suy thận cấp tính sau đẻ",
+              "TEN_EN": "Postpartum acute renal failure"
+            },
+            {
+              "MA": "O90.5",
+              "TEN": "Viêm tuyến giáp sau đẻ",
+              "TEN_EN": "Postpartum thyroiditis"
+            },
+            {
+              "MA": "O90.8",
+              "TEN": "Biến chứng khác sau đẻ chưa được xếp loại ở phần khác",
+              "TEN_EN": "Other complications of the puerperium, not elsewhere classified"
+            },
+            {
+              "MA": "O90.9",
+              "TEN": "Biến chứng sau đẻ chưa xác định rõ",
+              "TEN_EN": "Complication of the puerperium, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O91",
+          "TEN": "Nhiễm khuẩn vú phối hợp với đẻ",
+          "TEN_EN": "Infections of breast associated with childbirth",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O91.0",
+              "TEN": "Nhiễm khuẩn núm vú phối hợp với đẻ",
+              "TEN_EN": "Infection of nipple associated with childbirth"
+            },
+            {
+              "MA": "O91.1",
+              "TEN": "Áp xe vú phối hợp với đẻ",
+              "TEN_EN": "Abscess of breast associated with childbirth"
+            },
+            {
+              "MA": "O91.2",
+              "TEN": "Viêm vú không thành mủ phối hợp với đẻ",
+              "TEN_EN": "Nonpurulent mastitis associated with childbirth"
+            }
+          ]
+        },
+        {
+          "MA": "O92",
+          "TEN": "Các rối loạn khác của vú và tiết sữa phối hợp với đẻ",
+          "TEN_EN": "Other disorders of breast and lactation associated with childbirth",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O92.0",
+              "TEN": "Tụt núm vú phối hợp với đẻ",
+              "TEN_EN": "Retracted nipple associated with childbirth"
+            },
+            {
+              "MA": "O92.1",
+              "TEN": "Nứt đầu vú phối hợp với đẻ",
+              "TEN_EN": "Cracked nipple associated with childbirth"
+            },
+            {
+              "MA": "O92.2",
+              "TEN": "Các rối loạn khác chưa xác định rõ của vú phối hợp với đẻ",
+              "TEN_EN": "Other and unspecified disorders of breast associated with childbirth"
+            },
+            {
+              "MA": "O92.3",
+              "TEN": "Không có sữa",
+              "TEN_EN": "Agalactia"
+            },
+            {
+              "MA": "O92.4",
+              "TEN": "Thiếu sữa, ít sữa",
+              "TEN_EN": "Hypogalactia"
+            },
+            {
+              "MA": "O92.5",
+              "TEN": "Cắt sữa",
+              "TEN_EN": "Suppressed lactation"
+            },
+            {
+              "MA": "O92.6",
+              "TEN": "Tiết sữa",
+              "TEN_EN": "Galactorrhoea"
+            },
+            {
+              "MA": "O92.7",
+              "TEN": "Rối loạn tiết sữa khác chưa xác định rõ",
+              "TEN_EN": "Other and unspecified disorders of lactation"
+            }
+          ]
+        }]
       },
       {
         "MA": "O94-O99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Các tình trạng sản khoa khác, chưa được phân loại ở phần khác (O94-O99)",
-        "TEN_EN": "Other obstetric conditions, not elsewhere classified"
+        "TEN_EN": "Other obstetric conditions, not elsewhere classified",
+        "DANH_SACH_BENH": [{
+          "MA": "O94",
+          "TEN": "Di chứng của biến chứng do thai nghén, sinh đẻ và sau đẻ",
+          "TEN_EN": "Sequelae of complication of prenancy, childbirth and the puerperium",
+          "DANH_SACH_BENH": []
+        },
+        {
+          "MA": "O95",
+          "TEN": "Tử vong sản khoa vi nguyên nhân chưa xác định rõ",
+          "TEN_EN": "Obstetric death of unspecified cause",
+          "DANH_SACH_BENH": []
+        },
+        {
+          "MA": "O96",
+          "TEN": "Tử vong vì bất kỳ nguyên nhân sản khoa nào khác sau khi đẻ 42 ngày và dưới 1 năm",
+          "TEN_EN": "Death from any obstetric cause occurring more than 42 days but less than one year after delivery",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O96.0",
+              "TEN": "Tử vong do nguyên nhân sản khoa trực tiếp",
+              "TEN_EN": "Death from direct obstetric cause"
+            },
+            {
+              "MA": "O96.1",
+              "TEN": "Tử vong do nguyên nhân sản khoa gián tiếp",
+              "TEN_EN": "Death from indirect obstetric cause"
+            },
+            {
+              "MA": "O96.9",
+              "TEN": "Tử vong do nguyên nhân sản khoa không đặc hiệu",
+              "TEN_EN": "Death from unspecified obstetric cause"
+            }
+          ]
+        },
+        {
+          "MA": "O97",
+          "TEN": "Tử vong vì di chứng của nguyên nhân sản khoa trực tiếp",
+          "TEN_EN": "Death from sequelae of obstetric causes",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O97.0",
+              "TEN": "Tử vong do di chứng của nguyên nhân sản khoa trực tiếp",
+              "TEN_EN": "Death from sequelae of direct obstetric cause"
+            },
+            {
+              "MA": "O97.1",
+              "TEN": "Tử vong do di chứng của nguyên nhân sản khoa gián tiếp",
+              "TEN_EN": "Death from sequelae of indirect obstetric cause"
+            },
+            {
+              "MA": "O97.9",
+              "TEN": "Tử vong do di chứng của nguyên nhân sản khoa, không đặc hiệu",
+              "TEN_EN": "Death from sequelae of obstetric cause, unspecified"
+            }
+          ]
+        },
+        {
+          "MA": "O98",
+          "TEN": "Nhiễm khuẩn bà mẹ và bệnh ký sinh trùng đã được xếp loại nhưng gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+          "TEN_EN": "Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O98.0",
+              "TEN": "Bệnh lao gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Tuberculosis complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.1",
+              "TEN": "Giang mai gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Syphilis complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.2",
+              "TEN": "Bệnh lậu gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Gonorrhoea complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.3",
+              "TEN": "Nhiễm khuẩn khác chủ yếu lây truyền qua đường tình dục gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Other infections with a predominantly sexual mode of transmission complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.4",
+              "TEN": "Viêm gan virus gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Viral hepatitis complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.5",
+              "TEN": "Bệnh do virus khác gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Other viral diseases complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.6",
+              "TEN": "Bệnh do đơn bào gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Protozoal diseases complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.7",
+              "TEN": "Bệnh do virus gây suy giảm miễn dịch ở người [HIV] gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.8",
+              "TEN": "Bệnh nhiễm khuẩn và nhiễm KST khác của bà mẹ gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Other maternal infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O98.9",
+              "TEN": "Bệnh nhiễm khuẩn và nhiễm KST chưa xác định của bà mẹ gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Unspecified maternal infectious or parasitic disease complicating pregnancy, childbirth and the puerperium"
+            }
+          ]
+        },
+        {
+          "MA": "O99",
+          "TEN": "Các bệnh khác của bà mẹ đã được xếp loại nhưng gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+          "TEN_EN": "Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",
+          "DANH_SACH_BENH": [
+            {
+              "MA": "O99.0",
+              "TEN": "Thiếu máu gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Anaemia complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O99.1",
+              "TEN": "Các bệnh khác của máu, cơ quan tạo máu và rối loại cơ chế miễn dịch gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+              "TEN_EN": "Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O99.2",
+              "TEN": "Bệnh nội tiết, dinh dưỡng và chuyển hóa gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O99.3",
+              "TEN": "Rối loạn tâm thần và bệnh lý hệ thần kinh gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O99.4",
+              "TEN": "Bệnh của hệ thống tuần hoà gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O99.5",
+              "TEN": "Bệnh của hệ thống hô hấp gây biến chứng thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O99.6",
+              "TEN": "Bệnh của hệ thống tiêu hóa gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Diseases of the digestive system complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O99.7",
+              "TEN": "Bệnh của da và tổ chức dưới da gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Diseases of the skin and subcutaneous tissue complicating pregnancy, childbirth and the puerperium"
+            },
+            {
+              "MA": "O99.8",
+              "TEN": "Bệnh và các tình trạng xác định khác gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+              "TEN_EN": "Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium"
+            }
+          ]
+        }]
       }
     ]
   },

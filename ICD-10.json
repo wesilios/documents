@@ -46179,61 +46179,3739 @@
         "MA": "S00-S09",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương ở đầu",
-        "TEN_EN": "Injuries to the head"
+        "TEN_EN": "Injuries to the head",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S00",
+            "TEN": "Tổn thương nông ở đầu",
+            "TEN_EN": "Superficial injury of head",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S00.0",
+                "TEN": "Tổn thương nông của da đầu",
+                "TEN_EN": "Superficial injury of scalp"
+              },
+              {
+                "MA": "S00.1",
+                "TEN": "đụng giập mi mắt và vùng quanh ổ mắt",
+                "TEN_EN": "Contusion of eyelid and periocular area"
+              },
+              {
+                "MA": "S00.2",
+                "TEN": "Tổn thương nông khác của mi mắt và vùng quanh ổ mắt",
+                "TEN_EN": "Other superficial injuries of eyelid and periocular area"
+              },
+              {
+                "MA": "S00.3",
+                "TEN": "Tổn thương nông của mũi",
+                "TEN_EN": "Superficial injury of nose"
+              },
+              {
+                "MA": "S00.4",
+                "TEN": "Tổn thương nông của tai",
+                "TEN_EN": "Superficial injury of ear"
+              },
+              {
+                "MA": "S00.5",
+                "TEN": "Tổn thương nông của môi và khoang miệng",
+                "TEN_EN": "Superficial injury of lip and oral cavity"
+              },
+              {
+                "MA": "S00.7",
+                "TEN": "Tổn thương nông và nhiều ở đầu",
+                "TEN_EN": "Multiple superficial injuries of head"
+              },
+              {
+                "MA": "S00.8",
+                "TEN": "Tổn thương của các phần khác của đầu",
+                "TEN_EN": "Superficial injury of other parts of head"
+              },
+              {
+                "MA": "S00.9",
+                "TEN": "Tổn thương nông ở đầu, phần không xác định",
+                "TEN_EN": "Superficial injury of head, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S01",
+            "TEN": "Vết thương hở ở đầu",
+            "TEN_EN": "Open wound of head",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S01.0",
+                "TEN": "Vết thương hở của da đầu",
+                "TEN_EN": "Open wound of scalp"
+              },
+              {
+                "MA": "S01.1",
+                "TEN": "Vết thương hở của mi mắt và vùng quanh mắt",
+                "TEN_EN": "Open wound of eyelid and periocular area"
+              },
+              {
+                "MA": "S01.2",
+                "TEN": "Vết thương hở của mũi",
+                "TEN_EN": "Open wound of nose"
+              },
+              {
+                "MA": "S01.3",
+                "TEN": "Vết thương hở của tai",
+                "TEN_EN": "Open wound of ear"
+              },
+              {
+                "MA": "S01.4",
+                "TEN": "Vết thương hở của má và vùng thái dương - xương hàm dưới",
+                "TEN_EN": "Open wound of cheek and temporomandibular area"
+              },
+              {
+                "MA": "S01.5",
+                "TEN": "Vết thương của môi và khoang miệng",
+                "TEN_EN": "Open wound of lip and oral cavity"
+              },
+              {
+                "MA": "S01.7",
+                "TEN": "Nhiều vết thương hở của đầu",
+                "TEN_EN": "Multiple open wounds of head"
+              },
+              {
+                "MA": "S01.8",
+                "TEN": "Vết thương hở của các phần khác của đầu",
+                "TEN_EN": "Open wound of other parts of head"
+              },
+              {
+                "MA": "S01.9",
+                "TEN": "Vết thương hở của đầu, phần không xác định",
+                "TEN_EN": "Open wound of head, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S02",
+            "TEN": "Vỡ xương sọ và xương mặt",
+            "TEN_EN": "Fracture of skull and facial bones",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S02.0",
+                "TEN": "Vỡ vòm sọ",
+                "TEN_EN": "Fracture of vault of skull"
+              },
+              {
+                "MA": "S02.1",
+                "TEN": "Vỡ nền sọ",
+                "TEN_EN": "Fracture of base of skull"
+              },
+              {
+                "MA": "S02.2",
+                "TEN": "Vỡ xương mũi",
+                "TEN_EN": "Fracture of nasal bones"
+              },
+              {
+                "MA": "S02.3",
+                "TEN": "Vỡ xương sàn ổ mắt",
+                "TEN_EN": "Fracture of orbital floor"
+              },
+              {
+                "MA": "S02.4",
+                "TEN": "Vỡ xương má và xương hàm",
+                "TEN_EN": "Fracture of malar and maxillary bones"
+              },
+              {
+                "MA": "S02.5",
+                "TEN": "Gẫy răng",
+                "TEN_EN": "Fracture of tooth"
+              },
+              {
+                "MA": "S02.6",
+                "TEN": "Vỡ xương hàm",
+                "TEN_EN": "Fracture of mandible"
+              },
+              {
+                "MA": "S02.7",
+                "TEN": "Nhiều mảnh vỡ của xương sọ và xương mặt",
+                "TEN_EN": "Multiple fractures involving skull and facial bones"
+              },
+              {
+                "MA": "S02.8",
+                "TEN": "Vỡ các xương khác của sọ và mặt",
+                "TEN_EN": "Fractures of other skull and facial bones"
+              },
+              {
+                "MA": "S02.9",
+                "TEN": "Vỡ các xương sọ và xương mặt, phần không xác định",
+                "TEN_EN": "Fracture of skull and facial bones, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S03",
+            "TEN": "Sai khớp, bong gân và căng cơ của khớp và các dây chằng của đầu",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments of head",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S03.0",
+                "TEN": "Sai khớp hàm",
+                "TEN_EN": "Dislocation of jaw"
+              },
+              {
+                "MA": "S03.1",
+                "TEN": "Sai khớp của sụn vách mũi",
+                "TEN_EN": "Dislocation of septal cartilage of nose"
+              },
+              {
+                "MA": "S03.2",
+                "TEN": "Sai khớp răng",
+                "TEN_EN": "Dislocation of tooth"
+              },
+              {
+                "MA": "S03.3",
+                "TEN": "Sai khớp của các phần không xác định của đầu",
+                "TEN_EN": "Dislocation of other and unspecified parts of head"
+              },
+              {
+                "MA": "S03.4",
+                "TEN": "Bong gân và căng cơ của hàm",
+                "TEN_EN": "Sprain and strain of jaw"
+              },
+              {
+                "MA": "S03.5",
+                "TEN": "Bong gân và căng cơ của khớp và dây chằng của các phần khác không xác định của đầu",
+                "TEN_EN": "Sprain and strain of joints and ligaments of other and unspecified parts of head"
+              }
+            ]
+          },
+          {
+            "MA": "S04",
+            "TEN": "Tổn thương dây thần kinh sọ",
+            "TEN_EN": "Injury of cranial nerves",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S04.0",
+                "TEN": "Tổn thương dây thần kinh thị giác và đường đi",
+                "TEN_EN": "Injury of optic nerve and pathways"
+              },
+              {
+                "MA": "S04.1",
+                "TEN": "Tổn thương dây thần kinh vận nhãn",
+                "TEN_EN": "Injury of oculomotor nerve"
+              },
+              {
+                "MA": "S04.2",
+                "TEN": "Tổn thương dây thần kinh ròng rọc",
+                "TEN_EN": "Injury of trochlear nerve"
+              },
+              {
+                "MA": "S04.3",
+                "TEN": "Tổn thương dây thần kinh thứ 3",
+                "TEN_EN": "Injury of trigeminal nerve"
+              },
+              {
+                "MA": "S04.4",
+                "TEN": "Tổn thương dây thần kinh",
+                "TEN_EN": "Injury of abducent nerve"
+              },
+              {
+                "MA": "S04.5",
+                "TEN": "Tổn thương dây thần kinh thính giác",
+                "TEN_EN": "Injury of facial nerve"
+              },
+              {
+                "MA": "S04.6",
+                "TEN": "Tổn thương dây thần kinh thính giác",
+                "TEN_EN": "Injury of acoustic nerve"
+              },
+              {
+                "MA": "S04.7",
+                "TEN": "Tổn thương dây thần kinh phụ",
+                "TEN_EN": "Injury of accessory nerve"
+              },
+              {
+                "MA": "S04.8",
+                "TEN": "Tổn thương dác dây thần kinh sọ khác",
+                "TEN_EN": "Injury of other cranial nerves"
+              },
+              {
+                "MA": "S04.9",
+                "TEN": "Tổn thương dây thần kinh sọ không xác định",
+                "TEN_EN": "Injury of unspecified cranial nerve"
+              }
+            ]
+          },
+          {
+            "MA": "S05",
+            "TEN": "Tổn thương mắt và ổ mắt",
+            "TEN_EN": "Injury of eye and orbit",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S05.0",
+                "TEN": "Tổn thương kết mạc và xước giác mạc không có dị vật",
+                "TEN_EN": "Injury of conjunctiva and corneal abrasion without mention of foreign body"
+              },
+              {
+                "MA": "S05.1",
+                "TEN": "Đụng giập nhãn cầu và tổ chức hố mắt",
+                "TEN_EN": "Contusion of eyeball and orbital tissues"
+              },
+              {
+                "MA": "S05.2",
+                "TEN": "Rách xé nhãn cầu và thủng với sa hay mất tổ chức trong nhãn cầu",
+                "TEN_EN": "Ocular laceration and rupture with prolapse or loss of intraocular tissue"
+              },
+              {
+                "MA": "S05.3",
+                "TEN": "Rách xé nhãn cầu không có sa hay mất tổ chức trong nhãn cầu",
+                "TEN_EN": "Ocular laceration without prolapse or loss of intraocular tissue"
+              },
+              {
+                "MA": "S05.4",
+                "TEN": "Vết thương thấu nhãn cầu có hay không có dị vật",
+                "TEN_EN": "Penetrating wound of orbit with or without foreign body"
+              },
+              {
+                "MA": "S05.5",
+                "TEN": "Vết thương thấu nhãn cầu có dị vật",
+                "TEN_EN": "Penetrating wound of eyeball with foreign body"
+              },
+              {
+                "MA": "S05.6",
+                "TEN": "Vết thương thấu nhãn cầu không có dị vật",
+                "TEN_EN": "Penetrating wound of eyeball without foreign body"
+              },
+              {
+                "MA": "S05.7",
+                "TEN": "Nhổ giật mắt",
+                "TEN_EN": "Avulsion of eye"
+              },
+              {
+                "MA": "S05.8",
+                "TEN": "Các tổn thương khác của mắt và ổ mắt",
+                "TEN_EN": "Other injuries of eye and orbit"
+              },
+              {
+                "MA": "S05.9",
+                "TEN": "Tổn thương của mắt và ổ mắt, phần không đặc hiệu",
+                "TEN_EN": "Injury of eye and orbit, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S06",
+            "TEN": "Tổn thương nội sọ",
+            "TEN_EN": "Intracranial injury",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S06.0",
+                "TEN": "Chấn động",
+                "TEN_EN": "Concussion"
+              },
+              {
+                "MA": "S06.1",
+                "TEN": "Phù não chấn thương",
+                "TEN_EN": "Traumatic cerebral oedema"
+              },
+              {
+                "MA": "S06.2",
+                "TEN": "Tổn thương não lan toả",
+                "TEN_EN": "Diffuse brain injury"
+              },
+              {
+                "MA": "S06.3",
+                "TEN": "Tổn thương ổ của não",
+                "TEN_EN": "Focal brain injury"
+              },
+              {
+                "MA": "S06.4",
+                "TEN": "Chảy máu trên màng cứng",
+                "TEN_EN": "Epidural haemorrhage"
+              },
+              {
+                "MA": "S06.5",
+                "TEN": "Chảy máu dưới màng cứng",
+                "TEN_EN": "Traumatic subdural haemorrhage"
+              },
+              {
+                "MA": "S06.6",
+                "TEN": "Chảy máu dưới màng nhện chấn thương",
+                "TEN_EN": "Traumatic subarachnoid haemorrhage"
+              },
+              {
+                "MA": "S06.7",
+                "TEN": "Tổn thương nội sọ có hôn mê kéo dài",
+                "TEN_EN": "Intracranial injury with prolonged coma"
+              },
+              {
+                "MA": "S06.8",
+                "TEN": "Tổn thương nội sọ khác",
+                "TEN_EN": "Other intracranial injuries"
+              },
+              {
+                "MA": "S06.9",
+                "TEN": "Tổn thương nội sọ không đặc hiệu",
+                "TEN_EN": "Intracranial injury, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S07",
+            "TEN": "Tổn thương vùi lấp của đầu",
+            "TEN_EN": "Crushing injury of head",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S07.0",
+                "TEN": "Tổn thương vùi lấp của mặt",
+                "TEN_EN": "Crushing injury of face"
+              },
+              {
+                "MA": "S07.1",
+                "TEN": "Tổn thương vùi lấp của hộp sọ",
+                "TEN_EN": "Crushing injury of skull"
+              },
+              {
+                "MA": "S07.8",
+                "TEN": "Tổn thương vì lấp của các phần khác của đầu",
+                "TEN_EN": "Crushing injury of other parts of head"
+              },
+              {
+                "MA": "S07.9",
+                "TEN": "Tổn thương vùi lấp của đầu, các phần không xác định",
+                "TEN_EN": "Crushing injury of head, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S08",
+            "TEN": "Cắt cụt phần của đầu do chấn thương",
+            "TEN_EN": "Traumatic amputation of part of head",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S08.0",
+                "TEN": "Nhổ giật da đầu",
+                "TEN_EN": "Avulsion of scalp"
+              },
+              {
+                "MA": "S08.1",
+                "TEN": "Cắt cụt do chấn thương tai",
+                "TEN_EN": "Traumatic amputation of ear"
+              },
+              {
+                "MA": "S08.8",
+                "TEN": "Cắt cụt các phần khác của đầu do chấn thương của",
+                "TEN_EN": "Traumatic amputation of other parts of head"
+              },
+              {
+                "MA": "S08.9",
+                "TEN": "Cắt cụt của phần không xác định của đầu do chấn thương",
+                "TEN_EN": "Traumatic amputation of unspecified part of head"
+              }
+            ]
+          },
+          {
+            "MA": "S09",
+            "TEN": "Tổn thương khác và không đặc hiệu của đầu",
+            "TEN_EN": "Other and unspecified injuries of head",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S09.0",
+                "TEN": "Tổn thương các mạch máu của đầu, không xếp hạng nơi khác",
+                "TEN_EN": "Injury of blood vessels of head, not elsewhere classified"
+              },
+              {
+                "MA": "S09.1",
+                "TEN": "Tổn thương cơ và gân của đầu",
+                "TEN_EN": "Injury of muscle and tendon of head"
+              },
+              {
+                "MA": "S09.2",
+                "TEN": "Rách chấn thương màng nhĩ",
+                "TEN_EN": "Traumatic rupture of ear drum"
+              },
+              {
+                "MA": "S09.7",
+                "TEN": "Tổn thương phức tạp của đầu",
+                "TEN_EN": "Multiple injuries of head"
+              },
+              {
+                "MA": "S09.8",
+                "TEN": "Tổn thương đặc hiệu khác của đầu",
+                "TEN_EN": "Other specified injuries of head"
+              },
+              {
+                "MA": "S09.9",
+                "TEN": "Tổn thương không đặc hiệu của đầu",
+                "TEN_EN": "Unspecified injury of head"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S10-S19",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương của cổ",
-        "TEN_EN": "Injuries to the neck"
+        "TEN_EN": "Injuries to the neck",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S10",
+            "TEN": "Tổn thương nông của cổ",
+            "TEN_EN": "Superficial injury of neck",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S10.0",
+                "TEN": "Đụng giập họng",
+                "TEN_EN": "Contusion of throat"
+              },
+              {
+                "MA": "S10.1",
+                "TEN": "Tổn thương nông không đặc hiệu và khác của họng",
+                "TEN_EN": "Other and unspecified superficial injuries of throat"
+              },
+              {
+                "MA": "S10.7",
+                "TEN": "Đa tổn thương nông của cổ",
+                "TEN_EN": "Multiple superficial injuries of neck"
+              },
+              {
+                "MA": "S10.8",
+                "TEN": "Tổn thương nông của các phần khác của cổ",
+                "TEN_EN": "Superficial injury of other parts of neck"
+              },
+              {
+                "MA": "S10.9",
+                "TEN": "Tổn thương nông của cổ, phần không đặc hiệu",
+                "TEN_EN": "Superficial injury of neck, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S11",
+            "TEN": "Vết thương hở của cổ",
+            "TEN_EN": "Open wound of neck",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S11.0",
+                "TEN": "Vết thương hở bao gồm thanh quản và khí quản",
+                "TEN_EN": "Open wound involving larynx and trachea"
+              },
+              {
+                "MA": "S11.1",
+                "TEN": "Vết thương hở bao gồm tuyến giáp",
+                "TEN_EN": "Open wound involving thyroid gland"
+              },
+              {
+                "MA": "S11.2",
+                "TEN": "Vết thương hở bao gồm hầu và thực quản phần cổ",
+                "TEN_EN": "Open wound involving pharynx and cervical oesophagus"
+              },
+              {
+                "MA": "S11.7",
+                "TEN": "Đa vết thương hở của cổ",
+                "TEN_EN": "Multiple open wounds of neck"
+              },
+              {
+                "MA": "S11.8",
+                "TEN": "Vết thương hở của các phần khác của cổ",
+                "TEN_EN": "Open wound of other parts of neck"
+              },
+              {
+                "MA": "S11.9",
+                "TEN": "Vết thương hở của cổ, phần không đặc hiệu",
+                "TEN_EN": "Open wound of neck, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S12",
+            "TEN": "gẫy cổ",
+            "TEN_EN": "Fracture of neck",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S12.0",
+                "TEN": "Gẫy đốt sống cổ thứ nhất",
+                "TEN_EN": "Fracture of first cervical vertebra"
+              },
+              {
+                "MA": "S12.1",
+                "TEN": "Gẫy đốt sống cổ thứ hai",
+                "TEN_EN": "Fracture of second cervical vertebra"
+              },
+              {
+                "MA": "S12.2",
+                "TEN": "Gẫy đốt sống cổ đặc hiệu khác",
+                "TEN_EN": "Fracture of other specified cervical vertebra"
+              },
+              {
+                "MA": "S12.7",
+                "TEN": "Gẫy nhiều chỗ của đốt sống cổ",
+                "TEN_EN": "Multiple fractures of cervical spine"
+              },
+              {
+                "MA": "S12.8",
+                "TEN": "Gẫy các phần khác của cổ",
+                "TEN_EN": "Fracture of other parts of neck"
+              },
+              {
+                "MA": "S12.9",
+                "TEN": "Gẫy cổ, phần không đặc hiệu",
+                "TEN_EN": "Fracture of neck, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S13",
+            "TEN": "Sai khớp, bong gân và căng cơ quá mức của khớp và các dây chằng thuộc vùng cổ-",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments at neck level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S13.0",
+                "TEN": "Vỡ đĩa liên đốt sống cổ do chấn thương",
+                "TEN_EN": "Traumatic rupture of cervical intervertebral disc"
+              },
+              {
+                "MA": "S13.1",
+                "TEN": "Sai khớp đốt sống cổ",
+                "TEN_EN": "Dislocation of cervical vertebra"
+              },
+              {
+                "MA": "S13.2",
+                "TEN": "Sai khớp của các phần khác và không đặc hiệu của cổ",
+                "TEN_EN": "Dislocation of other and unspecified parts of neck"
+              },
+              {
+                "MA": "S13.3",
+                "TEN": "Sai khớp phức tạp của cổ",
+                "TEN_EN": "Multiple dislocations of neck"
+              },
+              {
+                "MA": "S13.4",
+                "TEN": "Bong gân và căng cơ quá mức của đốt sống cổ",
+                "TEN_EN": "Sprain and strain of cervical spine"
+              },
+              {
+                "MA": "S13.5",
+                "TEN": "Bong gân và căng cơ vùng giáp",
+                "TEN_EN": "Sprain and strain of thyroid region"
+              },
+              {
+                "MA": "S13.6",
+                "TEN": "Bong gân và căng cơ cả khớp và dây chằng của các phân không đặc hiệu và khác của cổ",
+                "TEN_EN": "Sprain and strain of joints and ligaments of other and unspecified parts of neck"
+              }
+            ]
+          },
+          {
+            "MA": "S14",
+            "TEN": "Tổn thương dây thần kinh và tủy sống (đoạn) cổ",
+            "TEN_EN": "Injury of nerves and spinal cord at neck level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S14.0",
+                "TEN": "Chấn động và phù tủy sống đoạn cổ",
+                "TEN_EN": "Concussion and oedema of cervical spinal cord"
+              },
+              {
+                "MA": "S14.1",
+                "TEN": "Tổn thương không đặc hiệu và khác của tủy sống cổ",
+                "TEN_EN": "Other and unspecified injuries of cervical spinal cord"
+              },
+              {
+                "MA": "S14.2",
+                "TEN": "Tổn thương rễ thần kinh của gai sống cổ",
+                "TEN_EN": "Injury of nerve root of cervical spine"
+              },
+              {
+                "MA": "S14.3",
+                "TEN": "Tổn thương đám rối thần kinh cánh tay",
+                "TEN_EN": "Injury of brachial plexus"
+              },
+              {
+                "MA": "S14.4",
+                "TEN": "Tổn thương đám rối thần kinh ngoại vi của cổ",
+                "TEN_EN": "Injury of peripheral nerves of neck"
+              },
+              {
+                "MA": "S14.5",
+                "TEN": "Tổn thương dây thần kinh giao cảm cổ",
+                "TEN_EN": "Injury of cervical sympathetic nerves"
+              },
+              {
+                "MA": "S14.6",
+                "TEN": "Tổn thương các dây thần kinh không đặc hiệu và khác của cổ",
+                "TEN_EN": "Injury of other and unspecified nerves of neck"
+              }
+            ]
+          },
+          {
+            "MA": "S15",
+            "TEN": "Tổn thương mạch máu vùng cổ",
+            "TEN_EN": "Injury of blood vessels at neck level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S15.0",
+                "TEN": "Tổn thương động mạch cảnh",
+                "TEN_EN": "Injury of carotid artery"
+              },
+              {
+                "MA": "S15.1",
+                "TEN": "Tổn thương động mạch sống",
+                "TEN_EN": "Injury of vertebral artery"
+              },
+              {
+                "MA": "S15.2",
+                "TEN": "Tổn thương tĩnh mạch cổ ngoài",
+                "TEN_EN": "Injury of external jugular vein"
+              },
+              {
+                "MA": "S15.3",
+                "TEN": "Tổn thương tĩnh mạch cổ trong",
+                "TEN_EN": "Injury of internal jugular vein"
+              },
+              {
+                "MA": "S15.7",
+                "TEN": "Tổn thương nhiều mạch máu vùng cổ",
+                "TEN_EN": "Injury of multiple blood vessels at neck level"
+              },
+              {
+                "MA": "S15.8",
+                "TEN": "Tổn thương nhiều mạch máu khác vùng cổ",
+                "TEN_EN": "Injury of other blood vessels at neck level"
+              },
+              {
+                "MA": "S15.9",
+                "TEN": "Tổn thương mạch máu không đặc hiệu vùng cổ",
+                "TEN_EN": "Injury of unspecified blood vessel at neck level"
+              }
+            ]
+          },
+          {
+            "MA": "S16",
+            "TEN": "Tổn thương cơ và gân vùng cổ",
+            "TEN_EN": "Injury of muscle and tendon at neck level",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S17",
+            "TEN": "Tổn thương vùi lấp của cổ",
+            "TEN_EN": "Crushing injury of neck",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S17.0",
+                "TEN": "Tổn thương vùi lấp của thanh quản và phế quản",
+                "TEN_EN": "Crushing injury of larynx and trachea"
+              },
+              {
+                "MA": "S17.8",
+                "TEN": "Tổn thương vùi lấp của các phần khác của cổ",
+                "TEN_EN": "Crushing injury of other parts of neck"
+              },
+              {
+                "MA": "S17.9",
+                "TEN": "Tổn thương vùi lấp của cổ, phần không đặc hiệu",
+                "TEN_EN": "Crushing injury of neck, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S18",
+            "TEN": "Cắt cụt vùng cổ do chấn thương",
+            "TEN_EN": "Traumatic amputation at neck level",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S19",
+            "TEN": "Tổn thương không đặc hiệu khác của cổ",
+            "TEN_EN": "Other and unspecified injuries of neck",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S19.7",
+                "TEN": "Tổn thương phức tạp của cổ",
+                "TEN_EN": "Multiple injuries of neck"
+              },
+              {
+                "MA": "S19.8",
+                "TEN": "Tổn thương đặc hiệu khác của cổ",
+                "TEN_EN": "Other specified injuries of neck"
+              },
+              {
+                "MA": "S19.9",
+                "TEN": "Tổn thương không đặc hiệu của cổ",
+                "TEN_EN": "Unspecified injury of neck"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S20-S29",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương lồng ngực",
-        "TEN_EN": "Injuries to the thorax"
+        "TEN_EN": "Injuries to the thorax",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S20",
+            "TEN": "Tổn thương của lồng ngực",
+            "TEN_EN": "Superficial injury of thorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S20.0",
+                "TEN": "đụng giập vú",
+                "TEN_EN": "Contusion of breast"
+              },
+              {
+                "MA": "S20.1",
+                "TEN": "Tổn thương nông không đặc hiệu và khác của vú",
+                "TEN_EN": "Other and unspecified superficial injuries of breast"
+              },
+              {
+                "MA": "S20.2",
+                "TEN": "Đụng giập lồng ngực",
+                "TEN_EN": "Contusion of thorax"
+              },
+              {
+                "MA": "S20.3",
+                "TEN": "Tổn thương nông khác của thành trước ngực",
+                "TEN_EN": "Other superficial injuries of front wall of thorax"
+              },
+              {
+                "MA": "S20.4",
+                "TEN": "Tổn thương nông khác của thành sau ngực",
+                "TEN_EN": "Other superficial injuries of back wall of thorax"
+              },
+              {
+                "MA": "S20.7",
+                "TEN": "Tổn thương phức tạp nông của ngực",
+                "TEN_EN": "Multiple superficial injuries of thorax"
+              },
+              {
+                "MA": "S20.8",
+                "TEN": "Tổn thương nông của các phần không đặc hiệu và khác của ngực",
+                "TEN_EN": "Superficial injury of other and unspecified parts of thorax"
+              }
+            ]
+          },
+          {
+            "MA": "S21",
+            "TEN": "Vết thương hở của ngực",
+            "TEN_EN": "Open wound of thorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S21.0",
+                "TEN": "Vết thương hở của vú",
+                "TEN_EN": "Open wound of breast"
+              },
+              {
+                "MA": "S21.1",
+                "TEN": "Vết thương hở của thành trước ngực",
+                "TEN_EN": "Open wound of front wall of thorax"
+              },
+              {
+                "MA": "S21.2",
+                "TEN": "Vết thương hở của thành sau ngực",
+                "TEN_EN": "Open wound of back wall of thorax"
+              },
+              {
+                "MA": "S21.7",
+                "TEN": "Vết thương hở phức tạp của thành ngực",
+                "TEN_EN": "Multiple open wounds of thoracic wall"
+              },
+              {
+                "MA": "S21.8",
+                "TEN": "Vết thương hở của các phần khác của ngực",
+                "TEN_EN": "Open wound of other parts of thorax"
+              },
+              {
+                "MA": "S21.9",
+                "TEN": "Vết thương hở của ngực-phần không đặc hiệu",
+                "TEN_EN": "Open wound of thorax, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S22",
+            "TEN": "Gẫy xương (nhiều) sườn, xương ức và gai sống ngực",
+            "TEN_EN": "Fracture of rib(s), sternum and thoracic spine",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S22.0",
+                "TEN": "Gẫy đốt sống ngực",
+                "TEN_EN": "Fracture of thoracic vertebra"
+              },
+              {
+                "MA": "S22.1",
+                "TEN": "Gẫy phức tạp gai sống ngực",
+                "TEN_EN": "Multiple fractures of thoracic spine"
+              },
+              {
+                "MA": "S22.2",
+                "TEN": "Gẫy xương ức",
+                "TEN_EN": "Fracture of sternum"
+              },
+              {
+                "MA": "S22.3",
+                "TEN": "Gẫy xương sườn",
+                "TEN_EN": "Fracture of rib"
+              },
+              {
+                "MA": "S22.4",
+                "TEN": "Gẫy phức tạp xương sườn",
+                "TEN_EN": "Multiple fractures of ribs"
+              },
+              {
+                "MA": "S22.5",
+                "TEN": "Mảng sườn di động",
+                "TEN_EN": "Flail chest"
+              },
+              {
+                "MA": "S22.8",
+                "TEN": "Gẫy các phần khác của xương ngực",
+                "TEN_EN": "Fracture of other parts of bony thorax"
+              },
+              {
+                "MA": "S22.9",
+                "TEN": "Gẫy xương ngực, phần không đặc hiệu",
+                "TEN_EN": "Fracture of bony thorax, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S23",
+            "TEN": "Sai khớp, bong gân và căng cơ quá mức của khớp và dây chằng của ngực",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments of thorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S23.0",
+                "TEN": "Vỡ chấn thương của đĩa liên đốt ngực",
+                "TEN_EN": "Traumatic rupture of thoracic intervertebral disc"
+              },
+              {
+                "MA": "S23.1",
+                "TEN": "Sai khớp của các phần không đặc hiệu và khác của ngực",
+                "TEN_EN": "Dislocation of thoracic vertebra"
+              },
+              {
+                "MA": "S23.2",
+                "TEN": "Sai khớp của các phần không đặc hiệu và khác của ngực",
+                "TEN_EN": "Dislocation of other and unspecified parts of thorax"
+              },
+              {
+                "MA": "S23.3",
+                "TEN": "Bong gân và căng cơ của đốt sống ngực",
+                "TEN_EN": "Sprain and strain of thoracic spine"
+              },
+              {
+                "MA": "S23.4",
+                "TEN": "Bong gân và căng cơ của xương sườn và xương ức",
+                "TEN_EN": "Sprain and strain of ribs and sternum"
+              },
+              {
+                "MA": "S23.5",
+                "TEN": "Bong gân và căng cơ của các phần không đặc hiệu và khác của ngực",
+                "TEN_EN": "Sprain and strain of other and unspecified parts of thorax"
+              }
+            ]
+          },
+          {
+            "MA": "S24",
+            "TEN": "Tổn thương dây thần kinh và tủy sống (vùng) ngực",
+            "TEN_EN": "Injury of nerves and spinal cord at thorax level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S24.0",
+                "TEN": "Chấn động và phù của tủy sống ngực",
+                "TEN_EN": "Concussion and oedema of thoracic spinal cord"
+              },
+              {
+                "MA": "S24.1",
+                "TEN": "Tổn thương không đặc hiệu và khác của tủy sống ngực",
+                "TEN_EN": "Other and unspecified injuries of thoracic spinal cord"
+              },
+              {
+                "MA": "S24.2",
+                "TEN": "Tổn thương rễ thần kinh của đốt sống ngực",
+                "TEN_EN": "Injury of nerve root of thoracic spine"
+              },
+              {
+                "MA": "S24.3",
+                "TEN": "Tổn thương dây thần kinh ngoại vi của ngực",
+                "TEN_EN": "Injury of peripheral nerves of thorax"
+              },
+              {
+                "MA": "S24.4",
+                "TEN": "Tổn thương dây thần kinh giao cảm ngực",
+                "TEN_EN": "Injury of thoracic sympathetic nerves"
+              },
+              {
+                "MA": "S24.5",
+                "TEN": "Tổn thương mạch máu của ngực",
+                "TEN_EN": "Injury of other nerves of thorax"
+              },
+              {
+                "MA": "S24.6",
+                "TEN": "Tổn thương dây thần kinh không đặc hiệu của ngực",
+                "TEN_EN": "Injury of unspecified nerve of thorax"
+              }
+            ]
+          },
+          {
+            "MA": "S25",
+            "TEN": "Tổn thương mạch máu của ngực",
+            "TEN_EN": "Injury of blood vessels of thorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S25.0",
+                "TEN": "Tổn thương động mạch chủ ngực",
+                "TEN_EN": "Injury of thoracic aorta"
+              },
+              {
+                "MA": "S25.1",
+                "TEN": "Tổn thương động mạch vô danh hay dưới đòn",
+                "TEN_EN": "Injury of innominate or subclavian artery"
+              },
+              {
+                "MA": "S25.2",
+                "TEN": "Tổn thương tĩnh mạch chủ trên-",
+                "TEN_EN": "Injury of superior vena cava"
+              },
+              {
+                "MA": "S25.3",
+                "TEN": "Tổn thương tĩnh mạch nào đó hay tĩnh mạch dưới đòn",
+                "TEN_EN": "Injury of innominate or subclavian vein"
+              },
+              {
+                "MA": "S25.4",
+                "TEN": "Tổn thương mạch máu phổi",
+                "TEN_EN": "Injury of pulmonary blood vessels"
+              },
+              {
+                "MA": "S25.5",
+                "TEN": "Tổn thương mạch máu liên sườn",
+                "TEN_EN": "Injury of intercostal blood vessels"
+              },
+              {
+                "MA": "S25.7",
+                "TEN": "Tổn thương mạch máu phức tạp của ngực",
+                "TEN_EN": "Injury of multiple blood vessels of thorax"
+              },
+              {
+                "MA": "S25.8",
+                "TEN": "Tổn thương mạch máu khác của ngực",
+                "TEN_EN": "Injury of other blood vessels of thorax"
+              },
+              {
+                "MA": "S25.9",
+                "TEN": "Tổn thương mạch máu không đặc hiệu của ngực",
+                "TEN_EN": "Injury of unspecified blood vessel of thorax"
+              }
+            ]
+          },
+          {
+            "MA": "S26",
+            "TEN": "Tổn thương tim",
+            "TEN_EN": "Injury of heart",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S26.0",
+                "TEN": "Tổn thương tim có tràn máu màng tim",
+                "TEN_EN": "Injury of heart with haemopericardium"
+              },
+              {
+                "MA": "S26.8",
+                "TEN": "Tổn thương khác của tim",
+                "TEN_EN": "Other injuries of heart"
+              },
+              {
+                "MA": "S26.9",
+                "TEN": "Tổn thương tim, không đặc hiệu",
+                "TEN_EN": "Injury of heart, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S27",
+            "TEN": "Tổn thương của các cơ quan không đặc hiệu và khác trong lồng ngực",
+            "TEN_EN": "Injury of other and unspecified intrathoracic organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S27.0",
+                "TEN": "Tràn khí phổi do chấn thương",
+                "TEN_EN": "Traumatic pneumothorax"
+              },
+              {
+                "MA": "S27.1",
+                "TEN": "Tràn máu phổi do chấn thương",
+                "TEN_EN": "Traumatic haemothorax"
+              },
+              {
+                "MA": "S27.2",
+                "TEN": "Tràn khí máu phổi sang chấn",
+                "TEN_EN": "Traumatic haemopneumothorax"
+              },
+              {
+                "MA": "S27.3",
+                "TEN": "Tổn thương khác của phổi",
+                "TEN_EN": "Other injuries of lung"
+              },
+              {
+                "MA": "S27.4",
+                "TEN": "Tổn thương phế quản",
+                "TEN_EN": "Injury of bronchus"
+              },
+              {
+                "MA": "S27.5",
+                "TEN": "Tổn thương khí quản ngực",
+                "TEN_EN": "Injury of thoracic trachea"
+              },
+              {
+                "MA": "S27.6",
+                "TEN": "Tổn thương màng phổi",
+                "TEN_EN": "Injury of pleura"
+              },
+              {
+                "MA": "S27.7",
+                "TEN": "Đa tổn thương của các cơ quan trong ổ ngực",
+                "TEN_EN": "Multiple injuries of intrathoracic organs"
+              },
+              {
+                "MA": "S27.8",
+                "TEN": "Tổn thương của các cơ quan khác đặc hiệu trong ổ ngực",
+                "TEN_EN": "Injury of other specified intrathoracic organs"
+              },
+              {
+                "MA": "S27.9",
+                "TEN": "Tổn thương vùi lấp của ngực và cắt cụt sang chấn",
+                "TEN_EN": "Injury of unspecified intrathoracic organ"
+              }
+            ]
+          },
+          {
+            "MA": "S28",
+            "TEN": "Tổn thương vùi lấp của ngực và cắt cụt sang chấn phần của ngực",
+            "TEN_EN": "Crushing injury of thorax and traumatic amputation of part of thorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S28.0",
+                "TEN": "Ngực vùi lấp",
+                "TEN_EN": "Crushed chest"
+              },
+              {
+                "MA": "S28.1",
+                "TEN": "Cắt cụt các phần sang chấn của ngực",
+                "TEN_EN": "Traumatic amputation of part of thorax"
+              }
+            ]
+          },
+          {
+            "MA": "S29",
+            "TEN": "Tổn thương không đặc hiệu và khác của ngực",
+            "TEN_EN": "Other and unspecified injuries of thorax",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S29.0",
+                "TEN": "Tổn thương cơ và gân vùng ngực",
+                "TEN_EN": "Injury of muscle and tendon at thorax level"
+              },
+              {
+                "MA": "S29.7",
+                "TEN": "Tổn thương phức tạp của ngực",
+                "TEN_EN": "Multiple injuries of thorax"
+              },
+              {
+                "MA": "S29.8",
+                "TEN": "Tổn thương đặc hiệu khác của ngực",
+                "TEN_EN": "Other specified injuries of thorax"
+              },
+              {
+                "MA": "S29.9",
+                "TEN": "Tổn thương không đặc hiệu của ngực",
+                "TEN_EN": "Unspecified injury of thorax"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S30-S39",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương bụng, lưng dưới, cột sống thắt lưng và chân hông",
-        "TEN_EN": "Injuries to the abdomen, lower back, lumbar spine and pelvis"
+        "TEN_EN": "Injuries to the abdomen, lower back, lumbar spine and pelvis",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S30",
+            "TEN": "Tổn thương nông của bụng, lưng dưới và chậu hông",
+            "TEN_EN": "Superficial injury of abdomen, lower back and pelvis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S30.0",
+                "TEN": "đụng giập của lưng dưới và chân, hông",
+                "TEN_EN": "Contusion of lower back and pelvis"
+              },
+              {
+                "MA": "S30.1",
+                "TEN": "đụng giập thành bụng",
+                "TEN_EN": "Contusion of abdominal wall"
+              },
+              {
+                "MA": "S30.2",
+                "TEN": "Đụng giập cơ quan sinh dục ngoài",
+                "TEN_EN": "Contusion of external genital organs"
+              },
+              {
+                "MA": "S30.7",
+                "TEN": "Tổn thương nông phức tạp ở bụng, lưng dưới và chậu hông",
+                "TEN_EN": "Multiple superficial injuries of abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "S30.8",
+                "TEN": "Tổn thương nông khác của bụng, lưng dưới và chậu hông",
+                "TEN_EN": "Other superficial injuries of abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "S30.9",
+                "TEN": "Tổn thương nông của bụng, lưng dưới và chậu hông, phần không xác định",
+                "TEN_EN": "Superficial injury of abdomen, lower back and pelvis, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S31",
+            "TEN": "Vết thương hở của bụng, lưng dưới và chậu hông",
+            "TEN_EN": "Open wound of abdomen, lower back and pelvis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S31.0",
+                "TEN": "Vết thương hở của lưng dưới và chậu hông, phần không xác định",
+                "TEN_EN": "Open wound of lower back and pelvis"
+              },
+              {
+                "MA": "S31.1",
+                "TEN": "Vết thương hở của thành bụng",
+                "TEN_EN": "Open wound of abdominal wall"
+              },
+              {
+                "MA": "S31.2",
+                "TEN": "Vết thương hở của dương vật",
+                "TEN_EN": "Open wound of penis"
+              },
+              {
+                "MA": "S31.3",
+                "TEN": "Vết thương hở của bìu và tinh hoàn",
+                "TEN_EN": "Open wound of scrotum and testes"
+              },
+              {
+                "MA": "S31.4",
+                "TEN": "Vết thương hở của âm đạo và âm hộ",
+                "TEN_EN": "Open wound of vagina and vulva"
+              },
+              {
+                "MA": "S31.5",
+                "TEN": "Vết thương hở của các cơ quan sinh dục ngoài không đặc hiệu và khác",
+                "TEN_EN": "Open wound of other and unspecified external genital organs"
+              },
+              {
+                "MA": "S31.7",
+                "TEN": "Vết thương hở phức tạp của bụng, lưng dưới và chậu hông",
+                "TEN_EN": "Multiple open wounds of abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "S31.8",
+                "TEN": "Vết thương hở của các phần không đặc hiệu và khác của bụng",
+                "TEN_EN": "Open wound of other and unspecified parts of abdomen"
+              }
+            ]
+          },
+          {
+            "MA": "S32",
+            "TEN": "Gẫy cột sống thắt lưng và chậu hông",
+            "TEN_EN": "Fracture of lumbar spine and pelvis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S32.0",
+                "TEN": "Gẫy sống thắt lưng",
+                "TEN_EN": "Fracture of lumbar vertebra"
+              },
+              {
+                "MA": "S32.1",
+                "TEN": "Gẫy xương cùng",
+                "TEN_EN": "Fracture of sacrum"
+              },
+              {
+                "MA": "S32.2",
+                "TEN": "Gây xương cụt",
+                "TEN_EN": "Fracture of coccyx"
+              },
+              {
+                "MA": "S32.3",
+                "TEN": "Gẫy xương chậu",
+                "TEN_EN": "Fracture of ilium"
+              },
+              {
+                "MA": "S32.4",
+                "TEN": "Gẫy xương ổ cối",
+                "TEN_EN": "Fracture of acetabulum"
+              },
+              {
+                "MA": "S32.5",
+                "TEN": "Gẫy xương mu",
+                "TEN_EN": "Fracture of pubis"
+              },
+              {
+                "MA": "S32.7",
+                "TEN": "Gẫy phức tạp cột sống thắt lưng và chậu hông",
+                "TEN_EN": "Multiple fractures of lumbar spine and pelvis"
+              },
+              {
+                "MA": "S32.8",
+                "TEN": "Gẫy các phần không xác định và khác của gai thắt lưng và chậu",
+                "TEN_EN": "Fracture of other and unspecified parts of lumbar spine and pelvis"
+              }
+            ]
+          },
+          {
+            "MA": "S33",
+            "TEN": "Sai khớp, bong gân và giãn khớp và dây chằng cột sống thắt lưng và chậu",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S33.0",
+                "TEN": "Vỡ đĩa liên đốt thắt lưng do chấn thương",
+                "TEN_EN": "Traumatic rupture of lumbar intervertebral disc"
+              },
+              {
+                "MA": "S33.1",
+                "TEN": "Sai khớp sống thắt lưng",
+                "TEN_EN": "Dislocation of lumbar vertebra"
+              },
+              {
+                "MA": "S33.2",
+                "TEN": "Sai khớp cùng chậu và cùng cụt",
+                "TEN_EN": "Dislocation of sacroiliac and sacrococcygeal joint"
+              },
+              {
+                "MA": "S33.3",
+                "TEN": "Sai khớp các phần không xác định và khác của gai thắt lưng và chậu",
+                "TEN_EN": "Dislocation of other and unspecified parts of lumbar spine and pelvis"
+              },
+              {
+                "MA": "S33.4",
+                "TEN": "Vỡ khớp mu do chấn thương",
+                "TEN_EN": "Traumatic rupture of symphysis pubis"
+              },
+              {
+                "MA": "S33.5",
+                "TEN": "Bong gân và giãn khớp sống thắt lưng",
+                "TEN_EN": "Sprain and strain of lumbar spine"
+              },
+              {
+                "MA": "S33.6",
+                "TEN": "Bong gân và giãn khớp cùng chậu",
+                "TEN_EN": "Sprain and strain of sacroiliac joint"
+              },
+              {
+                "MA": "S33.7",
+                "TEN": "Bong gân và giãn khớp của các phần không xác định và khác của cột sống thắt lưng vàchậu",
+                "TEN_EN": "Sprain and strain of other and unspecified parts of lumbar spine and pelvis"
+              }
+            ]
+          },
+          {
+            "MA": "S34",
+            "TEN": "Tổn thương dây thần kinh và dây sống tại bụng, lưng và chậu hông",
+            "TEN_EN": "Injury of nerves and lumbar spinal cord at abdomen, lower back and pelvis level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S34.0",
+                "TEN": "Chấn động và phù của dây sống thắt lưng",
+                "TEN_EN": "Concussion and oedema of lumbar spinal cord"
+              },
+              {
+                "MA": "S34.1",
+                "TEN": "Vết thương khác của dây sống thắt lưng",
+                "TEN_EN": "Other injury of lumbar spinal cord"
+              },
+              {
+                "MA": "S34.2",
+                "TEN": "Vết thương rễ thần kinh của đốt sống thắt lưng và gai cùng",
+                "TEN_EN": "Injury of nerve root of lumbar and sacral spine"
+              },
+              {
+                "MA": "S34.3",
+                "TEN": "Tổn thương dây thần kinh đuôi ngựa",
+                "TEN_EN": "Injury of cauda equina"
+              },
+              {
+                "MA": "S34.4",
+                "TEN": "Tổn thương đám rối thần kinh thắt lưng cùng",
+                "TEN_EN": "Injury of lumbosacral plexus"
+              },
+              {
+                "MA": "S34.5",
+                "TEN": "Tổn thương dây thần kinh giao cảm vùng thắt lưng, cùng và chậu",
+                "TEN_EN": "Injury of lumbar, sacral and pelvic sympathetic nerves"
+              },
+              {
+                "MA": "S34.6",
+                "TEN": "Tổn thương (các) dây thần kinh ngoại vi của bụng, lưng và chậu",
+                "TEN_EN": "Injury of peripheral nerve(s) of abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "S34.8",
+                "TEN": "Tổn thương các dây thần kinh không xác định và khác của bụng, lưng và chậu",
+                "TEN_EN": "Injury of other and unspecified nerves at abdomen, lower back and pelvis level"
+              }
+            ]
+          },
+          {
+            "MA": "S35",
+            "TEN": "Tổn thương mạch máu vùng bụng, lưng và chậu",
+            "TEN_EN": "Injury of blood vessels at abdomen, lower back and pelvis level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S35.0",
+                "TEN": "Tổn thương động mạch chủ bụng",
+                "TEN_EN": "Injury of abdominal aorta"
+              },
+              {
+                "MA": "S35.1",
+                "TEN": "Tổn thương tĩnh mạch chủ dưới",
+                "TEN_EN": "Injury of inferior vena cava"
+              },
+              {
+                "MA": "S35.2",
+                "TEN": "Tổn thương động mạch bụng hay tràng",
+                "TEN_EN": "Injury of coeliac or mesenteric artery"
+              },
+              {
+                "MA": "S35.3",
+                "TEN": "Tổn thương tĩnh mạch cửa hay gan",
+                "TEN_EN": "Injury of portal or splenic vein"
+              },
+              {
+                "MA": "S35.4",
+                "TEN": "Tổn thương mạch máu thận",
+                "TEN_EN": "Injury of renal blood vessels"
+              },
+              {
+                "MA": "S35.5",
+                "TEN": "Tổn thương các mạch máu của chậu hông",
+                "TEN_EN": "Injury of iliac blood vessels"
+              },
+              {
+                "MA": "S35.7",
+                "TEN": "Tổn thương phức tạp mạch máu vùng bụng, lưng dưới và chậu",
+                "TEN_EN": "Injury of multiple blood vessels at abdomen, lower back and pelvis level"
+              },
+              {
+                "MA": "S35.8",
+                "TEN": "Tổn thương các mạch máu khác vùng bụng, lưng dưới và chậu",
+                "TEN_EN": "Injury of other blood vessels at abdomen, lower back and pelvis level"
+              },
+              {
+                "MA": "S35.9",
+                "TEN": "Tổn thương mạch máu không xác định vùng bụng, lưng và chậu",
+                "TEN_EN": "Injury of unspecified blood vessel at abdomen, lower back and pelvis level"
+              }
+            ]
+          },
+          {
+            "MA": "S36",
+            "TEN": "Tổn thương các cơ quan trong ổ bụng",
+            "TEN_EN": "Injury of intra-abdominal organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S36.0",
+                "TEN": "Vết thương lách",
+                "TEN_EN": "Injury of spleen"
+              },
+              {
+                "MA": "S36.1",
+                "TEN": "Vết thương gan hay túi mật",
+                "TEN_EN": "Injury of liver or gallbladder"
+              },
+              {
+                "MA": "S36.2",
+                "TEN": "Vết thương tụy",
+                "TEN_EN": "Injury of pancreas"
+              },
+              {
+                "MA": "S36.3",
+                "TEN": "Vết thương dạ dày",
+                "TEN_EN": "Injury of stomach"
+              },
+              {
+                "MA": "S36.4",
+                "TEN": "Vết thương ruột non",
+                "TEN_EN": "Injury of small intestine"
+              },
+              {
+                "MA": "S36.5",
+                "TEN": "Vết thương đại tràng",
+                "TEN_EN": "Injury of colon"
+              },
+              {
+                "MA": "S36.6",
+                "TEN": "Vết thương trực tràng",
+                "TEN_EN": "Injury of rectum"
+              },
+              {
+                "MA": "S36.7",
+                "TEN": "Vết thương nhiều cơ quan trong ổ bụng",
+                "TEN_EN": "Injury of multiple intra-abdominal organs"
+              },
+              {
+                "MA": "S36.8",
+                "TEN": "Vết thương các cơ quan khác trong ổ bụng",
+                "TEN_EN": "Injury of other intra-abdominal organs"
+              },
+              {
+                "MA": "S36.9",
+                "TEN": "Vết thương cơ quan trong ổ bụng không xác định",
+                "TEN_EN": "Injury of unspecified intra-abdominal organ"
+              }
+            ]
+          },
+          {
+            "MA": "S37",
+            "TEN": "Tổn thương của hệ tiết niệu và cơ quan ở chậu hông",
+            "TEN_EN": "Injury of urinary and pelvic organs",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S37.0",
+                "TEN": "Vết thương thận",
+                "TEN_EN": "Injury of kidney"
+              },
+              {
+                "MA": "S37.1",
+                "TEN": "Vết thương niệu quản",
+                "TEN_EN": "Injury of ureter"
+              },
+              {
+                "MA": "S37.2",
+                "TEN": "Vết thương bàng quang",
+                "TEN_EN": "Injury of bladder"
+              },
+              {
+                "MA": "S37.3",
+                "TEN": "Vết thương niệu đạo",
+                "TEN_EN": "Injury of urethra"
+              },
+              {
+                "MA": "S37.4",
+                "TEN": "Vết thương buồng trứng",
+                "TEN_EN": "Injury of ovary"
+              },
+              {
+                "MA": "S37.5",
+                "TEN": "Vết thương vòi trứng",
+                "TEN_EN": "Injury of fallopian tube"
+              },
+              {
+                "MA": "S37.6",
+                "TEN": "Vết thương tử cung",
+                "TEN_EN": "Injury of uterus"
+              },
+              {
+                "MA": "S37.7",
+                "TEN": "Vết thương nhiều cơ quan vùng chậu",
+                "TEN_EN": "Injury of multiple pelvic organs"
+              },
+              {
+                "MA": "S37.8",
+                "TEN": "Vết thương cơ quan vùng chậu khác",
+                "TEN_EN": "Injury of other pelvic organs"
+              },
+              {
+                "MA": "S37.9",
+                "TEN": "Vết thương cơ quan chậu không xác định",
+                "TEN_EN": "Injury of unspecified pelvic organ"
+              }
+            ]
+          },
+          {
+            "MA": "S38",
+            "TEN": "Vết thương vùi lấp và cắt đoạn sang chấn một phần của bụng, lưng dưới và chậu",
+            "TEN_EN": "Crushing injury and traumatic amputation of part of abdomen, lower back and pelvis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S38.0",
+                "TEN": "Vết thương vùi lấp cơ quan sinh dục ngoài",
+                "TEN_EN": "Crushing injury of external genital organs"
+              },
+              {
+                "MA": "S38.1",
+                "TEN": "Vết thương vùi lấp ở các phần không đặc hiệu khác của bụng, lưng dưới, chậu",
+                "TEN_EN": "Crushing injury of other and unspecified parts of abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "S38.2",
+                "TEN": "Cắt đoạn sang chấn cơ quan sinh dục ngoài",
+                "TEN_EN": "Traumatic amputation of external genital organs"
+              },
+              {
+                "MA": "S38.3",
+                "TEN": "Cắt đoạn sang chấn các phần không xác định và khác của bụng, lưng dưới và chậu",
+                "TEN_EN": "Traumatic amputation of other and unspecified parts of abdomen, lower back and pelvis"
+              }
+            ]
+          },
+          {
+            "MA": "S39",
+            "TEN": "Vết thương KXĐK và khác của bụng, lưng dưới và chậu",
+            "TEN_EN": "Other and unspecified injuries of abdomen, lower back and pelvis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S39.0",
+                "TEN": "Vết thương cơ và gân của bụng, lưng dưới và chậu",
+                "TEN_EN": "Injury of muscle and tendon of abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "S39.6",
+                "TEN": "Vết thương (các) cơ quan trong ổ bụng và (các) cơ quan chậu",
+                "TEN_EN": "Injury of intra-abdominal organ(s) with pelvic organ(s)"
+              },
+              {
+                "MA": "S39.7",
+                "TEN": "Vết thương phức tạp của bụng, lưng dưới và chậu",
+                "TEN_EN": "Other multiple injuries of abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "S39.8",
+                "TEN": "Vết thương đặc hiệu khác của bụng, lưng dưới và chậu",
+                "TEN_EN": "Other specified injuries of abdomen, lower back and pelvis"
+              },
+              {
+                "MA": "S39.9",
+                "TEN": "Tổn thương bụng, dưới lưng và chậu",
+                "TEN_EN": "Unspecified injury of abdomen, lower back and pelvis"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S40-S49",
         "MA_TRONG_CHUONG": "",
         "TEN": "Vết thương vai và cánh tay",
-        "TEN_EN": "Injuries to the shoulder and upper arm"
+        "TEN_EN": "Injuries to the shoulder and upper arm",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S40",
+            "TEN": "Vết thương nông của vai và cánh tay",
+            "TEN_EN": "Superficial injury of shoulder and upper arm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S40.0",
+                "TEN": "Chấn động vai và cánh tay",
+                "TEN_EN": "Contusion of shoulder and upper arm"
+              },
+              {
+                "MA": "S40.7",
+                "TEN": "Vết thương nông phức tạp của vai và cánh tay",
+                "TEN_EN": "Multiple superficial injuries of shoulder and upper arm"
+              },
+              {
+                "MA": "S40.8",
+                "TEN": "Vết thương nông khác của vai và cánh tay",
+                "TEN_EN": "Other superficial injuries of shoulder and upper arm"
+              },
+              {
+                "MA": "S40.9",
+                "TEN": "Vết thương nông của vai và cánh tay, không đặc hiệu",
+                "TEN_EN": "Superficial injury of shoulder and upper arm, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S41",
+            "TEN": "Vết thương hở của vai và cánh tay",
+            "TEN_EN": "Open wound of shoulder and upper arm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S41.0",
+                "TEN": "Vết thương hở của vai",
+                "TEN_EN": "Open wound of shoulder"
+              },
+              {
+                "MA": "S41.1",
+                "TEN": "Vết thương hở của cánh tay",
+                "TEN_EN": "Open wound of upper arm"
+              },
+              {
+                "MA": "S41.7",
+                "TEN": "Vết thương hở phức tạp của vai và cánh tay",
+                "TEN_EN": "Multiple open wounds of shoulder and upper arm"
+              },
+              {
+                "MA": "S41.8",
+                "TEN": "Vết thương hở của các phần không xác định và khác của vòng ngực",
+                "TEN_EN": "Open wound of other and unspecified parts of shoulder girdle"
+              }
+            ]
+          },
+          {
+            "MA": "S42",
+            "TEN": "Gẫy xương vai và xương cánh tay",
+            "TEN_EN": "Fracture of shoulder and upper arm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S42.0",
+                "TEN": "Gẫy xương đòn",
+                "TEN_EN": "Fracture of clavicle"
+              },
+              {
+                "MA": "S42.1",
+                "TEN": "Gẫy xương vai",
+                "TEN_EN": "Fracture of scapula"
+              },
+              {
+                "MA": "S42.2",
+                "TEN": "Gẫy phần trên xương cánh tay",
+                "TEN_EN": "Fracture of upper end of humerus"
+              },
+              {
+                "MA": "S42.3",
+                "TEN": "Gẫy thân xương cánh tay",
+                "TEN_EN": "Fracture of shaft of humerus"
+              },
+              {
+                "MA": "S42.4",
+                "TEN": "Gẫy phần dướu xương cánh tay",
+                "TEN_EN": "Fracture of lower end of humerus"
+              },
+              {
+                "MA": "S42.7",
+                "TEN": "Gẫy phức tạp xương đòn, xương vai và xương cánh tay",
+                "TEN_EN": "Multiple fractures of clavicle, scapula and humerus"
+              },
+              {
+                "MA": "S42.8",
+                "TEN": "Gẫy các phần khác của xương vai và xương cánh tay",
+                "TEN_EN": "Fracture of other parts of shoulder and upper arm"
+              },
+              {
+                "MA": "S42.9",
+                "TEN": "Gẫy xương của vòng ngực, phần không xác định",
+                "TEN_EN": "Fracture of shoulder girdle, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S43",
+            "TEN": "Sai khớp, bong gân và giãn khớp và dây chằng của vòng ngực",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments of shoulder girdle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S43.0",
+                "TEN": "Sai khớp vai",
+                "TEN_EN": "Dislocation of shoulder joint"
+              },
+              {
+                "MA": "S43.1",
+                "TEN": "Sai khớp mỏm cùng vai-đòn",
+                "TEN_EN": "Dislocation of acromioclavicular joint"
+              },
+              {
+                "MA": "S43.2",
+                "TEN": "Sai khớp ức-đòn",
+                "TEN_EN": "Dislocation of sternoclavicular joint"
+              },
+              {
+                "MA": "S43.3",
+                "TEN": "Sai khớp các phần không xác định và các phần khác của vòng ngực",
+                "TEN_EN": "Dislocation of other and unspecified parts of shoulder girdle"
+              },
+              {
+                "MA": "S43.4",
+                "TEN": "Bong gân và giãn khớp của vai",
+                "TEN_EN": "Sprain and strain of shoulder joint"
+              },
+              {
+                "MA": "S43.5",
+                "TEN": "Bong gân và giãn khớp mỏm cùng vai - đòn",
+                "TEN_EN": "Sprain and strain of acromioclavicular joint"
+              },
+              {
+                "MA": "S43.6",
+                "TEN": "Bong gân và giãn khớp của các phần khác và không xác định của vòng ngực",
+                "TEN_EN": "Sprain and strain of sternoclavicular joint"
+              },
+              {
+                "MA": "S43.7",
+                "TEN": "Bong gân và giãn khớp của các phần khác và không xác định của vòng ngực",
+                "TEN_EN": "Sprain and strain of other and unspecified parts of shoulder girdle"
+              }
+            ]
+          },
+          {
+            "MA": "S44",
+            "TEN": "Vết thương dây thần kinh tại vai và cánh tay trên",
+            "TEN_EN": "Injury of nerves at shoulder and upper arm level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S44.0",
+                "TEN": "Vết thương dây thần kinh tại vai và cánh tay trên",
+                "TEN_EN": "Injury of ulnar nerve at upper arm level"
+              },
+              {
+                "MA": "S44.1",
+                "TEN": "Vết thương dây thần kinh giữa tại cánh tay trên",
+                "TEN_EN": "Injury of median nerve at upper arm level"
+              },
+              {
+                "MA": "S44.2",
+                "TEN": "Vết thương dây thân kinh quay tại cánh tay trên",
+                "TEN_EN": "Injury of radial nerve at upper arm level"
+              },
+              {
+                "MA": "S44.3",
+                "TEN": "Vết thương dây thần kinh hố nách",
+                "TEN_EN": "Injury of axillary nerve"
+              },
+              {
+                "MA": "S44.4",
+                "TEN": "Vết thương dây thần kinh cơ-da",
+                "TEN_EN": "Injury of musculocutaneous nerve"
+              },
+              {
+                "MA": "S44.5",
+                "TEN": "Vết thương dây thần kinh cảm giác-da tai vai và cánh tay trên",
+                "TEN_EN": "Injury of cutaneous sensory nerve at shoulder and upper arm level"
+              },
+              {
+                "MA": "S44.7",
+                "TEN": "Vết thương nhiều dây thần kinh tại vai và cánh tay trên",
+                "TEN_EN": "Injury of multiple nerves at shoulder and upper arm level"
+              },
+              {
+                "MA": "S44.8",
+                "TEN": "Vết thương các dây thần kinh khác tại vai và cánh tay trên",
+                "TEN_EN": "Injury of other nerves at shoulder and upper arm level"
+              },
+              {
+                "MA": "S44.9",
+                "TEN": "Vết thương dây thần kinh không xác định tại vai và cánh tay trên",
+                "TEN_EN": "Injury of unspecified nerve at shoulder and upper arm level"
+              }
+            ]
+          },
+          {
+            "MA": "S45",
+            "TEN": "Vết thương mạch máu tại vai cánh tay trên",
+            "TEN_EN": "Injury of blood vessels at shoulder and upper arm level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S45.0",
+                "TEN": "Vết thương động mạch nách",
+                "TEN_EN": "Injury of axillary artery"
+              },
+              {
+                "MA": "S45.1",
+                "TEN": "Vết thương động mạch cánh tay",
+                "TEN_EN": "Injury of brachial artery"
+              },
+              {
+                "MA": "S45.2",
+                "TEN": "Vết thương tĩnh mạch nách hay cánh tay",
+                "TEN_EN": "Injury of axillary or brachial vein"
+              },
+              {
+                "MA": "S45.3",
+                "TEN": "Vết thương tĩnh mạch máu nông tại vai hay cánh tay trên",
+                "TEN_EN": "Injury of superficial vein at shoulder and upper arm level"
+              },
+              {
+                "MA": "S45.7",
+                "TEN": "Vết thương nhiều mạch máu tại vai và cánh tay trên",
+                "TEN_EN": "Injury of multiple blood vessels at shoulder and upper arm level"
+              },
+              {
+                "MA": "S45.8",
+                "TEN": "Vết thương các mạch máu khác tại vai và cánh tay trên",
+                "TEN_EN": "Injury of other blood vessels at shoulder and upper arm level"
+              },
+              {
+                "MA": "S45.9",
+                "TEN": "Vết thương mạch máu không xác định tại vai và cánh tay trên",
+                "TEN_EN": "Injury of unspecified blood vessel at shoulder and upper arm level"
+              }
+            ]
+          },
+          {
+            "MA": "S46",
+            "TEN": "Vết thương cơ và gân tại vai và cánh tay trên",
+            "TEN_EN": "Injury of muscle and tendon at shoulder and upper arm level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S46.0",
+                "TEN": "Tổn thương của các cơ và gân dải quay của vai",
+                "TEN_EN": "Injury of tendon of the rotator cuff of shoulder"
+              },
+              {
+                "MA": "S46.1",
+                "TEN": "Vết thương cơ và gân của đầu dài cơ nhị đầu",
+                "TEN_EN": "Injury of muscle and tendon of long head of biceps"
+              },
+              {
+                "MA": "S46.2",
+                "TEN": "Vết thương cơ và gân của các phần khác của cơ nhị đầu",
+                "TEN_EN": "Injury of muscle and tendon of other parts of biceps"
+              },
+              {
+                "MA": "S46.3",
+                "TEN": "Vết thương cơ và gân cơ tam đầu",
+                "TEN_EN": "Injury of muscle and tendon of triceps"
+              },
+              {
+                "MA": "S46.7",
+                "TEN": "Vết thương nhiều cơ và gân tại vai và cánh tay trên",
+                "TEN_EN": "Injury of multiple muscles and tendons at shoulder and upper arm level"
+              },
+              {
+                "MA": "S46.8",
+                "TEN": "Vết thương các cơ và gân khác tại vai và cánh tay trên",
+                "TEN_EN": "Injury of other muscles and tendons at shoulder and upper arm level"
+              },
+              {
+                "MA": "S46.9",
+                "TEN": "Vết thương cơ và gân không xác định tại vai và cánh tay trên",
+                "TEN_EN": "Injury of unspecified muscle and tendon at shoulder and upper arm level"
+              }
+            ]
+          },
+          {
+            "MA": "S47",
+            "TEN": "Tổn thương giập nát vai và cánh tay trên",
+            "TEN_EN": "Crushing injury of shoulder and upper arm",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S48",
+            "TEN": "Chấn thương cắt cụt vai và cánh tay trên",
+            "TEN_EN": "Traumatic amputation of shoulder and upper arm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S48.0",
+                "TEN": "Chấn thương cắt cụt khớp vai",
+                "TEN_EN": "Traumatic amputation at shoulder joint"
+              },
+              {
+                "MA": "S48.1",
+                "TEN": "Chấn thương cát cụt tại giữa vai và khủyu",
+                "TEN_EN": "Traumatic amputation at level between shoulder and elbow"
+              },
+              {
+                "MA": "S48.9",
+                "TEN": "Chấn thương cắt cụt ở vai và cánh tay trên, tầm chưa xác định",
+                "TEN_EN": "Traumatic amputation of shoulder and upper arm, level unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S49",
+            "TEN": "Tổn thương khác và chưa xác định ở vai và cánh tay trên",
+            "TEN_EN": "Other and unspecified injuries of shoulder and upper arm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S49.7",
+                "TEN": "Đa tổn thương ở vai và cánh tay trên",
+                "TEN_EN": "Multiple injuries of shoulder and upper arm"
+              },
+              {
+                "MA": "S49.8",
+                "TEN": "Tổn thương xác định khác ở vai và cánh tay trên",
+                "TEN_EN": "Other specified injuries of shoulder and upper arm"
+              },
+              {
+                "MA": "S49.9",
+                "TEN": "Tổn thương chưa xác định ở vai và cánh tay trên",
+                "TEN_EN": "Unspecified injury of shoulder and upper arm"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S50-S59",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương tại khuỷu tay và cẳng tay",
-        "TEN_EN": "Injuries to the elbow and forearm"
+        "TEN_EN": "Injuries to the elbow and forearm",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S50",
+            "TEN": "Tổn thương nông ở cẳng tay",
+            "TEN_EN": "Superficial injury of forearm",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S50.0",
+            "TEN": "đụng giập ở khủyu tay",
+            "TEN_EN": "Contusion of elbow"
+          },
+          {
+            "MA": "S50.1",
+            "TEN": "đụng giập khác và phần chưa xác định khác của cẳng tay",
+            "TEN_EN": "Contusion of other and unspecified parts of forearm"
+          },
+          {
+            "MA": "S50.7",
+            "TEN": "Đa tổn thương nông khác cẳng tay",
+            "TEN_EN": "Multiple superficial injuries of forearm"
+          },
+          {
+            "MA": "S50.8",
+            "TEN": "Tổn thương khác cẳng tay",
+            "TEN_EN": "Other superficial injuries of forearm"
+          },
+          {
+            "MA": "S50.9",
+            "TEN": "Tổn thương nông cẳng tay, chưa xác định",
+            "TEN_EN": "Superficial injury of forearm, unspecified"
+          },
+          {
+            "MA": "S51",
+            "TEN": "Vết thương hở ở cẳng tay",
+            "TEN_EN": "Open wound of forearm",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S51.0",
+            "TEN": "Vết thương hở ở khủyu tay",
+            "TEN_EN": "Open wound of elbow"
+          },
+          {
+            "MA": "S51.7",
+            "TEN": "Đa vết thương hở ở cẳng tay",
+            "TEN_EN": "Multiple open wounds of forearm"
+          },
+          {
+            "MA": "S51.8",
+            "TEN": "Vết thương hở ở phần khác của cẳng tay",
+            "TEN_EN": "Open wound of other parts of forearm"
+          },
+          {
+            "MA": "S51.9",
+            "TEN": "Vết thương hở cẳng tay, phần chưa xác định",
+            "TEN_EN": "Open wound of forearm, part unspecified"
+          },
+          {
+            "MA": "S52",
+            "TEN": "Gẫy xương ở cẳng tay",
+            "TEN_EN": "Fracture of forearm",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S52.0",
+            "TEN": "Gẫy xương đầu trên của xương trụ",
+            "TEN_EN": "Fracture of upper end of ulna"
+          },
+          {
+            "MA": "S52.1",
+            "TEN": "Gẫy xương đầu trên của xương quay",
+            "TEN_EN": "Fracture of upper end of radius"
+          },
+          {
+            "MA": "S52.2",
+            "TEN": "Gẫy thân xương trụ",
+            "TEN_EN": "Fracture of shaft of ulna"
+          },
+          {
+            "MA": "S52.3",
+            "TEN": "Gẫy thân xương quay",
+            "TEN_EN": "Fracture of shaft of radius"
+          },
+          {
+            "MA": "S52.4",
+            "TEN": "Gẫy thân xương cả trụ và quay",
+            "TEN_EN": "Fracture of shafts of both ulna and radius"
+          },
+          {
+            "MA": "S52.5",
+            "TEN": "Gẫy xương ở đầu thấp và xương quay",
+            "TEN_EN": "Fracture of lower end of radius"
+          },
+          {
+            "MA": "S52.6",
+            "TEN": "Gẫy xương đầu dưới cả xương trụ và xương quay",
+            "TEN_EN": "Fracture of lower end of both ulna and radius"
+          },
+          {
+            "MA": "S52.7",
+            "TEN": "Đa gẫy xương cẳng tay",
+            "TEN_EN": "Multiple fractures of forearm"
+          },
+          {
+            "MA": "S52.8",
+            "TEN": "Gẫy xương phần khác của cẳng tay",
+            "TEN_EN": "Fracture of other parts of forearm"
+          },
+          {
+            "MA": "S52.9",
+            "TEN": "Gẫy xương cẳng tay, phần chưa xác định",
+            "TEN_EN": "Fracture of forearm, part unspecified"
+          },
+          {
+            "MA": "S53",
+            "TEN": "Sai khớp, bong gân và căng cơ của khớp và dây chằng khuỷu tay",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments of elbow",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S53.0",
+            "TEN": "Sai khớp đầu xương quay",
+            "TEN_EN": "Dislocation of radial head"
+          },
+          {
+            "MA": "S53.1",
+            "TEN": "Sai khớp khủyu, chưa xác định",
+            "TEN_EN": "Dislocation of elbow, unspecified"
+          },
+          {
+            "MA": "S53.2",
+            "TEN": "Chấn thương đứt dây chằng hai bên xương quay",
+            "TEN_EN": "Traumatic rupture of radial collateral ligament"
+          },
+          {
+            "MA": "S53.3",
+            "TEN": "Chấn thương đứt dây chằng hai bên xương trụ",
+            "TEN_EN": "Traumatic rupture of ulnar collateral ligament"
+          },
+          {
+            "MA": "S53.4",
+            "TEN": "Bong gân và căng cơ khủyu tay",
+            "TEN_EN": "Sprain and strain of elbow"
+          },
+          {
+            "MA": "S54",
+            "TEN": "Tổn thương dây thần kinh cẳng tay",
+            "TEN_EN": "Injury of nerves at forearm level",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S54.0",
+            "TEN": "Tổn thương dây thần kinh trụ ở tầm cẳng tay",
+            "TEN_EN": "Injury of ulnar nerve at forearm level"
+          },
+          {
+            "MA": "S54.1",
+            "TEN": "Tổn thương dây thần kinh xương quay ở tầm cẳng tay",
+            "TEN_EN": "Injury of median nerve at forearm level"
+          },
+          {
+            "MA": "S54.2",
+            "TEN": "Tổn thương dây thần kinh xương quay ở tầm cẳng tay",
+            "TEN_EN": "Injury of radial nerve at forearm level"
+          },
+          {
+            "MA": "S54.3",
+            "TEN": "Tổn thương dây thần kinh cảm giác da ở tầm cẳng tay",
+            "TEN_EN": "Injury of cutaneous sensory nerve at forearm level"
+          },
+          {
+            "MA": "S54.7",
+            "TEN": "Tổn thương đa dây thần kinh ở tầm cẳng tay",
+            "TEN_EN": "Injury of multiple nerves at forearm level"
+          },
+          {
+            "MA": "S54.8",
+            "TEN": "Tổn thương dây thần kinh khác ở tầm cẳng tay",
+            "TEN_EN": "Injury of other nerves at forearm level"
+          },
+          {
+            "MA": "S54.9",
+            "TEN": "Tổn thương dây thần kinh chưa xác định ở tầm cẳng tay",
+            "TEN_EN": "Injury of unspecified nerve at forearm level"
+          },
+          {
+            "MA": "S55",
+            "TEN": "Tổn thương mạch máu ở tầm cẳng tay",
+            "TEN_EN": "Injury of blood vessels at forearm level",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S55.0",
+            "TEN": "Tổn thương động mạch xương trụ ở tầm cẳng tay",
+            "TEN_EN": "Injury of ulnar artery at forearm level"
+          },
+          {
+            "MA": "S55.1",
+            "TEN": "Tổn thương động mạch xương quay ở tầm cẳng tay",
+            "TEN_EN": "Injury of radial artery at forearm level"
+          },
+          {
+            "MA": "S55.2",
+            "TEN": "Tổn thương đa mạch máu ở tầm cẳng tay",
+            "TEN_EN": "Injury of vein at forearm level"
+          },
+          {
+            "MA": "S55.7",
+            "TEN": "Tổn thương đa mạch máu ở tầm cẳng tay",
+            "TEN_EN": "Injury of multiple blood vessels at forearm level"
+          },
+          {
+            "MA": "S55.8",
+            "TEN": "Tổn thương mạch máu khác ở tầm cẳng tay",
+            "TEN_EN": "Injury of other blood vessels at forearm level"
+          },
+          {
+            "MA": "S55.9",
+            "TEN": "Tổn thương mạch máu chưa rõ ở tầm cẳng tay",
+            "TEN_EN": "Injury of unspecified blood vessel at forearm level"
+          },
+          {
+            "MA": "S56",
+            "TEN": "Tổn thương cơ bắp và gân ở tầm cẳng tay",
+            "TEN_EN": "Injury of muscle and tendon at forearm level",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S56.0",
+            "TEN": "Tổn thương cơ gấp và gân ngón tay cái ở tầm cẳng tay",
+            "TEN_EN": "Injury of flexor muscle and tendon of thumb at forearm level"
+          },
+          {
+            "MA": "S56.1",
+            "TEN": "Tổn thương cơ gấp và ngón tay khác ở tầm cẳng tay",
+            "TEN_EN": "Injury of long flexor muscle and tendon of other finger(s) at forearm level"
+          },
+          {
+            "MA": "S56.2",
+            "TEN": "Tổn thương cơ gấp khác và gân ở tầm cẳng tay",
+            "TEN_EN": "Injury of other flexor muscle and tendon at forearm level"
+          },
+          {
+            "MA": "S56.3",
+            "TEN": "Tổn thương cơ duỗi và cơ giạng và gân ngón tay cái ở tầm cẳng tay",
+            "TEN_EN": "Injury of extensor or abductor muscles and tendons of thumb at forearm level"
+          },
+          {
+            "MA": "S56.4",
+            "TEN": "Tổn thương cơ duỗi và gân ngón khác ở tầm cẳng tay",
+            "TEN_EN": "Injury of extensor muscle and tendon of other finger(s) at forearm level"
+          },
+          {
+            "MA": "S56.5",
+            "TEN": "Tổn thương cơ duỗi khác và gân ở tầm cẳng tay",
+            "TEN_EN": "Injury of other extensor muscle and tendon at forearm level"
+          },
+          {
+            "MA": "S56.7",
+            "TEN": "Tổn thương đa cơ và gân ở tầm cẳng tay",
+            "TEN_EN": "Injury of multiple muscles and tendons at forearm level"
+          },
+          {
+            "MA": "S56.8",
+            "TEN": "Tổn thương cơ khác, chưa xác định và gân tầm cẳng tay",
+            "TEN_EN": "Injury of other and unspecified muscles and tendons at forearm level"
+          },
+          {
+            "MA": "S57",
+            "TEN": "Tổn thương dập nát ở cẳng tay",
+            "TEN_EN": "Crushing injury of forearm",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S57.0",
+            "TEN": "Tổn thương dập nát ở khủyu tay",
+            "TEN_EN": "Crushing injury of elbow"
+          },
+          {
+            "MA": "S57.8",
+            "TEN": "Tổn thương dập nát ở phần khác cẳng tay",
+            "TEN_EN": "Crushing injury of other parts of forearm"
+          },
+          {
+            "MA": "S57.9",
+            "TEN": "Tổn thương dập nát ở cẳng tay phần chưa xác định",
+            "TEN_EN": "Crushing injury of forearm, part unspecified"
+          },
+          {
+            "MA": "S58",
+            "TEN": "Chấn thương cắt cụt ở cẳng tay",
+            "TEN_EN": "Traumatic amputation of forearm",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "S58.0",
+            "TEN": "Chấn thương cắt cụt ở tầm khủyu tay",
+            "TEN_EN": "Traumatic amputation at elbow level"
+          },
+          {
+            "MA": "S58.1",
+            "TEN": "Chấn thương cắt cụt ở tầm giữa khủyu và cổ tay",
+            "TEN_EN": "Traumatic amputation at level between elbow and wrist"
+          },
+          {
+            "MA": "S58.9",
+            "TEN": "Chấn thương cắt cụt ở cẳng tay, tầm chưa xác định",
+            "TEN_EN": "Traumatic amputation of forearm, level unspecified"
+          },
+          {
+            "MA": "S59",
+            "TEN": "Tổn thương khác và chưa xác định của cẳng tay",
+            "TEN_EN": "Other and unspecified injuries of forearm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S59.7",
+                "TEN": "Đa tổn thương cẳng tay",
+                "TEN_EN": "Multiple injuries of forearm"
+              },
+              {
+                "MA": "S59.8",
+                "TEN": "Tổn thương khác được xác định ở cẳng tay",
+                "TEN_EN": "Other specified injuries of forearm"
+              },
+              {
+                "MA": "S59.9",
+                "TEN": "Tổn thương chưa xác định ở cẳng tay",
+                "TEN_EN": "Unspecified injury of forearm"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S60-S69",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương ở cổ tay và bàn tay",
-        "TEN_EN": "Injuries to the wrist and hand"
+        "TEN_EN": "Injuries to the wrist and hand",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S60",
+            "TEN": "Tổn thương nông ở cổ tay và bàn tay",
+            "TEN_EN": "Superficial injury of wrist and hand",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S60.0",
+                "TEN": "đụng giập các ngón tay không tổn thương móng",
+                "TEN_EN": "Contusion of finger(s) without damage to nail"
+              },
+              {
+                "MA": "S60.1",
+                "TEN": "đụng giập các ngón tay với tổn thương móng",
+                "TEN_EN": "Contusion of finger(s) with damage to nail"
+              },
+              {
+                "MA": "S60.2",
+                "TEN": "đụng giập các phần khác cổ tay và bàn tay",
+                "TEN_EN": "Contusion of other parts of wrist and hand"
+              },
+              {
+                "MA": "S60.7",
+                "TEN": "Đa tổn thương nông ở cổ tay và bàn tay",
+                "TEN_EN": "Multiple superficial injuries of wrist and hand"
+              },
+              {
+                "MA": "S60.8",
+                "TEN": "Tổn thương nông khác ở cổ tay và bàn tay",
+                "TEN_EN": "Other superficial injuries of wrist and hand"
+              },
+              {
+                "MA": "S60.9",
+                "TEN": "Tổn thương nông ở cổ tay và bàn tay không đặc hiệu",
+                "TEN_EN": "Superficial injury of wrist and hand, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S61",
+            "TEN": "Vết thương hở ở cổ tay và bàn tay",
+            "TEN_EN": "Open wound of wrist and hand",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S61.0",
+                "TEN": "Vết thương hở các ngón tay không tổn thương móng",
+                "TEN_EN": "Open wound of finger(s) without damage to nail"
+              },
+              {
+                "MA": "S61.1",
+                "TEN": "Vết thương hở các ngón tay với tổn thương móng",
+                "TEN_EN": "Open wound of finger(s) with damage to nail"
+              },
+              {
+                "MA": "S61.7",
+                "TEN": "Đa vết thương hở ở cổ tay và bàn tay",
+                "TEN_EN": "Multiple open wounds of wrist and hand"
+              },
+              {
+                "MA": "S61.8",
+                "TEN": "Vết thương hở các phần khác của cổ tay và bàn tay",
+                "TEN_EN": "Open wound of other parts of wrist and hand"
+              },
+              {
+                "MA": "S61.9",
+                "TEN": "Vết thương hở của cổ tay và bàn tay, phần không xác định",
+                "TEN_EN": "Open wound of wrist and hand part, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S62",
+            "TEN": "Gẫy xương tầm cổ tay và bàn tay",
+            "TEN_EN": "Fracture at wrist and hand level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S62.0",
+                "TEN": "Gẫy xương của xương thuyền bàn tay",
+                "TEN_EN": "Fracture of navicular [scaphoid] bone of hand"
+              },
+              {
+                "MA": "S62.1",
+                "TEN": "Gẫy xương khớp cổ tay khác",
+                "TEN_EN": "Fracture of other carpal bone(s)"
+              },
+              {
+                "MA": "S62.2",
+                "TEN": "Gẫy xương đốt đầu bàn tay",
+                "TEN_EN": "Fracture of first metacarpal bone"
+              },
+              {
+                "MA": "S62.3",
+                "TEN": "Gẫy xương đốt khác bàn tay",
+                "TEN_EN": "Fracture of other metacarpal bone"
+              },
+              {
+                "MA": "S62.4",
+                "TEN": "Gẫy nhiều xương đốt bàn tay",
+                "TEN_EN": "Multiple fractures of metacarpal bones"
+              },
+              {
+                "MA": "S62.5",
+                "TEN": "Gẫy xương ngón tay cái",
+                "TEN_EN": "Fracture of thumb"
+              },
+              {
+                "MA": "S62.6",
+                "TEN": "Gẫy xương các ngón tay khác",
+                "TEN_EN": "Fracture of other finger"
+              },
+              {
+                "MA": "S62.7",
+                "TEN": "Gẫy nhiều xương ngón tay",
+                "TEN_EN": "Multiple fractures of fingers"
+              },
+              {
+                "MA": "S62.8",
+                "TEN": "Gẫy xương khác và phần chưa xác định cổ tay và bàn tay",
+                "TEN_EN": "Fracture of other and unspecified parts of wrist and hand"
+              }
+            ]
+          },
+          {
+            "MA": "S63",
+            "TEN": "Sai khớp, bong gân và căng cơ của khớp và dây chằng tầm cổ tay và bàn tay",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments at wrist and hand level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S63.0",
+                "TEN": "Sai khớp cổ tay",
+                "TEN_EN": "Dislocation of wrist"
+              },
+              {
+                "MA": "S63.1",
+                "TEN": "Sai khớp ngón tay",
+                "TEN_EN": "Dislocation of finger"
+              },
+              {
+                "MA": "S63.2",
+                "TEN": "Sai khớp nhiều ngón tay",
+                "TEN_EN": "Multiple dislocations of fingers"
+              },
+              {
+                "MA": "S63.3",
+                "TEN": "Chấn thương đứt dây chằng cổ tay và khớp xương cổ tay",
+                "TEN_EN": "Traumatic rupture of ligament of wrist and carpus"
+              },
+              {
+                "MA": "S63.4",
+                "TEN": "Chấn thương đứt dây chằng ngón tay tại xương đốt bàn tay ngón tay và khớp xương cổ tay và gian đốt ngón (khớp)",
+                "TEN_EN": "Traumatic rupture of ligament of finger at metacarpophalangeal and interphalangeal joint(s)"
+              },
+              {
+                "MA": "S63.5",
+                "TEN": "Bong gân và căng cơ cổ tay",
+                "TEN_EN": "Sprain and strain of wrist"
+              },
+              {
+                "MA": "S63.6",
+                "TEN": "Bong gân và căng cơ các ngón tay",
+                "TEN_EN": "Sprain and strain of finger(s)"
+              },
+              {
+                "MA": "S63.7",
+                "TEN": "Bong gân và căng cơ phần khác, chưa xác định của bàn tay",
+                "TEN_EN": "Sprain and strain of other and unspecified parts of hand"
+              }
+            ]
+          },
+          {
+            "MA": "S64",
+            "TEN": "Tổn thương dây thần kinh tầm cổ tay và bàn tay",
+            "TEN_EN": "Injury of nerves at wrist and hand level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S64.0",
+                "TEN": "Tổn thương dây thần kinh xương trụ tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of ulnar nerve at wrist and hand level"
+              },
+              {
+                "MA": "S64.1",
+                "TEN": "Tổn thương dây thần kinh giữa tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of median nerve at wrist and hand level"
+              },
+              {
+                "MA": "S64.2",
+                "TEN": "Tổn thương dây thần kinh xương quay tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of radial nerve at wrist and hand level"
+              },
+              {
+                "MA": "S64.3",
+                "TEN": "Tổn thương dây thần kinh ngón tay của ngón tay cái",
+                "TEN_EN": "Injury of digital nerve of thumb"
+              },
+              {
+                "MA": "S64.4",
+                "TEN": "Tổn thương dây thần kinh ngón tay của ngón tay khác",
+                "TEN_EN": "Injury of digital nerve of other finger"
+              },
+              {
+                "MA": "S64.7",
+                "TEN": "Tổn thương đa dây thần kinh tại tầm cổ tay và bàn tays",
+                "TEN_EN": "Injury of multiple nerves at wrist and hand level"
+              },
+              {
+                "MA": "S64.8",
+                "TEN": "Tổn thương dây thần kinh khác tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of other nerves at wrist and hand level"
+              },
+              {
+                "MA": "S64.9",
+                "TEN": "Tổn thương dây thần kinh chưa xác định tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of unspecified nerve at wrist and hand level"
+              }
+            ]
+          },
+          {
+            "MA": "S65",
+            "TEN": "Tổn thương mạch máu tại tầm cổ tay và bàn tay",
+            "TEN_EN": "Injury of blood vessels at wrist and hand level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S65.0",
+                "TEN": "Tổn thương động mạch xương trụ tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of ulnar artery at wrist and hand level"
+              },
+              {
+                "MA": "S65.1",
+                "TEN": "Tổn thương động mạch quay tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of radial artery at wrist and hand level"
+              },
+              {
+                "MA": "S65.2",
+                "TEN": "Tổn thương nông cung gan bàn tay",
+                "TEN_EN": "Injury of superficial palmar arch"
+              },
+              {
+                "MA": "S65.3",
+                "TEN": "Tổn thương sâu cung gan bàn tay",
+                "TEN_EN": "Injury of deep palmar arch"
+              },
+              {
+                "MA": "S65.4",
+                "TEN": "Tổn thương mạch máu ngòn tay cái",
+                "TEN_EN": "Injury of blood vessel(s) of thumb"
+              },
+              {
+                "MA": "S65.5",
+                "TEN": "Tổn thương mạch máu ngón tay khác",
+                "TEN_EN": "Injury of blood vessel(s) of other finger"
+              },
+              {
+                "MA": "S65.7",
+                "TEN": "Tổn thương đa mạch máu tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of multiple blood vessels at wrist and hand level"
+              },
+              {
+                "MA": "S65.8",
+                "TEN": "Tổn thương mạch máu khác tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of other blood vessels at wrist and hand level"
+              },
+              {
+                "MA": "S65.9",
+                "TEN": "Tổn thương mạch máu chưa xác định tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of unspecified blood vessel at wrist and hand level"
+              }
+            ]
+          },
+          {
+            "MA": "S66",
+            "TEN": "Tổn thương cơ bắp và gân tại tầm cổ tay và bàn tay",
+            "TEN_EN": "Injury of muscle and tendon at wrist and hand level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S66.0",
+                "TEN": "Tổn thương cơ bắp gấp dài và gân ngón tay cái tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of long flexor muscle and tendon of thumb at wrist and hand level"
+              },
+              {
+                "MA": "S66.1",
+                "TEN": "Tổn thương cơ gấp và gân ngón tay khác tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of flexor muscle and tendon of other finger at wrist and hand level"
+              },
+              {
+                "MA": "S66.2",
+                "TEN": "Tổn thương cơ duỗi và gân ngón tay cái tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of extensor muscle and tendon of thumb at wrist and hand level"
+              },
+              {
+                "MA": "S66.3",
+                "TEN": "Tổn thương cơ duỗi và gân ngón tay khác tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of extensor muscle and tendon of other finger at wrist and hand level"
+              },
+              {
+                "MA": "S66.4",
+                "TEN": "Tổn thương cơ nội tại và gân ngón tay cái tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of intrinsic muscle and tendon of thumb at wrist and hand level"
+              },
+              {
+                "MA": "S66.5",
+                "TEN": "Tổn thương cơ nội tại và gân ngón tay khác tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of intrinsic muscle and tendon of other finger at wrist and hand level"
+              },
+              {
+                "MA": "S66.6",
+                "TEN": "Tổn thương đa cơ gấp và gân tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of multiple flexor muscles and tendons at wrist and hand level"
+              },
+              {
+                "MA": "S66.7",
+                "TEN": "Tổn thương đa cơ duỗi và gân tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of multiple extensor muscles and tendons at wrist and hand level"
+              },
+              {
+                "MA": "S66.8",
+                "TEN": "Tổn thương cơ khác và gân tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of other muscles and tendons at wrist and hand level"
+              },
+              {
+                "MA": "S66.9",
+                "TEN": "Tổn thương cơ chưa xác định và gân tại tầm cổ tay và bàn tay",
+                "TEN_EN": "Injury of unspecified muscle and tendon at wrist and hand level"
+              }
+            ]
+          },
+          {
+            "MA": "S67",
+            "TEN": "Tổn thương dập nát cổ tay và bàn tay",
+            "TEN_EN": "Crushing injury of wrist and hand",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S67.0",
+                "TEN": "Tổn thương dập nát ngón tay cái và các ngón tay khác",
+                "TEN_EN": "Crushing injury of thumb and other finger(s)"
+              },
+              {
+                "MA": "S67.8",
+                "TEN": "Tổn thương dập nát phần khác và chưa xác định của cổ tay và bàn tay",
+                "TEN_EN": "Crushing injury of other and unspecified parts of wrist and hand"
+              }
+            ]
+          },
+          {
+            "MA": "S68",
+            "TEN": "Chấn thương cắt cụt cổ tay và bàn tay",
+            "TEN_EN": "Traumatic amputation of wrist and hand",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S68.0",
+                "TEN": "Chấn thương cắt cụt ngón tay cái (toàn phần) (một phần)",
+                "TEN_EN": "Traumatic amputation of thumb (complete)(partial)"
+              },
+              {
+                "MA": "S68.1",
+                "TEN": "Chấn thương cắt cụt ngón tay khác (toàn phần) (một phần)",
+                "TEN_EN": "Traumatic amputation of other single finger (complete)(partial)"
+              },
+              {
+                "MA": "S68.2",
+                "TEN": "Chấn thương cắt cụt hai hoặc nhiều ngón tay đơn thuần (toàn phần) (một phần)",
+                "TEN_EN": "Traumatic amputation of two or more fingers alone (complete)(partial)"
+              },
+              {
+                "MA": "S68.3",
+                "TEN": "Chấn thương cắt cụt kết hợp một phần ngón tay với phần khác của cổ tay và bàn tay",
+                "TEN_EN": "Combined traumatic amputation of (part of) finger(s) with other parts of wrist and hand"
+              },
+              {
+                "MA": "S68.4",
+                "TEN": "Chấn thương cắt cụt tại cổ tay và bàn tay",
+                "TEN_EN": "Traumatic amputation of hand at wrist level"
+              },
+              {
+                "MA": "S68.8",
+                "TEN": "Chấn thương cắt cụt phần khác của cổ tay và bàn tay",
+                "TEN_EN": "Traumatic amputation of other parts of wrist and hand"
+              },
+              {
+                "MA": "S68.9",
+                "TEN": "Chấn thương cắt cụt cổ tay và bàn tay tầm chưa xác định",
+                "TEN_EN": "Traumatic amputation of wrist and hand, level unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S69",
+            "TEN": "Tổn thương khác và chưa xác định của cổ tay và bàn tay",
+            "TEN_EN": "Other and unspecified injuries of wrist and hand",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S69.7",
+                "TEN": "Đa tổn thương cổ tay và bàn tay",
+                "TEN_EN": "Multiple injuries of wrist and hand"
+              },
+              {
+                "MA": "S69.8",
+                "TEN": "Tổn thương xác định khác của cổ tay và bàn tay",
+                "TEN_EN": "Other specified injuries of wrist and hand"
+              },
+              {
+                "MA": "S69.9",
+                "TEN": "Tổn thương chưa xác định của cổ tay và bàn tay",
+                "TEN_EN": "Unspecified injury of wrist and hand"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S70-S79",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương tại háng và đùi",
-        "TEN_EN": "Injuries to the hip and thigh"
+        "TEN_EN": "Injuries to the hip and thigh",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S70",
+            "TEN": "Tổn thương nông tại háng và đùi",
+            "TEN_EN": "Superficial injury of hip and thigh",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S70.0",
+                "TEN": "đụng giập tại háng",
+                "TEN_EN": "Contusion of hip"
+              },
+              {
+                "MA": "S70.1",
+                "TEN": "đụng giập tại đùi",
+                "TEN_EN": "Contusion of thigh"
+              },
+              {
+                "MA": "S70.7",
+                "TEN": "Đa tổn thương nông tại háng và đùi",
+                "TEN_EN": "Multiple superficial injuries of hip and thigh"
+              },
+              {
+                "MA": "S70.8",
+                "TEN": "Tổn thương nông khác tại háng và đùi",
+                "TEN_EN": "Other superficial injuries of hip and thigh"
+              },
+              {
+                "MA": "S70.9",
+                "TEN": "Tổn thương nông tại háng và đùi, chưa xác định",
+                "TEN_EN": "Superficial injury of hip and thigh, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S71",
+            "TEN": "Vết thương hở tại háng và đùi",
+            "TEN_EN": "Open wound of hip and thigh",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S71.0",
+                "TEN": "Vết thương hở tại háng",
+                "TEN_EN": "Open wound of hip"
+              },
+              {
+                "MA": "S71.1",
+                "TEN": "Vết thương hở tại đùi",
+                "TEN_EN": "Open wound of thigh"
+              },
+              {
+                "MA": "S71.7",
+                "TEN": "Đa vết thương hở tại háng và đùi",
+                "TEN_EN": "Multiple open wounds of hip and thigh"
+              },
+              {
+                "MA": "S71.8",
+                "TEN": "Vết thương hở phần khác, chưa xác định của khung chậu",
+                "TEN_EN": "Open wound of other and unspecified parts of pelvic girdle"
+              }
+            ]
+          },
+          {
+            "MA": "S72",
+            "TEN": "Gẫy xương đùi",
+            "TEN_EN": "Fracture of femur",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S72.0",
+                "TEN": "Gẫy cổ xương đùi",
+                "TEN_EN": "Fracture of neck of femur"
+              },
+              {
+                "MA": "S72.1",
+                "TEN": "Gẫy mấu chuyển",
+                "TEN_EN": "Pertrochanteric fracture"
+              },
+              {
+                "MA": "S72.2",
+                "TEN": "Gẫy mấu chuyển phụ",
+                "TEN_EN": "Subtrochanteric fracture"
+              },
+              {
+                "MA": "S72.3",
+                "TEN": "Gẫy thân xương đùi",
+                "TEN_EN": "Fracture of shaft of femur"
+              },
+              {
+                "MA": "S72.4",
+                "TEN": "Gẫy xương đầu dưới xương đùi",
+                "TEN_EN": "Fracture of lower end of femur"
+              },
+              {
+                "MA": "S72.7",
+                "TEN": "Gẫy đa xương xương đùi",
+                "TEN_EN": "Multiple fractures of femur"
+              },
+              {
+                "MA": "S72.8",
+                "TEN": "Gẫy xương phần khác xương đùi",
+                "TEN_EN": "Fractures of other parts of femur"
+              },
+              {
+                "MA": "S72.9",
+                "TEN": "Gẫy xương đùi phần chưa xác định",
+                "TEN_EN": "Fracture of femur, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S73",
+            "TEN": "Sai khớp, bong gân và căng cơ khớp và dây chằng háng",
+            "TEN_EN": "Dislocation, sprain and strain of joint and ligaments of hip",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S73.0",
+                "TEN": "Sai khớp háng",
+                "TEN_EN": "Dislocation of hip"
+              },
+              {
+                "MA": "S73.1",
+                "TEN": "Bong gân và căng cơ của khớp háng",
+                "TEN_EN": "Sprain and strain of hip"
+              }
+            ]
+          },
+          {
+            "MA": "S74",
+            "TEN": "Tổn thương dây thần kinh tầm háng và đùi",
+            "TEN_EN": "Injury of nerves at hip and thigh level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S74.0",
+                "TEN": "Tổn thương dây thần kinh hông tại tầm háng và đùi",
+                "TEN_EN": "Injury of sciatic nerve at hip and thigh level"
+              },
+              {
+                "MA": "S74.1",
+                "TEN": "Tổn thương dây thần kinh đùi tại tầm háng và đùi",
+                "TEN_EN": "Injury of femoral nerve at hip and thigh level"
+              },
+              {
+                "MA": "S74.2",
+                "TEN": "Tổn thương dây thần kinh cảm giác da tại tầm háng và đùi",
+                "TEN_EN": "Injury of cutaneous sensory nerve at hip and thigh level"
+              },
+              {
+                "MA": "S74.7",
+                "TEN": "Tổn thương đa dây thần kinh tại tầm háng và đùi",
+                "TEN_EN": "Injury of multiple nerves at hip and thigh level"
+              },
+              {
+                "MA": "S74.8",
+                "TEN": "Tổn thương dây thần kinh khác tại tầm háng và đùi",
+                "TEN_EN": "Injury of other nerves at hip and thigh level"
+              },
+              {
+                "MA": "S74.9",
+                "TEN": "Tổn thương dây thần kinh chưa xác định tầm háng và đùi",
+                "TEN_EN": "Injury of unspecified nerve at hip and thigh level"
+              }
+            ]
+          },
+          {
+            "MA": "S75",
+            "TEN": "Tổn thương mạch máu tại tầm háng và đùi",
+            "TEN_EN": "Injury of blood vessels at hip and thigh level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S75.0",
+                "TEN": "Tổn thương động mạch đùi",
+                "TEN_EN": "Injury of femoral artery"
+              },
+              {
+                "MA": "S75.1",
+                "TEN": "Tổn thương tĩnh mạch đùi tại tầm háng và đùi",
+                "TEN_EN": "Injury of femoral vein at hip and thigh level"
+              },
+              {
+                "MA": "S75.2",
+                "TEN": "Tổn thương tĩnh mạch hiển lớn tại tầm háng và đùi",
+                "TEN_EN": "Injury of greater saphenous vein at hip and thigh level"
+              },
+              {
+                "MA": "S75.7",
+                "TEN": "Tổn thương đa mạch máu tại tầm háng và đùi",
+                "TEN_EN": "Injury of multiple blood vessels at hip and thigh level"
+              },
+              {
+                "MA": "S75.8",
+                "TEN": "Tổn thương mạch máu khác tại tầm háng và đùi",
+                "TEN_EN": "Injury of other blood vessels at hip and thigh level"
+              },
+              {
+                "MA": "S75.9",
+                "TEN": "Tổn thương mạch máu chưa xác định tại tầm háng và đùi",
+                "TEN_EN": "Injury of unspecified blood vessel at hip and thigh level"
+              }
+            ]
+          },
+          {
+            "MA": "S76",
+            "TEN": "Tổn thương cơ bắp và gân tại tầm háng và đùi",
+            "TEN_EN": "Injury of muscle and tendon at hip and thigh level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S76.0",
+                "TEN": "Tổn thương cơ và gân háng",
+                "TEN_EN": "Injury of muscle and tendon of hip"
+              },
+              {
+                "MA": "S76.1",
+                "TEN": "Tổn thương cơ tứ đầu và gân",
+                "TEN_EN": "Injury of quadriceps muscle and tendon"
+              },
+              {
+                "MA": "S76.2",
+                "TEN": "Tổn thương cơ khép và gân đùi",
+                "TEN_EN": "Injury of adductor muscle and tendon of thigh"
+              },
+              {
+                "MA": "S76.3",
+                "TEN": "Tổn thương cơ và gân của nhóm cơ sau tầm đùi",
+                "TEN_EN": "Injury of muscle and tendon of the posterior muscle group at thigh level"
+              },
+              {
+                "MA": "S76.4",
+                "TEN": "Tổn thương cơ khác và chưa xác định và gân tầm đùi",
+                "TEN_EN": "Injury of other and unspecified muscles and tendons at thigh level"
+              },
+              {
+                "MA": "S76.7",
+                "TEN": "Tổn thương đa cơ và gân tầm háng và đùi",
+                "TEN_EN": "Injury of multiple muscles and tendons at hip and thigh level"
+              }
+            ]
+          },
+          {
+            "MA": "S77",
+            "TEN": "Crushing injury of hip and thigh",
+            "TEN_EN": "Crushing injury of hip and thigh",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S77.0",
+                "TEN": "Crushing injury of hip",
+                "TEN_EN": "Crushing injury of hip"
+              },
+              {
+                "MA": "S77.1",
+                "TEN": "Crushing injury of thigh",
+                "TEN_EN": "Crushing injury of thigh"
+              },
+              {
+                "MA": "S77.2",
+                "TEN": "Crushing injury of hip with thigh",
+                "TEN_EN": "Crushing injury of hip with thigh"
+              }
+            ]
+          },
+          {
+            "MA": "S78",
+            "TEN": "Chấn thương cắt cụt ở háng và đùi",
+            "TEN_EN": "Traumatic amputation of hip and thigh",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S78.0",
+                "TEN": "Chấn thương cắt cụt ở háng và đùi",
+                "TEN_EN": "Traumatic amputation at hip joint"
+              },
+              {
+                "MA": "S78.1",
+                "TEN": "Chấn thương cắt cụt tầm giữa háng và khớp gối",
+                "TEN_EN": "Traumatic amputation at level between hip and knee"
+              },
+              {
+                "MA": "S78.9",
+                "TEN": "Chấn thương cắt cụt háng và đùi tầm chưa xác định",
+                "TEN_EN": "Traumatic amputation of hip and thigh, level unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S79",
+            "TEN": "Tổn thương khác chưa xác định của háng và đùi",
+            "TEN_EN": "Other and specified injuries of hip and thigh",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S79.7",
+                "TEN": "Đa tổn thương ở háng và đùi",
+                "TEN_EN": "Multiple injuries of hip and thigh"
+              },
+              {
+                "MA": "S79.8",
+                "TEN": "Tổn thương khác xác định của háng và đùi",
+                "TEN_EN": "Other specified injuries of hip and thigh"
+              },
+              {
+                "MA": "S79.9",
+                "TEN": "Tổn thương chưa xác định của háng và đùi",
+                "TEN_EN": "Unspecified injury of hip and thigh"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S80-S89",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương tại đầu gối và cẳng chân",
-        "TEN_EN": "Injuries to the knee and lower leg"
+        "TEN_EN": "Injuries to the knee and lower leg",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S80",
+            "TEN": "Tổn thương nông tại cẳng chân",
+            "TEN_EN": "Superficial injury of lower leg",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S80.0",
+                "TEN": "đụng giập tại đầu gối",
+                "TEN_EN": "Contusion of knee"
+              },
+              {
+                "MA": "S80.1",
+                "TEN": "đụng giập tại phần khác và chưa xác định của cẳng chân",
+                "TEN_EN": "Contusion of other and unspecified parts of lower leg"
+              },
+              {
+                "MA": "S80.7",
+                "TEN": "Đa tổn thương nông tại cẳng chân",
+                "TEN_EN": "Multiple superficial injuries of lower leg"
+              },
+              {
+                "MA": "S80.8",
+                "TEN": "Tổn thương nông khác tại cẳng chân",
+                "TEN_EN": "Other superficial injuries of lower leg"
+              },
+              {
+                "MA": "S80.9",
+                "TEN": "Tổn thương nông tại cẳng chân chưa xác định",
+                "TEN_EN": "Superficial injury of lower leg, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S81",
+            "TEN": "Vết thương hở tại cẳng chân",
+            "TEN_EN": "Open wound of lower leg",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S81.0",
+                "TEN": "Vết thương hở đầu gối",
+                "TEN_EN": "Open wound of knee"
+              },
+              {
+                "MA": "S81.7",
+                "TEN": "Đa vết thương hở chi dưới",
+                "TEN_EN": "Multiple open wounds of lower leg"
+              },
+              {
+                "MA": "S81.8",
+                "TEN": "Vết thương hở phần khác của chi dưới",
+                "TEN_EN": "Open wound of other parts of lower leg"
+              },
+              {
+                "MA": "S81.9",
+                "TEN": "Vết thương hở chi dưới, phần không xác định",
+                "TEN_EN": "Open wound of lower leg, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S82",
+            "TEN": "Gẫy xương cẳng chân, bao gồm cổ chân",
+            "TEN_EN": "Fracture of lower leg, including ankle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S82.0",
+                "TEN": "Gẫy xương bánh chè",
+                "TEN_EN": "Fracture of patella"
+              },
+              {
+                "MA": "S82.1",
+                "TEN": "Gẫy đầu trên của xương chày",
+                "TEN_EN": "Fracture of upper end of tibia"
+              },
+              {
+                "MA": "S82.2",
+                "TEN": "Gẫy thân xương chày",
+                "TEN_EN": "Fracture of shaft of tibia"
+              },
+              {
+                "MA": "S82.3",
+                "TEN": "Gẫy xương đầu dưới xương chày",
+                "TEN_EN": "Fracture of lower end of tibia"
+              },
+              {
+                "MA": "S82.4",
+                "TEN": "Gẫy xương đơn thuần xương mác",
+                "TEN_EN": "Fracture of fibula alone"
+              },
+              {
+                "MA": "S82.5",
+                "TEN": "Gẫy xương giữa mắt cá chân",
+                "TEN_EN": "Fracture of medial malleolus"
+              },
+              {
+                "MA": "S82.6",
+                "TEN": "Gẫy xương bên mắt cá chân",
+                "TEN_EN": "Fracture of lateral malleolus"
+              },
+              {
+                "MA": "S82.7",
+                "TEN": "Gẫy xương tại cẳng chân",
+                "TEN_EN": "Multiple fractures of lower leg"
+              },
+              {
+                "MA": "S82.8",
+                "TEN": "Gẫy xương khác của cẳng chân",
+                "TEN_EN": "Fractures of other parts of lower leg"
+              },
+              {
+                "MA": "S82.9",
+                "TEN": "Gẫy xương cẳng chân, phần chưa xác định",
+                "TEN_EN": "Fracture of lower leg, part unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S83",
+            "TEN": "Sai khớp, bong gân và căng cơ khớp và dây chằng đầu gối",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments of knee",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S83.0",
+                "TEN": "Sai khớp xương bánh chè",
+                "TEN_EN": "Dislocation of patella"
+              },
+              {
+                "MA": "S83.1",
+                "TEN": "Sai khớp gối",
+                "TEN_EN": "Dislocation of knee"
+              },
+              {
+                "MA": "S83.2",
+                "TEN": "Vết rách sụn chêm, hiện tại",
+                "TEN_EN": "Tear of meniscus, current"
+              },
+              {
+                "MA": "S83.3",
+                "TEN": "Rách khớp sụn đầu gối, hiện tại",
+                "TEN_EN": "Tear of articular cartilage of knee, current"
+              },
+              {
+                "MA": "S83.4",
+                "TEN": "Bong gân và căng cơ (xương mác) (xương chày) tổn thương phụ dây chằng khớp gối",
+                "TEN_EN": "Sprain and strain involving (fibular)(tibial) collateral ligament of knee"
+              },
+              {
+                "MA": "S83.5",
+                "TEN": "Bong gân và căng cơ (phía trước) (phía sau) tổn thương dây chằng chéo khớp gối",
+                "TEN_EN": "Sprain and strain involving (anterior)(posterior) cruciate ligament of knee"
+              },
+              {
+                "MA": "S83.6",
+                "TEN": "Bong gân và căng cơ phần khác và chưa xác định khớp gối",
+                "TEN_EN": "Sprain and strain of other and unspecified parts of knee"
+              },
+              {
+                "MA": "S83.7",
+                "TEN": "Tổn thương đa cấu trúc khớp gối",
+                "TEN_EN": "Injury to multiple structures of knee"
+              }
+            ]
+          },
+          {
+            "MA": "S84",
+            "TEN": "Tổn thương dây thần kinh tại tầm cẳng chân",
+            "TEN_EN": "Injury of nerves at lower leg level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S84.0",
+                "TEN": "Tổn thương dây thần kinh xương chày tại tầm cẳng chân",
+                "TEN_EN": "Injury of tibial nerve at lower leg level"
+              },
+              {
+                "MA": "S84.1",
+                "TEN": "Tổn thương dây thần kinh xương mác tại tầm cẳng chân",
+                "TEN_EN": "Injury of peroneal nerve at lower leg level"
+              },
+              {
+                "MA": "S84.2",
+                "TEN": "Tổn thương dây thần kinh xương cảm giác da tại tầm cẳng chân",
+                "TEN_EN": "Injury of cutaneous sensory nerve at lower leg level"
+              },
+              {
+                "MA": "S84.7",
+                "TEN": "Tổn thương đa dây thần kinh tại tầm cẳng chân",
+                "TEN_EN": "Injury of multiple nerves at lower leg level"
+              },
+              {
+                "MA": "S84.8",
+                "TEN": "Tổn thương dây thần kinh khác tại tầm cẳng chân",
+                "TEN_EN": "Injury of other nerves at lower leg level"
+              },
+              {
+                "MA": "S84.9",
+                "TEN": "Tổn thương dây thần kinh chưa xác định tầm cẳng chân",
+                "TEN_EN": "Injury of unspecified nerve at lower leg level"
+              }
+            ]
+          },
+          {
+            "MA": "S85",
+            "TEN": "Tổn thương mạch máu tại tầm cẳng chân",
+            "TEN_EN": "Injury of blood vessels at lower leg level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S85.0",
+                "TEN": "Tổn thương động mạch kheo",
+                "TEN_EN": "Injury of popliteal artery"
+              },
+              {
+                "MA": "S85.1",
+                "TEN": "Tổn thương (phía trước) (phía sau) động mạch xương chày",
+                "TEN_EN": "Injury of (anterior)(posterior) tibial artery"
+              },
+              {
+                "MA": "S85.2",
+                "TEN": "Tổn thương động mạch xương mác",
+                "TEN_EN": "Injury of peroneal artery"
+              },
+              {
+                "MA": "S85.3",
+                "TEN": "Tổn thương tĩnh mạch hiển lớn tại tầm cẳng chân",
+                "TEN_EN": "Injury of greater saphenous vein at lower leg level"
+              },
+              {
+                "MA": "S85.4",
+                "TEN": "Tổn thương tĩnh mạch hiển nhỏ tại tầm cẳng chân",
+                "TEN_EN": "Injury of lesser saphenous vein at lower leg level"
+              },
+              {
+                "MA": "S85.5",
+                "TEN": "Tổn thương tĩnh mạch kheo",
+                "TEN_EN": "Injury of popliteal vein"
+              },
+              {
+                "MA": "S85.7",
+                "TEN": "Tổn thương đa mạch máu tại tầm cẳng chân",
+                "TEN_EN": "Injury of multiple blood vessels at lower leg level"
+              },
+              {
+                "MA": "S85.8",
+                "TEN": "Tổn thương mạch máu khác tại tầm cẳng chân",
+                "TEN_EN": "Injury of other blood vessels at lower leg level"
+              },
+              {
+                "MA": "S85.9",
+                "TEN": "Tổn thương mạch máu chưa xác định tại tầm cẳng chân",
+                "TEN_EN": "Injury of unspecified blood vessel at lower leg level"
+              }
+            ]
+          },
+          {
+            "MA": "S86",
+            "TEN": "Tổn thương cơ bắp và gân tại tầm cẳng chân",
+            "TEN_EN": "Injury of muscle and tendon at lower leg level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S86.0",
+                "TEN": "Tổn thương gân gót (Achilles)",
+                "TEN_EN": "Injury of Achilles tendon"
+              },
+              {
+                "MA": "S86.1",
+                "TEN": "Tổn thương cơ khác và gân nhóm cơ sau tại tầm cẳng chân",
+                "TEN_EN": "Injury of other muscle(s) and tendon(s) of posterior muscle group at lower leg level"
+              },
+              {
+                "MA": "S86.2",
+                "TEN": "Tổn thương cơ khác và gân nhóm cơ trước tại tầm cẳng chân",
+                "TEN_EN": "Injury of muscle(s) and tendon(s) of anterior muscle group at lower leg level"
+              },
+              {
+                "MA": "S86.3",
+                "TEN": "Tổn thương cơ bắp và gân nhóm cơ trước tại tầm cẳng chân",
+                "TEN_EN": "Injury of muscle(s) and tendon(s) of peroneal muscle group at lower leg level"
+              },
+              {
+                "MA": "S86.7",
+                "TEN": "Tổn thương đa cơ và gân tại tầm cẳng chân",
+                "TEN_EN": "Injury of multiple muscles and tendons at lower leg level"
+              },
+              {
+                "MA": "S86.8",
+                "TEN": "Tổn thương cơ khác và gân tại tầm cẳng chân",
+                "TEN_EN": "Injury of other muscles and tendons at lower leg level"
+              },
+              {
+                "MA": "S86.9",
+                "TEN": "Tổn thương cơ chưa xác định và gân tầm cẳng chân",
+                "TEN_EN": "Injury of unspecified muscle and tendon at lower leg level"
+              }
+            ]
+          },
+          {
+            "MA": "S87",
+            "TEN": "Tổn thương dập nát tại cẳng chân",
+            "TEN_EN": "Crushing injury of lower leg",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S87.0",
+                "TEN": "Tổn thương dập nát khớp gối",
+                "TEN_EN": "Crushing injury of knee"
+              },
+              {
+                "MA": "S87.8",
+                "TEN": "Tổn thương dập nát phần khác, chưa xác định của cẳng chân",
+                "TEN_EN": "Crushing injury of other and unspecified parts of lower leg"
+              }
+            ]
+          },
+          {
+            "MA": "S88",
+            "TEN": "Chấn thương cắt cụt tầm khớp gối",
+            "TEN_EN": "Traumatic amputation of lower leg",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S88.0",
+                "TEN": "Chấn thương cắt cụt tầm khớp gối",
+                "TEN_EN": "Traumatic amputation at knee level"
+              },
+              {
+                "MA": "S88.1",
+                "TEN": "Chấn thương cắt cụt tầm giữa khớp gối và cổ chân",
+                "TEN_EN": "Traumatic amputation at level between knee and ankle"
+              },
+              {
+                "MA": "S88.9",
+                "TEN": "Chấn thương cắt cụt cẳng chân tầm chưa xác định",
+                "TEN_EN": "Traumatic amputation of lower leg, level unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S89",
+            "TEN": "Tổn thương khác và chưa xác định tại cẳng chân",
+            "TEN_EN": "Other and unspecified injuries of lower leg",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S89.7",
+                "TEN": "Đa tổn thương tại cẳng chân",
+                "TEN_EN": "Multiple injuries of lower leg"
+              },
+              {
+                "MA": "S89.8",
+                "TEN": "Tổn thương xác định khác tại cẳng chân",
+                "TEN_EN": "Other specified injuries of lower leg"
+              },
+              {
+                "MA": "S89.9",
+                "TEN": "Tổn thương chưa xác định tại cẳng chân",
+                "TEN_EN": "Unspecified injury of lower leg"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "S90-S99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Tổn thương tại cổ chân và bàn chân",
-        "TEN_EN": "Injuries to the ankle and foot"
+        "TEN_EN": "Injuries to the ankle and foot",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "S90",
+            "TEN": "Tổn thương nông tại cổ chân và bàn chân",
+            "TEN_EN": "Superficial injury of ankle and foot",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S90.0",
+                "TEN": "đụng giập tại cổ chân",
+                "TEN_EN": "Contusion of ankle"
+              },
+              {
+                "MA": "S90.1",
+                "TEN": "đụng giập ngón chân không có tổn thương móng",
+                "TEN_EN": "Contusion of toe(s) without damage to nail"
+              },
+              {
+                "MA": "S90.2",
+                "TEN": "đụng giập ngón chân có tổn thương móng",
+                "TEN_EN": "Contusion of toe(s) with damage to nail"
+              },
+              {
+                "MA": "S90.3",
+                "TEN": "đụng giập phần khác và chưa xác định tại bàn chân",
+                "TEN_EN": "Contusion of other and unspecified parts of foot"
+              },
+              {
+                "MA": "S90.7",
+                "TEN": "Đa tổn thương nông tại cổ chân và bàn chân",
+                "TEN_EN": "Multiple superficial injuries of ankle and foot"
+              },
+              {
+                "MA": "S90.8",
+                "TEN": "Tổn thương nông khác tại cổ chân và bàn chân",
+                "TEN_EN": "Other superficial injuries of ankle and foot"
+              },
+              {
+                "MA": "S90.9",
+                "TEN": "Tổn thương nông tại cổ chân và bàn chân chưa xác định",
+                "TEN_EN": "Superficial injury of ankle and foot, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S91",
+            "TEN": "Vết thương hở tại cổ chân và bàn chân",
+            "TEN_EN": "Open wound of ankle and foot",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S91.0",
+                "TEN": "Vết thương hở tại cổ chân",
+                "TEN_EN": "Open wound of ankle"
+              },
+              {
+                "MA": "S91.1",
+                "TEN": "Vết thương hở tại ngón chân không có tổn thương móng",
+                "TEN_EN": "Open wound of toe(s) without damage to nail"
+              },
+              {
+                "MA": "S91.2",
+                "TEN": "Vết thương hở tại ngón chân với tổn thương móng",
+                "TEN_EN": "Open wound of toe(s) with damage to nail"
+              },
+              {
+                "MA": "S91.3",
+                "TEN": "Vết thương hở tại phần khác của bàn chân",
+                "TEN_EN": "Open wound of other parts of foot"
+              },
+              {
+                "MA": "S91.7",
+                "TEN": "Đa vết thương hở ở cẳng chân và bàn chân",
+                "TEN_EN": "Multiple open wounds of ankle and foot"
+              }
+            ]
+          },
+          {
+            "MA": "S92",
+            "TEN": "gẫy xương bàn chân, trừ cổ chân",
+            "TEN_EN": "Fracture of foot, except ankle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S92.0",
+                "TEN": "Gẫy xương gót",
+                "TEN_EN": "Fracture of calcaneus"
+              },
+              {
+                "MA": "S92.1",
+                "TEN": "Gẫy xương mắt cá",
+                "TEN_EN": "Fracture of talus"
+              },
+              {
+                "MA": "S92.2",
+                "TEN": "Gẫy xương cổ chân khác",
+                "TEN_EN": "Fracture of other tarsal bone(s)"
+              },
+              {
+                "MA": "S92.3",
+                "TEN": "Gẫy xương đốt bàn chân",
+                "TEN_EN": "Fracture of metatarsal bone"
+              },
+              {
+                "MA": "S92.4",
+                "TEN": "Gẫy xương ngón chân cái",
+                "TEN_EN": "Fracture of great toe"
+              },
+              {
+                "MA": "S92.5",
+                "TEN": "Gẫy xương ngón chân khác",
+                "TEN_EN": "Fracture of other toe"
+              },
+              {
+                "MA": "S92.7",
+                "TEN": "Gẫy nhiều xương bàn chân",
+                "TEN_EN": "Multiple fractures of foot"
+              },
+              {
+                "MA": "S92.9",
+                "TEN": "Gẫy xương bàn chân chưa xác định",
+                "TEN_EN": "Fracture of foot, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S93",
+            "TEN": "Sai khớp, bong gân, căng cơ khớp và dây chằng tại tầm cẳng chân và bàn chân",
+            "TEN_EN": "Dislocation, sprain and strain of joints and ligaments at ankle and foot level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S93.0",
+                "TEN": "Sai khớp cổ chân",
+                "TEN_EN": "Dislocation of ankle joint"
+              },
+              {
+                "MA": "S93.1",
+                "TEN": "Sai khớp ngón chân",
+                "TEN_EN": "Dislocation of toe(s)"
+              },
+              {
+                "MA": "S93.2",
+                "TEN": "Đứt dây chằng tại tầm cẳng chân và bàn chân",
+                "TEN_EN": "Rupture of ligaments at ankle and foot level"
+              },
+              {
+                "MA": "S93.3",
+                "TEN": "Sai khớp phần khác và chưa xác định tại bàn chân",
+                "TEN_EN": "Dislocation of other and unspecified parts of foot"
+              },
+              {
+                "MA": "S93.4",
+                "TEN": "Bong gân và căng cơ cổ chân",
+                "TEN_EN": "Sprain and strain of ankle"
+              },
+              {
+                "MA": "S93.5",
+                "TEN": "Bong gân và căng cơ ngón chân",
+                "TEN_EN": "Sprain and strain of toe(s)"
+              },
+              {
+                "MA": "S93.6",
+                "TEN": "Bong gân và căng cơ phần khác, chưa xác định của bàn chân",
+                "TEN_EN": "Sprain and strain of other and unspecified parts of foot"
+              }
+            ]
+          },
+          {
+            "MA": "S94",
+            "TEN": "Tổn thương dây thần kinh tại tầm cổ chân và bàn chân",
+            "TEN_EN": "Injury of nerves at ankle and foot level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S94.0",
+                "TEN": "Tổn thương dây thần kinh bên bàn chân",
+                "TEN_EN": "Injury of lateral plantar nerve"
+              },
+              {
+                "MA": "S94.1",
+                "TEN": "Tổn thương dây thần kinh giữa bàn chân",
+                "TEN_EN": "Injury of medial plantar nerve"
+              },
+              {
+                "MA": "S94.2",
+                "TEN": "Tổn thương dây thần kinh sâu xương mác tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of deep peroneal nerve at ankle and foot level"
+              },
+              {
+                "MA": "S94.3",
+                "TEN": "Tổn thương dây thần kinh cảm giác da tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of cutaneous sensory nerve at ankle and foot level"
+              },
+              {
+                "MA": "S94.7",
+                "TEN": "Tổn thương đa dây thần kinh tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of multiple nerves at ankle and foot level"
+              },
+              {
+                "MA": "S94.8",
+                "TEN": "Tổn thương dây thần kinh khác tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of other nerves at ankle and foot level"
+              },
+              {
+                "MA": "S94.9",
+                "TEN": "Tổn thương dây thần kinh chưa xác định tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of unspecified nerve at ankle and foot level"
+              }
+            ]
+          },
+          {
+            "MA": "S95",
+            "TEN": "Tổn thương mạch máu tại tầm cổ chân và bàn chân",
+            "TEN_EN": "Injury of blood vessels at ankle and foot level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S95.0",
+                "TEN": "Tổn thương động mạch mu bàn chân",
+                "TEN_EN": "Injury of dorsal artery of foot"
+              },
+              {
+                "MA": "S95.1",
+                "TEN": "Tổn thương động mạch gan bàn chân",
+                "TEN_EN": "Injury of plantar artery of foot"
+              },
+              {
+                "MA": "S95.2",
+                "TEN": "Tổn thương tĩnh mạch mu bàn chân",
+                "TEN_EN": "Injury of dorsal vein of foot"
+              },
+              {
+                "MA": "S95.7",
+                "TEN": "Tổn thương đa mạch máu tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of multiple blood vessels at ankle and foot level"
+              },
+              {
+                "MA": "S95.8",
+                "TEN": "Tổn thương mạch máu khác tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of other blood vessels at ankle and foot level"
+              },
+              {
+                "MA": "S95.9",
+                "TEN": "Tổn thương mạch máu chưa xác định tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of unspecified blood vessel at ankle and foot level"
+              }
+            ]
+          },
+          {
+            "MA": "S96",
+            "TEN": "Tổn thương cơ bắp và gân tại tầm cổ chân và bàn chân",
+            "TEN_EN": "Injury of muscle and tendon at ankle and foot level",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S96.0",
+                "TEN": "Tổn thương cơ và gân cơ gấp dài của ngón tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of muscle and tendon of long flexor muscle of toe at ankle and foot level"
+              },
+              {
+                "MA": "S96.1",
+                "TEN": "Tổn thương cơ và gân cơ duỗi dài của ngón tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of muscle and tendon of long extensor muscle of toe at ankle and foot level"
+              },
+              {
+                "MA": "S96.2",
+                "TEN": "Tổn thương cơ trong và gân tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of intrinsic muscle and tendon at ankle and foot level"
+              },
+              {
+                "MA": "S96.7",
+                "TEN": "Tổn thương đa cơ và gân tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of multiple muscles and tendons at ankle and foot level"
+              },
+              {
+                "MA": "S96.8",
+                "TEN": "Tổn thương cơ khác và gân tại tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of other muscles and tendons at ankle and foot level"
+              },
+              {
+                "MA": "S96.9",
+                "TEN": "Tổn thương cơ chưa xác định và gân tầm cổ chân và bàn chân",
+                "TEN_EN": "Injury of unspecified muscle and tendon at ankle and foot level"
+              }
+            ]
+          },
+          {
+            "MA": "S97",
+            "TEN": "Tổn thương dập nát tại cổ chân và bàn chân",
+            "TEN_EN": "Crushing injury of ankle and foot",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S97.0",
+                "TEN": "Tổn thương dập nát tại cổ chân",
+                "TEN_EN": "Crushing injury of ankle"
+              },
+              {
+                "MA": "S97.1",
+                "TEN": "Tổn thương dập nát tại ngón chân",
+                "TEN_EN": "Crushing injury of toe(s)"
+              },
+              {
+                "MA": "S97.8",
+                "TEN": "Tổn thương dập nát tại phần khác của cổ chân và bàn chân",
+                "TEN_EN": "Crushing injury of other parts of ankle and foot"
+              }
+            ]
+          },
+          {
+            "MA": "S98",
+            "TEN": "Chấn thương cắt cụt cổ chân và bàn chân",
+            "TEN_EN": "Traumatic amputation of ankle and foot",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S98.0",
+                "TEN": "Chấn thương cắt cụt bàn chân tại tầm cổ chân",
+                "TEN_EN": "Traumatic amputation of foot at ankle level"
+              },
+              {
+                "MA": "S98.1",
+                "TEN": "Chấn thương cắt cụt một ngón chân",
+                "TEN_EN": "Traumatic amputation of one toe"
+              },
+              {
+                "MA": "S98.2",
+                "TEN": "Chấn thương cắt cụt hai hoặc nhiều ngón chân",
+                "TEN_EN": "Traumatic amputation of two or more toes"
+              },
+              {
+                "MA": "S98.3",
+                "TEN": "Chấn thương cắt cụt phần khác của bàn chân",
+                "TEN_EN": "Traumatic amputation of other parts of foot"
+              },
+              {
+                "MA": "S98.4",
+                "TEN": "Chấn thương cắt cụt bàn chân tại tầm chưa xác định",
+                "TEN_EN": "Traumatic amputation of foot, level unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "S99",
+            "TEN": "Tổn thương khác và chưa xác định của cổ chân và bàn chân",
+            "TEN_EN": "Other and unspecified injuries of ankle and foot",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "S99.7",
+                "TEN": "Đa tổn thương tại cổ chân và bàn chân",
+                "TEN_EN": "Multiple injuries of ankle and foot"
+              },
+              {
+                "MA": "S99.8",
+                "TEN": "Tổn thương khác đã xác định tại cổ chân và bàn chân",
+                "TEN_EN": "Other specified injuries of ankle and foot"
+              },
+              {
+                "MA": "S99.9",
+                "TEN": "Tổn thương chưa xác định tại cổ chân và bàn chân",
+                "TEN_EN": "Unspecified injury of ankle and foot"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "T00-T07",

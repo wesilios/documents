@@ -58875,43 +58875,3783 @@
         "MA": "Z00-Z13",
         "MA_TRONG_CHUONG": "",
         "TEN": "Những người đến cơ sở y tế để khám và kiểm tra sức khỏe",
-        "TEN_EN": "Persons encountering health services for examination and investigation"
+        "TEN_EN": "Persons encountering health services for examination and investigation",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Z00",
+            "TEN": "Khám tổng quát và kiểm tra sức khỏe cho những người không có điều gì than phiền về sức khỏe hoặc những người đã có chẩn đoán",
+            "TEN_EN": "General examination and investigation of persons without complaint and reported diagnosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z00.0",
+                "TEN": "Khám sức khỏe tổng quát",
+                "TEN_EN": "General medical examination"
+              },
+              {
+                "MA": "Z00.1",
+                "TEN": "Khám trẻ em thường quy",
+                "TEN_EN": "Routine child health examination"
+              },
+              {
+                "MA": "Z00.2",
+                "TEN": "Khám thời kỳ phát triển nhanh của trẻ",
+                "TEN_EN": "Examination for period of rapid growth in childhood"
+              },
+              {
+                "MA": "Z00.3",
+                "TEN": "Khám tình trạng phát triển ở tuổi thanh thiếu niên",
+                "TEN_EN": "Examination for adolescent development state"
+              },
+              {
+                "MA": "Z00.4",
+                "TEN": "Khám tâm thần tổng quát, chưa được phân loại ở phần khác",
+                "TEN_EN": "General psychiatric examination, not elsewhere classified"
+              },
+              {
+                "MA": "Z00.5",
+                "TEN": "Khám cho người muốn hiến tạng và mô",
+                "TEN_EN": "Examination of potential donor of organ and tissue"
+              },
+              {
+                "MA": "Z00.6",
+                "TEN": "Khám để so sánh bình thường và đối chứng trong chương trình nghiên cứu lâm sàng",
+                "TEN_EN": "Examination for normal comparison and control in clinical research programme"
+              },
+              {
+                "MA": "Z00.8",
+                "TEN": "Các loại khám tổng quát khác",
+                "TEN_EN": "Other general examinations"
+              }
+            ]
+          },
+          {
+            "MA": "Z01",
+            "TEN": "Khám đặc biệt và kiểm tra sức khỏe khác cho những người không có điều gì than phiền về sức khỏe hay đã có chẩn đoán trước",
+            "TEN_EN": "Other special examinations and investigations of persons without complaint or reported diagnosis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z01.0",
+                "TEN": "Khám mắt và thị lực",
+                "TEN_EN": "Examination of eyes and vision"
+              },
+              {
+                "MA": "Z01.1",
+                "TEN": "Khám tai và thính lực",
+                "TEN_EN": "Examination of ears and hearing"
+              },
+              {
+                "MA": "Z01.2",
+                "TEN": "Khám răng",
+                "TEN_EN": "Dental examination"
+              },
+              {
+                "MA": "Z01.3",
+                "TEN": "Đo huyết áp",
+                "TEN_EN": "Examination of blood pressure"
+              },
+              {
+                "MA": "Z01.4",
+                "TEN": "Khám phụ khoa (tổng quát) (thường kỳ)",
+                "TEN_EN": "Gynaecological examination (general)(routine)"
+              },
+              {
+                "MA": "Z01.5",
+                "TEN": "Chẩn đoán về da và các test mẫn cảm",
+                "TEN_EN": "Diagnostic skin and sensitization tests"
+              },
+              {
+                "MA": "Z01.6",
+                "TEN": "Khám điện quang, chưa được phân loại ở phần khác",
+                "TEN_EN": "Radiological examination, not elsewhere classified"
+              },
+              {
+                "MA": "Z01.7",
+                "TEN": "Xét nghiệm cận lâm sàng",
+                "TEN_EN": "Laboratory examination"
+              },
+              {
+                "MA": "Z01.8",
+                "TEN": "Các khám xét đặc biệt xác định khác",
+                "TEN_EN": "Other specified special examinations"
+              },
+              {
+                "MA": "Z01.9",
+                "TEN": "Khám xét đặc biệt, không đặc hiệu",
+                "TEN_EN": "Special examination, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z02",
+            "TEN": "Khám vì lý do hành chính",
+            "TEN_EN": "Examination and encounter for administrative purposes",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z02.0",
+                "TEN": "Khám để nhập trường học",
+                "TEN_EN": "Examination for admission to educational institution"
+              },
+              {
+                "MA": "Z02.1",
+                "TEN": "Khám trước khi nhận công tác",
+                "TEN_EN": "Pre-employment examination"
+              },
+              {
+                "MA": "Z02.2",
+                "TEN": "Khám để nhập vào nơi cư trú",
+                "TEN_EN": "Examination for admission to residential institutions"
+              },
+              {
+                "MA": "Z02.3",
+                "TEN": "Khám tuyển quân",
+                "TEN_EN": "Examination for recruitment to armed forces"
+              },
+              {
+                "MA": "Z02.4",
+                "TEN": "Khám để chứng nhận giấy phép lái xe",
+                "TEN_EN": "Examination for driving licence"
+              },
+              {
+                "MA": "Z02.5",
+                "TEN": "Khám để tham gia thể thao",
+                "TEN_EN": "Examination for participation in sport"
+              },
+              {
+                "MA": "Z02.6",
+                "TEN": "Khám vì lý do bảo hiểm",
+                "TEN_EN": "Examination for insurance purposes"
+              },
+              {
+                "MA": "Z02.7",
+                "TEN": "Cấp giấy chứng nhận y học",
+                "TEN_EN": "Issue of medical certificate"
+              },
+              {
+                "MA": "Z02.8",
+                "TEN": "Các khám khác vì lý do hành chính",
+                "TEN_EN": "Other examinations for administrative purposes"
+              },
+              {
+                "MA": "Z02.9",
+                "TEN": "Khám vì lý do hành chính, không đặc hiệu",
+                "TEN_EN": "Examination for administrative purposes, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z03",
+            "TEN": "Quan sát thăm khám khi nghi ngờ bệnh và những tình trạng nghi ngờ bệnh",
+            "TEN_EN": "Medical observation and evaluation for suspected diseases and conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z03.0",
+                "TEN": "Quan sát khi nghi ngờ mắc bệnh lao",
+                "TEN_EN": "Observation for suspected tuberculosis"
+              },
+              {
+                "MA": "Z03.1",
+                "TEN": "Quan sát khi nghi u ác tính",
+                "TEN_EN": "Observation for suspected malignant neoplasm"
+              },
+              {
+                "MA": "Z03.2",
+                "TEN": "Quan sát khi nghi ngờ các rối loạn tâm thần và hành vi",
+                "TEN_EN": "Observation for suspected mental and behavioural disorders"
+              },
+              {
+                "MA": "Z03.3",
+                "TEN": "Quan sát khi nghi có rối loạn hệ thần kinh",
+                "TEN_EN": "Observation for suspected nervous system disorder"
+              },
+              {
+                "MA": "Z03.4",
+                "TEN": "Quan sát khi nghi ngờ có nhồi máu cơ tim",
+                "TEN_EN": "Observation for suspected myocardial infarction"
+              },
+              {
+                "MA": "Z03.5",
+                "TEN": "Quan sát khi nghi ngờ có các bệnh tim mạch khác",
+                "TEN_EN": "Observation for other suspected cardiovascular diseases"
+              },
+              {
+                "MA": "Z03.6",
+                "TEN": "Quan sát khi nghi ngờ ảnh hưởng của độc tính trong thực phẩm",
+                "TEN_EN": "Observation for suspected toxic effect from ingested substance"
+              },
+              {
+                "MA": "Z03.8",
+                "TEN": "Quan sát khi có các bệnh và tình trạng nghi ngờ bệnh tật khác",
+                "TEN_EN": "Observation for other suspected diseases and conditions"
+              },
+              {
+                "MA": "Z03.9",
+                "TEN": "Quan sát khi có các bệnh và trạng thái bệnh nghi ngờ không đặc hiệu",
+                "TEN_EN": "Observation for suspected disease or condition, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z04",
+            "TEN": "Khám và quan sát vì những lý do khác",
+            "TEN_EN": "Examination and observation for other reasons",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z04.0",
+                "TEN": "Xét nghiệm phát hiện rượu trong máu và ma túy trong máu",
+                "TEN_EN": "Blood-alcohol and blood-drug test"
+              },
+              {
+                "MA": "Z04.1",
+                "TEN": "Khám và quan sát sau tai nạn giao thông",
+                "TEN_EN": "Examination and observation following transport accident"
+              },
+              {
+                "MA": "Z04.2",
+                "TEN": "Khám và quan sát sau tai nạn lao động",
+                "TEN_EN": "Examination and observation following work accident"
+              },
+              {
+                "MA": "Z04.3",
+                "TEN": "Khám và quan sát sau tai nạn khác",
+                "TEN_EN": "Examination and observation following other accident"
+              },
+              {
+                "MA": "Z04.4",
+                "TEN": "Khám và quan sát sau cưỡng dâm và dụ dỗ",
+                "TEN_EN": "Examination and observation following alleged rape and seduction"
+              },
+              {
+                "MA": "Z04.5",
+                "TEN": "Khám và quan sát sau khi bị vết thương khác gây ra",
+                "TEN_EN": "Examination and observation following other inflicted injury"
+              },
+              {
+                "MA": "Z04.6",
+                "TEN": "Khám tâm thần tổng quát do nhà chức trách yêu cầu",
+                "TEN_EN": "General psychiatric examination, requested by authority"
+              },
+              {
+                "MA": "Z04.8",
+                "TEN": "Khám và quan sát vì lý do xác định khác",
+                "TEN_EN": "Examination and observation for other specified reasons"
+              },
+              {
+                "MA": "Z04.9",
+                "TEN": "Khám và quan sát vì lý do không xác định",
+                "TEN_EN": "Examination and observation for unspecified reason"
+              }
+            ]
+          },
+          {
+            "MA": "Z08",
+            "TEN": "Khám theo dõi sau điều trị u ác tính",
+            "TEN_EN": "Follow-up examination after treatment for malignant neoplasms",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z08.0",
+                "TEN": "Khám theo dõi sau phẫu thuật khối u ác tính",
+                "TEN_EN": "Follow-up examination after surgery for malignant neoplasm"
+              },
+              {
+                "MA": "Z08.1",
+                "TEN": "Khám theo dõi sau điều trị xạ trị u ác tính",
+                "TEN_EN": "Follow-up examination after radiotherapy for malignant neoplasm"
+              },
+              {
+                "MA": "Z08.2",
+                "TEN": "Khám theo dõi hóa trị liệu u ác tính",
+                "TEN_EN": "Follow-up examination after chemotherapy for malignant neoplasm"
+              },
+              {
+                "MA": "Z08.7",
+                "TEN": "Khám theo dõi sau điều trị phối hợp u ác tính",
+                "TEN_EN": "Follow-up examination after combined treatment for malignant neoplasm"
+              },
+              {
+                "MA": "Z08.8",
+                "TEN": "Khám theo dõi sau điều trị khác của u ác tính",
+                "TEN_EN": "Follow-up examination after other treatment for malignant neoplasm"
+              },
+              {
+                "MA": "Z08.9",
+                "TEN": "Khám theo dõi sau điều trị không đặc hiệu của u ác tính",
+                "TEN_EN": "Follow-up examination after unspecified treatment for malignant neoplasm"
+              }
+            ]
+          },
+          {
+            "MA": "Z09",
+            "TEN": "Khám theo dõi sau điều trị các tình trạng bệnh khác đi kèm với khối u ác tính",
+            "TEN_EN": "Follow-up examination after treatment for conditions other than malignant neoplasms",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z09.0",
+                "TEN": "Khám theo dõi sau phẫu các tình trạng khác",
+                "TEN_EN": "Follow-up examination after surgery for other conditions"
+              },
+              {
+                "MA": "Z09.1",
+                "TEN": "Khám theo dõi sau xạ trị liệu các tình trạng khác",
+                "TEN_EN": "Follow-up examination after radiotherapy for other conditions"
+              },
+              {
+                "MA": "Z09.2",
+                "TEN": "Khám theo dõi sau hóa trị liệu các trạng thái khác",
+                "TEN_EN": "Follow-up examination after chemotherapy for other conditions"
+              },
+              {
+                "MA": "Z09.3",
+                "TEN": "Khám theo dõi sau tâm lí liệu pháp",
+                "TEN_EN": "Follow-up examination after psychotherapy"
+              },
+              {
+                "MA": "Z09.4",
+                "TEN": "Khám theo dõi sau điều trị gẫy xương",
+                "TEN_EN": "Follow-up examination after treatment of fracture"
+              },
+              {
+                "MA": "Z09.7",
+                "TEN": "Khám theo dõi sau điều trị phối hợp các trạng thái khác",
+                "TEN_EN": "Follow-up examination after combined treatment for other conditions"
+              },
+              {
+                "MA": "Z09.8",
+                "TEN": "Khám theo dõi sau điều trị khác của các trạng thái khác",
+                "TEN_EN": "Follow-up examination after other treatment for other conditions"
+              },
+              {
+                "MA": "Z09.9",
+                "TEN": "Khám theo dõi sau điều trị không đặc hiệu của các trạng thái khác",
+                "TEN_EN": "Follow-up examination after unspecified treatment for other conditions"
+              }
+            ]
+          },
+          {
+            "MA": "Z10",
+            "TEN": "Kiểm tra sức khỏe tổng quát thường quy cho nhóm dân cư xác định",
+            "TEN_EN": "Routine general health check-up of defined subpopulation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z10.0",
+                "TEN": "Khám sức khỏe về nghề nghiệp",
+                "TEN_EN": "Occupational health examination"
+              },
+              {
+                "MA": "Z10.1",
+                "TEN": "Kiểm tra sức khỏe tổng quát thường quy cho nhân viên cơ quan",
+                "TEN_EN": "Routine general health check-up of inhabitants of institutions"
+              },
+              {
+                "MA": "Z10.2",
+                "TEN": "Kiểm tra sức khỏe tổng quát thường quy của lực lượng vũ trang",
+                "TEN_EN": "Routine general health check-up of armed forces"
+              },
+              {
+                "MA": "Z10.3",
+                "TEN": "Kiểm tra sức khỏe tổng quát thường quy cho các đội thể thao",
+                "TEN_EN": "Routine general health check-up of sports teams"
+              },
+              {
+                "MA": "Z10.8",
+                "TEN": "Kiểm tra sức khỏe tổng quát thường quy cho các nhóm dân cư xác định khác",
+                "TEN_EN": "Routine general health check-up of other defined subpopulations"
+              }
+            ]
+          },
+          {
+            "MA": "Z11",
+            "TEN": "Khám sàng lọc đặc biệt các bệnh nhiễm khuẩn và ký sinh trùng",
+            "TEN_EN": "Special screening examination for infectious and parasitic diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z11.0",
+                "TEN": "Khám sàng lọc đặc biệt về các bệnh nhiễm khuẩn đường ruột",
+                "TEN_EN": "Special screening examination for intestinal infectious diseases"
+              },
+              {
+                "MA": "Z11.1",
+                "TEN": "Khám sàng lọc đặc biệt về lao phổi",
+                "TEN_EN": "Special screening examination for respiratory tuberculosis"
+              },
+              {
+                "MA": "Z11.2",
+                "TEN": "Khám sàng lọc đặc biệt về các bệnh nhiễm khuẩn khác",
+                "TEN_EN": "Special screening examination for other bacterial diseases"
+              },
+              {
+                "MA": "Z11.3",
+                "TEN": "Khám sàng lọc đặc biệt về các nhiễm khuẩn có đường lây chủ yếu qua tình dục",
+                "TEN_EN": "Special screening examination for infections with a predominantly sexual mode of transmission"
+              },
+              {
+                "MA": "Z11.4",
+                "TEN": "Khám sàng lọc đặc biệt về virus suy giảm miễn dịch người (HIV)",
+                "TEN_EN": "Special screening examination for human immunodeficiency virus [HIV]"
+              },
+              {
+                "MA": "Z11.5",
+                "TEN": "Khám sàng lọc đặc biệt về các bệnh virus khác",
+                "TEN_EN": "Special screening examination for other viral diseases"
+              },
+              {
+                "MA": "Z11.6",
+                "TEN": "Khám sàng lọc đặc biệt về các bệnh do động vật đơn bào khác và giun sán",
+                "TEN_EN": "Special screening examination for other protozoal diseases and helminthiases"
+              },
+              {
+                "MA": "Z11.8",
+                "TEN": "Khám sàng lọc đặc biệt về các bệnh nhiễm khuẩn và ký sinh vật khác",
+                "TEN_EN": "Special screening examination for other infectious and parasitic diseases"
+              },
+              {
+                "MA": "Z11.9",
+                "TEN": "Khám sàng lọc đặc biệt về các bệnh nhiễm khuẩn và ký sinh vật khác, không đặc hiệu",
+                "TEN_EN": "Special screening examination for infectious and parasitic diseases, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z12",
+            "TEN": "Khám sàng lọc đặc biệt các khối u",
+            "TEN_EN": "Special screening examination for neoplasms",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z12.0",
+                "TEN": "Khám sàng lọc đặc biệt u dạ dày",
+                "TEN_EN": "Special screening examination for neoplasm of stomach"
+              },
+              {
+                "MA": "Z12.1",
+                "TEN": "Khám sàng lọc đặc biệt u đường ruột",
+                "TEN_EN": "Special screening examination for neoplasm of intestinal tract"
+              },
+              {
+                "MA": "Z12.2",
+                "TEN": "Khám sàng lọc đặc biệt u cơ quan hô hấp",
+                "TEN_EN": "Special screening examination for neoplasm of respiratory organs"
+              },
+              {
+                "MA": "Z12.3",
+                "TEN": "Khám sàng lọc đặc biệt u vú",
+                "TEN_EN": "Special screening examination for neoplasm of breast"
+              },
+              {
+                "MA": "Z12.4",
+                "TEN": "Khám sàng lọc đặc biệt về u cổ tử cung",
+                "TEN_EN": "Special screening examination for neoplasm of cervix"
+              },
+              {
+                "MA": "Z12.5",
+                "TEN": "Khám sàng lọc đặc biệt u tiền liệt tuyến",
+                "TEN_EN": "Special screening examination for neoplasm of prostate"
+              },
+              {
+                "MA": "Z12.6",
+                "TEN": "Khám sàng lọc đặc biệt u bàng quang",
+                "TEN_EN": "Special screening examination for neoplasm of bladder"
+              },
+              {
+                "MA": "Z12.8",
+                "TEN": "Khám sàng lọc đặc biệt khối u ở vị trí khác",
+                "TEN_EN": "Special screening examination for neoplasms of other sites"
+              },
+              {
+                "MA": "Z12.9",
+                "TEN": "Khám sàng lọc đặc biệt khối u, không đặc hiệu",
+                "TEN_EN": "Special screening examination for neoplasm, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z13",
+            "TEN": "Khám sàng lọc đặc biệt các bệnh và các rối loạn khác",
+            "TEN_EN": "Special screening examination for other diseases and disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z13.0",
+                "TEN": "Khám sàng lọc đặc biệt các bệnh về máu và các cơ quan tạo máu và một số rối loạn liên quan đến cơ chế miễn dịch",
+                "TEN_EN": "Special screening examination for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+              },
+              {
+                "MA": "Z13.1",
+                "TEN": "Khám sàng lọc đặc biệt đái tháo đường",
+                "TEN_EN": "Special screening examination for diabetes mellitus"
+              },
+              {
+                "MA": "Z13.2",
+                "TEN": "Khám sàng lọc đặc biệt các rối loạn dinh dưỡng",
+                "TEN_EN": "Special screening examination for nutritional disorders"
+              },
+              {
+                "MA": "Z13.3",
+                "TEN": "Khám sàng lọc đặc biệt các rối loạn tâm thần và hành vi",
+                "TEN_EN": "Special screening examination for mental and behavioural disorders"
+              },
+              {
+                "MA": "Z13.4",
+                "TEN": "Khám sàng lọc đặc biệt một số loạn phát triển của trẻ em",
+                "TEN_EN": "Special screening examination for certain developmental disorders in childhood"
+              },
+              {
+                "MA": "Z13.5",
+                "TEN": "Khám sàng lọc đặc biệt các rối loạn thị giác và thính giác",
+                "TEN_EN": "Special screening examination for eye and ear disorders"
+              },
+              {
+                "MA": "Z13.6",
+                "TEN": "Khám sàng lọc đặc biệt các rối loạn tim mạch",
+                "TEN_EN": "Special screening examination for cardiovascular disorders"
+              },
+              {
+                "MA": "Z13.7",
+                "TEN": "Khám sàng lọc đặc biệt các dị dạng bẩm sinh, các biến dạng khác và các bất thường nhiễm sắc thể",
+                "TEN_EN": "Special screening examination for congenital malformations, deformations and chromosomal abnormalities"
+              },
+              {
+                "MA": "Z13.8",
+                "TEN": "Khám sàng lọc đặc biệt các bệnh và các rối loạn xác định khác",
+                "TEN_EN": "Special screening examination for other specified diseases and disorders"
+              },
+              {
+                "MA": "Z13.9",
+                "TEN": "Khám sàng lọc đặc biệt, không đặc hiệu",
+                "TEN_EN": "Special screening examination, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Z20-Z29",
         "MA_TRONG_CHUONG": "",
         "TEN": "Những người có nguy cơ tiềm tàng về sức khỏe liên quan đến các bệnh lây truyền",
-        "TEN_EN": "Persons with potential health hazards related to communicable diseases"
+        "TEN_EN": "Persons with potential health hazards related to communicable diseases",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Z20",
+            "TEN": "Tiếp xúc và phơi nhiễm với các bệnh lây truyền",
+            "TEN_EN": "Contact with and exposure to communicable diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z20.0",
+                "TEN": "Tiếp xúc và phơi nhiễm với các bệnh nhiễm khuẩn đường ruột",
+                "TEN_EN": "Contact with and exposure to intestinal infectious diseases"
+              },
+              {
+                "MA": "Z20.1",
+                "TEN": "Tiếp xúc và phơi nhiễm với vi khuẩn lao",
+                "TEN_EN": "Contact with and exposure to tuberculosis"
+              },
+              {
+                "MA": "Z20.2",
+                "TEN": "Tiếp xúc và phơi nhiễm với các bệnh nhiễm khuẩn lây truyền chủ yếu qua đường tình dục",
+                "TEN_EN": "Contact with and exposure to infections with a predominantly sexual mode of transmission"
+              },
+              {
+                "MA": "Z20.3",
+                "TEN": "Tiếp xúc và phơi nhiễm với bệnh virus dại",
+                "TEN_EN": "Contact with and exposure to rabies"
+              },
+              {
+                "MA": "Z20.4",
+                "TEN": "Tiếp xúc và phơi nhiễm với virus rubella",
+                "TEN_EN": "Contact with and exposure to rubella"
+              },
+              {
+                "MA": "Z20.5",
+                "TEN": "Tiếp xúc và phơi nhiễm với virus viêm gan",
+                "TEN_EN": "Contact with and exposure to viral hepatitis"
+              },
+              {
+                "MA": "Z20.6",
+                "TEN": "Tiếp xúc và phơi nhiễm với virus suy giảm miễn dịch người (HIV)",
+                "TEN_EN": "Contact with and exposure to human immunodeficiency virus [HIV]"
+              },
+              {
+                "MA": "Z20.7",
+                "TEN": "Tiếp xúc và phơi nhiễm với chấy rận, giun đũa và các ký sinh trùng khác",
+                "TEN_EN": "Contact with and exposure to pediculosis, acariasis and other infestations"
+              },
+              {
+                "MA": "Z20.8",
+                "TEN": "Tiếp xúc và phơi nhiễm với các bệnh lây truyền khác",
+                "TEN_EN": "Contact with and exposure to other communicable diseases"
+              },
+              {
+                "MA": "Z20.9",
+                "TEN": "Tiếp xúc và phơi nhiễm với bệnh lây truyền không xác định",
+                "TEN_EN": "Contact with and exposure to unspecified communicable disease"
+              }
+            ]
+          },
+          {
+            "MA": "Z21",
+            "TEN": "Trạng thái nhiễm virus suy giảm miễn dịch (HIV) không triệu chứng",
+            "TEN_EN": "Asymptomatic human immunodeficiency virus (HIV) infection status",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "Z22",
+            "TEN": "Mang mầm bệnh nhiễm khuẩn",
+            "TEN_EN": "Carrier of infectious disease",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z22.0",
+                "TEN": "Mang mầm bệnh thương hàn",
+                "TEN_EN": "Carrier of typhoid"
+              },
+              {
+                "MA": "Z22.1",
+                "TEN": "Mang mầm bệnh nhiễm khuẩn đường ruột khác",
+                "TEN_EN": "Carrier of other intestinal infectious diseases"
+              },
+              {
+                "MA": "Z22.2",
+                "TEN": "Mang mầm bệnh bạch hầu",
+                "TEN_EN": "Carrier of diphtheria"
+              },
+              {
+                "MA": "Z22.3",
+                "TEN": "Mang mầm bệnh các vi khuẩn xác định khác",
+                "TEN_EN": "Carrier of other specified bacterial diseases"
+              },
+              {
+                "MA": "Z22.4",
+                "TEN": "Mang mầm bệnh nhiễm khuẩn có đường lây chủ yếu qua tình dục",
+                "TEN_EN": "Carrier of infections with a predominantly sexual mode of transmission"
+              },
+              {
+                "MA": "Z22.5",
+                "TEN": "Mang virus viêm gan",
+                "TEN_EN": "Carrier of viral hepatitis"
+              },
+              {
+                "MA": "Z22.6",
+                "TEN": "Mang virus typ 1 hướng lympho T người [HTLV.1 ]",
+                "TEN_EN": "Carrier of human T-lymphotropic virus type- 1 [HTLV-1] infection"
+              },
+              {
+                "MA": "Z22.8",
+                "TEN": "Mang mầm bệnh nhiễm khuẩn khác",
+                "TEN_EN": "Carrier of other infectious diseases"
+              },
+              {
+                "MA": "Z22.9",
+                "TEN": "Mang mầm bệnh nhiễm khuẩn, không đặc hiệu",
+                "TEN_EN": "Carrier of infectious disease, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z23",
+            "TEN": "Cần tiêm chủng phòng các bệnh nhiễm khuẩn đơn thuần",
+            "TEN_EN": "Need for immunization against single bacterial diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z23.0",
+                "TEN": "Tiêm chủng phòng thương hàn đơn độc",
+                "TEN_EN": "Need for immunization against cholera alone"
+              },
+              {
+                "MA": "Z23.1",
+                "TEN": "Tiêm chủng phòng thương hàn - cận thương hàn đơn độc [TAB]",
+                "TEN_EN": "Need for immunization against typhoid-paratyphoid alone [TAB]"
+              },
+              {
+                "MA": "Z23.2",
+                "TEN": "Tiêm chủng phòng lao [BCG]",
+                "TEN_EN": "Need for immunization against tuberculosis [BCG]"
+              },
+              {
+                "MA": "Z23.3",
+                "TEN": "Tiêm chủng phòng dịch hạch",
+                "TEN_EN": "Need for immunization against plague"
+              },
+              {
+                "MA": "Z23.4",
+                "TEN": "Tiêm chủng phòng tularemia",
+                "TEN_EN": "Need for immunization against tularaemia"
+              },
+              {
+                "MA": "Z23.5",
+                "TEN": "Tiêm chủng phòng uốn ván đơn độc",
+                "TEN_EN": "Need for immunization against tetanus alone"
+              },
+              {
+                "MA": "Z23.6",
+                "TEN": "Tiêm chủng phòng bạch hầu đơn độc",
+                "TEN_EN": "Need for immunization against diphtheria alone"
+              },
+              {
+                "MA": "Z23.7",
+                "TEN": "Tiêm chủng phòng ho gà đơn độc",
+                "TEN_EN": "Need for immunization against pertussis alone"
+              },
+              {
+                "MA": "Z23.8",
+                "TEN": "Tiêm chủng phòng bệnh nhiễm khuẩn đơn thuần khác",
+                "TEN_EN": "Need for immunization against other single bacterial diseases"
+              }
+            ]
+          },
+          {
+            "MA": "Z24",
+            "TEN": "Cần tiêm chủng phòng một số bệnh virus đơn thuần",
+            "TEN_EN": "Need for immunization against certain single viral diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z24.0",
+                "TEN": "Tiêm chủng phòng bại liệt",
+                "TEN_EN": "Need for immunization against poliomyelitis"
+              },
+              {
+                "MA": "Z24.1",
+                "TEN": "Tiêm chủng phòng viêm não virus do tiết túc mang",
+                "TEN_EN": "Need for immunization against arthropod-borne viral encephalitis"
+              },
+              {
+                "MA": "Z24.2",
+                "TEN": "Tiêm chủng phòng bệnh dại",
+                "TEN_EN": "Need for immunization against rabies"
+              },
+              {
+                "MA": "Z24.3",
+                "TEN": "Tiêm chủng phòng sốt vàng da",
+                "TEN_EN": "Need for immunization against yellow fever"
+              },
+              {
+                "MA": "Z24.4",
+                "TEN": "Tiêm chủng phòng sởi đơn độc",
+                "TEN_EN": "Need for immunization against measles alone"
+              },
+              {
+                "MA": "Z24.5",
+                "TEN": "Tiêm chủng phòng rubêôn đơn độc",
+                "TEN_EN": "Need for immunization against rubella alone"
+              },
+              {
+                "MA": "Z24.6",
+                "TEN": "Tiêm chủng phòng viêm gan virus",
+                "TEN_EN": "Need for immunization against viral hepatitis"
+              }
+            ]
+          },
+          {
+            "MA": "Z25",
+            "TEN": "Cần tiêm chủng phòng các bệnh virus khác",
+            "TEN_EN": "Need for immunization against other single viral diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z25.0",
+                "TEN": "Tiêm chủng phòng quai bị đơn độc",
+                "TEN_EN": "Need for immunization against mumps alone"
+              },
+              {
+                "MA": "Z25.1",
+                "TEN": "Tiêm chủng phòng bệnh cúm",
+                "TEN_EN": "Need for immunization against influenza"
+              },
+              {
+                "MA": "Z25.8",
+                "TEN": "Tiêm chủng phòng các bệnh virus đơn độc xác định khác",
+                "TEN_EN": "Need for immunization against other specified single viral diseases"
+              }
+            ]
+          },
+          {
+            "MA": "Z26",
+            "TEN": "Cần tiêm chủng phòng các bệnh nhiễm khuẩn đơn độc khác",
+            "TEN_EN": "Need for immunization against other single infectious diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z26.0",
+                "TEN": "Tiêm chủng phòng lesmania",
+                "TEN_EN": "Need for immunization against leishmaniasis"
+              },
+              {
+                "MA": "Z26.8",
+                "TEN": "Tiêm chủng phòng các bệnh nhiễm khuẩn đơn độc xác định khác",
+                "TEN_EN": "Need for immunization against other specified single infectious diseases"
+              },
+              {
+                "MA": "Z26.9",
+                "TEN": "Tiêm chủng phòng các bệnh nhiễm khuẩn không xác định",
+                "TEN_EN": "Need for immunization against unspecified infectious disease"
+              }
+            ]
+          },
+          {
+            "MA": "Z27",
+            "TEN": "Cần tiêm chủng phòng các bệnh nhiễm khuẩn phối hợp",
+            "TEN_EN": "Need for immunization against combinations of infectious diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z27.0",
+                "TEN": "Tiêm chủng phòng tả kèm theo thương hàn - phó thương hàn [tả + TAB]",
+                "TEN_EN": "Need for immunization against cholera with typhoid-paratyphoid [cholera + TAB]"
+              },
+              {
+                "MA": "Z27.1",
+                "TEN": "Tiêm chủng phòng bạch hầu - uốn ván - ho gà phối hợp [DTP]",
+                "TEN_EN": "Need for immunization against diphtheria-tetanus-pertussis, combined [DTP]"
+              },
+              {
+                "MA": "Z27.2",
+                "TEN": "Tiêm chủng phòng bạch hầu - uốn ván - ho gà kèm theo thương hàn - phó thương hàn [DPT + TAB]",
+                "TEN_EN": "Need for immunization against diphtheria-tetanus-pertussis with typhoid-paratyphoid [DTP + TAB]"
+              },
+              {
+                "MA": "Z27.3",
+                "TEN": "Tiêm chủng phòng bạch hầu - uốn ván - ho gà kèm bại liệt [DPT+ bại liệt]",
+                "TEN_EN": "Need for immunization against diphtheria-tetanus-pertussis with poliomyelitis [DTP + polio]"
+              },
+              {
+                "MA": "Z27.4",
+                "TEN": "Tiêm chủng phòng sởi - quai bị - rubêôn [MMR]",
+                "TEN_EN": "Need for immunization against measles-mumps-rubella [MMR]"
+              },
+              {
+                "MA": "Z27.8",
+                "TEN": "Tiêm chủng phòng các bệnh nhiễm khuẩn phối hợp khác",
+                "TEN_EN": "Need for immunization against other combinations of infectious diseases"
+              },
+              {
+                "MA": "Z27.9",
+                "TEN": "Tiêm chủng phòng các bệnh nhiễm khuẩn phối hợp không đặc hiệu khác",
+                "TEN_EN": "Need for immunization against unspecified combinations of infectious diseases"
+              }
+            ]
+          },
+          {
+            "MA": "Z28",
+            "TEN": "Chưa tiêm chủng",
+            "TEN_EN": "Immunization not carried out",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z28.0",
+                "TEN": "Chưa tiêm chủng do chống chỉ định",
+                "TEN_EN": "Immunization not carried out because of contraindication"
+              },
+              {
+                "MA": "Z28.1",
+                "TEN": "Chưa tiêm chủng do người bệnh chưa quyết định vì lòng tin hay áp lực của nhóm",
+                "TEN_EN": "Immunization not carried out because of patient s decision for reasons of belief or group pressure"
+              },
+              {
+                "MA": "Z28.2",
+                "TEN": "Chưa tiêm chủng do người bệnh chưa quyết định và những lý do không xác định khác",
+                "TEN_EN": "Immunization not carried out because of patient s decision for other and unspecified reasons"
+              },
+              {
+                "MA": "Z28.8",
+                "TEN": "Chưa tiêm chủng vì những lý do không xác định",
+                "TEN_EN": "Immunization not carried out for other reasons"
+              },
+              {
+                "MA": "Z28.9",
+                "TEN": "Chưa tiêm chủng vì lý do không xác định",
+                "TEN_EN": "Immunization not carried out for unspecified reason"
+              }
+            ]
+          },
+          {
+            "MA": "Z29",
+            "TEN": "Cần có các biện pháp phòng bệnh khác",
+            "TEN_EN": "Need for other prophylactic measures",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z29.0",
+                "TEN": "Cách ly",
+                "TEN_EN": "Isolation"
+              },
+              {
+                "MA": "Z29.1",
+                "TEN": "Miễn dịch liệu pháp dự phòng",
+                "TEN_EN": "Prophylactic immunotherapy"
+              },
+              {
+                "MA": "Z29.2",
+                "TEN": "hóa trị liệu dự phòng khác",
+                "TEN_EN": "Other prophylactic chemotherapy"
+              },
+              {
+                "MA": "Z29.8",
+                "TEN": "Các biện pháp dự phòng đặc hiệu khác",
+                "TEN_EN": "Other specified prophylactic measures"
+              },
+              {
+                "MA": "Z29.9",
+                "TEN": "Biện pháp dự phòng, không đặc hiệu",
+                "TEN_EN": "Prophylactic measure, unspecified"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Z30-Z39",
         "MA_TRONG_CHUONG": "",
         "TEN": "Những người đến cơ quan y tế về các vấn đề liên quan đến sinh sản",
-        "TEN_EN": "Persons encountering health services in circumstances related to reproduction"
+        "TEN_EN": "Persons encountering health services in circumstances related to reproduction",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Z30",
+            "TEN": "Tránh thai",
+            "TEN_EN": "Contraceptive management",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z30.0",
+                "TEN": "Tư vấn tổng quát và lời khuyên về tránh thai",
+                "TEN_EN": "General counselling and advice on contraception"
+              },
+              {
+                "MA": "Z30.1",
+                "TEN": "Đặt dụng cụ tránh thai (trong tử cung)",
+                "TEN_EN": "Insertion of (intrauterine) contraceptive device"
+              },
+              {
+                "MA": "Z30.2",
+                "TEN": "Triệt sản",
+                "TEN_EN": "Sterilization"
+              },
+              {
+                "MA": "Z30.3",
+                "TEN": "Hút kinh nguyệt",
+                "TEN_EN": "Menstrual extraction"
+              },
+              {
+                "MA": "Z30.4",
+                "TEN": "Theo dõi sử dụng thuốc tránh thai",
+                "TEN_EN": "Surveillance of contraceptive drugs"
+              },
+              {
+                "MA": "Z30.5",
+                "TEN": "Theo dõi dụng cụ tránh thai (trong tử cung)",
+                "TEN_EN": "Surveillance of (intrauterine) contraceptive device"
+              },
+              {
+                "MA": "Z30.8",
+                "TEN": "Quản lí tránh thai khác",
+                "TEN_EN": "Other contraceptive management"
+              },
+              {
+                "MA": "Z30.9",
+                "TEN": "Quản lí tránh thai, không đặc hiệu",
+                "TEN_EN": "Contraceptive management, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z31",
+            "TEN": "Quản lý sinh sản",
+            "TEN_EN": "Procreative management",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z31.0",
+                "TEN": "Tái tạo vòi trứng hay ống dẫn tinh sau khi dùng biện pháp triệt sản trước đó",
+                "TEN_EN": "Tuboplasty or vasoplasty after previous sterilization"
+              },
+              {
+                "MA": "Z31.1",
+                "TEN": "Thụ tinh nhân tạo",
+                "TEN_EN": "Artificial insemination"
+              },
+              {
+                "MA": "Z31.2",
+                "TEN": "Thụ tinh trong ống nghiệm",
+                "TEN_EN": "In vitro fertilization"
+              },
+              {
+                "MA": "Z31.3",
+                "TEN": "Các phương pháp hỗ trợ sinh sản khác",
+                "TEN_EN": "Other assisted fertilization methods"
+              },
+              {
+                "MA": "Z31.4",
+                "TEN": "Thăm khám lượng giá và xét nghiệm sinh sản",
+                "TEN_EN": "Procreative investigation and testing"
+              },
+              {
+                "MA": "Z31.5",
+                "TEN": "Tư vấn về gen",
+                "TEN_EN": "Genetic counselling"
+              },
+              {
+                "MA": "Z31.6",
+                "TEN": "Tư vấn tổng quát và lời khuyên về sinh sản",
+                "TEN_EN": "General counselling and advice on procreation"
+              },
+              {
+                "MA": "Z31.8",
+                "TEN": "Quản lí sinh sản khác",
+                "TEN_EN": "Other procreative management"
+              },
+              {
+                "MA": "Z31.9",
+                "TEN": "Quản lý sinh sản, không đặc hiệu",
+                "TEN_EN": "Procreative management, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z32",
+            "TEN": "Thăm khám và xét nghiệm xác định có thai",
+            "TEN_EN": "Pregnancy examination and test",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z32.0",
+                "TEN": "Có thai chưa khẳng định",
+                "TEN_EN": "Pregnancy, not (yet) confirmed"
+              },
+              {
+                "MA": "Z32.1",
+                "TEN": "Có thai đã được khẳng định",
+                "TEN_EN": "Pregnancy confirmed"
+              }
+            ]
+          },
+          {
+            "MA": "Z33",
+            "TEN": "Tình trạng có thai, tình cờ",
+            "TEN_EN": "Pregnant stage, incidental",
+            "DANH_SACH_BENH": []
+          },
+          {
+            "MA": "Z34",
+            "TEN": "Theo dõi thai bình thường",
+            "TEN_EN": "Supervision of normal pregnancy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z34.0",
+                "TEN": "Theo dõi thai bình thường lần đầu",
+                "TEN_EN": "Supervision of normal first pregnancy"
+              },
+              {
+                "MA": "Z34.8",
+                "TEN": "Theo dõi thai bình thường khác",
+                "TEN_EN": "Supervision of other normal pregnancy"
+              },
+              {
+                "MA": "Z34.9",
+                "TEN": "Theo dõi thai bình thường, không đặc hiệu",
+                "TEN_EN": "Supervision of normal pregnancy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z35",
+            "TEN": "Theo dõi thai có nguy cơ cao",
+            "TEN_EN": "Supervision of high-risk pregnancy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z35.0",
+                "TEN": "Theo dõi thai phụ có tiền sử vô sinh",
+                "TEN_EN": "Supervision of pregnancy with history of infertility"
+              },
+              {
+                "MA": "Z35.1",
+                "TEN": "Theo dõi thai phụ có tiền sử sảy thai",
+                "TEN_EN": "Supervision of pregnancy with history of abortive outcome"
+              },
+              {
+                "MA": "Z35.2",
+                "TEN": "Theo dõi thai phụ có bệnh sử chửa khó hoặc đẻ khó",
+                "TEN_EN": "Supervision of pregnancy with other poor reproductive or obstetric history"
+              },
+              {
+                "MA": "Z35.3",
+                "TEN": "Theo dõi thai phụ có tiền sử chăm sóc trước sinh không đầy đủ",
+                "TEN_EN": "Supervision of pregnancy with history of insufficient antenatal care"
+              },
+              {
+                "MA": "Z35.4",
+                "TEN": "Theo dõi thai với các bà mẹ đẻ nhiều lần",
+                "TEN_EN": "Supervision of pregnancy with grand multiparity"
+              },
+              {
+                "MA": "Z35.5",
+                "TEN": "Theo dõi thai lần đầu ở người nhiều tuổi",
+                "TEN_EN": "Supervision of elderly primigravida"
+              },
+              {
+                "MA": "Z35.6",
+                "TEN": "Theo dõi thai lần đầu ở người quá trẻ tuổi",
+                "TEN_EN": "Supervision of very young primigravida"
+              },
+              {
+                "MA": "Z35.7",
+                "TEN": "Theo dõi thai có nguy cơ cao do các vấn đề xã hội",
+                "TEN_EN": "Supervision of high-risk pregnancy due to social problems"
+              },
+              {
+                "MA": "Z35.8",
+                "TEN": "Theo dõi thai có nguy cơ cao khác",
+                "TEN_EN": "Supervision of other high-risk pregnancies"
+              },
+              {
+                "MA": "Z35.9",
+                "TEN": "Theo dõi thai có nguy cơ cao, không đặc hiệu",
+                "TEN_EN": "Supervision of high-risk pregnancy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z36",
+            "TEN": "Khám sàng lọc trước sinh",
+            "TEN_EN": "Antenatal screening",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z36.0",
+                "TEN": "Khám sàng lọc trước sinh về bất thường nhiễm sắc thể",
+                "TEN_EN": "Antenatal screening for chromosomal anomalies"
+              },
+              {
+                "MA": "Z36.1",
+                "TEN": "Khám sàng lọc trước sinh về mức Alphafetoprotein tăng",
+                "TEN_EN": "Antenatal screening for raised alphafetoprotein level"
+              },
+              {
+                "MA": "Z36.2",
+                "TEN": "Khám sàng lọc trước sinh khác dựa vào chọc màng ối qua thành bụng",
+                "TEN_EN": "Other antenatal screening based on amniocentesis"
+              },
+              {
+                "MA": "Z36.3",
+                "TEN": "Khám sàng lọc trước sinh về các dị dạng qua siêu âm hay phương pháp vật lý khác",
+                "TEN_EN": "Antenatal screening for malformations using ultrasound and other physical methods"
+              },
+              {
+                "MA": "Z36.4",
+                "TEN": "Khám sàng lọc trước sinh về thai chậm lớn bằng siêu âm hay các phương pháp vật lý khác",
+                "TEN_EN": "Antenatal screening for fetal growth retardation using ultrasound and other physical methods"
+              },
+              {
+                "MA": "Z36.5",
+                "TEN": "Khám sàng lọc trước sinh về miễn dịch đồng loại",
+                "TEN_EN": "Antenatal screening for isoimmunization"
+              },
+              {
+                "MA": "Z36.8",
+                "TEN": "Khám sàng lọc trước sinh khác",
+                "TEN_EN": "Other antenatal screening"
+              },
+              {
+                "MA": "Z36.9",
+                "TEN": "Khám sàng lọc trước sinh, không đặc hiệu",
+                "TEN_EN": "Antenatal screening, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z37",
+            "TEN": "Trẻ sinh (đẻ)",
+            "TEN_EN": "Outcome of delivery",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z37.0",
+                "TEN": "Sinh một con, trẻ sống",
+                "TEN_EN": "Single live birth"
+              },
+              {
+                "MA": "Z37.1",
+                "TEN": "Sinh một con, trẻ chết khi sinh",
+                "TEN_EN": "Single stillbirth"
+              },
+              {
+                "MA": "Z37.2",
+                "TEN": "Sinh đôi, sống cả hai trẻ",
+                "TEN_EN": "Twins, both liveborn"
+              },
+              {
+                "MA": "Z37.3",
+                "TEN": "Sinh đôi, một trẻ sinh ra sống, một trẻ chết khi sinh",
+                "TEN_EN": "Twins, one liveborn and one stillborn"
+              },
+              {
+                "MA": "Z37.4",
+                "TEN": "Sinh đôi, cả hai chết khi sinh",
+                "TEN_EN": "Twins, both stillborn"
+              },
+              {
+                "MA": "Z37.5",
+                "TEN": "Sinh nhiều con, tất cả đều sống",
+                "TEN_EN": "Other multiple births, all liveborn"
+              },
+              {
+                "MA": "Z37.6",
+                "TEN": "Sinh nhiều con, trong đó một số trẻ sinh ra sống",
+                "TEN_EN": "Other multiple births, some liveborn"
+              },
+              {
+                "MA": "Z37.7",
+                "TEN": "Sinh nhiều con, tất cả chết khi sinh",
+                "TEN_EN": "Other multiple births, all stillborn"
+              },
+              {
+                "MA": "Z37.9",
+                "TEN": "Chuyển dạ đẻ, không đặc hiệu",
+                "TEN_EN": "Outcome of delivery, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z38",
+            "TEN": "Trẻ sinh ra sống( theo nơi sinh)",
+            "TEN_EN": "Liveborn infants according to place of birth",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z38.0",
+                "TEN": "Sinh một con, tại bệnh viện",
+                "TEN_EN": "Singleton, born in hospital"
+              },
+              {
+                "MA": "Z38.1",
+                "TEN": "Trẻ sinh đơn ngoài bệnh viện",
+                "TEN_EN": "Singleton, born outside hospital"
+              },
+              {
+                "MA": "Z38.2",
+                "TEN": "Trẻ sinh đơn, nơi sinh không xác định",
+                "TEN_EN": "Singleton, unspecified as to place of birth"
+              },
+              {
+                "MA": "Z38.3",
+                "TEN": "Trẻ sinh đôi tại bệnh viện",
+                "TEN_EN": "Twin, born in hospital"
+              },
+              {
+                "MA": "Z38.4",
+                "TEN": "Sinh đôi, ngoài bệnh viện",
+                "TEN_EN": "Twin, born outside hospital"
+              },
+              {
+                "MA": "Z38.5",
+                "TEN": "Sinh đôi, nơi sinh không xác định",
+                "TEN_EN": "Twin, unspecified as to place of birth"
+              },
+              {
+                "MA": "Z38.6",
+                "TEN": "Sinh nhiều con, sinh tại bệnh viện",
+                "TEN_EN": "Other multiple, born in hospital"
+              },
+              {
+                "MA": "Z38.7",
+                "TEN": "Sinh nhiều con, ngoài bệnh viện",
+                "TEN_EN": "Other multiple, born outside hospital"
+              },
+              {
+                "MA": "Z38.8",
+                "TEN": "Sinh nhiều con, nơi sinh không xác định",
+                "TEN_EN": "Other multiple, unspecified as to place of birth"
+              }
+            ]
+          },
+          {
+            "MA": "Z39",
+            "TEN": "Chăm sóc và thăm khám sau đẻ",
+            "TEN_EN": "Postpartum care and examination",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z39.0",
+                "TEN": "Chăm sóc và khám ngay sau đẻ",
+                "TEN_EN": "Care and examination immediately after delivery"
+              },
+              {
+                "MA": "Z39.1",
+                "TEN": "Chăm sóc và khám các bà mẹ cho con bú",
+                "TEN_EN": "Care and examination of lactating mother"
+              },
+              {
+                "MA": "Z39.2",
+                "TEN": "Theo dõi thường quy sau đẻ",
+                "TEN_EN": "Routine postpartum follow-up"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Z40-Z54",
         "MA_TRONG_CHUONG": "",
         "TEN": "Những người đến cơ sở y tế để được chăm sóc và tiến hành các thủ thuật đặc biệt",
-        "TEN_EN": "Persons encountering health services for specific procedures and health care"
+        "TEN_EN": "Persons encountering health services for specific procedures and health care",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Z40",
+            "TEN": "Phẫu thuật dự phòng",
+            "TEN_EN": "Prophylactic surgery",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z40.0",
+                "TEN": "Phẫu thuật dự phòng các nguy cơ liên quan đến khối u ác tính",
+                "TEN_EN": "Prophylactic surgery for risk-factors related to malignant neoplasms"
+              },
+              {
+                "MA": "Z40.8",
+                "TEN": "Phẫu thuật dự phòng khác",
+                "TEN_EN": "Other prophylactic surgery"
+              },
+              {
+                "MA": "Z40.9",
+                "TEN": "Phẫu thuật dự phòng, không đặc hiệu",
+                "TEN_EN": "Prophylactic surgery, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z41",
+            "TEN": "Các thủ thuật vì những mục đích khác không phải phục hồi sức khỏe",
+            "TEN_EN": "Procedures for purposes other than remedying health state",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z41.0",
+                "TEN": "Cấy tóc",
+                "TEN_EN": "Hair transplant"
+              },
+              {
+                "MA": "Z41.1",
+                "TEN": "Phẫu thuật tạo hình do vẻ bên ngoài xấu",
+                "TEN_EN": "Other plastic surgery for unacceptable cosmetic appearance"
+              },
+              {
+                "MA": "Z41.2",
+                "TEN": "Cắt bao qui đầu theo tập tục và thường quy",
+                "TEN_EN": "Routine and ritual circumcision"
+              },
+              {
+                "MA": "Z41.3",
+                "TEN": "Bấm lỗ tai",
+                "TEN_EN": "Ear piercing"
+              },
+              {
+                "MA": "Z41.8",
+                "TEN": "Các thủ thuật khác vì các mục đích khác không phải phục hồi sức khỏe",
+                "TEN_EN": "Other procedures for purposes other than remedying health state"
+              },
+              {
+                "MA": "Z41.9",
+                "TEN": "Các thủ thuật vì những mục đích khác không phải phục hồi sức khỏe, không đặc hiệu",
+                "TEN_EN": "Procedure for purposes other than remedying health state, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z42",
+            "TEN": "Chăm sóc theo dõi liên quan phẫu thuật tạo hình",
+            "TEN_EN": "Follow-up care involving plastic surgery",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z42.0",
+                "TEN": "Chăm sóc theo dõi phẫu thuật tạo hình vùng đầu và cổ",
+                "TEN_EN": "Follow-up care involving plastic surgery of head and neck"
+              },
+              {
+                "MA": "Z42.1",
+                "TEN": "Chăm sóc theo dõi phẫu thuật tạo hình vú",
+                "TEN_EN": "Follow-up care involving plastic surgery of breast"
+              },
+              {
+                "MA": "Z42.2",
+                "TEN": "Chăm sóc theo dõi phẫu thuật tạo hình các phần khác của thân mình",
+                "TEN_EN": "Follow-up care involving plastic surgery of other parts of trunk"
+              },
+              {
+                "MA": "Z42.3",
+                "TEN": "Chăm sóc theo dõi phẫu thuật tạo hình chi trên",
+                "TEN_EN": "Follow-up care involving plastic surgery of upper extremity"
+              },
+              {
+                "MA": "Z42.4",
+                "TEN": "Chăm sóc theo dõi phẫu thuật tạo hình chi dưới",
+                "TEN_EN": "Follow-up care involving plastic surgery of lower extremity"
+              },
+              {
+                "MA": "Z42.8",
+                "TEN": "Chăm sóc theo dõi phẫu thuật tạo hình các phần khác của cơ thể",
+                "TEN_EN": "Follow-up care involving plastic surgery of other body part"
+              },
+              {
+                "MA": "Z42.9",
+                "TEN": "Chăm sóc theo dõi phẫu thuật tạo hình không đặc hiệu",
+                "TEN_EN": "Follow-up care involving plastic surgery, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z43",
+            "TEN": "Chăm sóc các lỗ mở nhân tạo",
+            "TEN_EN": "Attention to artificial openings",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z43.0",
+                "TEN": "Chăm sóc lỗ mở khí quản",
+                "TEN_EN": "Attention to tracheostomy"
+              },
+              {
+                "MA": "Z43.1",
+                "TEN": "Chăm sóc lỗ mở thông dạ dày",
+                "TEN_EN": "Attention to gastrostomy"
+              },
+              {
+                "MA": "Z43.2",
+                "TEN": "Chăm sóc lỗ mở thông hồi tràng",
+                "TEN_EN": "Attention to ileostomy"
+              },
+              {
+                "MA": "Z43.3",
+                "TEN": "Chăm sóc lỗ mở thông đại tràng",
+                "TEN_EN": "Attention to colostomy"
+              },
+              {
+                "MA": "Z43.4",
+                "TEN": "Chăm sóc các lỗ mở nhân tạo khác của đường tiêu hóa",
+                "TEN_EN": "Attention to other artificial openings of digestive tract"
+              },
+              {
+                "MA": "Z43.5",
+                "TEN": "Chăm sóc lỗ mở thông bàng quang",
+                "TEN_EN": "Attention to cystostomy"
+              },
+              {
+                "MA": "Z43.6",
+                "TEN": "Chăm sóc các lỗ mở nhân tạo khác của đường tiết niệu",
+                "TEN_EN": "Attention to other artificial openings of urinary tract"
+              },
+              {
+                "MA": "Z43.7",
+                "TEN": "Chăm sóc âm đạo nhân tạo",
+                "TEN_EN": "Attention to artificial vagina"
+              },
+              {
+                "MA": "Z43.8",
+                "TEN": "Chăm sóc các lỗ mở nhân tạo khác",
+                "TEN_EN": "Attention to other artificial openings"
+              },
+              {
+                "MA": "Z43.9",
+                "TEN": "Chăm sóc lỗ mở nhân tạo không xác định",
+                "TEN_EN": "Attention to unspecified artificial opening"
+              }
+            ]
+          },
+          {
+            "MA": "Z44",
+            "TEN": "Lắp ráp và điều chỉnh các dụng cụ chỉnh hình bên ngoài",
+            "TEN_EN": "Fitting and adjustment of external prosthetic device",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z44.0",
+                "TEN": "Lắp ráp và điều chỉnh tay giả (toàn bộ) (một phần)",
+                "TEN_EN": "Fitting and adjustment of artificial arm (complete)(partial)"
+              },
+              {
+                "MA": "Z44.1",
+                "TEN": "Lắp ráp và điều chỉnh chân giả (toàn bộ) (một phần)",
+                "TEN_EN": "Fitting and adjustment of artificial leg (complete)(partial)"
+              },
+              {
+                "MA": "Z44.2",
+                "TEN": "Lắp ráp và điều chỉnh mắt giả",
+                "TEN_EN": "Fitting and adjustment of artificial eye"
+              },
+              {
+                "MA": "Z44.3",
+                "TEN": "Lắp ráp và điều chỉnh các ngoại dụng cụ chỉnh hình vú",
+                "TEN_EN": "Fitting and adjustment of external breast prosthesis"
+              },
+              {
+                "MA": "Z44.8",
+                "TEN": "Lắp ráp và điều chỉnh các dụng cụ chỉnh hình bên ngoài khác",
+                "TEN_EN": "Fitting and adjustment of other external prosthetic devices"
+              },
+              {
+                "MA": "Z44.9",
+                "TEN": "Lắp ráp và điều chỉnh các dụng cụ chỉnh hình bên ngoài, không đặc hiệu",
+                "TEN_EN": "Fitting and adjustment of unspecified external prosthetic device"
+              }
+            ]
+          },
+          {
+            "MA": "Z45",
+            "TEN": "Điều chỉnh và quản lý dụng cụ cấy ghép",
+            "TEN_EN": "Adjustment and management of implanted device",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z45.0",
+                "TEN": "Điều chỉnh và quản lý dụng cụ tim",
+                "TEN_EN": "Adjustment and management of cardiac pacemaker"
+              },
+              {
+                "MA": "Z45.1",
+                "TEN": "Điều chỉnh và quản lý bơm tiêm điện",
+                "TEN_EN": "Adjustment and management of infusion pump"
+              },
+              {
+                "MA": "Z45.2",
+                "TEN": "Điều chỉnh và quản lý dụng cụ tiếp cận mạch máu",
+                "TEN_EN": "Adjustment and management of vascular access device"
+              },
+              {
+                "MA": "Z45.3",
+                "TEN": "Điều chỉnh và quản lý dụng cụ thính giác được cấy ghép",
+                "TEN_EN": "Adjustment and management of implanted hearing device"
+              },
+              {
+                "MA": "Z45.8",
+                "TEN": "Điều chỉnh và quản lý các dụng cụ cấy ghép khác",
+                "TEN_EN": "Adjustment and management of other implanted devices"
+              },
+              {
+                "MA": "Z45.9",
+                "TEN": "Điều chỉnh và quản lý dụng cụ cấy ghép không xác định",
+                "TEN_EN": "Adjustment and management of unspecified implanted device"
+              }
+            ]
+          },
+          {
+            "MA": "Z46",
+            "TEN": "Lắp ráp và điều chỉnh các dụng cụ khác",
+            "TEN_EN": "Fitting and adjustment of other devices",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z46.0",
+                "TEN": "Lắp ráp và điều chỉnh kính và thấu kính tiếp xúc",
+                "TEN_EN": "Fitting and adjustment of spectacles and contact lenses"
+              },
+              {
+                "MA": "Z46.1",
+                "TEN": "Lắp ráp và điều chỉnh dụng cụ trợ thính",
+                "TEN_EN": "Fitting and adjustment of hearing aid"
+              },
+              {
+                "MA": "Z46.2",
+                "TEN": "Lắp ráp và điều chỉnh các dụng cụ khác liên quan tới hệ thần kinh và các giác quan đặc biệt",
+                "TEN_EN": "Fitting and adjustment of other devices related to nervous system and special senses"
+              },
+              {
+                "MA": "Z46.3",
+                "TEN": "Lắp ráp và chỉnh hình răng",
+                "TEN_EN": "Fitting and adjustment of dental prosthetic device"
+              },
+              {
+                "MA": "Z46.4",
+                "TEN": "Lắp ráp và điều chỉnh dụng cụ chỉnh hình răng hàm mặt",
+                "TEN_EN": "Fitting and adjustment of orthodontic device"
+              },
+              {
+                "MA": "Z46.5",
+                "TEN": "Lắp ráp và điều chỉnh các dụng cụ gắn vào hỗng tràng và ruột non",
+                "TEN_EN": "Fitting and adjustment of ileostomy and other intestinal appliances"
+              },
+              {
+                "MA": "Z46.6",
+                "TEN": "Lắp ráp và điều chỉnh các dụng cụ tiết niệu",
+                "TEN_EN": "Fitting and adjustment of urinary device"
+              },
+              {
+                "MA": "Z46.7",
+                "TEN": "Lắp ráp và điều chỉnh dụng cụ chỉnh hình",
+                "TEN_EN": "Fitting and adjustment of orthopaedic device"
+              },
+              {
+                "MA": "Z46.8",
+                "TEN": "Lắp ráp và điều chỉnh các dụng cụ đặc hiệu khác",
+                "TEN_EN": "Fitting and adjustment of other specified devices"
+              },
+              {
+                "MA": "Z46.9",
+                "TEN": "Lắp ráp và điều chỉnh hình dụng cụ không đặc hiệu",
+                "TEN_EN": "Fitting and adjustment of unspecified device"
+              }
+            ]
+          },
+          {
+            "MA": "Z47",
+            "TEN": "Chăm sóc theo dõi chỉnh hình khác",
+            "TEN_EN": "Other orthopaedic follow-up care",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z47.0",
+                "TEN": "Chăm sóc theo dõi liên quan đến tháo bỏ nẹp xương gẫy và dụng cụ cố định bên trong khác",
+                "TEN_EN": "Follow-up care involving removal of fracture plate and other internal fixation device"
+              },
+              {
+                "MA": "Z47.8",
+                "TEN": "Chăm sóc theo dõi chỉnh hình không xác định",
+                "TEN_EN": "Other specified orthopaedic follow-up care"
+              },
+              {
+                "MA": "Z47.9",
+                "TEN": "Chăm sóc theo dõi chỉnh hình không đặc hiệu",
+                "TEN_EN": "Orthopaedic follow-up care, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z48",
+            "TEN": "Chăm sóc theo dõi phẫu thuật khác",
+            "TEN_EN": "Other surgical follow-up care",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z48.0",
+                "TEN": "Chăm sóc băng bó và chỉ khâu",
+                "TEN_EN": "Attention to surgical dressings and sutures"
+              },
+              {
+                "MA": "Z48.8",
+                "TEN": "Chăm sóc theo dõi phẫu thuật xác định khác",
+                "TEN_EN": "Other specified surgical follow-up care"
+              },
+              {
+                "MA": "Z48.9",
+                "TEN": "Chăm sóc theo dõi phẫu thuật, không đặc hiệu",
+                "TEN_EN": "Surgical follow-up care, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z49",
+            "TEN": "Chăm sóc về lọc máu",
+            "TEN_EN": "Care involving dialysis",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z49.0",
+                "TEN": "Chăm sóc chuẩn bị cho lọc máu",
+                "TEN_EN": "Preparatory care for dialysis"
+              },
+              {
+                "MA": "Z49.1",
+                "TEN": "Lọc máu ngoài cơ thể",
+                "TEN_EN": "Extracorporeal dialysis"
+              },
+              {
+                "MA": "Z49.2",
+                "TEN": "Các lọc máu khác",
+                "TEN_EN": "Other dialysis"
+              }
+            ]
+          },
+          {
+            "MA": "Z50",
+            "TEN": "Chăm sóc về sử dụng các phương pháp điều trị phục hồi chức năng",
+            "TEN_EN": "Care involving use of rehabilitation procedures",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z50.0",
+                "TEN": "Phục hồi chức năng tim",
+                "TEN_EN": "Cardiac rehabilitation"
+              },
+              {
+                "MA": "Z50.1",
+                "TEN": "Vật lí trị liệu khác",
+                "TEN_EN": "Other physical therapy"
+              },
+              {
+                "MA": "Z50.2",
+                "TEN": "Phục hồi chức năng nghiện rượu",
+                "TEN_EN": "Alcohol rehabilitation"
+              },
+              {
+                "MA": "Z50.3",
+                "TEN": "Phục hồi chức năng nghiện ma túy",
+                "TEN_EN": "Drug rehabilitation"
+              },
+              {
+                "MA": "Z50.4",
+                "TEN": "Tâm lý trị liệu, chưa được phân loại ở phần khác",
+                "TEN_EN": "Psychotherapy, not elsewhere classified"
+              },
+              {
+                "MA": "Z50.5",
+                "TEN": "Âm ngữ trị liệu",
+                "TEN_EN": "Speech therapy"
+              },
+              {
+                "MA": "Z50.6",
+                "TEN": "Huấn luyện về chỉnh thị",
+                "TEN_EN": "Orthoptic training"
+              },
+              {
+                "MA": "Z50.7",
+                "TEN": "Hoạt động trị liệu và phục hồi chức năng nghề nghiệp, không xác định",
+                "TEN_EN": "Occupational therapy and vocational rehabilitation, not elsewhere classified"
+              },
+              {
+                "MA": "Z50.8",
+                "TEN": "Chăm sóc liên quan đến sử dụng các phương pháp điều trị phục hồi chức năng khác",
+                "TEN_EN": "Care involving use of other rehabilitation procedures"
+              },
+              {
+                "MA": "Z50.9",
+                "TEN": "Chăm sóc liên quan đến điều trị phục hồi chức năng, không đặc hiệu",
+                "TEN_EN": "Care involving use of rehabilitation procedure, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z51",
+            "TEN": "Chăm sóc y học khác",
+            "TEN_EN": "Other medical care",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z51.0",
+                "TEN": "Xạ trị liệu",
+                "TEN_EN": "Radiotherapy session"
+              },
+              {
+                "MA": "Z51.1",
+                "TEN": "hóa trị liệu khối u",
+                "TEN_EN": "Chemotherapy session for neoplasm"
+              },
+              {
+                "MA": "Z51.2",
+                "TEN": "hóa trị liệu khác",
+                "TEN_EN": "Other chemotherapy"
+              },
+              {
+                "MA": "Z51.3",
+                "TEN": "Truyền máu không có chẩn đoán ghi nhận",
+                "TEN_EN": "Blood transfusion without reported diagnosis"
+              },
+              {
+                "MA": "Z51.4",
+                "TEN": "Chăm sóc chuẩn bị cho điều trị tiếp theo, chưa được phân loại ở phần khác",
+                "TEN_EN": "Preparatory care for subsequent treatment, not elsewhere classified"
+              },
+              {
+                "MA": "Z51.5",
+                "TEN": "Chăm sóc giảm nhẹ",
+                "TEN_EN": "Palliative care"
+              },
+              {
+                "MA": "Z51.6",
+                "TEN": "Giải mẫn cảm các dị nguyên",
+                "TEN_EN": "Desensitization to allergens"
+              },
+              {
+                "MA": "Z51.8",
+                "TEN": "Chăm sóc y học đặc hiệu khác",
+                "TEN_EN": "Other specified medical care"
+              },
+              {
+                "MA": "Z51.9",
+                "TEN": "Chăm sóc y học không đặc hiệu",
+                "TEN_EN": "Medical care, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z52",
+            "TEN": "Hiến tạng và mô",
+            "TEN_EN": "Donors of organs and tissues",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z52.0",
+                "TEN": "Hiến máu",
+                "TEN_EN": "Blood donor"
+              },
+              {
+                "MA": "Z52.1",
+                "TEN": "Hiến da",
+                "TEN_EN": "Skin donor"
+              },
+              {
+                "MA": "Z52.2",
+                "TEN": "Hiến xương",
+                "TEN_EN": "Bone donor"
+              },
+              {
+                "MA": "Z52.3",
+                "TEN": "Hiến tủy xương",
+                "TEN_EN": "Bone marrow donor"
+              },
+              {
+                "MA": "Z52.4",
+                "TEN": "Hiến thận",
+                "TEN_EN": "Kidney donor"
+              },
+              {
+                "MA": "Z52.5",
+                "TEN": "Hiến giác mạc",
+                "TEN_EN": "Cornea donor"
+              },
+              {
+                "MA": "Z52.6",
+                "TEN": "Hiến gan",
+                "TEN_EN": "Liver donor"
+              },
+              {
+                "MA": "Z52.7",
+                "TEN": "Hiến tim",
+                "TEN_EN": "Heart donor"
+              },
+              {
+                "MA": "Z52.8",
+                "TEN": "Hiến các tạng và mô khác",
+                "TEN_EN": "Donor of other organs and tissues"
+              },
+              {
+                "MA": "Z52.9",
+                "TEN": "Hiến các tạng và mô không đặc hiệu",
+                "TEN_EN": "Donor of unspecified organ or tissue"
+              }
+            ]
+          },
+          {
+            "MA": "Z53",
+            "TEN": "Người bệnh đến các cơ sở y tế do chưa được thực hiện những thủ thuật đặc hiệu",
+            "TEN_EN": "Persons encountering health services for specific procedures, not carried out",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z53.0",
+                "TEN": "Chưa được thực hiện chống chỉ định",
+                "TEN_EN": "Procedure not carried out because of contraindication"
+              },
+              {
+                "MA": "Z53.1",
+                "TEN": "Chưa thực hiện do người bệnh chưa quyết định vì chưa tin tưởng hay vì áp lực của nhóm",
+                "TEN_EN": "Procedure not carried out because of patient s decision for reasons of belief and group pressure"
+              },
+              {
+                "MA": "Z53.2",
+                "TEN": "Chưa thực hiện do người bệnh chưa quyết định vì những lý do khác không xác định",
+                "TEN_EN": "Procedure not carried out because of patient s decision for other and unspecified reasons"
+              },
+              {
+                "MA": "Z53.8",
+                "TEN": "Chưa thực hiện vì những lý do khác",
+                "TEN_EN": "Procedure not carried out for other reasons"
+              },
+              {
+                "MA": "Z53.9",
+                "TEN": "Chưa thực hiện vì lý do không xác định",
+                "TEN_EN": "Procedure not carried out, unspecified reason"
+              }
+            ]
+          },
+          {
+            "MA": "Z54",
+            "TEN": "Thời kỳ dưỡng sức",
+            "TEN_EN": "Convalescence",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z54.0",
+                "TEN": "Dưỡng sức sau phẫu thuật",
+                "TEN_EN": "Convalescence following surgery"
+              },
+              {
+                "MA": "Z54.1",
+                "TEN": "Dưỡng sức sau xạ trị liệu",
+                "TEN_EN": "Convalescence following radiotherapy"
+              },
+              {
+                "MA": "Z54.2",
+                "TEN": "Dưỡng sức sau hóa trị liệu",
+                "TEN_EN": "Convalescence following chemotherapy"
+              },
+              {
+                "MA": "Z54.3",
+                "TEN": "Dưỡng sức sau liệu pháp tâm thần",
+                "TEN_EN": "Convalescence following psychotherapy"
+              },
+              {
+                "MA": "Z54.4",
+                "TEN": "Dưỡng sức sau điều trị gẫy xương",
+                "TEN_EN": "Convalescence following treatment of fracture"
+              },
+              {
+                "MA": "Z54.7",
+                "TEN": "Dưỡng sức sau điều trị phối hợp",
+                "TEN_EN": "Convalescence following combined treatment"
+              },
+              {
+                "MA": "Z54.8",
+                "TEN": "Dưỡng sức sau điều trị khác",
+                "TEN_EN": "Convalescence following other treatment"
+              },
+              {
+                "MA": "Z54.9",
+                "TEN": "Dưỡng sức sau điều trị không đặc hiệu",
+                "TEN_EN": "Convalescence following unspecified treatment"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Z55-Z65",
         "MA_TRONG_CHUONG": "",
         "TEN": "Những người có nguy cơ sức khỏe tiềm tàng liên quan đến những hoàn cảnh kinh tế xã hội và tâm lý xã hội",
-        "TEN_EN": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances"
+        "TEN_EN": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Z55",
+            "TEN": "Những vấn đề liên quan đến giáo dục và biết chữ",
+            "TEN_EN": "Problems related to education and literacy",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z55.0",
+                "TEN": "Mù chữ và biết chữ mức thấp",
+                "TEN_EN": "Illiteracy and low-level literacy"
+              },
+              {
+                "MA": "Z55.1",
+                "TEN": "Không có trường học và không tới được",
+                "TEN_EN": "Schooling unavailable and unattainable"
+              },
+              {
+                "MA": "Z55.2",
+                "TEN": "Thi trượt",
+                "TEN_EN": "Failed examinations"
+              },
+              {
+                "MA": "Z55.3",
+                "TEN": "Học kém ở trường",
+                "TEN_EN": "Underachievement in school"
+              },
+              {
+                "MA": "Z55.4",
+                "TEN": "Bất hoà với giáo viên và bạn cùng lớp",
+                "TEN_EN": "Educational maladjustment and discord with teachers and classmates"
+              },
+              {
+                "MA": "Z55.8",
+                "TEN": "Các vấn đề khác liên quan đến giáo dục và mù chữ",
+                "TEN_EN": "Other problems related to education and literacy"
+              },
+              {
+                "MA": "Z55.9",
+                "TEN": "Vấn đề liên quan đến giáo dục và biết chữ, không đặc hiệu",
+                "TEN_EN": "Problem related to education and literacy, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z56",
+            "TEN": "Những vấn đề liên quan đến việc làm và thất nghiệp",
+            "TEN_EN": "Problems related to employment and unemployment",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z56.0",
+                "TEN": "Thất nghiệp, không đặc hiệu",
+                "TEN_EN": "Unemployment, unspecified"
+              },
+              {
+                "MA": "Z56.1",
+                "TEN": "Thay đổi công việc",
+                "TEN_EN": "Change of job"
+              },
+              {
+                "MA": "Z56.2",
+                "TEN": "Sợ mất việc",
+                "TEN_EN": "Threat of job loss"
+              },
+              {
+                "MA": "Z56.3",
+                "TEN": "Lịch làm việc căng thẳng",
+                "TEN_EN": "Stressful work schedule"
+              },
+              {
+                "MA": "Z56.4",
+                "TEN": "Bất hoà với chủ và các đồng nghiệp",
+                "TEN_EN": "Discord with boss and workmates"
+              },
+              {
+                "MA": "Z56.5",
+                "TEN": "Việc làm không thích hợp",
+                "TEN_EN": "Uncongenial work"
+              },
+              {
+                "MA": "Z56.6",
+                "TEN": "Căng thẳng tinh thần và thể lực liên quan đến công việc",
+                "TEN_EN": "Other physical and mental strain related to work"
+              },
+              {
+                "MA": "Z56.7",
+                "TEN": "Các vấn đề khác không xác định liên quan đến công việc",
+                "TEN_EN": "Other and unspecified problems related to employment"
+              }
+            ]
+          },
+          {
+            "MA": "Z57",
+            "TEN": "Nghề nghiệp tiếp xác với các yếu tố nguy cơ",
+            "TEN_EN": "Occupational exposure to risk-factors",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z57.0",
+                "TEN": "Nghề nghiệp tiếp xúc với tiếng ồn",
+                "TEN_EN": "Occupational exposure to noise"
+              },
+              {
+                "MA": "Z57.1",
+                "TEN": "Nghề nghiệp tiếp xúc với tia xạ",
+                "TEN_EN": "Occupational exposure to radiation"
+              },
+              {
+                "MA": "Z57.2",
+                "TEN": "Nghề nghiệp tiếp xúc với bụi",
+                "TEN_EN": "Occupational exposure to dust"
+              },
+              {
+                "MA": "Z57.3",
+                "TEN": "Nghề nghiệp tiếp xúc với không khí lây nhiễm khác",
+                "TEN_EN": "Occupational exposure to other air contaminants"
+              },
+              {
+                "MA": "Z57.4",
+                "TEN": "Nghề nghiệp tiếp xúc với các chất độc hại trong nông nghiệp",
+                "TEN_EN": "Occupational exposure to toxic agents in agriculture"
+              },
+              {
+                "MA": "Z57.5",
+                "TEN": "Nghề nghiệp tiếp xúc với các chất độc trong các ngành công nghiệp khác",
+                "TEN_EN": "Occupational exposure to toxic agents in other industries"
+              },
+              {
+                "MA": "Z57.6",
+                "TEN": "Nghề nghiệp tiếp xúc với nhiệt độ cao",
+                "TEN_EN": "Occupational exposure to extreme temperature"
+              },
+              {
+                "MA": "Z57.7",
+                "TEN": "Nghề nghiệp tiếp xúc với độ rung",
+                "TEN_EN": "Occupational exposure to vibration"
+              },
+              {
+                "MA": "Z57.8",
+                "TEN": "Nghề nghiệp tiếp xúc với các yếu tố nguy cơ khác",
+                "TEN_EN": "Occupational exposure to other risk-factors"
+              },
+              {
+                "MA": "Z57.9",
+                "TEN": "Nghề nghiệp tiếp xúc với các yếu tố nguy cơ không xác định",
+                "TEN_EN": "Occupational exposure to unspecified risk-factor"
+              }
+            ]
+          },
+          {
+            "MA": "Z58",
+            "TEN": "Những vấn đề liên quan đến môi trường vật lý",
+            "TEN_EN": "Problems related to physical environment",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z58.0",
+                "TEN": "Phơi nhiễm với tiếng ồn",
+                "TEN_EN": "Exposure to noise"
+              },
+              {
+                "MA": "Z58.1",
+                "TEN": "Phơi nhiễm với không khí ô nhiễm",
+                "TEN_EN": "Exposure to air pollution"
+              },
+              {
+                "MA": "Z58.2",
+                "TEN": "Phơi nhiễm với nước ô nhiễm",
+                "TEN_EN": "Exposure to water pollution"
+              },
+              {
+                "MA": "Z58.3",
+                "TEN": "Phơi nhiễm với đất ô nhiễm",
+                "TEN_EN": "Exposure to soil pollution"
+              },
+              {
+                "MA": "Z58.4",
+                "TEN": "Phơi nhiễm với tia xạ",
+                "TEN_EN": "Exposure to radiation"
+              },
+              {
+                "MA": "Z58.5",
+                "TEN": "Phơi nhiễm với các ô nhiễm khác",
+                "TEN_EN": "Exposure to other pollution"
+              },
+              {
+                "MA": "Z58.6",
+                "TEN": "Cung cấp nước uống không đầy đủ",
+                "TEN_EN": "Inadequate drinking-water supply"
+              },
+              {
+                "MA": "Z58.7",
+                "TEN": "Tiếp cận tình thế với khói thuốc",
+                "TEN_EN": "Exposure to tobacco smoke"
+              },
+              {
+                "MA": "Z58.8",
+                "TEN": "Các vấn đề khác liên quan đến môi trường vật lý",
+                "TEN_EN": "Other problems related to physical environment"
+              },
+              {
+                "MA": "Z58.9",
+                "TEN": "Các vấn đề liên quan đến môi trường vật lý, không đặc hiệu",
+                "TEN_EN": "Problem related to physical environment, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z59",
+            "TEN": "Những vấn đề liên quan đến nhà ở và hoàn cảnh kinh tế",
+            "TEN_EN": "Problems related to housing and economic circumstances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z59.0",
+                "TEN": "Tình trạng vô gia cư",
+                "TEN_EN": "Homelessness"
+              },
+              {
+                "MA": "Z59.1",
+                "TEN": "Nhà ở không đầy đủ",
+                "TEN_EN": "Inadequate housing"
+              },
+              {
+                "MA": "Z59.2",
+                "TEN": "Bất hoà với hàng xóm, người thuê và chủ nhà",
+                "TEN_EN": "Discord with neighbours, lodgers and landlord"
+              },
+              {
+                "MA": "Z59.3",
+                "TEN": "Những vấn đề liên quan đến sinh sống tại nơi cư trú",
+                "TEN_EN": "Problems related to living in residential institution"
+              },
+              {
+                "MA": "Z59.4",
+                "TEN": "Thiếu thức ăn",
+                "TEN_EN": "Lack of adequate food"
+              },
+              {
+                "MA": "Z59.5",
+                "TEN": "Quá nghèo",
+                "TEN_EN": "Extreme poverty"
+              },
+              {
+                "MA": "Z59.6",
+                "TEN": "Thu nhập thấp",
+                "TEN_EN": "Low income"
+              },
+              {
+                "MA": "Z59.7",
+                "TEN": "Trợ cấp xã hội và bảo hiểm xã hội không đảm bảo",
+                "TEN_EN": "Insufficient social insurance and welfare support"
+              },
+              {
+                "MA": "Z59.8",
+                "TEN": "Những vấn đề khác liên quan đến nhà ở và hoàn cảnh kinh tế",
+                "TEN_EN": "Other problems related to housing and economic circumstances"
+              },
+              {
+                "MA": "Z59.9",
+                "TEN": "Vấn đề liên quan đến nhà ở và hoàn cảnh kinh tế, không đặc hiệu",
+                "TEN_EN": "Problem related to housing and economic circumstances, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z60",
+            "TEN": "Vấn đề liên quan đến môi trường xã hội",
+            "TEN_EN": "Problems related to social environment",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z60.0",
+                "TEN": "Vấn đề do điều chỉnh luân chuyển vòng đời",
+                "TEN_EN": "Problems of adjustment to life-cycle transitions"
+              },
+              {
+                "MA": "Z60.1",
+                "TEN": "Hoàn cảnh cha hay mẹ không điển hình",
+                "TEN_EN": "Atypical parenting situation"
+              },
+              {
+                "MA": "Z60.2",
+                "TEN": "Sống đơn độc",
+                "TEN_EN": "Living alone"
+              },
+              {
+                "MA": "Z60.3",
+                "TEN": "Khó khăn trong việc tiếp nhận biến đổi văn hóa",
+                "TEN_EN": "Acculturation difficulty"
+              },
+              {
+                "MA": "Z60.4",
+                "TEN": "Loại trừ và đào thải xã hội",
+                "TEN_EN": "Social exclusion and rejection"
+              },
+              {
+                "MA": "Z60.5",
+                "TEN": "Mục tiêu phân biệt đối xử chống đối cảm nhận được và ngược đãi",
+                "TEN_EN": "Target of perceived adverse discrimination and persecution"
+              },
+              {
+                "MA": "Z60.8",
+                "TEN": "Các vấn đề khác liên quan đến môi trường xã hội",
+                "TEN_EN": "Other problems related to social environment"
+              },
+              {
+                "MA": "Z60.9",
+                "TEN": "Vấn đề liên quan đến môi trường xã hội, không đặc hiệu",
+                "TEN_EN": "Problem related to social environment, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z61",
+            "TEN": "Những vấn đề liên quan đến sự kiện tiêu cực của đời sống thơ ấu",
+            "TEN_EN": "Problems related to negative life events in childhood",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z61.0",
+                "TEN": "Mất quan hệ gần gũi trong thời kỳ thơ ấu",
+                "TEN_EN": "Loss of love relationship in childhood"
+              },
+              {
+                "MA": "Z61.1",
+                "TEN": "Trẻ bỏ nhà",
+                "TEN_EN": "Removal from home in childhood"
+              },
+              {
+                "MA": "Z61.2",
+                "TEN": "Những mô hình khác của mối quan hệ gia đình trong thời kỳ thơ ấu",
+                "TEN_EN": "Altered pattern of family relationships in childhood"
+              },
+              {
+                "MA": "Z61.3",
+                "TEN": "Những sự kiện làm trẻ mất tự trọng",
+                "TEN_EN": "Events resulting in loss of self-esteem in childhood"
+              },
+              {
+                "MA": "Z61.4",
+                "TEN": "Những vấn đề được xem là lạm dụng tình dục trẻ em của người lớn có quan hệ nương tựa chủ chốt",
+                "TEN_EN": "Problems related to alleged sexual abuse of child by person within primary support group"
+              },
+              {
+                "MA": "Z61.5",
+                "TEN": "Những vấn đề được xem là lạm dụng tình dục trẻ em của người lớn ngoài quan hệ nương tựa chủ chốt",
+                "TEN_EN": "Problems related to alleged sexual abuse of child by person outside primary support group"
+              },
+              {
+                "MA": "Z61.6",
+                "TEN": "Những vấn đề được xem là lạm dụng thân thể trẻ em",
+                "TEN_EN": "Problems related to alleged physical abuse of child"
+              },
+              {
+                "MA": "Z61.7",
+                "TEN": "Yếu tố trực tiếp gây hoảng sợ cho trẻ",
+                "TEN_EN": "Personal frightening experience in childhood"
+              },
+              {
+                "MA": "Z61.8",
+                "TEN": "Những sự kiện tiêu cực khác ở tuổi ấu thơ",
+                "TEN_EN": "Other negative life events in childhood"
+              },
+              {
+                "MA": "Z61.9",
+                "TEN": "Sự kiện tiêu cực, không đặc hiệu",
+                "TEN_EN": "Negative life event in childhood, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z62",
+            "TEN": "Những vấn đề khác liên quan đến giáo dưỡng",
+            "TEN_EN": "Other problems related to upbringing",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z62.0",
+                "TEN": "Theo dõi và kiểm soát không đầy đủ của cha mẹ",
+                "TEN_EN": "Inadequate parental supervision and control"
+              },
+              {
+                "MA": "Z62.1",
+                "TEN": "Cha mẹ bảo vệ quá mức",
+                "TEN_EN": "Parental overprotection"
+              },
+              {
+                "MA": "Z62.2",
+                "TEN": "Giáo dưỡng thể chế",
+                "TEN_EN": "Institutional upbringing"
+              },
+              {
+                "MA": "Z62.3",
+                "TEN": "Thái độ thù địch với trẻ",
+                "TEN_EN": "Hostility towards and scapegoating of child"
+              },
+              {
+                "MA": "Z62.4",
+                "TEN": "Thái độ thờ ơ với trẻ",
+                "TEN_EN": "Emotional neglect of child"
+              },
+              {
+                "MA": "Z62.5",
+                "TEN": "Các vấn đề khác liên quan đến giáo dưỡng thờ ơ",
+                "TEN_EN": "Other problems related to neglect in upbringing"
+              },
+              {
+                "MA": "Z62.6",
+                "TEN": "Áp đặt không phù hợp của cha mẹ và kiểu cách giáo dưỡng bất thường",
+                "TEN_EN": "Inappropriate parental pressure and other abnormal qualities of upbringing"
+              },
+              {
+                "MA": "Z62.8",
+                "TEN": "Các vấn đề đặc hiệu khác liên quan tới giáo dưỡng",
+                "TEN_EN": "Other specified problems related to upbringing"
+              },
+              {
+                "MA": "Z62.9",
+                "TEN": "Vấn đề liên quan tới giáo dưỡng, không đặc hiệu",
+                "TEN_EN": "Problem related to upbringing, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z63",
+            "TEN": "Những vấn đề khác liên quan đến nhóm trợ giúp, bao gồm cả những hoàn cảnh gia đình",
+            "TEN_EN": "Other problems related to primary support group, including family circumstances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z63.0",
+                "TEN": "Những vấn đề liên quan đến vợ chồng hay thành viên",
+                "TEN_EN": "Problems in relationship with spouse or partner"
+              },
+              {
+                "MA": "Z63.1",
+                "TEN": "Những vấn đề liên quan đến cha mẹ và thông gia",
+                "TEN_EN": "Problems in relationship with parents and in-laws"
+              },
+              {
+                "MA": "Z63.2",
+                "TEN": "Hỗ trợ không đầy đủ của gia đình",
+                "TEN_EN": "Inadequate family support"
+              },
+              {
+                "MA": "Z63.3",
+                "TEN": "Thiếu vắng thành viên trong gia đình",
+                "TEN_EN": "Absence of family member"
+              },
+              {
+                "MA": "Z63.4",
+                "TEN": "Sự biến mất hay chết của thành viên gia đình",
+                "TEN_EN": "Disappearance and death of family member"
+              },
+              {
+                "MA": "Z63.5",
+                "TEN": "Sự tan vỡ của gia đình do ly thân và ly dị",
+                "TEN_EN": "Disruption of family by separation and divorce"
+              },
+              {
+                "MA": "Z63.6",
+                "TEN": "Người thân sống lệ thuộc vào chăm sóc tại nhà",
+                "TEN_EN": "Dependent relative needing care at home"
+              },
+              {
+                "MA": "Z63.7",
+                "TEN": "Các sự kiện chấn động đời sống khác ảnh hưởng đến gia quyến và hộ gia đình",
+                "TEN_EN": "Other stressful life events affecting family and household"
+              },
+              {
+                "MA": "Z63.8",
+                "TEN": "Các vấn đề đặc hiệu khác liên quan đến nhóm trợ giúp",
+                "TEN_EN": "Other specified problems related to primary support group"
+              },
+              {
+                "MA": "Z63.9",
+                "TEN": "Vấn đề khác liên quan đến nhóm trợ giúp, không đặc hiệu",
+                "TEN_EN": "Problem related to primary support group, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z64",
+            "TEN": "Các vấn đề liên quan đến một số hoàn cảnh tâm lí xã hội nhất định",
+            "TEN_EN": "Problems related to certain psychosocial circumstances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z64.0",
+                "TEN": "Các vấn đề liên quan đến mang thai không mong muốn",
+                "TEN_EN": "Problems related to unwanted pregnancy"
+              },
+              {
+                "MA": "Z64.1",
+                "TEN": "Những vấn đề liên quan đến đẻ nhiều con",
+                "TEN_EN": "Problems related to multiparity"
+              },
+              {
+                "MA": "Z64.2",
+                "TEN": "Phát hiện và thừa nhận các yếu tố vật lí, dinh dưỡng và hóa học, xác định là có nguy cơ và có hại",
+                "TEN_EN": "Seeking and accepting physical, nutritional and chemical interventions known to be hazardous and harmful"
+              },
+              {
+                "MA": "Z64.3",
+                "TEN": "Phát hiện và thừa nhận các yếu tố ứng xử và tâm lý xác định là có nguy cơ và có hại",
+                "TEN_EN": "Seeking and accepting behavioural and psychological interventions known to be hazardous and harmful"
+              },
+              {
+                "MA": "Z64.4",
+                "TEN": "Bất hoà với các nhà tư vấn",
+                "TEN_EN": "Discord with counsellors"
+              }
+            ]
+          },
+          {
+            "MA": "Z65",
+            "TEN": "Vấn đề liên quan đến hoàn cảnh tâm lý xã hội khác",
+            "TEN_EN": "Problems related to other psychosocial circumstances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z65.0",
+                "TEN": "Kết án với các vụ kiện dân sự và hình sự không tống giam",
+                "TEN_EN": "Conviction in civil and criminal proceedings without imprisonment"
+              },
+              {
+                "MA": "Z65.1",
+                "TEN": "Tống giam và các giam cầm khác",
+                "TEN_EN": "Imprisonment and other incarceration"
+              },
+              {
+                "MA": "Z65.2",
+                "TEN": "Vấn đề liên quan đến ra tù",
+                "TEN_EN": "Problems related to release from prison"
+              },
+              {
+                "MA": "Z65.3",
+                "TEN": "Vấn đề liên quan đến pháp luật",
+                "TEN_EN": "Problems related to other legal circumstances"
+              },
+              {
+                "MA": "Z65.4",
+                "TEN": "Nạn nhân của tội ác và khủng bố",
+                "TEN_EN": "Victim of crime and terrorism"
+              },
+              {
+                "MA": "Z65.5",
+                "TEN": "Tiếp cận tình thế với thảm hoạ, chiến tranh và thù địch",
+                "TEN_EN": "Exposure to disaster, war and other hostilities"
+              },
+              {
+                "MA": "Z65.8",
+                "TEN": "Những vấn đề đặc hiệu khác liên quan đến hoàn cảnh tâm lí xã hội",
+                "TEN_EN": "Other specified problems related to psychosocial circumstances"
+              },
+              {
+                "MA": "Z65.9",
+                "TEN": "Những vấn đề liên quan đến các hoàn cảnh tâm lí xã hội không đặc hiệu",
+                "TEN_EN": "Problem related to unspecified psychosocial circumstances"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Z70-Z76",
         "MA_TRONG_CHUONG": "",
         "TEN": "Người bệnh đến cơ sở y tế trong các hoàn cảnh khác",
-        "TEN_EN": "Persons encountering health services in other circumstances"
+        "TEN_EN": "Persons encountering health services in other circumstances",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Z70",
+            "TEN": "Tư vấn liên quan đến thái độ, hành vi và khuynh hướng tình dục",
+            "TEN_EN": "Counselling related to sexual attitude, behaviour and orientation",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z70.0",
+                "TEN": "Tư vấn liên quan đến thái độ tình dục",
+                "TEN_EN": "Counselling related to sexual attitude"
+              },
+              {
+                "MA": "Z70.1",
+                "TEN": "Tư vấn về thái độ và khuynh hướng tình dục của người bệnh",
+                "TEN_EN": "Counselling related to patient s sexual behaviour and orientation"
+              },
+              {
+                "MA": "Z70.2",
+                "TEN": "Tư vấn về thái độ và khuynh hướng tình dục của nhân vật thứ ba",
+                "TEN_EN": "Counselling related to sexual behaviour and orientation of third party"
+              },
+              {
+                "MA": "Z70.3",
+                "TEN": "Tư vấn liên quan đến các lo âu hỗn hợp về hành vi, thái độ và khuynh hướng tình dục",
+                "TEN_EN": "Counselling related to combined concerns regarding sexual attitude, behaviour and orientation"
+              },
+              {
+                "MA": "Z70.8",
+                "TEN": "Các tư vấn khác về tình dục",
+                "TEN_EN": "Other sex counselling"
+              },
+              {
+                "MA": "Z70.9",
+                "TEN": "Tư vấn tình dục, không đặc hiệu",
+                "TEN_EN": "Sex counselling, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z71",
+            "TEN": "Những người đến cơ sở y tế để tư vấn y học và tư vấn khác, không xác định",
+            "TEN_EN": "Persons encountering health services for other counselling and medical advice, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z71.0",
+                "TEN": "Người thay mặt cho người khác đến tư vấn",
+                "TEN_EN": "Person consulting on behalf of another person"
+              },
+              {
+                "MA": "Z71.1",
+                "TEN": "Người than phiền lo sợ những việc không được chứng minh",
+                "TEN_EN": "Person with feared complaint in whom no diagnosis is made"
+              },
+              {
+                "MA": "Z71.2",
+                "TEN": "Người đến tư vấn để được giải thích về các kết quả đã phát hiện",
+                "TEN_EN": "Person consulting for explanation of investigation findings"
+              },
+              {
+                "MA": "Z71.3",
+                "TEN": "Tư vấn và theo dõi chế độ ăn uống",
+                "TEN_EN": "Dietary counselling and surveillance"
+              },
+              {
+                "MA": "Z71.4",
+                "TEN": "Tư vấn và theo dõi lạm dụng rượu",
+                "TEN_EN": "Alcohol abuse counselling and surveillance"
+              },
+              {
+                "MA": "Z71.5",
+                "TEN": "Tư vấn và giám sát lạm dụng ma túy",
+                "TEN_EN": "Drug abuse counselling and surveillance"
+              },
+              {
+                "MA": "Z71.6",
+                "TEN": "Tư vấn lạm dụng thuốc lá",
+                "TEN_EN": "Tobacco abuse counselling"
+              },
+              {
+                "MA": "Z71.7",
+                "TEN": "Tư vấn về virus suy giảm miễn dịch người (HIV)",
+                "TEN_EN": "Human immunodeficiency virus [HIV] counselling"
+              },
+              {
+                "MA": "Z71.8",
+                "TEN": "Tư vấn đặc hiệu khác",
+                "TEN_EN": "Other specified counselling"
+              },
+              {
+                "MA": "Z71.9",
+                "TEN": "Tư vấn không đặc hiệu",
+                "TEN_EN": "Counselling, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z72",
+            "TEN": "Các vấn đề liên quan đến lối sống",
+            "TEN_EN": "Problems related to lifestyle",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z72.0",
+                "TEN": "Sử dụng thuốc lá",
+                "TEN_EN": "Tobacco use"
+              },
+              {
+                "MA": "Z72.1",
+                "TEN": "Sử dụng rượu",
+                "TEN_EN": "Alcohol use"
+              },
+              {
+                "MA": "Z72.2",
+                "TEN": "Sử dụng ma túy",
+                "TEN_EN": "Drug use"
+              },
+              {
+                "MA": "Z72.3",
+                "TEN": "Không luyện tập thể dục",
+                "TEN_EN": "Lack of physical exercise"
+              },
+              {
+                "MA": "Z72.4",
+                "TEN": "Chế độ ăn uống và thói quen ăn uống không thích hợp",
+                "TEN_EN": "Inappropriate diet and eating habits"
+              },
+              {
+                "MA": "Z72.5",
+                "TEN": "Hành vi tình dục nguy cơ cao",
+                "TEN_EN": "High-risk sexual behaviour"
+              },
+              {
+                "MA": "Z72.6",
+                "TEN": "Đánh bạc và đánh cuộc",
+                "TEN_EN": "Gambling and betting"
+              },
+              {
+                "MA": "Z72.8",
+                "TEN": "Các vấn đề khác liên quan đến lối sống",
+                "TEN_EN": "Other problems related to lifestyle"
+              },
+              {
+                "MA": "Z72.9",
+                "TEN": "Vấn đề liên quan đến lối sống, không xác định",
+                "TEN_EN": "Problem related to lifestyle, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z73",
+            "TEN": "Các vấn đề liên quan đến khó khăn về quản trị cuộc sống",
+            "TEN_EN": "Problems related to life-management difficulty",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z73.0",
+                "TEN": "Cạn kiệt",
+                "TEN_EN": "Burn-out"
+              },
+              {
+                "MA": "Z73.1",
+                "TEN": "Những nét cá tính nổi bật",
+                "TEN_EN": "Accentuation of personality traits"
+              },
+              {
+                "MA": "Z73.2",
+                "TEN": "Thiếu thư giãn và giải trí",
+                "TEN_EN": "Lack of relaxation and leisure"
+              },
+              {
+                "MA": "Z73.3",
+                "TEN": "Sang chấn, chưa được phân loại ở phần khác",
+                "TEN_EN": "Stress, not elsewhere classified"
+              },
+              {
+                "MA": "Z73.4",
+                "TEN": "Kỹ năng xã hội không đầy đủ, chưa được phân loại ở phần khác",
+                "TEN_EN": "Inadequate social skills, not elsewhere classified"
+              },
+              {
+                "MA": "Z73.5",
+                "TEN": "Mâu thuẫn vai trò xã hội, chưa được phân loại ở phần khác",
+                "TEN_EN": "Social role conflict, not elsewhere classified"
+              },
+              {
+                "MA": "Z73.6",
+                "TEN": "Hạn chế hoạt động vì khuyết tật",
+                "TEN_EN": "Limitation of activities due to disability"
+              },
+              {
+                "MA": "Z73.8",
+                "TEN": "Các vấn đề khác liên quan đến khó khăn về quản trị cuộc sống",
+                "TEN_EN": "Other problems related to life-management difficulty"
+              },
+              {
+                "MA": "Z73.9",
+                "TEN": "Vấn đề liên quan đến khó khăn về quản trị cuộc sống, không xác định",
+                "TEN_EN": "Problem related to life-management difficulty, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z74",
+            "TEN": "Các vấn đề liên quan đến việc phụ thuộc vào người chăm sóc",
+            "TEN_EN": "Problems related to care-provider dependency",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z74.0",
+                "TEN": "Nhu cầu trợ giúp cho giảm di chuyển",
+                "TEN_EN": "Reduced mobility"
+              },
+              {
+                "MA": "Z74.1",
+                "TEN": "Nhu cầu trợ giúp chăm sóc cho bản thân",
+                "TEN_EN": "Need for assistance with personal care"
+              },
+              {
+                "MA": "Z74.2",
+                "TEN": "Nhu cầu trợ giúp chăm sóc tại nhà và nhu cầu trợ giúp khi trong nhà không ai có khả năng chăm sóc",
+                "TEN_EN": "Need for assistance at home and no other household member able to render care"
+              },
+              {
+                "MA": "Z74.3",
+                "TEN": "Nhu cầu Theo dõi liên tục",
+                "TEN_EN": "Need for continuous supervision"
+              },
+              {
+                "MA": "Z74.8",
+                "TEN": "Các vấn đề khác liên quan đến phụ thuộc của bản thân vào người chăm sóc",
+                "TEN_EN": "Other problems related to care-provider dependency"
+              },
+              {
+                "MA": "Z74.9",
+                "TEN": "Vấn đề liên quan đến lệ thuộc của bản thân vào người chăm sóc, không đặc hiệu",
+                "TEN_EN": "Problem related to care-provider dependency, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z75",
+            "TEN": "Những vấn đề liên quan đến phương tiện y học và chăm sóc sức khỏe khác",
+            "TEN_EN": "Problems related to medical facilities and other health care",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z75.0",
+                "TEN": "Các dịch vụ y học không có sẵn tại nhà",
+                "TEN_EN": "Medical services not available in home"
+              },
+              {
+                "MA": "Z75.1",
+                "TEN": "Người chờ đợi được thu nhận vào một cơ sở thích hợp nào đó",
+                "TEN_EN": "Person awaiting admission to adequate facility elsewhere"
+              },
+              {
+                "MA": "Z75.2",
+                "TEN": "Giai đoạn chờ đợi để kiểm tra và điều trị",
+                "TEN_EN": "Other waiting period for investigation and treatment"
+              },
+              {
+                "MA": "Z75.3",
+                "TEN": "Không sử dụng được và không tiếp cận được các phương tiện chăm sóc",
+                "TEN_EN": "Unavailability and inaccessibility of health-care facilities"
+              },
+              {
+                "MA": "Z75.4",
+                "TEN": "Không có sẵn hoặc không tiếp cận được với các cơ quan trợ giúp khác",
+                "TEN_EN": "Unavailability and inaccessibility of other helping agencies"
+              },
+              {
+                "MA": "Z75.5",
+                "TEN": "Chăm sóc trong ngày nghỉ",
+                "TEN_EN": "Holiday relief care"
+              },
+              {
+                "MA": "Z75.8",
+                "TEN": "Những vấn đề khác liên quan đến phương tiện y học và chăm sóc sức khỏe",
+                "TEN_EN": "Other problems related to medical facilities and other health care"
+              },
+              {
+                "MA": "Z75.9",
+                "TEN": "Vấn đề không đặc hiệu liên quan đến phương tiện y học và chăm sóc sức khỏe khác",
+                "TEN_EN": "Unspecified problem related to medical facilities and other health care"
+              }
+            ]
+          },
+          {
+            "MA": "Z76",
+            "TEN": "Những người đến cơ quan y tế trong những hoàn cảnh khác",
+            "TEN_EN": "Persons encountering health services in other circumstances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z76.0",
+                "TEN": "Chỉ định y lệnh tiếp",
+                "TEN_EN": "Issue of repeat prescription"
+              },
+              {
+                "MA": "Z76.1",
+                "TEN": "Theo dõi sức khỏe và chăm sóc trẻ bị bỏ rơi",
+                "TEN_EN": "Health supervision and care of foundling"
+              },
+              {
+                "MA": "Z76.2",
+                "TEN": "Theo dõi sức khỏe và chăm sóc trẻ em khỏe mạnh khác",
+                "TEN_EN": "Health supervision and care of other healthy infant and child"
+              },
+              {
+                "MA": "Z76.3",
+                "TEN": "Người khỏe đi theo người ốm",
+                "TEN_EN": "Healthy person accompanying sick person"
+              },
+              {
+                "MA": "Z76.4",
+                "TEN": "Người nội trú khác trong cơ sở y tế",
+                "TEN_EN": "Other boarder in health-care facility"
+              },
+              {
+                "MA": "Z76.5",
+                "TEN": "Giả bệnh [đóng giả có ý thức]",
+                "TEN_EN": "Malingerer [conscious simulation]"
+              },
+              {
+                "MA": "Z76.8",
+                "TEN": "Người đến cơ sở y tế trong hoàn cảnh xác định khác",
+                "TEN_EN": "Persons encountering health services in other specified circumstances"
+              },
+              {
+                "MA": "Z76.9",
+                "TEN": "Người đến cơ sở y tế trong hoàn cảnh không xác định",
+                "TEN_EN": "Person encountering health services in unspecified circumstances"
+              }
+            ]
+          }
+        ]
       },
       {
         "MA": "Z80-Z99",
         "MA_TRONG_CHUONG": "",
         "TEN": "Những người có nguy cơ sức khỏe tiềm ẩn liên quan đến bệnh sử gia đình và cá nhân và một số tình trạng ảnh hưởng đến sức khỏe",
-        "TEN_EN": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status"
+        "TEN_EN": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+        "DANH_SACH_BENH": [
+          {
+            "MA": "Z80",
+            "TEN": "Bệnh sử gia đình có khối u ác tính",
+            "TEN_EN": "Family history of malignant neoplasm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z80.0",
+                "TEN": "Bệnh sử gia đình có khối u ác tính ở cơ quan tiêu hóa",
+                "TEN_EN": "Family history of malignant neoplasm of digestive organs"
+              },
+              {
+                "MA": "Z80.1",
+                "TEN": "Bệnh sử gia đình có khối u ác tính ở khí quản, phế quản và phổi",
+                "TEN_EN": "Family history of malignant neoplasm of trachea, bronchus and lung"
+              },
+              {
+                "MA": "Z80.2",
+                "TEN": "Bệnh sử gia đình có khối u ác tính ở các cơ quan hô hấp và trong lồng ngực khác",
+                "TEN_EN": "Family history of malignant neoplasm of other respiratory and intrathoracic organs"
+              },
+              {
+                "MA": "Z80.3",
+                "TEN": "Bệnh sử gia đình có khối u ác tính ở vú",
+                "TEN_EN": "Family history of malignant neoplasm of breast"
+              },
+              {
+                "MA": "Z80.4",
+                "TEN": "bệnh sử gia đình có khối u ác tính ở cơ quan sinh dục",
+                "TEN_EN": "Family history of malignant neoplasm of genital organs"
+              },
+              {
+                "MA": "Z80.5",
+                "TEN": "Bệnh sử gia đình có khối u ác tính ở đường tiết niệu",
+                "TEN_EN": "Family history of malignant neoplasm of urinary tract"
+              },
+              {
+                "MA": "Z80.6",
+                "TEN": "Bệnh sử gia đình có bệnh bạch cầu",
+                "TEN_EN": "Family history of leukaemia"
+              },
+              {
+                "MA": "Z80.7",
+                "TEN": "Bệnh sử gia đình có u ác tính dạng lympho (bạch huyết), hệ tạo máu và các tổ chức liên quan",
+                "TEN_EN": "Family history of other malignant neoplasms of lymphoid, haematopoietic and related tissues"
+              },
+              {
+                "MA": "Z80.8",
+                "TEN": "Bệnh sử gia đình có khối u ác tính của cơ quan và hệ thống khác",
+                "TEN_EN": "Family history of malignant neoplasm of other organs or systems"
+              },
+              {
+                "MA": "Z80.9",
+                "TEN": "Bệnh sử đình có khối u ác tính, không đặc hiệu",
+                "TEN_EN": "Family history of malignant neoplasm, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z81",
+            "TEN": "Bệnh sử gia đình có rối loạn tâm thần và hành vi",
+            "TEN_EN": "Family history of mental and behavioural disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z81.0",
+                "TEN": "Bệnh sử gia đình có chậm phát triển tâm thần",
+                "TEN_EN": "Family history of mental retardation"
+              },
+              {
+                "MA": "Z81.1",
+                "TEN": "Bệnh sử gia đình có lạm dụng rượu",
+                "TEN_EN": "Family history of alcohol abuse"
+              },
+              {
+                "MA": "Z81.2",
+                "TEN": "Bệnh sử gia đình có lạm dụng thuốc lá",
+                "TEN_EN": "Family history of tobacco abuse"
+              },
+              {
+                "MA": "Z81.3",
+                "TEN": "Bệnh sử gia đình có lạm dụng thuốc kích thần",
+                "TEN_EN": "Family history of other psychoactive substance abuse"
+              },
+              {
+                "MA": "Z81.4",
+                "TEN": "Bệnh sử gia đình có lạm dụng các chất khác",
+                "TEN_EN": "Family history of other substance abuse"
+              },
+              {
+                "MA": "Z81.8",
+                "TEN": "Bệnh sử gia đình có các rối loạn hành vi và tâm thần",
+                "TEN_EN": "Family history of other mental and behavioural disorders"
+              }
+            ]
+          },
+          {
+            "MA": "Z82",
+            "TEN": "Bệnh sử gia đình có một số khuyết tật và bệnh mãn tính dẫn đến tàn tật",
+            "TEN_EN": "Family history of certain disabilities and chronic diseases leading to disablement",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z82.0",
+                "TEN": "Bệnh sử gia đình có động kinh và các bệnh khác của hệ thần kinh",
+                "TEN_EN": "Family history of epilepsy and other diseases of the nervous system"
+              },
+              {
+                "MA": "Z82.1",
+                "TEN": "Bệnh sử gia đình có mù loà và mất thị giác",
+                "TEN_EN": "Family history of blindness and visual loss"
+              },
+              {
+                "MA": "Z82.2",
+                "TEN": "Bệnh sử gia đình có điếc và mất thính giác",
+                "TEN_EN": "Family history of deafness and hearing loss"
+              },
+              {
+                "MA": "Z82.3",
+                "TEN": "Bệnh sử gia đình có tai biến mạch máu não",
+                "TEN_EN": "Family history of stroke"
+              },
+              {
+                "MA": "Z82.4",
+                "TEN": "Bệnh sử gia đình có bệnh thiếu máu cơ tim và các bệnh khác của hệ tuần hoàn",
+                "TEN_EN": "Family history of ischaemic heart disease and other diseases of the circulatory system"
+              },
+              {
+                "MA": "Z82.5",
+                "TEN": "Bệnh sử gia đình có hen và các bệnh mãn tính khác của đường hô hấp dưới",
+                "TEN_EN": "Family history of asthma and other chronic lower respiratory diseases"
+              },
+              {
+                "MA": "Z82.6",
+                "TEN": "Bệnh sử gia đình có viêm khớp và các bệnh khác về hệ cơ xương và tổ chức liên kết",
+                "TEN_EN": "Family history of arthritis and other diseases of the musculoskeletal system and connective tissue"
+              },
+              {
+                "MA": "Z82.7",
+                "TEN": "Bệnh sử gia đình có dị tật bẩm sinh, dị tật và bất thường nhiễm sắc thể",
+                "TEN_EN": "Family history of congenital malformations, deformations and chromosomal abnormalities"
+              },
+              {
+                "MA": "Z82.8",
+                "TEN": "Bệnh sử gia đình có khuyết tật và các bệnh mãn tính khác dẫn đến tàn tật, chưa phân loại ở phần khác",
+                "TEN_EN": "Family history of other disabilities and chronic diseases leading to disablement, not elsewhere classified"
+              }
+            ]
+          },
+          {
+            "MA": "Z83",
+            "TEN": "Bệnh sử gia đình có các rối loạn đặc biệt khác",
+            "TEN_EN": "Family history of other specific disorders",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z83.0",
+                "TEN": "Bệnh sử gia đình có bệnh suy giảm miễn dịch virus người (HIV)",
+                "TEN_EN": "Family history of human immunodeficiency virus [HIV] disease"
+              },
+              {
+                "MA": "Z83.1",
+                "TEN": "Bệnh sử gia đình có các bệnh nhiễm khuẩn và ký sinh trùng khác",
+                "TEN_EN": "Family history of other infectious and parasitic diseases"
+              },
+              {
+                "MA": "Z83.2",
+                "TEN": "Bệnh sử gia đình có các bệnh về máu và cơ quan tạo máu và một số rối loạn về cơ chế miễn dịch",
+                "TEN_EN": "Family history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+              },
+              {
+                "MA": "Z83.3",
+                "TEN": "Bệnh sử gia đình có bệnh đái tháo đường",
+                "TEN_EN": "Family history of diabetes mellitus"
+              },
+              {
+                "MA": "Z83.4",
+                "TEN": "Bệnh sử gia đình có các bệnh về nội tiết, dinh dưỡng và chuyển hóa",
+                "TEN_EN": "Family history of other endocrine, nutritional and metabolic diseases"
+              },
+              {
+                "MA": "Z83.5",
+                "TEN": "Bệnh sử gia đình có các rối loạn thị giác và thính giác",
+                "TEN_EN": "Family history of eye and ear disorders"
+              },
+              {
+                "MA": "Z83.6",
+                "TEN": "Bệnh sử gia đình có các bệnh hô hấp",
+                "TEN_EN": "Family history of diseases of the respiratory system"
+              },
+              {
+                "MA": "Z83.7",
+                "TEN": "Bệnh sử gia đình có các bệnh thuộc hệ tiêu hóa",
+                "TEN_EN": "Family history of diseases of the digestive system"
+              }
+            ]
+          },
+          {
+            "MA": "Z84",
+            "TEN": "Bệnh sử gia đình có các bệnh khác",
+            "TEN_EN": "Family history of other conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z84.0",
+                "TEN": "Bệnh sử gia đình có các bệnh về da và tổ chức dưới da",
+                "TEN_EN": "Family history of diseases of the skin and subcutaneous tissue"
+              },
+              {
+                "MA": "Z84.1",
+                "TEN": "Bệnh sử gia đình có các rối loạn về thận và niệu quản",
+                "TEN_EN": "Family history of disorders of kidney and ureter"
+              },
+              {
+                "MA": "Z84.2",
+                "TEN": "Bệnh sử gia đình có các bệnh thuộc hệ sinh dục tiết niệu",
+                "TEN_EN": "Family history of other diseases of the genitourinary system"
+              },
+              {
+                "MA": "Z84.3",
+                "TEN": "Bệnh sử gia đình có các bệnh về huyết thống",
+                "TEN_EN": "Family history of consanguinity"
+              },
+              {
+                "MA": "Z84.8",
+                "TEN": "Bệnh sử gia đình có các bệnh đặc hiệu khác",
+                "TEN_EN": "Family history of other specified conditions"
+              }
+            ]
+          },
+          {
+            "MA": "Z85",
+            "TEN": "Bệnh sử cá nhân có khối u ác tính",
+            "TEN_EN": "Personal history of malignant neoplasm",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z85.0",
+                "TEN": "Bệnh sử cá nhân có u ác tính của cơ quan tiêu hóa",
+                "TEN_EN": "Personal history of malignant neoplasm of digestive organs"
+              },
+              {
+                "MA": "Z85.1",
+                "TEN": "Bệnh sử cá nhân có khối u ác tính ở khí quản, phế quản và phổi",
+                "TEN_EN": "Personal history of malignant neoplasm of trachea, bronchus and lung"
+              },
+              {
+                "MA": "Z85.2",
+                "TEN": "Bệnh sử cá nhân có khối u ác tính ở các cơ quan hô hấp và các cơ quan khác trong lồng ngực",
+                "TEN_EN": "Personal history of malignant neoplasm of other respiratory and intrathoracic organs"
+              },
+              {
+                "MA": "Z85.3",
+                "TEN": "Bệnh sử cá nhân có khối u ác tính ở vú",
+                "TEN_EN": "Personal history of malignant neoplasm of breast"
+              },
+              {
+                "MA": "Z85.4",
+                "TEN": "Bệnh sử cá nhân có u ác tính ở các cơ quan sinh dục",
+                "TEN_EN": "Personal history of malignant neoplasm of genital organs"
+              },
+              {
+                "MA": "Z85.5",
+                "TEN": "Bệnh sử cá nhân có u ác tính của đường tiết niệu",
+                "TEN_EN": "Personal history of malignant neoplasm of urinary tract"
+              },
+              {
+                "MA": "Z85.6",
+                "TEN": "Bệnh sử cá nhân có bệnh bạch cầu",
+                "TEN_EN": "Personal history of leukaemia"
+              },
+              {
+                "MA": "Z85.7",
+                "TEN": "Bệnh sử cá nhân có u ác tính hệ lympho, cơ quan tạo máu và tổ chức tạo máu",
+                "TEN_EN": "Personal history of other malignant neoplasms of lymphoid, haematopoietic and related tissues"
+              },
+              {
+                "MA": "Z85.8",
+                "TEN": "Bệnh sử cá nhân có khối u ác tính ở các cơ quan và hệ thống khác",
+                "TEN_EN": "Personal history of malignant neoplasms of other organs and systems"
+              },
+              {
+                "MA": "Z85.9",
+                "TEN": "Bệnh sử cá nhân có khối u ác tính, không đặc hiệu",
+                "TEN_EN": "Personal history of malignant neoplasm, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z86",
+            "TEN": "Bệnh sử cá nhân có một số bệnh khác",
+            "TEN_EN": "Personal history of certain other diseases",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z86.0",
+                "TEN": "Bệnh sử cá nhân có các khối u khác",
+                "TEN_EN": "Personal history of other neoplasms"
+              },
+              {
+                "MA": "Z86.1",
+                "TEN": "Bệnh sử cá nhân có bệnh nhiễm khuẩn và ký sinh trùng",
+                "TEN_EN": "Personal history of infectious and parasitic diseases"
+              },
+              {
+                "MA": "Z86.2",
+                "TEN": "Bệnh sử cá nhân có các bệnh về máu và cơ quan tạo máu và một số rối loạn về cơ chế miễn dịch",
+                "TEN_EN": "Personal history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+              },
+              {
+                "MA": "Z86.3",
+                "TEN": "Bệnh sử cá nhân có các bệnh về nội tiết dinh dưỡng và chuyển hóa",
+                "TEN_EN": "Personal history of endocrine, nutritional and metabolic diseases"
+              },
+              {
+                "MA": "Z86.4",
+                "TEN": "Bệnh sử cá nhân có lạm dụng chất kích thần",
+                "TEN_EN": "Personal history of psychoactive substance abuse"
+              },
+              {
+                "MA": "Z86.5",
+                "TEN": "Bệnh sử cá nhân có các rối loạn tâm thần và hành vi khác",
+                "TEN_EN": "Personal history of other mental and behavioural disorders"
+              },
+              {
+                "MA": "Z86.6",
+                "TEN": "Bệnh sử cá nhân có các bệnh về hệ thần kinh và các giác quan",
+                "TEN_EN": "Personal history of diseases of the nervous system and sense organs"
+              },
+              {
+                "MA": "Z86.7",
+                "TEN": "Bệnh sử cá nhân có các bệnh về hệ tuần hoàn",
+                "TEN_EN": "Personal history of diseases of the circulatory system"
+              }
+            ]
+          },
+          {
+            "MA": "Z87",
+            "TEN": "Bệnh sử cá nhân có các bệnh và trạng thái bệnh khác",
+            "TEN_EN": "Personal history of other diseases and conditions",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z87.0",
+                "TEN": "Bệnh sử cá nhân có các bệnh thuộc hệ hô hấp",
+                "TEN_EN": "Personal history of diseases of the respiratory system"
+              },
+              {
+                "MA": "Z87.1",
+                "TEN": "Bệnh sử cá nhân có các bệnh thuộc hệ tiêu hóa",
+                "TEN_EN": "Personal history of diseases of the digestive system"
+              },
+              {
+                "MA": "Z87.2",
+                "TEN": "Tiền sử cá nhân có các bệnh về da và tổ chức dưới da",
+                "TEN_EN": "Personal history of diseases of the skin and subcutaneous tissue"
+              },
+              {
+                "MA": "Z87.3",
+                "TEN": "Bệnh sử cá nhân có các bệnh thuộc hệ cơ xương và tổ chức liên kết",
+                "TEN_EN": "Personal history of diseases of the musculoskeletal system and connective tissue"
+              },
+              {
+                "MA": "Z87.4",
+                "TEN": "Bệnh sử cá nhân có các bệnh thuộc hệ sinh dục tiết niệu",
+                "TEN_EN": "Personal history of diseases of the genitourinary system"
+              },
+              {
+                "MA": "Z87.5",
+                "TEN": "Bệnh sử cá nhân có các biến chứng của thai nghén, sinh đẻ và sau đẻ",
+                "TEN_EN": "Personal history of complications of pregnancy, childbirth and the puerperium"
+              },
+              {
+                "MA": "Z87.6",
+                "TEN": "Bệnh sử cá nhân có một số bệnh xuất hiện trong thời kỳ chu sinh",
+                "TEN_EN": "Personal history of certain conditions arising in the perinatal period"
+              },
+              {
+                "MA": "Z87.7",
+                "TEN": "Bệnh sử cá nhân có các dị tật bẩm sinh, dị tật và bất thường nhiễm sắc thể",
+                "TEN_EN": "Personal history of congenital malformations, deformations and chromosomal abnormalities"
+              },
+              {
+                "MA": "Z87.8",
+                "TEN": "Bệnh sử cá nhân có các trạng thái bệnh đặc hiệu khác",
+                "TEN_EN": "Personal history of other specified conditions"
+              }
+            ]
+          },
+          {
+            "MA": "Z88",
+            "TEN": "Bệnh sử cá nhân có có các dị ứng với ma túy, thuốc và các chất sinh vật khác",
+            "TEN_EN": "Personal history of allergy to drugs, medicaments and biological substances",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z88.0",
+                "TEN": "Tiền sử cá nhân dị ứng với penicillin",
+                "TEN_EN": "Personal history of allergy to penicillin"
+              },
+              {
+                "MA": "Z88.1",
+                "TEN": "Tiền sử cá nhân dị ứng với các kháng sinh khác",
+                "TEN_EN": "Personal history of allergy to other antibiotic agents"
+              },
+              {
+                "MA": "Z88.2",
+                "TEN": "Tiền sử cá nhân dị ứng với sulfonamides",
+                "TEN_EN": "Personal history of allergy to sulfonamides"
+              },
+              {
+                "MA": "Z88.3",
+                "TEN": "Tiền sử cá nhân dị ứng với các tác nhân chống nhiễm khuẩn khác",
+                "TEN_EN": "Personal history of allergy to other anti-infective agents"
+              },
+              {
+                "MA": "Z88.4",
+                "TEN": "Tiền sử cá nhân dị ứng với thuốc gây mê",
+                "TEN_EN": "Personal history of allergy to anaesthetic agent"
+              },
+              {
+                "MA": "Z88.5",
+                "TEN": "Tiền sử cá nhân dị ứng với các chất gây ngủ",
+                "TEN_EN": "Personal history of allergy to narcotic agent"
+              },
+              {
+                "MA": "Z88.6",
+                "TEN": "Tiền sử cá nhân dị ứng với các tác nhân giảm đau",
+                "TEN_EN": "Personal history of allergy to analgesic agent"
+              },
+              {
+                "MA": "Z88.7",
+                "TEN": "Tiền sử cá nhân dị ứng với huyết thanh và vaccin",
+                "TEN_EN": "Personal history of allergy to serum and vaccine"
+              },
+              {
+                "MA": "Z88.8",
+                "TEN": "Tiền sử cá nhân dị ứng với các chất ma túy, thuốc và các chất sinh học khác",
+                "TEN_EN": "Personal history of allergy to other drugs, medicaments and biological substances"
+              },
+              {
+                "MA": "Z88.9",
+                "TEN": "Tiền sử cá nhân dị ứng với chất ma túy, thuốc các chất sinh học không đặc hiệu khác",
+                "TEN_EN": "Personal history of allergy to unspecified drugs, medicaments and biological substances"
+              }
+            ]
+          },
+          {
+            "MA": "Z89",
+            "TEN": "Mất chi mắc phải",
+            "TEN_EN": "Acquired absence of limb",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z89.0",
+                "TEN": "Mất nhiều ngón tay mắc phải [kể cả ngón cái], một bên",
+                "TEN_EN": "Acquired absence of finger(s) [including thumb], unilateral"
+              },
+              {
+                "MA": "Z89.1",
+                "TEN": "Mất bàn tay và cổ tay mắc phải",
+                "TEN_EN": "Acquired absence of hand and wrist"
+              },
+              {
+                "MA": "Z89.2",
+                "TEN": "Mất chi trên ở trên ở cổ tay mắc phải",
+                "TEN_EN": "Acquired absence of upper limb above wrist"
+              },
+              {
+                "MA": "Z89.3",
+                "TEN": "Mất cả hai chi trên mắc phải [bất kỳ mức nào ]",
+                "TEN_EN": "Acquired absence of both upper limbs [any level]"
+              },
+              {
+                "MA": "Z89.4",
+                "TEN": "Mất bàn chân và mắt cá chân mắc phải (nhiều) ngón chân",
+                "TEN_EN": "Acquired absence of foot and ankle"
+              },
+              {
+                "MA": "Z89.5",
+                "TEN": "Mất cẳng chân tại khớp gối hay dưới khớp gối mắc phải",
+                "TEN_EN": "Acquired absence of leg at or below knee"
+              },
+              {
+                "MA": "Z89.6",
+                "TEN": "Mất cẳng chân trên khớp gối mắc phải",
+                "TEN_EN": "Acquired absence of leg above knee"
+              },
+              {
+                "MA": "Z89.7",
+                "TEN": "Mất cả hai chi dưới mắc phải [bất kỳ mức nào, trừ riêng ngón chân]",
+                "TEN_EN": "Acquired absence of both lower limbs [any level, except toes alone]"
+              },
+              {
+                "MA": "Z89.8",
+                "TEN": "Mất chi trên và chi dưới mắc phải (bất kỳ mức nào)",
+                "TEN_EN": "Acquired absence of upper and lower limbs [any level]"
+              },
+              {
+                "MA": "Z89.9",
+                "TEN": "Mất chi mắc phải, không đặc hiệu",
+                "TEN_EN": "Acquired absence of limb, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z90",
+            "TEN": "Mất cơ quan mắc phải, chưa phân loại ở phần khác",
+            "TEN_EN": "Acquired absence of organs, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z90.0",
+                "TEN": "Mất một phần của đầu và cổ mắc phải",
+                "TEN_EN": "Acquired absence of part of head and neck"
+              },
+              {
+                "MA": "Z90.1",
+                "TEN": "Mất (một hoặc hai bên) vú mắc phải",
+                "TEN_EN": "Acquired absence of breast(s)"
+              },
+              {
+                "MA": "Z90.2",
+                "TEN": "Mất (một phần) phổi mắc phải",
+                "TEN_EN": "Acquired absence of lung [part of]"
+              },
+              {
+                "MA": "Z90.3",
+                "TEN": "Mất một phần dạ dày mắc phải",
+                "TEN_EN": "Acquired absence of part of stomach"
+              },
+              {
+                "MA": "Z90.4",
+                "TEN": "Mất các phần khác của đường tiêu hóa mắc phải",
+                "TEN_EN": "Acquired absence of other parts of digestive tract"
+              },
+              {
+                "MA": "Z90.5",
+                "TEN": "Mất thận mắc phải",
+                "TEN_EN": "Acquired absence of kidney"
+              },
+              {
+                "MA": "Z90.6",
+                "TEN": "Mất các phần khác của đường tiết niệu mắc phải",
+                "TEN_EN": "Acquired absence of other organs of urinary tract"
+              },
+              {
+                "MA": "Z90.7",
+                "TEN": "Mất (nhiều) cơ quan sinh dục mắc phải",
+                "TEN_EN": "Acquired absence of genital organ(s)"
+              },
+              {
+                "MA": "Z90.8",
+                "TEN": "Mất các cơ quan khác mắc phải",
+                "TEN_EN": "Acquired absence of other organs"
+              }
+            ]
+          },
+          {
+            "MA": "Z91",
+            "TEN": "Bệnh sử cá nhân có yếu tố nguy cơ, chưa phân loại ở phần khác",
+            "TEN_EN": "Personal history of risk-factors, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z91.0",
+                "TEN": "Tiền sử cá nhân có dị ứng, không kể dị ứng thuốc và các chất sinh học",
+                "TEN_EN": "Personal history of allergy, other than to drugs and biological substances"
+              },
+              {
+                "MA": "Z91.1",
+                "TEN": "Bệnh sử cá nhân có chế độ điều trị và chế độ ăn không thuận",
+                "TEN_EN": "Personal history of noncompliance with medical treatment and regimen"
+              },
+              {
+                "MA": "Z91.2",
+                "TEN": "Bệnh sử cá nhân có chế độ vệ sinh thân thể kém",
+                "TEN_EN": "Personal history of poor personal hygiene"
+              },
+              {
+                "MA": "Z91.3",
+                "TEN": "Bệnh sử cá nhân có giờ giấc ngủ thao thức không ngon",
+                "TEN_EN": "Personal history of unhealthy sleep-wake schedule"
+              },
+              {
+                "MA": "Z91.4",
+                "TEN": "Bệnh sử cá nhân có sang chấn tâm lí, chưa phân loại ở phần khác",
+                "TEN_EN": "Personal history of psychological trauma, not elsewhere classified"
+              },
+              {
+                "MA": "Z91.5",
+                "TEN": "Bệnh sử cá nhân về tự hại",
+                "TEN_EN": "Personal history of self-harm"
+              },
+              {
+                "MA": "Z91.6",
+                "TEN": "Bệnh sử cá nhân có sang chấn thực thể khác",
+                "TEN_EN": "Personal history of other physical trauma"
+              },
+              {
+                "MA": "Z91.8",
+                "TEN": "Bệnh sử cá nhân có các yếu tố nguy cơ khác, chưa phân loại ở phần khác",
+                "TEN_EN": "Personal history of other specified risk-factors, not elsewhere classified"
+              }
+            ]
+          },
+          {
+            "MA": "Z92",
+            "TEN": "Bệnh sử cá nhân liên quan đến điều trị",
+            "TEN_EN": "Personal history of medical treatment",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z92.0",
+                "TEN": "Bệnh sử cá nhân về tránh thai",
+                "TEN_EN": "Personal history of contraception"
+              },
+              {
+                "MA": "Z92.1",
+                "TEN": "Bệnh sử cá nhân (hiệu đang) sử dụng dài ngày các chất chống đông",
+                "TEN_EN": "Personal history of long-term (current) use of anticoagulants"
+              },
+              {
+                "MA": "Z92.2",
+                "TEN": "Bệnh sử cá nhân (hiệu đang) sử dụng dài ngày các chất khác",
+                "TEN_EN": "Personal history of long-term (current) use of other medicaments"
+              },
+              {
+                "MA": "Z92.3",
+                "TEN": "Bệnh sử cá nhân có điều trị tia xạ",
+                "TEN_EN": "Personal history of irradiation"
+              },
+              {
+                "MA": "Z92.4",
+                "TEN": "Bệnh sử cá nhân có đại phẫu thuật, chưa phân loại ở phần khác",
+                "TEN_EN": "Personal history of major surgery, not elsewhere classified"
+              },
+              {
+                "MA": "Z92.5",
+                "TEN": "Bệnh sử cá nhân có điều trị bằng các phương pháp phục hồi chức năng",
+                "TEN_EN": "Personal history of rehabilitation measures"
+              },
+              {
+                "MA": "Z92.6",
+                "TEN": "Bệnh sử cá nhân về hóa trị liệu bệnh u bướu",
+                "TEN_EN": "Personal history of chemotherapy for neoplastic disease"
+              },
+              {
+                "MA": "Z92.8",
+                "TEN": "Bệnh sử cá nhân có các điều trị khác",
+                "TEN_EN": "Personal history of other medical treatment"
+              },
+              {
+                "MA": "Z92.9",
+                "TEN": "Bệnh sử cá nhân có các điều trị, không đặc hiệu",
+                "TEN_EN": "Personal history of medical treatment, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z93",
+            "TEN": "Tình trạng lỗ mở nhân tạo",
+            "TEN_EN": "Artificial opening status",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z93.0",
+                "TEN": "Tình trạng lỗ mở khí quản",
+                "TEN_EN": "Tracheostomy status"
+              },
+              {
+                "MA": "Z93.1",
+                "TEN": "Tình trạng lỗ mở dạ dày",
+                "TEN_EN": "Gastrostomy status"
+              },
+              {
+                "MA": "Z93.2",
+                "TEN": "Tình trạng lỗ mở hồi tràng",
+                "TEN_EN": "Ileostomy status"
+              },
+              {
+                "MA": "Z93.3",
+                "TEN": "Tình trạng lỗ mở đại tràng",
+                "TEN_EN": "Colostomy status"
+              },
+              {
+                "MA": "Z93.4",
+                "TEN": "Tình trạng lỗ mở nhân tạo khác của dạ dày - ruột",
+                "TEN_EN": "Other artificial openings of gastrointestinal tract status"
+              },
+              {
+                "MA": "Z93.5",
+                "TEN": "Tình trạng lỗ mở bàng quang",
+                "TEN_EN": "Cystostomy status"
+              },
+              {
+                "MA": "Z93.6",
+                "TEN": "Tình trạng lỗ mở khác của đường tiết niệu",
+                "TEN_EN": "Other artificial openings of urinary tract status"
+              },
+              {
+                "MA": "Z93.8",
+                "TEN": "Tình trạng lỗ mở nhân tạo khác",
+                "TEN_EN": "Other artificial opening status"
+              },
+              {
+                "MA": "Z93.9",
+                "TEN": "Tình trạng lỗ mở nhân tạo, không đặc hiệu",
+                "TEN_EN": "Artificial opening status, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z94",
+            "TEN": "Tình trạng của mảnh ghép cơ quan và tổ chức",
+            "TEN_EN": "Transplanted organ and tissue status",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z94.0",
+                "TEN": "Tình trạng ghép thận",
+                "TEN_EN": "Kidney transplant status"
+              },
+              {
+                "MA": "Z94.1",
+                "TEN": "Tình trạng ghép tim",
+                "TEN_EN": "Heart transplant status"
+              },
+              {
+                "MA": "Z94.2",
+                "TEN": "Tình trạng ghép phổi",
+                "TEN_EN": "Lung transplant status"
+              },
+              {
+                "MA": "Z94.3",
+                "TEN": "Tình trạng ghép tim và phổi",
+                "TEN_EN": "Heart and lungs transplant status"
+              },
+              {
+                "MA": "Z94.4",
+                "TEN": "Tình trạng ghép gan",
+                "TEN_EN": "Liver transplant status"
+              },
+              {
+                "MA": "Z94.5",
+                "TEN": "Tình trạng ghép da",
+                "TEN_EN": "Skin transplant status"
+              },
+              {
+                "MA": "Z94.6",
+                "TEN": "Tình trạng ghép xương",
+                "TEN_EN": "Bone transplant status"
+              },
+              {
+                "MA": "Z94.7",
+                "TEN": "Tình trạng ghép giác mạc",
+                "TEN_EN": "Corneal transplant status"
+              },
+              {
+                "MA": "Z94.8",
+                "TEN": "Tình trạng cơ quan và tổ chức khác được cấy ghép",
+                "TEN_EN": "Other transplanted organ and tissue status"
+              },
+              {
+                "MA": "Z94.9",
+                "TEN": "Tình trạng cơ quan và tổ chức được cấy ghép, không đặc hiệu",
+                "TEN_EN": "Transplanted organ and tissue status, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z95",
+            "TEN": "Sự có mặt của các thiết bị cấy ghép tim và mạch máu",
+            "TEN_EN": "Presence of cardiac and vascular implants and grafts",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z95.0",
+                "TEN": "Tồn tại của thiết bị điện tại tim",
+                "TEN_EN": "Presence of cardiac pacemaker"
+              },
+              {
+                "MA": "Z95.1",
+                "TEN": "Sự có mặt của mảnh ghép nối thông động mạch chủ - vành (bypass)",
+                "TEN_EN": "Presence of aortocoronary bypass graft"
+              },
+              {
+                "MA": "Z95.2",
+                "TEN": "Sự có mặt của van tim chỉnh hình",
+                "TEN_EN": "Presence of prosthetic heart valve"
+              },
+              {
+                "MA": "Z95.3",
+                "TEN": "Sự có mặt của van tim ngoại lai",
+                "TEN_EN": "Presence of xenogenic heart valve"
+              },
+              {
+                "MA": "Z95.4",
+                "TEN": "Sự có mặt của van tim thay thế khác",
+                "TEN_EN": "Presence of other heart-valve replacement"
+              },
+              {
+                "MA": "Z95.5",
+                "TEN": "Sự có mặt của dụng cụ cấy ghép tạo hình động mạch vành",
+                "TEN_EN": "Presence of coronary angioplasty implant and graft"
+              },
+              {
+                "MA": "Z95.8",
+                "TEN": "Sự có mặt của dụng cụ cấy và mảnh ghép tim và mạch máu khác",
+                "TEN_EN": "Presence of other cardiac and vascular implants and grafts"
+              },
+              {
+                "MA": "Z95.9",
+                "TEN": "Sự có mặt của dụng cụ cấy và mảnh ghép tim và mạch máu, không đặc hiệu",
+                "TEN_EN": "Presence of cardiac and vascular implant and graft, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z96",
+            "TEN": "Tồn tại của dụng cụ cấy ghép chức năng khác",
+            "TEN_EN": "Presence of other functional implants",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z96.0",
+                "TEN": "Sự có mặt các dụng cụ cấy ghép tiết niệu sinh dục",
+                "TEN_EN": "Presence of urogenital implants"
+              },
+              {
+                "MA": "Z96.1",
+                "TEN": "Sự có mặt của thấu kính nội nhãn",
+                "TEN_EN": "Presence of intraocular lens"
+              },
+              {
+                "MA": "Z96.2",
+                "TEN": "Sự có mặt của dụng cụ cấy ghép tai và thính giác",
+                "TEN_EN": "Presence of otological and audiological implants"
+              },
+              {
+                "MA": "Z96.3",
+                "TEN": "Sự có mặt của họng nhân tạo",
+                "TEN_EN": "Presence of artificial larynx"
+              },
+              {
+                "MA": "Z96.4",
+                "TEN": "Sự có mặt của dụng cụ cấy ghép nội tiết",
+                "TEN_EN": "Presence of endocrine implants"
+              },
+              {
+                "MA": "Z96.5",
+                "TEN": "Sự có mặt của dụng cụ cấy chân răng và hàm má",
+                "TEN_EN": "Presence of tooth-root and mandibular implants"
+              },
+              {
+                "MA": "Z96.6",
+                "TEN": "Sự có mặt của dụng cụ chỉnh hình khớp",
+                "TEN_EN": "Presence of orthopaedic joint implants"
+              },
+              {
+                "MA": "Z96.7",
+                "TEN": "Sự có mặt dụng cụ cấy ghép xương và gân",
+                "TEN_EN": "Presence of other bone and tendon implants"
+              },
+              {
+                "MA": "Z96.8",
+                "TEN": "Sự có mặt dụng cụ cấy ghép chức năng xác định khác",
+                "TEN_EN": "Presence of other specified functional implants"
+              },
+              {
+                "MA": "Z96.9",
+                "TEN": "Sự có mặt dụng cụ cấy ghép chức năng, không đặc hiệu",
+                "TEN_EN": "Presence of functional implant, unspecified"
+              }
+            ]
+          },
+          {
+            "MA": "Z97",
+            "TEN": "Sự có mặt của các dụng cụ cấy ghép khác",
+            "TEN_EN": "Presence of other devices",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z97.0",
+                "TEN": "Sự có mặt mắt giả",
+                "TEN_EN": "Presence of artificial eye"
+              },
+              {
+                "MA": "Z97.1",
+                "TEN": "Sự có mặt của chi giả (toàn bộ) (một phần)",
+                "TEN_EN": "Presence of artificial limb (complete)(partial)"
+              },
+              {
+                "MA": "Z97.2",
+                "TEN": "Sự có mặt của dụng cụ chỉnh hình răng (toàn bộ) (một phần)",
+                "TEN_EN": "Presence of dental prosthetic device (complete)(partial)"
+              },
+              {
+                "MA": "Z97.3",
+                "TEN": "Sự có mặt của mắt kính và thấu kính tiếp xúc",
+                "TEN_EN": "Presence of spectacles and contact lenses"
+              },
+              {
+                "MA": "Z97.4",
+                "TEN": "Sự có mặt của dụng cụ trợ thính bên ngoài",
+                "TEN_EN": "Presence of external hearing-aid"
+              },
+              {
+                "MA": "Z97.5",
+                "TEN": "Sự có mặt của dụng cụ tránh thai (trong tử cung)",
+                "TEN_EN": "Presence of (intrauterine) contraceptive device"
+              },
+              {
+                "MA": "Z97.8",
+                "TEN": "Sự có mặt của các dụng cụ xác định khác",
+                "TEN_EN": "Presence of other specified devices"
+              }
+            ]
+          },
+          {
+            "MA": "Z98",
+            "TEN": "Các tình trạng hậu phẫu thuật",
+            "TEN_EN": "Other postsurgical states",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z98.0",
+                "TEN": "Tình trạng nối tắt ruột và nối ruột",
+                "TEN_EN": "Intestinal bypass and anastomosis status"
+              },
+              {
+                "MA": "Z98.1",
+                "TEN": "Tình trạng đóng cứng khớp",
+                "TEN_EN": "Arthrodesis status"
+              },
+              {
+                "MA": "Z98.2",
+                "TEN": "Sự có mặt dụng cụ dẫn lưu dịch não tủy",
+                "TEN_EN": "Presence of cerebrospinal fluid drainage device"
+              },
+              {
+                "MA": "Z98.8",
+                "TEN": "Các tình trạng hậu phẫu xác định khác",
+                "TEN_EN": "Other specified postsurgical states"
+              }
+            ]
+          },
+          {
+            "MA": "Z99",
+            "TEN": "Tình trạng phụ thuộc vào các thiết bị và dụng cụ, chưa được phân loại ở phần khác",
+            "TEN_EN": "Dependence on enabling machines and devices, not elsewhere classified",
+            "DANH_SACH_BENH": [
+              {
+                "MA": "Z99.0",
+                "TEN": "Phụ thuộc máy hút",
+                "TEN_EN": "Dependence on aspirator"
+              },
+              {
+                "MA": "Z99.1",
+                "TEN": "Phụ thuộc máy thở",
+                "TEN_EN": "Dependence on respirator"
+              },
+              {
+                "MA": "Z99.2",
+                "TEN": "Phụ thuộc chạy thận nhân tạo",
+                "TEN_EN": "Dependence on renal dialysis"
+              },
+              {
+                "MA": "Z99.3",
+                "TEN": "Phụ thuộc vào xe lăn",
+                "TEN_EN": "Dependence on wheelchair"
+              },
+              {
+                "MA": "Z99.4",
+                "TEN": "Lệ thuộc vào tim nhân tạo",
+                "TEN_EN": "Phụ thuộc vào tim nhân tạo"
+              },
+              {
+                "MA": "Z99.8",
+                "TEN": "Phụ thuộc vào các thiết bị và dụng cụ khác",
+                "TEN_EN": "Dependence on other enabling machines and devices"
+              },
+              {
+                "MA": "Z99.9",
+                "TEN": "Phụ thuộc vào thiết bị và dụng cụ không xác định",
+                "TEN_EN": "Dependence on unspecified enabling machine and device"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

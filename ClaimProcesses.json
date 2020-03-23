@@ -1,0 +1,220 @@
+[
+  {
+    "name": "Đã tiếp nhận",
+    "id": 0,
+    "next": [
+      {
+        "name": "Đang thẩm định",
+        "id": 1
+      }
+    ]
+  },
+  {
+    "name": "Đang thẩm định",
+    "id": 1,
+    "next": [
+      {
+        "name": "Yêu cầu bổ sung",
+        "id": 2
+      },
+      {
+        "name": "Từ chối bồi thường",
+        "id": 3
+      },
+      {
+        "name": "Chờ xác minh hồ sơ",
+        "id": 5
+      },
+      {
+        "name": "Chấp nhận bồi thường một phần",
+        "id": 6
+      },
+      {
+        "name": "Chấp nhận bồi thường toàn phần",
+        "id": 7
+      }
+    ],
+    "previous": [
+      {
+        "name": "Đã tiếp nhận",
+        "id": 0
+      }
+    ]
+  },
+  {
+    "name": "Yêu cầu bổ sung",
+    "id": 2,
+    "next": [
+      {
+        "name": "Đã bổ sung hồ sơ",
+        "id": 4
+      }
+    ],
+    "previous": [
+      {
+        "name": "Đang thẩm định",
+        "id": 1
+      },
+      {
+        "name": "Đã bổ sung hồ sơ",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "name": "Từ chối bồi thường",
+    "id": 3,
+    "previous": [
+      {
+        "name": "Đang thẩm định",
+        "id": 1
+      },
+      {
+        "name": "Đã bổ sung hồ sơ",
+        "id": 4
+      },
+      {
+        "name": "Chờ xác minh hồ sơ",
+        "id": 5
+      }
+    ]
+  },
+  {
+    "name": "Đã bổ sung hồ sơ",
+    "id": 4,
+    "next": [
+      {
+        "name": "Yêu cầu bổ sung",
+        "id": 2
+      },
+      {
+        "name": "Từ chối bồi thường",
+        "id": 3
+      },
+      {
+        "name": "Chờ xác minh hồ sơ",
+        "id": 5
+      }
+    ],
+    "previous": [
+      {
+        "name": "Yêu cầu bổ sung",
+        "id": 2
+      }
+    ]
+  },
+  {
+    "name": "Chờ xác minh hồ sơ",
+    "id": 5,
+    "next": [
+      {
+        "name": "Từ chối bồi thường",
+        "id": 3
+      },
+      {
+        "name": "Chấp nhận bồi thường một phần",
+        "id": 6
+      },
+      {
+        "name": "Chấp nhận bồi thường toàn phần",
+        "id": 7
+      }
+    ],
+    "previous": [
+      {
+        "name": "Đang thẩm định",
+        "id": 1
+      },
+      {
+        "name": "Đã bổ sung hồ sơ",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "name": "Chấp nhận bồi thường một phần",
+    "id": 6,
+    "next": [
+      {
+        "name": "Đã xác nhận chi trả",
+        "id": 8
+      }
+    ],
+    "previous": [
+      {
+        "name": "Đang thẩm định",
+        "id": 1
+      },
+      {
+        "name": "Chờ xác minh hồ sơ",
+        "id": 5
+      }
+    ]
+  },
+  {
+    "name": "Chấp nhận bồi thường toàn phần",
+    "id": 7,
+    "next": [
+      {
+        "name": "Đã xác nhận chi trả",
+        "id": 8
+      }
+    ],
+    "previous": [
+      {
+        "name": "Đang thẩm định",
+        "id": 1
+      },
+      {
+        "name": "Chờ xác minh hồ sơ",
+        "id": 5
+      }
+    ]
+  },
+  {
+    "name": "Đã xác nhận chi trả",
+    "id": 8,
+    "next": [
+      {
+        "name": "Đã chi trả bồi thường",
+        "id": 9
+      }
+    ],
+    "previous": [
+      {
+        "name": "Chấp nhận bồi thường một phần",
+        "id": 6
+      },
+      {
+        "name": "Chấp nhận bồi thường toàn phần",
+        "id": 7
+      }
+    ]
+  },
+  {
+    "name": "Đã chi trả bồi thường",
+    "id": 9,
+    "next": [
+      {
+        "name": "Đã nhận bồi thường",
+        "id": 10
+      }
+    ],
+    "previous": [
+      {
+        "name": "Đã xác nhận chi trả",
+        "id": 8
+      }
+    ]
+  },
+  {
+    "name": "Đã nhận bồi thường",
+    "id": 10,
+    "previous": [
+      {
+        "name": "Đã chi trả bồi thường",
+        "id": 9
+      }
+    ]
+  }
+]

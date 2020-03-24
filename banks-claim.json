@@ -1,0 +1,200 @@
+{
+  "banks": [
+    {
+      "BankName": "Ngân hàng thương mại cổ phần An Bình (ABBANK)",
+      "BankCode": "ABBANK"
+    },
+    {
+      "BankName": "Ngân hàng ACB",
+      "BankCode": "ACB"
+    },
+    {
+      "BankName": "Ngân hàng Nông nghiệp và phát triển Nông thôn (Agribank)",
+      "BankCode": "AGRIBANK"
+    },
+    {
+      "BankName": "Ngân hàng ANZ Việt Nam",
+      "BankCode": "ANZ"
+    },
+    {
+      "BankName": "Ngân Hàng TMCP Bắc Á",
+      "BankCode": "BACABANK"
+    },
+    {
+      "BankName": "Ngân hàng Bảo Việt",
+      "BankCode": "BAOVIETBANK"
+    },
+    {
+      "BankName": "Ngân hàng Đầu tư và Phát triển Việt Nam (BIDV)",
+      "BankCode": "BIDV"
+    },
+    {
+      "BankName": "Ngân hàng Xây dựng",
+      "BankCode": "CB"
+    },
+    {
+      "BankName": "Ngân hàng CIMB Việt Nam",
+      "BankCode": "CIMB"
+    },
+    {
+      "BankName": "Ngân hàng Hợp tác xã Việt Nam",
+      "BankCode": "Co-opBank"
+    },
+    {
+      "BankName": "Ngân hàng Đông Á (DongABank)",
+      "BankCode": "DONGABANK"
+    },
+    {
+      "BankName": "Ngân hàng Xuất nhập khẩu EximBank",
+      "BankCode": "EXIMBANK"
+    },
+    {
+      "BankName": "Ngân hàng Dầu khí toàn cầu",
+      "BankCode": "GPBank"
+    },
+    {
+      "BankName": "Ngân hàng Phát triển Thành phố Hồ Chí Minh HDBank",
+      "BankCode": "HDBANK"
+    },
+    {
+      "BankName": "Ngân hàng Hong Leong Việt Nam",
+      "BankCode": "HLBVN"
+    },
+    {
+      "BankName": "Ngân hàng HSBC Việt Nam",
+      "BankCode": "HSBC"
+    },
+    {
+      "BankName": "Ngân hàng TNHH Indovina (IVB)",
+      "BankCode": "IVB"
+    },
+    {
+      "BankName": "Ngân hàng Kiên Long",
+      "BankCode": "KienlongBank"
+    },
+    {
+      "BankName": "Ngân hàng Bưu điện Liên Việt",
+      "BankCode": "LiênVietPostBank"
+    },
+    {
+      "BankName": "Ngân hàng thương mại cổ phần Quân đội",
+      "BankCode": "MBBANK"
+    },
+    {
+      "BankName": "Ngân hàng Hàng Hải (MSBANK)",
+      "BankCode": "MSBANK"
+    },
+    {
+      "BankName": "Ngân hàng Nam Á (NamABank)",
+      "BankCode": "NAMABANK"
+    },
+    {
+      "BankName": "Ngân hàng Quốc dân (NCB)",
+      "BankCode": "NCB"
+    },
+    {
+      "BankName": "Ngân hàng Phương Đông (OCB)",
+      "BankCode": "OCB"
+    },
+    {
+      "BankName": "Ngân hàng Đại Dương (OceanBank)",
+      "BankCode": "OJB"
+    },
+    {
+      "BankName": "Ngân hàng Public Bank Việt Nam",
+      "BankCode": "PBVN"
+    },
+    {
+      "BankName": "Ngân hàng Xăng dầu Petrolimex",
+      "BankCode": "PGBANK"
+    },
+    {
+      "BankName": "Ngân hàng TMCP Đại Chúng Việt Nam",
+      "BankCode": "PVCOMBANK"
+    },
+    {
+      "BankName": "Ngân hàng TMCP Sài Gòn Thương Tín (SacomBank)",
+      "BankCode": "SACOMBANK"
+    },
+    {
+      "BankName": "Ngân hàng thương mại cổ phần Sài Gòn Công Thương",
+      "BankCode": "SAIGONBANK"
+    },
+    {
+      "BankName": "Ngân hàng TMCP Sài Gòn (SCB)",
+      "BankCode": "SCB"
+    },
+    {
+      "BankName": "Ngân hàng Standard Chartered Việt Nam",
+      "BankCode": "SCBVL"
+    },
+    {
+      "BankName": "Ngân Hàng TMCP Đông Nam Á",
+      "BankCode": "SEABANK"
+    },
+    {
+      "BankName": "Ngân hàng Thương mại cổ phần Sài Gòn - Hà Nội(SHB)",
+      "BankCode": "SHB"
+    },
+    {
+      "BankName": "Ngân hàng Shinhan Việt Nam",
+      "BankCode": "SHBVN"
+    },
+    {
+      "BankName": "Ngân hàng Kỹ thương Việt Nam (TechcomBank)",
+      "BankCode": "TECHCOMBANK"
+    },
+    {
+      "BankName": "Ngân hàng Tiên Phong (TPBank)",
+      "BankCode": "TPBANK"
+    },
+    {
+      "BankName": "Ngân hàng UOB Việt Nam",
+      "BankCode": "UOB"
+    },
+    {
+      "BankName": "Ngân hàng Chính sách xã hội Việt Nam",
+      "BankCode": "VBSP"
+    },
+    {
+      "BankName": "Ngân hàng Phát triển Việt Nam",
+      "BankCode": "VDB"
+    },
+    {
+      "BankName": "Ngân hàng Thương mại cổ phần Quốc tế Việt Nam (VIB)",
+      "BankCode": "VIB"
+    },
+    {
+      "BankName": "Ngân Hàng Bản Việt",
+      "BankCode": "VIETCAPITALBANK"
+    },
+    {
+      "BankName": "Ngân hàng TMCP Việt Á",
+      "BankCode": "VIETABANK"
+    },
+    {
+      "BankName": "Ngân hàng thương mại cổ phần Việt Nam Thương Tín",
+      "BankCode": "VIETBANK"
+    },
+    {
+      "BankName": "Ngân hàng Ngoại thương (Vietcombank)",
+      "BankCode": "VIETCOMBANK"
+    },
+    {
+      "BankName": "Ngân hàng Công thương (Vietinbank)",
+      "BankCode": "VIETINBANK"
+    },
+    {
+      "BankName": "Ngân hàng Việt Nam Thịnh vượng (VPBank)",
+      "BankCode": "VPBANK"
+    },
+    {
+      "BankName": "Ngân hàng Việt – Nga",
+      "BankCode": "VRB"
+    },
+    {
+      "BankName": "Ngân hàng TNHH MTV Woori Việt Nam",
+      "BankCode": "WOORIBANK"
+    }
+  ]
+}

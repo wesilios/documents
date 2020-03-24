@@ -33,12 +33,6 @@
         "name": "Chấp nhận bồi thường toàn phần",
         "id": 7
       }
-    ],
-    "previous": [
-      {
-        "name": "Đã tiếp nhận",
-        "id": 0
-      }
     ]
   },
   {
@@ -49,35 +43,11 @@
         "name": "Đã bổ sung hồ sơ",
         "id": 4
       }
-    ],
-    "previous": [
-      {
-        "name": "Đang thẩm định",
-        "id": 1
-      },
-      {
-        "name": "Đã bổ sung hồ sơ",
-        "id": 4
-      }
     ]
   },
   {
     "name": "Từ chối bồi thường",
-    "id": 3,
-    "previous": [
-      {
-        "name": "Đang thẩm định",
-        "id": 1
-      },
-      {
-        "name": "Đã bổ sung hồ sơ",
-        "id": 4
-      },
-      {
-        "name": "Chờ xác minh hồ sơ",
-        "id": 5
-      }
-    ]
+    "id": 3
   },
   {
     "name": "Đã bổ sung hồ sơ",
@@ -94,12 +64,6 @@
       {
         "name": "Chờ xác minh hồ sơ",
         "id": 5
-      }
-    ],
-    "previous": [
-      {
-        "name": "Yêu cầu bổ sung",
-        "id": 2
       }
     ]
   },
@@ -119,16 +83,6 @@
         "name": "Chấp nhận bồi thường toàn phần",
         "id": 7
       }
-    ],
-    "previous": [
-      {
-        "name": "Đang thẩm định",
-        "id": 1
-      },
-      {
-        "name": "Đã bổ sung hồ sơ",
-        "id": 4
-      }
     ]
   },
   {
@@ -138,16 +92,6 @@
       {
         "name": "Đã xác nhận chi trả",
         "id": 8
-      }
-    ],
-    "previous": [
-      {
-        "name": "Đang thẩm định",
-        "id": 1
-      },
-      {
-        "name": "Chờ xác minh hồ sơ",
-        "id": 5
       }
     ]
   },
@@ -159,16 +103,6 @@
         "name": "Đã xác nhận chi trả",
         "id": 8
       }
-    ],
-    "previous": [
-      {
-        "name": "Đang thẩm định",
-        "id": 1
-      },
-      {
-        "name": "Chờ xác minh hồ sơ",
-        "id": 5
-      }
     ]
   },
   {
@@ -178,16 +112,6 @@
       {
         "name": "Đã chi trả bồi thường",
         "id": 9
-      }
-    ],
-    "previous": [
-      {
-        "name": "Chấp nhận bồi thường một phần",
-        "id": 6
-      },
-      {
-        "name": "Chấp nhận bồi thường toàn phần",
-        "id": 7
       }
     ]
   },
@@ -199,22 +123,10 @@
         "name": "Đã nhận bồi thường",
         "id": 10
       }
-    ],
-    "previous": [
-      {
-        "name": "Đã xác nhận chi trả",
-        "id": 8
-      }
     ]
   },
   {
     "name": "Đã nhận bồi thường",
-    "id": 10,
-    "previous": [
-      {
-        "name": "Đã chi trả bồi thường",
-        "id": 9
-      }
-    ]
+    "id": 10
   }
 ]

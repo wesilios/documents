@@ -239,20 +239,6 @@
       "localize": "en"
     },
     {
-      "title": "Ngân hàng TNHH Indovina (IVB)",
-      "value": "IVB",
-      "description": "",
-      "type": "bank_list",
-      "localize": "vi"
-    },
-    {
-      "title": "Indovina Bank Ltd. - IVB",
-      "value": "IVB",
-      "description": "",
-      "type": "bank_list",
-      "localize": "en"
-    },
-    {
       "title": "Ngân hàng Kiên Long",
       "value": "KienlongBank",
       "description": "",
@@ -275,7 +261,7 @@
     },
     {
       "title": "LienViet Post Joint Stock Commercial Bank",
-      "value": "LiênVietPostBank",
+      "value": "LienVietPostBank",
       "description": "",
       "type": "bank_list",
       "localize": "en"
@@ -388,20 +374,6 @@
     {
       "title": "Public Bank Vietnam Limited",
       "value": "PBVN",
-      "description": "",
-      "type": "bank_list",
-      "localize": "en"
-    },
-    {
-      "title": "Ngân hàng Xăng dầu Petrolimex",
-      "value": "PGBANK",
-      "description": "",
-      "type": "bank_list",
-      "localize": "vi"
-    },
-    {
-      "title": "Petrolimex Group Commercial Joint Stock Bank (PG Bank)",
-      "value": "PGBANK",
       "description": "",
       "type": "bank_list",
       "localize": "en"
